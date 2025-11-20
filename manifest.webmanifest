@@ -1,31 +1,23 @@
 {
   "name": "Lab-Ora – Work and Pray",
   "short_name": "Lab-Ora",
-  "start_url": ".",
+  "start_url": "/lab-ora/",
+  "scope": "/lab-ora/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#04203a",
   "icons": [
     {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-192.png",
+      "src": "/lab-ora/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable" 
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lab-ora/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
