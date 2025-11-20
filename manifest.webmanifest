@@ -20,7 +20,7 @@
       "src": "maskable_icon.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable" <---- ADD THIS LINE
+      "purpose": "maskable"
     }
   ]
 }
