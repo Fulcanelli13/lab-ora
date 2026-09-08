@@ -1,15 +1,16 @@
 :root {
-  --bg: #071726;
-  --panel: #0c2236;
-  --panel-raised: #102b43;
+  --bg: #061426;
+  --panel: #0a1d33;
+  --panel-raised: #102943;
   --ink: #f8f1df;
   --ink-dark: #172536;
   --muted: #b8c4ce;
-  --accent: #ddb85c;
-  --accent-soft: #f1d995;
-  --parchment: #f4eddd;
-  --parchment-deep: #e8dcc5;
-  --line: rgba(221, 184, 92, .24);
+  --accent: #aebdca;
+  --accent-soft: #d7e0e7;
+  --gold: #d5b96f;
+  --parchment: #edf0f1;
+  --parchment-deep: #dce3e7;
+  --line: rgba(174, 189, 202, .22);
   --shadow: 0 18px 45px rgba(0, 0, 0, .28), 0 2px 8px rgba(0, 0, 0, .18);
   --radius: 18px;
   --prayer-scale: 1;
@@ -111,7 +112,7 @@ main { margin-top: 0; }
   text-shadow: 0 4px 20px rgba(0, 0, 0, .42);
 }
 
-.app-title-cross { color: var(--accent); font-size: .58em; }
+.app-title-cross { color: var(--gold); font-size: .58em; }
 
 .app-subtitle {
   margin-top: 13px;
@@ -128,7 +129,7 @@ main { margin-top: 0; }
   font-style: italic;
 }
 
-.language-note span { color: var(--accent); padding: 0 .28rem; }
+.language-note span { color: var(--gold); padding: 0 .28rem; }
 
 .home-logo { margin: 12px 0 20px; }
 .home-logo svg { color: var(--accent); filter: drop-shadow(0 8px 16px rgba(0,0,0,.35)); }
@@ -144,9 +145,9 @@ main { margin-top: 0; }
 
 .btn-solid {
   min-height: 48px;
-  color: #142232;
-  background: linear-gradient(180deg, #f1d88f, #d9b356);
-  border: 1px solid #f5df9e;
+  color: #071727;
+  background: linear-gradient(180deg, #d7e0e7, #aebdca);
+  border: 1px solid #e4eaee;
   border-radius: 13px;
   box-shadow: 0 7px 17px rgba(0, 0, 0, .2), inset 0 1px rgba(255,255,255,.4);
   font-size: .83rem;
@@ -164,6 +165,21 @@ main { margin-top: 0; }
   box-shadow: var(--shadow);
 }
 
+.today-card {
+  margin: 0 0 24px;
+  padding: 17px 19px;
+  border: 1px solid var(--line);
+  border-radius: 15px;
+  background: rgba(10,29,51,.78);
+  box-shadow: 0 10px 26px rgba(0,0,0,.18);
+}
+.today-card h2 { margin: 3px 0 1px; color: #f1f4f6; font: 600 1.35rem "Cormorant Garamond",serif; }
+.today-date { color: var(--muted); font-size: .88rem; }
+.today-feast { color: #eef2f4; }
+.today-card .eyebrow { margin-bottom: 10px; color: #93a8b9; }
+.liturgical-colour { max-width: 120px; padding: 5px 9px; color: #dce5ea; border: 1px solid var(--line); border-radius: 99px; font-size: .78rem; text-align:center; }
+.settings-group-stacked { align-items: flex-start; flex-direction: column; }
+
 .daily-rhythm-heading {
   display: flex;
   align-items: center;
@@ -173,7 +189,7 @@ main { margin-top: 0; }
 }
 
 .eyebrow {
-  color: var(--accent);
+  color: var(--gold);
   font-family: "Cinzel", serif;
   font-size: .7rem;
   letter-spacing: .15em;
@@ -189,7 +205,7 @@ main { margin-top: 0; }
   line-height: 1.1;
 }
 
-.ornament { color: var(--accent); font-size: 1.2rem; }
+.ornament { color: var(--gold); font-size: 1.2rem; }
 
 .rhythm-grid { display: grid; gap: 10px; }
 
@@ -201,16 +217,16 @@ main { margin-top: 0; }
   justify-items: start;
   text-align: left;
   color: var(--ink-dark);
-  background: linear-gradient(145deg, #f8f2e4, var(--parchment-deep));
+  background: linear-gradient(145deg, #f4f6f7, var(--parchment-deep));
   border: 1px solid rgba(255,255,255,.42);
   border-radius: 14px;
   box-shadow: 0 8px 20px rgba(0,0,0,.16);
 }
 
-.rhythm-card-featured { border-color: var(--accent); box-shadow: 0 8px 24px rgba(0,0,0,.2), inset 0 0 0 1px rgba(221,184,92,.25); }
+.rhythm-card-featured { border-color: #92a6b7; box-shadow: 0 8px 24px rgba(0,0,0,.2), inset 0 0 0 1px rgba(174,189,202,.3); }
 .rhythm-card strong { font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.25rem; line-height: 1.15; }
 .rhythm-card > span:last-child { color: #53606a; font-size: .88rem; }
-.rhythm-time { color: #8a681c; font-family: "Cinzel", serif; font-size: .64rem; letter-spacing: .12em; text-transform: uppercase; }
+.rhythm-time { color: #526b7e; font-family: "Cinzel", serif; font-size: .64rem; letter-spacing: .12em; text-transform: uppercase; }
 
 .section-heading {
   margin: 28px 4px 10px;
@@ -249,7 +265,7 @@ main { margin-top: 0; }
   background:
     linear-gradient(rgba(255,255,255,.24), rgba(255,255,255,0)),
     var(--parchment);
-  border: 1px solid rgba(221, 184, 92, .45);
+  border: 1px solid rgba(174, 189, 202, .52);
   border-radius: 14px;
   box-shadow: inset 0 1px rgba(255,255,255,.7), 0 12px 28px rgba(0,0,0,.2);
   font-size: calc(1.24rem * var(--prayer-scale));
@@ -300,6 +316,16 @@ input[type="search"] {
   border: 1px solid var(--line);
   border-radius: 13px;
   background: rgba(255,255,255,.035);
+}
+
+.privacy-note {
+  margin: 12px 0 4px;
+  padding: 10px 12px;
+  color: #ced9e1;
+  background: rgba(174,189,202,.07);
+  border-left: 3px solid #8da4b5;
+  border-radius: 7px;
+  font-size: .9rem;
 }
 
 .settings-label { color: #f5eddc; font-size: 1rem; }
