@@ -1466,6 +1466,18 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
             </div>
           </section>
 
+          <section class="today-card" aria-labelledby="todayCalendarTitle">
+            <div class="eyebrow">Roman calendar · 1962</div>
+            <div class="today-row">
+              <div>
+                <div id="todayCalendarDate" class="today-date"></div>
+                <h2 id="todayCalendarTitle">Today</h2>
+                <div id="todayCalendarFeast" class="today-feast"></div>
+              </div>
+              <div id="todayCalendarColour" class="liturgical-colour"></div>
+            </div>
+          </section>
+
           <h2 class="section-heading mt-20 pl-5">Today's Objectives</h2>
 
           <div
@@ -1491,6 +1503,9 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
           </div>
 
           <div class="stack mt-12">
+            <button class="btn-solid" id="btnPersonalAdoration">
+              PERSONAL EUCHARISTIC ADORATION
+            </button>
             <button class="btn-solid" id="btnConfessionRite">
               Confession (Individual Rite)
             </button>
@@ -1515,6 +1530,8 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
           </div>
 
           <div id="confessionProgress" class="step-progress mt-10"></div>
+
+          <div class="privacy-note">Private by design: nothing is typed, recorded, or saved.</div>
 
           <div id="confessionStepTitle" class="big mt-12">Step title</div>
 
@@ -1734,6 +1751,7 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
             <div></div>
           </div>
 
+          <div id="rosaryLangSwitcher" class="chip-row" aria-label="Rosary language"></div>
           <div class="bead-visualizer" id="rosaryBeadVisualizer"></div>
 
           <div class="center center-block">
@@ -1879,6 +1897,13 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
                 <button type="button" data-prayer-scale="1.18" aria-label="Larger prayer text">A+</button>
               </div>
             </div>
+            <div class="settings-group settings-group-stacked">
+              <div>
+                <div class="settings-label">Angelus reminders</div>
+                <div class="small-muted">Adds recurring 6 a.m., noon and 6 p.m. reminders to your phone calendar.</div>
+              </div>
+              <button type="button" class="small-nav-btn" id="downloadAngelusCalendar">Add to calendar</button>
+            </div>
             <div class="muted">
               Choose which prayers appear under “Today's Objectives” on
               the home screen.
@@ -1896,6 +1921,8 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
 
 
 <script src="traditional-prayers.js"></script>
+<script src="rosary-translations.js"></script>
+<script src="calendar.js"></script>
 <script>
   /****************************************************************
    * LAB-ORA Single-File App
@@ -3379,7 +3406,15 @@ Ave Maria, gratia plena, Dominus tecum; benedicta tu in mulieribus, et benedictu
 V. Ora pro nobis, sancta Dei Genetrix.
 R. Ut digni efficiamur promissionibus Christi.
 
-Oremus. Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.`
+Oremus. Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.
+
+Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in sæcula sæculorum. Amen. (ter)
+
+V. Fidelium animæ per misericordiam Dei requiescant in pace.
+R. Amen.
+
+V. Divinum auxilium maneat semper nobiscum.
+R. Amen.`
     },
     fr: {
       title: "Angélus",
@@ -3402,7 +3437,15 @@ Je vous salue, Marie, pleine de grâce; le Seigneur est avec vous; vous êtes b�
 V. Priez pour nous, sainte Mère de Dieu.
 R. Afin que nous soyons rendus dignes des promesses du Christ.
 
-Prions. Que ta grâce, Seigneur, se répande en nos cœurs; par le message de l’ange, tu nous as fait connaître l’Incarnation de ton Fils bien-aimé; conduis-nous, par sa Passion et par sa Croix, jusqu’à la gloire de la Résurrection. Par le Christ, notre Seigneur. Amen.`
+Prions. Que ta grâce, Seigneur, se répande en nos cœurs; par le message de l’ange, tu nous as fait connaître l’Incarnation de ton Fils bien-aimé; conduis-nous, par sa Passion et par sa Croix, jusqu’à la gloire de la Résurrection. Par le Christ, notre Seigneur. Amen.
+
+Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Ainsi soit-il. (trois fois)
+
+V. Que les âmes des fidèles défunts reposent en paix par la miséricorde de Dieu.
+R. Ainsi soit-il.
+
+V. Que le secours divin demeure toujours avec nous.
+R. Ainsi soit-il.`
     },
     ga: {
       title: "An tAingeal Dé (Angelus)",
@@ -4398,7 +4441,8 @@ Object.assign(PRAYER_TRANSLATIONS, TRADITIONAL_PRAYER_TRANSLATIONS);
       isDevotional:false,
       sequence:[],
       currentIndex:0,
-      currentMystery:null
+      currentMystery:null,
+      lang:localStorage.getItem('labora_rosary_lang') || 'en'
     }
   };
 
@@ -4725,6 +4769,24 @@ function localizeStepField(map){
   document.getElementById('quickAngelus').onclick = ()=>openQuickPrayer('marian_angelus');
   document.getElementById('quickRosary').onclick = ()=>document.getElementById('goRosary').click();
 
+  const todayRoman = romanCalendarToday();
+  document.getElementById('todayCalendarDate').textContent = todayRoman.date;
+  document.getElementById('todayCalendarFeast').textContent = todayRoman.title;
+  document.getElementById('todayCalendarColour').textContent = todayRoman.colour;
+
+  document.getElementById('downloadAngelusCalendar').onclick = ()=>{
+    const stamp = new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'');
+    const now = new Date();
+    const datePart = `${now.getFullYear()}${String(now.getMonth()+1).padStart(2,'0')}${String(now.getDate()).padStart(2,'0')}`;
+    const events = [[6,'Morning'],[12,'Noon'],[18,'Evening']].map(([hour,label])=>`BEGIN:VEVENT\r\nUID:angelus-${hour}@lab-ora\r\nDTSTAMP:${stamp}\r\nDTSTART:${datePart}T${String(hour).padStart(2,'0')}0000\r\nRRULE:FREQ=DAILY\r\nSUMMARY:Angelus — ${label}\r\nDESCRIPTION:Pause and pray the Angelus with Lab-ora.\r\nEND:VEVENT`).join('\r\n');
+    const calendar = `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Lab-ora//Angelus Reminders//EN\r\nCALSCALE:GREGORIAN\r\n${events}\r\nEND:VCALENDAR\r\n`;
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(new Blob([calendar], {type:'text/calendar'}));
+    link.download = 'lab-ora-angelus-reminders.ics';
+    link.click();
+    setTimeout(()=>URL.revokeObjectURL(link.href), 1000);
+  };
+
 /************************************************************
  * Global Search
  ************************************************************/
@@ -5002,6 +5064,44 @@ renderPrayerSection();
  ************************************************************/
 
 const confessionSteps = [
+  {
+    id: 'step0_prepare',
+    titles: { en: 'Prepare in God’s Presence' },
+    rubrics: { en: 'Take a quiet moment before examining your conscience. Ask for honesty, sorrow, and confidence in God’s mercy.' },
+    staticText: { en: `Come, Holy Spirit, enlighten my mind that I may know my sins clearly. Move my heart that I may be sincerely sorry for them, confess them well, and amend my life. Mary, Mother of mercy, pray for me. My holy Guardian Angel, help me. Amen.
+
+Do not prepare a speech. Place yourself truthfully before God, who already knows you and desires to forgive you.` }
+  },
+  {
+    id: 'step0_examination',
+    titles: { en: 'Examination of Conscience' },
+    rubrics: { en: 'For grave sins, recall the kind and approximate number. Avoid anxiety or needless detail; ask the priest when unsure.' },
+    staticText: { en: `I. THOU SHALT HAVE NO STRANGE GODS BEFORE ME
+Have I neglected prayer, Sunday Mass, duties of my state in life, or knowingly rejected the faith? Have I received Holy Communion unworthily, practised superstition, despaired of God’s mercy, or presumed upon it?
+
+II. THOU SHALT NOT TAKE THE NAME OF THE LORD THY GOD IN VAIN
+Have I blasphemed, used God’s name carelessly, sworn falsely, or failed to keep a serious promise made to God?
+
+III. REMEMBER TO KEEP HOLY THE LORD’S DAY
+Have I deliberately missed Mass on Sundays or holy days of obligation without a serious reason? Have I unnecessarily prevented others from worship or due rest?
+
+IV. HONOUR THY FATHER AND THY MOTHER
+Have I failed in respect, obedience, gratitude, care, or the responsibilities of family and authority?
+
+V. THOU SHALT NOT KILL
+Have I harboured hatred, refused forgiveness, injured another, encouraged grave harm, abused alcohol or drugs, or neglected reasonable care of life and health?
+
+VI & IX. THOU SHALT NOT COMMIT ADULTERY; THOU SHALT NOT COVET THY NEIGHBOUR’S WIFE
+Have I entertained impure thoughts willingly, sought pornography, committed impure acts, been unfaithful, or placed another in temptation?
+
+VII & X. THOU SHALT NOT STEAL; THOU SHALT NOT COVET THY NEIGHBOUR’S GOODS
+Have I stolen, cheated, damaged property, withheld wages or debts, wasted what was entrusted to me, or refused restitution?
+
+VIII. THOU SHALT NOT BEAR FALSE WITNESS
+Have I lied, calumniated, revealed another’s faults without need, judged rashly, broken confidence, or failed to repair damage to another’s reputation?
+
+Finally consider pride, anger, envy, avarice, gluttony, lust and sloth—and the good you knowingly failed to do.` }
+  },
   // 1) Sign of the Cross + greeting
   {
     id: 'step1_greeting_sign_of_cross',
@@ -5102,7 +5202,11 @@ With His grace you begin to repair the harm caused by sin.`
       en: 'The priest now invites you to express sorrow for your sins. This is called the Act of Contrition.'
     },
     staticText: {
-      en: `You can pray in your own words, or use a traditional Act of Contrition such as:
+      en: `You can pray in your own words, or use this traditional Act of Contrition:
+
+"O my God, I am heartily sorry for having offended thee, and I detest all my sins because I dread the loss of heaven and the pains of hell, but most of all because they offend thee, my God, who art all-good and deserving of all my love. I firmly resolve, with the help of thy grace, to confess my sins, to do penance, and to amend my life. Amen."
+
+The following formula from the current Rite of Penance may also be used:
 
 "My God, I am sorry for my sins with all my heart.
 In choosing to do wrong and failing to do good,
@@ -5355,7 +5459,7 @@ const benedictionSteps = [
       en: 'Tantum Ergo'
     },
     rubrics: {
-      en: 'Before the blessing with the monstrance, the hymn “Tantum ergo” is sung.'
+      en: 'All kneel. During the second stanza, the celebrant incenses the Blessed Sacrament. The hymn forms part of the rite; it is not a separate songbook item.'
     },
     prayers: [
       { type: 'prayer', id: 'benediction_tantum_ergo', mode: 'latinWithTranslation', showTitle: true }
@@ -5372,6 +5476,13 @@ const benedictionSteps = [
     prayers: [
       { type: 'prayer', id: 'benediction_versicles', mode: 'latinWithTranslation', showTitle: true }
     ]
+  },
+  {
+    id: 'benediction_blessing',
+    titles: { en: 'Benediction' },
+    rubrics: { en: 'The priest or deacon puts on the humeral veil, takes the monstrance, and makes the sign of the cross over the people in silence. All remain kneeling and adore Our Lord.' },
+    intro: { en: 'Remain in silent adoration as the blessing is given with the Most Blessed Sacrament.' },
+    prayers: []
   },
   {
     id: 'divine_praises',
@@ -5555,11 +5666,48 @@ function startBenedictionGuide(){
   show('benedictionGuide');
 }
 
+document.getElementById('btnPersonalAdoration').onclick = ()=>{
+  renderPrayerList('cat_adoration', 'Eucharistic Adoration');
+  show('prayerList');
+};
+
 
   /************************************************************
    * Rosary Logic
    ************************************************************/
   const rosaryContent = getContent().rosary;
+
+  function getRosaryLanguageData(){
+    return (typeof ROSARY_TRANSLATIONS !== 'undefined' && ROSARY_TRANSLATIONS[state.rosary.lang]) || null;
+  }
+
+  function getRosaryPrayer(id){
+    const base = rosaryContent.prayers[id] || {title:'Prayer', text:''};
+    const translated = getRosaryLanguageData()?.prayers?.[id];
+    return translated ? Object.assign({}, base, translated) : base;
+  }
+
+  function setRosaryLanguage(lang){
+    state.rosary.lang = ['en','la','fr'].includes(lang) ? lang : 'en';
+    localStorage.setItem('labora_rosary_lang', state.rosary.lang);
+    renderRosaryLanguageSwitcher();
+    if(state.rosary.sequence.length) renderRosaryStep();
+  }
+
+  function renderRosaryLanguageSwitcher(){
+    const switcher = document.getElementById('rosaryLangSwitcher');
+    if(!switcher) return;
+    switcher.innerHTML = '';
+    [['en','EN'],['la','LA'],['fr','FR']].forEach(([lang,label])=>{
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'lang-chip' + (state.rosary.lang === lang ? ' lang-chip-active' : '');
+      button.textContent = label;
+      button.setAttribute('aria-pressed', state.rosary.lang === lang ? 'true' : 'false');
+      button.onclick = ()=>setRosaryLanguage(lang);
+      switcher.appendChild(button);
+    });
+  }
 
   const rosaryBeads = {
     intro:[
@@ -6109,6 +6257,8 @@ function getLoretoInfo(invocation){
     seq.push({
       section:'decade',
       mystery: `${mTitle}: ${mystery.title}`,
+      mysteryId:mystery.id,
+      mysteryNumber:i + 1,
       prayer:'our_father',
       beads:rosaryBeads.decade,
       beadIndex:0
@@ -6367,11 +6517,14 @@ function normalizeVersicles(str){
     const verseEl = document.getElementById('rosaryPrayerVerse');
     const titleEl = document.getElementById('rosaryMysteryTitle');
 
+   const rosaryLangData = getRosaryLanguageData();
+   const rosaryLabels = rosaryLangData?.labels || {};
+   renderRosaryLanguageSwitcher();
    if(step && step.isEnd){
-  titleEl.textContent = "Rosary Complete";
+  titleEl.textContent = rosaryLabels.complete || "Rosary Complete";
   document.getElementById('rosaryBeadVisualizer').innerHTML = '';
 
-  document.getElementById('rosaryPrayerTitle').textContent = "Rosary Complete";
+  document.getElementById('rosaryPrayerTitle').textContent = rosaryLabels.complete || "Rosary Complete";
   document.getElementById('rosaryCurrentBead').textContent = "";
   document.getElementById('rosaryPrayerText').textContent =
     "You have completed the Rosary.\n\nYou may now take a moment of silent thanksgiving.";
@@ -6396,7 +6549,9 @@ function normalizeVersicles(str){
     }
 
     if(step.mystery){
-      state.rosary.currentMystery = step.mystery;
+      const translatedMystery = rosaryLangData?.mysteries?.[step.mysteryId];
+      const ordinal = state.rosary.lang === 'fr' ? `${step.mysteryNumber}e mystère` : state.rosary.lang === 'la' ? `Mysterium ${step.mysteryNumber}` : '';
+      state.rosary.currentMystery = translatedMystery ? `${ordinal}: ${translatedMystery}` : step.mystery;
       titleEl.textContent = state.rosary.currentMystery;
     }else if(step.prayer_title){
       titleEl.textContent = step.prayer_title;
@@ -6404,10 +6559,10 @@ function normalizeVersicles(str){
       titleEl.textContent = state.rosary.currentMystery;
     }else{
       switch(step.section){
-        case 'intro':       titleEl.textContent="Introductory Prayers"; break;
-        case 'conclusion':  titleEl.textContent="Concluding Prayers"; break;
-        case 'litany':      titleEl.textContent="Litany of Loreto"; break;
-        case 'devotions':   titleEl.textContent="Additional Intentions"; break;
+        case 'intro':       titleEl.textContent=rosaryLabels.intro || "Introductory Prayers"; break;
+        case 'conclusion':  titleEl.textContent=rosaryLabels.conclusion || "Concluding Prayers"; break;
+        case 'litany':      titleEl.textContent=rosaryLabels.litany || "Litany of Loreto"; break;
+        case 'devotions':   titleEl.textContent=rosaryLabels.devotions || "Additional Intentions"; break;
         case 'end':         titleEl.textContent="Final Blessing"; break;
         default:            titleEl.textContent = state.rosary.currentMystery || "Rosary";
       }
@@ -6444,10 +6599,10 @@ function normalizeVersicles(str){
       title = step.prayer_title;
       text = step.prayer_text;
     }else if(Array.isArray(step.prayer)){
-      title = step.prayer.map(id=>rosaryContent.prayers[id].title).join(' & ');
-      text = step.prayer.map(id=>rosaryContent.prayers[id].text).join('\n\n---\n\n');
+      title = step.prayer.map(id=>getRosaryPrayer(id).title).join(' & ');
+      text = step.prayer.map(id=>getRosaryPrayer(id).text).join('\n\n---\n\n');
     }else{
-      const pr = rosaryContent.prayers[step.prayer];
+      const pr = getRosaryPrayer(step.prayer);
       title = pr ? pr.title : 'Prayer';
       text = pr ? pr.text : '';
     }
@@ -6459,7 +6614,7 @@ textBox.textContent = normalizeVersicles(text);
 textBox.scrollTop = 0;
 
     document.getElementById('rosaryCurrentBead').textContent = step.beadCount || step.prayer_count || '';
-    document.getElementById('rosaryNextBtn').textContent = "NEXT PRAYER";
+    document.getElementById('rosaryNextBtn').textContent = rosaryLabels.next || "NEXT PRAYER";
 
     if(step.verse){
       verseEl.textContent = step.verse;
