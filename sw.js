@@ -1,8 +1,10 @@
-const CACHE_NAME = 'lab-ora-v3';
+const CACHE_NAME = 'lab-ora-v4';
 const APP_SHELL = [
   './',
   './index.html',
   './traditional-prayers.js',
+  './rosary-translations.js',
+  './calendar.js',
   './revamp.css',
   './manifest.json',
   './icon-192.png',
