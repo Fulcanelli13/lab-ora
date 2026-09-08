@@ -124,7 +124,7 @@
   <!-- iOS home-screen icon -->
   <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
   <!-- Android address-bar color -->
-  <meta name="theme-color" content="#04203a" />
+  <meta name="theme-color" content="#071726" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -821,6 +821,7 @@
 
 
     </style>
+    <link rel="stylesheet" href="revamp.css" />
   </head>
 
   <body>
@@ -1416,8 +1417,9 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
                 <span class="app-title-part">ora</span>
               </h1>
               <div class="app-subtitle">
-                Sanctify your day. Pray and Work.
+                A Catholic companion for the rhythm of prayer
               </div>
+              <div class="language-note">English first <span aria-hidden="true">·</span> Latin <span aria-hidden="true">·</span> Français</div>
             </div>
 
             <div class="home-logo">
@@ -1436,6 +1438,33 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
               </button>
             </div>
           </div>
+
+          <section class="daily-rhythm" aria-labelledby="dailyRhythmTitle">
+            <div class="daily-rhythm-heading">
+              <div>
+                <div class="eyebrow">Begin here</div>
+                <h2 id="dailyRhythmTitle">The rhythm of the day</h2>
+              </div>
+              <span class="ornament" aria-hidden="true">✦</span>
+            </div>
+            <div class="rhythm-grid">
+              <button class="rhythm-card" id="quickMorning" type="button">
+                <span class="rhythm-time">Morning</span>
+                <strong>Morning Offering</strong>
+                <span>Offer the day to God</span>
+              </button>
+              <button class="rhythm-card rhythm-card-featured" id="quickAngelus" type="button">
+                <span class="rhythm-time">6 · 12 · 6</span>
+                <strong>Angelus</strong>
+                <span>English, Latin or French</span>
+              </button>
+              <button class="rhythm-card" id="quickRosary" type="button">
+                <span class="rhythm-time">Meditation</span>
+                <strong>Holy Rosary</strong>
+                <span>Guided prayer, bead by bead</span>
+              </button>
+            </div>
+          </section>
 
           <h2 class="section-heading mt-20 pl-5">Today's Objectives</h2>
 
@@ -1842,6 +1871,14 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
           </div>
 
           <div style="margin-top: 10px">
+            <div class="settings-group">
+              <div class="settings-label">Prayer text size</div>
+              <div class="text-size-controls" role="group" aria-label="Prayer text size">
+                <button type="button" data-prayer-scale="0.9" aria-label="Smaller prayer text">A−</button>
+                <button type="button" data-prayer-scale="1" aria-label="Default prayer text">A</button>
+                <button type="button" data-prayer-scale="1.18" aria-label="Larger prayer text">A+</button>
+              </div>
+            </div>
             <div class="muted">
               Choose which prayers appear under “Today's Objectives” on
               the home screen.
@@ -1858,6 +1895,7 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
 </html>
 
 
+<script src="traditional-prayers.js"></script>
 <script>
   /****************************************************************
    * LAB-ORA Single-File App
@@ -1870,11 +1908,14 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
         categories: [
           { id: "cat_foundations",   title: "Common Prayers" },
           { id: "cat_mass",          title: "Order of Mass" },
+          { id: "cat_mass_devotions",title: "Before & After Mass" },
           { id: "cat_adoration",     title: "Eucharistic Adoration" },
           { id: "cat_benediction",   title: "Rite of Benediction" },
           { id: "cat_marian",        title: "Marian Devotions" },
           { id: "cat_sacred_heart",  title: "Sacred Heart of Jesus" },
           { id: "cat_devotions",     title: "Other Popular Devotions" },
+          { id: "cat_litanies",      title: "Litanies" },
+          { id: "cat_dead",          title: "Prayers for the Dead" },
           { id: "cat_sacraments",    title: "Other Prayers" },
           { id: "thematic_Prayers",  title: "Thematic Prayers" }
         ],
@@ -2187,7 +2228,7 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
             categoryId: "cat_marian",
             title: "Angelus",
             isDaily: true,
-            text: "℣ The Angel of the Lord declared unto Mary.\n℟ And she conceived of the Holy Spirit.\nHail Mary…\n\n℣ Behold the handmaid of the Lord.\n℟ Be it done unto me according to thy word.\nHail Mary…\n\n℣ And the Word was made flesh.\n℟ And dwelt among us.\nHail Mary…\n\n℣ Pray for us, O holy Mother of God.\n℟ That we may be made worthy of the promises of Christ.\n\nLet us pray: Pour forth, we beseech thee, O Lord, thy grace into our hearts; that we, to whom the Incarnation of Christ, thy Son, was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen."
+            text: "℣ The Angel of the Lord declared unto Mary.\n℟ And she conceived of the Holy Spirit.\nHail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\n℣ Behold the handmaid of the Lord.\n℟ Be it done unto me according to thy word.\nHail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\n℣ And the Word was made flesh.\n℟ And dwelt among us.\nHail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\n\n℣ Pray for us, O holy Mother of God.\n℟ That we may be made worthy of the promises of Christ.\n\nLet us pray: Pour forth, we beseech thee, O Lord, thy grace into our hearts; that we, to whom the Incarnation of Christ, thy Son, was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen."
           },
           {
             id: "marian_memorare",
@@ -2439,6 +2480,69 @@ Grant us the peace that the world cannot give. Amen.`
             context:
               "For students discerning relationships and marriage. Can be prayed by anyone asking God to guide their heart, and the heart of the person they may one day marry.",
             text: "Lord God, you created me out of love and for love. You know the plans you have for my life. If you are calling me to marriage, prepare my heart and the heart of the person who will one day be my spouse.\n\nGuard us both from harm and from using one another. Teach us to seek you first, to be pure in mind and body, and to grow in patience, generosity, and faithfulness. When the time is right, help us to recognise your will and to build a relationship that leads us closer to you and to heaven.\n\nIf you are calling me to another path, give me freedom and peace to follow it with all my heart. Mary and Joseph, watch over me. St Raphael, guide me. Amen."
+          },
+          {
+            id: "marian_angelus_traditional_appendix",
+            categoryId: "cat_marian",
+            title: "Traditional Conclusion to the Angelus",
+            context: "A customary extension used in some traditional communities after the standard Angelus. It is not part of the universal core text.",
+            text: "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen. (three times)\n\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen.\n\n℣. May the divine assistance remain always with us.\n℟. Amen."
+          },
+          {
+            id: "mass_devotion_aquinas_before",
+            categoryId: "cat_mass_devotions",
+            title: "Prayer of St Thomas Aquinas Before Mass",
+            context: "Traditional preparation for Holy Mass attributed to St Thomas Aquinas and printed among the prayers before Mass in the Roman Missal.",
+            text: "Almighty and everlasting God, behold, I approach the sacrament of your only-begotten Son, our Lord Jesus Christ. I come as one sick to the physician of life, as one unclean to the fountain of mercy, as one blind to the light of eternal brightness, as one poor and needy to the Lord of heaven and earth. Therefore I implore the abundance of your boundless generosity, that you may deign to cure my sickness, wash away my defilement, give light to my blindness, enrich my poverty, and clothe my nakedness, so that I may receive the Bread of Angels, the King of kings and Lord of lords, with such reverence and humility, such sorrow and devotion, such purity and faith, and such purpose and intention as shall promote the salvation of my soul. Grant me, I beseech you, to receive not only the sacrament of the Lord’s Body and Blood, but also its reality and power. O most gentle God, grant that I may so receive the Body of your only-begotten Son, our Lord Jesus Christ, which he took from the Virgin Mary, that I may be found worthy to be incorporated into his mystical Body and numbered among his members. O most loving Father, grant me at last to behold forever, face to face, your beloved Son, whom I now intend to receive beneath the sacramental veils. Who lives and reigns forever and ever. Amen."
+          },
+          {
+            id: "mass_devotion_aquinas_after",
+            categoryId: "cat_mass_devotions",
+            title: "Prayer of St Thomas Aquinas After Communion",
+            context: "Traditional thanksgiving after Holy Communion attributed to St Thomas Aquinas.",
+            text: "I give you thanks, O Lord, holy Father, almighty and everlasting God, who have deigned, not through any merits of mine, but solely by the condescension of your mercy, to feed me, a sinner and your unworthy servant, with the precious Body and Blood of your Son, our Lord Jesus Christ. I pray that this Holy Communion may not bring me condemnation and punishment, but forgiveness and salvation. May it be for me the armour of faith and the shield of good will; may it cleanse me from my faults; may it destroy in me evil desire and wantonness; may it increase charity and patience, humility and obedience, and every virtue; may it be a firm defence against the snares of all my enemies, visible and invisible; may it perfectly calm all the disorderly impulses of soul and body; may it unite me more closely to you, the one true God, and bring me safely to my final end. And I pray that you will deign to bring me, a sinner, to that ineffable banquet where you, with your Son and the Holy Spirit, are for your saints true light, full contentment, everlasting joy, delight unfailing and perfect happiness. Through the same Christ our Lord. Amen."
+          },
+          {
+            id: "mass_devotion_en_ego",
+            categoryId: "cat_mass_devotions",
+            title: "Prayer Before a Crucifix",
+            context: "The traditional En ego prayer, especially suitable after Holy Communion.",
+            text: "Behold, O good and most sweet Jesus, I cast myself upon my knees in your sight, and with the most fervent desire of my soul I pray and beseech you to impress upon my heart lively sentiments of faith, hope and charity, true repentance for my sins and a firm purpose of amendment. With deep affection and grief of soul I consider within myself and mentally contemplate your five most precious wounds, having before my eyes the words which David the prophet spoke concerning you: They have pierced my hands and my feet; they have numbered all my bones."
+          },
+          {
+            id: "mass_devotion_leonine",
+            categoryId: "cat_mass_devotions",
+            title: "Leonine Prayers After Low Mass",
+            context: "Traditional prayers formerly prescribed after Low Mass. They are a devotion after Mass and are not part of the Ordinary of the Mass.",
+            text: "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen. (three times)\n----\nHail, holy Queen, Mother of mercy, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve; to thee do we send up our sighs, mourning and weeping in this vale of tears. Turn then, most gracious advocate, thine eyes of mercy toward us; and after this our exile show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.\n\n℣. Pray for us, O holy Mother of God.\n℟. That we may be made worthy of the promises of Christ.\n----\nLet us pray. O God, our refuge and our strength, look down in mercy on your people who cry to you; and by the intercession of the glorious and immaculate Virgin Mary, Mother of God, of Saint Joseph her spouse, of your blessed Apostles Peter and Paul, and of all the Saints, mercifully and graciously hear the prayers which we pour forth for the conversion of sinners and for the freedom and exaltation of Holy Mother Church. Through the same Christ our Lord. Amen.\n----\nSaint Michael the Archangel, defend us in battle; be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, cast into hell Satan and all the evil spirits who prowl throughout the world seeking the ruin of souls. Amen.\n----\nMost Sacred Heart of Jesus, have mercy on us. (three times)"
+          },
+          {
+            id: "adoration_litany_blessed_sacrament",
+            categoryId: "cat_litanies",
+            title: "Litany of the Most Blessed Sacrament",
+            context: "Traditional Eucharistic litany. The French form appears in the 2025 Pilgrim’s Booklet.",
+            text: "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nChrist, hear us. Christ, graciously hear us.\nGod the Father of heaven, have mercy on us.\nGod the Son, Redeemer of the world, have mercy on us.\nGod the Holy Spirit, have mercy on us.\nHoly Trinity, one God, have mercy on us.\n\nLiving Bread which came down from heaven, have mercy on us.\nHidden God and Saviour, have mercy on us.\nWheat of the elect, have mercy on us.\nWine springing forth virgins, have mercy on us.\nBread of delight for kings, have mercy on us.\nPerpetual sacrifice, have mercy on us.\nPure oblation, have mercy on us.\nLamb without spot, have mercy on us.\nTable of holiness, have mercy on us.\nFood of Angels, have mercy on us.\nManna of inward strength, have mercy on us.\nMemorial of the wonders of God, have mercy on us.\nWord made flesh, dwelling among us, have mercy on us.\nSacred and adorable Host, have mercy on us.\nChalice of blessing, have mercy on us.\nMystery of faith, have mercy on us.\nMost high and venerable Sacrament, have mercy on us.\nMost holy sacrifice, have mercy on us.\nSacrifice of propitiation for the living and the dead, have mercy on us.\nHeavenly remedy against sin, have mercy on us.\nMemorial of the Passion of the Lord, have mercy on us.\nMost precious gift, have mercy on us.\nTenderest pledge of divine love, have mercy on us.\nPledge of our future glory, have mercy on us.\nSacrament of love, have mercy on us.\nBond of charity, have mercy on us.\nRefreshment of holy souls, have mercy on us.\nViaticum of those who die in the Lord, have mercy on us.\n\nFrom receiving your adorable Body and Blood unworthily, deliver us, O Lord.\nFrom the concupiscence of the flesh, deliver us, O Lord.\nFrom the concupiscence of the eyes, deliver us, O Lord.\nFrom the pride of life, deliver us, O Lord.\nFrom every occasion of sin, deliver us, O Lord.\n\nWe sinners, beseech you, hear us.\nThat you would increase and preserve in us faith, reverence and devotion toward this admirable Sacrament, we beseech you, hear us.\nThat through humble and sincere confession you would lead us to frequent reception of the Holy Eucharist, we beseech you, hear us.\nThat you would preserve us from heresy, unbelief and blindness of heart, we beseech you, hear us.\nThat you would grant us the heavenly fruits of this most holy Sacrament, we beseech you, hear us.\nThat at the hour of death you would strengthen us with this heavenly Viaticum, we beseech you, hear us.\n\nLamb of God, who takes away the sins of the world, spare us, O Lord.\nLamb of God, who takes away the sins of the world, graciously hear us, O Lord.\nLamb of God, who takes away the sins of the world, have mercy on us.\n\n℣. You gave them Bread from heaven.\n℟. Containing in itself all delight.\n\nLet us pray. O God, who in this wonderful Sacrament have left us a memorial of your Passion, grant us, we beseech you, so to venerate the sacred mysteries of your Body and Blood that we may ever experience within us the fruit of your redemption. Who live and reign forever and ever. Amen."
+          },
+          {
+            id: "church_prayer_for_pope",
+            categoryId: "cat_devotions",
+            title: "Prayer for the Pope",
+            context: "Traditional versicles and collect for the Roman Pontiff. The name may be supplied when prayed.",
+            text: "℣. Let us pray for our Sovereign Pontiff N.\n℟. May the Lord preserve him and give him life, and make him blessed upon the earth, and deliver him not up to the will of his enemies.\n\n℣. Thou art Peter.\n℟. And upon this rock I will build my Church.\n\nLet us pray. O God, shepherd and ruler of all the faithful, look mercifully upon your servant N., whom you have willed to appoint shepherd over your Church. Grant him, we beseech you, that by word and example he may profit those over whom he has charge, so that, together with the flock committed to him, he may attain everlasting life. Through Christ our Lord. Amen."
+          },
+          {
+            id: "devotion_st_joseph_sales",
+            categoryId: "cat_devotions",
+            title: "Prayer to Saint Joseph in a Difficult Matter",
+            context: "Prayer attributed to St Francis de Sales and included in the 2025 Pilgrim’s Booklet.",
+            text: "Glorious Saint Joseph, spouse of Mary, grant us your paternal protection, we beseech you by the Heart of Jesus Christ. O you whose power extends to all our necessities and who know how to make possible the things that seem impossible, open your fatherly eyes upon the interests of your children. In the trouble and distress that press upon us, we have recourse to you with confidence. Deign to take under your charitable guidance this important and difficult affair, the cause of our anxiety. Grant that its happy outcome may turn to the glory of God and the good of his devoted servants. Amen."
+          },
+          {
+            id: "dead_de_profundis",
+            categoryId: "cat_dead",
+            title: "De Profundis — Psalm 129",
+            context: "Traditional Vulgate numbering: Psalm 129; Psalm 130 in modern Hebrew numbering. Frequently prayed for the faithful departed.",
+            text: "Out of the depths I have cried to thee, O Lord: Lord, hear my voice. Let thine ears be attentive to the voice of my supplication. If thou, O Lord, wilt mark iniquities: Lord, who shall stand it? For with thee there is merciful forgiveness; and by reason of thy law I have waited for thee, O Lord. My soul hath relied on his word; my soul hath hoped in the Lord. From the morning watch even until night, let Israel hope in the Lord. Because with the Lord there is mercy, and with him plentiful redemption. And he shall redeem Israel from all his iniquities.\n\n℣. Eternal rest grant unto them, O Lord.\n℟. And let perpetual light shine upon them.\n\n℣. May they rest in peace.\n℟. Amen."
           },
   ],
 
@@ -3258,13 +3362,19 @@ const PRAYER_TRANSLATIONS = {
       title: "Angelus Domini",
       text: `
 V. Angelus Domini nuntiavit Mariae.
-R. Et concepit de Spiritu Sancto. (Ave Maria...)
+R. Et concepit de Spiritu Sancto.
+
+Ave Maria, gratia plena, Dominus tecum; benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostræ. Amen.
 
 V. Ecce ancilla Domini.
-R. Fiat mihi secundum verbum tuum. (Ave Maria...)
+R. Fiat mihi secundum verbum tuum.
+
+Ave Maria, gratia plena, Dominus tecum; benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostræ. Amen.
 
 V. Et Verbum caro factum est.
-R. Et habitavit in nobis. (Ave Maria...)
+R. Et habitavit in nobis.
+
+Ave Maria, gratia plena, Dominus tecum; benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostræ. Amen.
 
 V. Ora pro nobis, sancta Dei Genetrix.
 R. Ut digni efficiamur promissionibus Christi.
@@ -3275,13 +3385,19 @@ Oremus. Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angel
       title: "Angélus",
       text: `
 V. L’Ange du Seigneur annonça à Marie.
-R. Et elle conçut du Saint-Esprit. (Je vous salue, Marie...)
+R. Et elle conçut du Saint-Esprit.
+
+Je vous salue, Marie, pleine de grâce; le Seigneur est avec vous; vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l’heure de notre mort. Ainsi soit-il.
 
 V. Voici la servante du Seigneur.
-R. Qu’il me soit fait selon votre parole. (Je vous salue, Marie...)
+R. Qu’il me soit fait selon votre parole.
+
+Je vous salue, Marie, pleine de grâce; le Seigneur est avec vous; vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l’heure de notre mort. Ainsi soit-il.
 
 V. Et le Verbe s’est fait chair.
-R. Et il a habité parmi nous. (Je vous salue, Marie...)
+R. Et il a habité parmi nous.
+
+Je vous salue, Marie, pleine de grâce; le Seigneur est avec vous; vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l’heure de notre mort. Ainsi soit-il.
 
 V. Priez pour nous, sainte Mère de Dieu.
 R. Afin que nous soyons rendus dignes des promesses du Christ.
@@ -4263,6 +4379,7 @@ A Chroí Ró-Naofa Íosa, tá m’iontaobhas go léir ionat. Áiméan.`
 
 // Merge extras into main translations
 Object.assign(PRAYER_TRANSLATIONS, EXTRA_PRAYER_TRANSLATIONS);
+Object.assign(PRAYER_TRANSLATIONS, TRADITIONAL_PRAYER_TRANSLATIONS);
 
 
  /************************************************************
@@ -4286,6 +4403,7 @@ Object.assign(PRAYER_TRANSLATIONS, EXTRA_PRAYER_TRANSLATIONS);
   };
 
   let currentPrayerId = null;
+  let prayerReturnScreen = 'prayerList';
   let currentPrayerSections = [];
   let currentPrayerSectionIndex = 0;
   
@@ -4523,6 +4641,7 @@ function localizeStepField(map){
       </div>
     `;
     btn.onclick = ()=>{
+      prayerReturnScreen = lastScreenId || 'prayerList';
       markPrayerComplete(p.id);
       renderPrayerView(p.id);
       show('prayerView');
@@ -4596,6 +4715,15 @@ function localizeStepField(map){
 
 
   document.getElementById('goPrayers').onclick = ()=>{ renderCategories(); show('categories'); };
+
+  function openQuickPrayer(id){
+    prayerReturnScreen = 'home';
+    renderPrayerView(id);
+    show('prayerView');
+  }
+  document.getElementById('quickMorning').onclick = ()=>openQuickPrayer('foundations_morning_offering');
+  document.getElementById('quickAngelus').onclick = ()=>openQuickPrayer('marian_angelus');
+  document.getElementById('quickRosary').onclick = ()=>document.getElementById('goRosary').click();
 
 /************************************************************
  * Global Search
@@ -4808,7 +4936,26 @@ renderPrayerSection();
   }
 
   document.getElementById('listBack').onclick = ()=>{ renderCategories(); show('categories'); };
-  document.getElementById('viewBack').onclick = ()=>{ renderCategories(); show('prayerList'); };
+  document.getElementById('viewBack').onclick = ()=>{
+    if(prayerReturnScreen === 'home') renderHome();
+    show(prayerReturnScreen || 'prayerList');
+  };
+
+  const PRAYER_SCALE_KEY = 'labora_prayer_scale';
+  function setPrayerScale(value){
+    const scale = ['0.9', '1', '1.18'].includes(String(value)) ? String(value) : '1';
+    document.documentElement.style.setProperty('--prayer-scale', scale);
+    localStorage.setItem(PRAYER_SCALE_KEY, scale);
+    document.querySelectorAll('[data-prayer-scale]').forEach(button=>{
+      const active = button.dataset.prayerScale === scale;
+      button.classList.toggle('active', active);
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('[data-prayer-scale]').forEach(button=>{
+    button.onclick = ()=>setPrayerScale(button.dataset.prayerScale);
+  });
+  setPrayerScale(localStorage.getItem(PRAYER_SCALE_KEY) || '1');
 
   /************************************************************
    * Settings (Core Prayers)
@@ -6583,40 +6730,12 @@ if(searchBack){
   renderHome();
 
   /************************************************************
-   * Service Worker (inline)
+   * Service Worker
    ************************************************************/
   async function registerInlineSW(){
     if(!('serviceWorker' in navigator)) return;
-    const swCode = `
-      const CACHE_NAME='reverentia-cache-v1';
-      const PRECACHE_URLS=[location.href];
-      self.addEventListener('install',e=>{
-        self.skipWaiting();
-        e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(PRECACHE_URLS)));
-      });
-      self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
-      self.addEventListener('fetch',e=>{
-        const req=e.request;
-        if(req.mode==='navigate' || (req.method==='GET' && req.headers.get('accept')?.includes('text/html'))){
-          e.respondWith(fetch(req).catch(()=>caches.match(location.href)));
-          return;
-        }
-        e.respondWith(
-          caches.match(req).then(r=>{
-            if(r) return r;
-            return fetch(req).then(net=>{
-              const copy=net.clone();
-              caches.open(CACHE_NAME).then(c=>c.put(req,copy).catch(()=>{}));
-              return net;
-            }).catch(()=>{});
-          })
-        );
-      });
-    `;
     try{
-      const blob = new Blob([swCode],{type:'text/javascript'});
-      const url = URL.createObjectURL(blob);
-      await navigator.serviceWorker.register(url);
+      await navigator.serviceWorker.register('./sw.js');
     }catch(e){
       console.warn('SW fail',e);
     }
