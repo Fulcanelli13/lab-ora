@@ -1,10 +1,9 @@
-const CACHE_NAME = 'lab-ora-v4';
+const CACHE_NAME = 'lab-ora-v5';
 const APP_SHELL = [
   './',
   './index.html',
   './traditional-prayers.js',
   './rosary-translations.js',
-  './calendar.js',
   './revamp.css',
   './manifest.json',
   './icon-192.png',
@@ -47,4 +46,12 @@ self.addEventListener('fetch', event => {
       return response;
     }))
   );
+});
+
+self.addEventListener('notificationclick', event => {
+  event.notification.close();
+  event.waitUntil(clients.matchAll({type:'window', includeUncontrolled:true}).then(windows => {
+    if(windows.length) return windows[0].focus();
+    return clients.openWindow('./');
+  }));
 });

@@ -1419,7 +1419,6 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
               <div class="app-subtitle">
                 A Catholic companion for the rhythm of prayer
               </div>
-              <div class="language-note">English first <span aria-hidden="true">·</span> Latin <span aria-hidden="true">·</span> Français</div>
             </div>
 
             <div class="home-logo">
@@ -1431,52 +1430,19 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
             </div>
 
             <div class="home-actions">
-              <button class="btn-solid" id="goPrayers">ALL PRAYERS</button>
-              <button class="btn-solid" id="goRosary">PRAY THE ROSARY</button>
-              <button class="btn-solid" id="goRites">
-                SACRAMENTAL RITES
+              <button class="btn-solid primary-rosary-action" id="goRosary">
+                <span class="primary-action-kicker">The heart of Lab-ora</span>
+                <span>PRAY THE ROSARY</span>
+                <small>Guided bead by bead · EN · LA · FR</small>
               </button>
+              <button class="btn-solid" id="goPrayers">PRAYER LIBRARY</button>
+              <button class="btn-solid" id="goRites">
+                CONFESSION &amp; ADORATION
+              </button>
+              <button class="btn-solid" id="goNorms">PLAN OF LIFE</button>
+              <button class="btn-solid" id="quickAngelus">ANGELUS</button>
             </div>
           </div>
-
-          <section class="daily-rhythm" aria-labelledby="dailyRhythmTitle">
-            <div class="daily-rhythm-heading">
-              <div>
-                <div class="eyebrow">Begin here</div>
-                <h2 id="dailyRhythmTitle">The rhythm of the day</h2>
-              </div>
-              <span class="ornament" aria-hidden="true">✦</span>
-            </div>
-            <div class="rhythm-grid">
-              <button class="rhythm-card" id="quickMorning" type="button">
-                <span class="rhythm-time">Morning</span>
-                <strong>Morning Offering</strong>
-                <span>Offer the day to God</span>
-              </button>
-              <button class="rhythm-card rhythm-card-featured" id="quickAngelus" type="button">
-                <span class="rhythm-time">6 · 12 · 6</span>
-                <strong>Angelus</strong>
-                <span>English, Latin or French</span>
-              </button>
-              <button class="rhythm-card" id="quickRosary" type="button">
-                <span class="rhythm-time">Meditation</span>
-                <strong>Holy Rosary</strong>
-                <span>Guided prayer, bead by bead</span>
-              </button>
-            </div>
-          </section>
-
-          <section class="today-card" aria-labelledby="todayCalendarTitle">
-            <div class="eyebrow">Roman calendar · 1962</div>
-            <div class="today-row">
-              <div>
-                <div id="todayCalendarDate" class="today-date"></div>
-                <h2 id="todayCalendarTitle">Today</h2>
-                <div id="todayCalendarFeast" class="today-feast"></div>
-              </div>
-              <div id="todayCalendarColour" class="liturgical-colour"></div>
-            </div>
-          </section>
 
           <h2 class="section-heading mt-20 pl-5">Today's Objectives</h2>
 
@@ -1777,6 +1743,19 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
         </section>
 
         <!-- ABOUT -->
+        <section id="norms" class="card hidden">
+          <div class="row">
+            <button id="normsBack">← Back</button>
+            <h2 class="title">Plan of Life</h2>
+            <div></div>
+          </div>
+          <p class="norms-intro">A flexible daily plan for seeking God in ordinary life. Configure it with the guidance you receive; it is a help to love, not a scorecard.</p>
+          <div class="norms-progress" id="normsProgress"></div>
+          <div class="norms-grid" id="normsList"></div>
+          <button class="small-nav-btn norms-reset" id="resetNorms">Reset today</button>
+        </section>
+
+        <!-- ABOUT -->
         <section id="about" class="card hidden">
   <div class="row">
     <button id="aboutBack">← Back</button>
@@ -1899,10 +1878,11 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
             </div>
             <div class="settings-group settings-group-stacked">
               <div>
-                <div class="settings-label">Angelus reminders</div>
-                <div class="small-muted">Adds recurring 6 a.m., noon and 6 p.m. reminders to your phone calendar.</div>
+                <div class="settings-label">Angelus alert</div>
+                <div class="small-muted">Noon and 6 p.m. alerts while Lab-ora is running. Install the app and allow notifications.</div>
               </div>
-              <button type="button" class="small-nav-btn" id="downloadAngelusCalendar">Add to calendar</button>
+              <label class="alarm-toggle"><input type="checkbox" id="angelusAlertsEnabled" /> Enable alerts</label>
+              <button type="button" class="small-nav-btn" id="testAngelusAlert">Test alert</button>
             </div>
             <div class="muted">
               Choose which prayers appear under “Today's Objectives” on
@@ -1922,7 +1902,6 @@ c107 -72 101 -235 -11 -294 -55 -29 -105 -29 -161 0 -63 33 -91 85 -86 160 4
 
 <script src="traditional-prayers.js"></script>
 <script src="rosary-translations.js"></script>
-<script src="calendar.js"></script>
 <script>
   /****************************************************************
    * LAB-ORA Single-File App
@@ -4600,7 +4579,8 @@ function resetToday(){
   confessionGuide:document.getElementById('confessionGuide'),
   sacramentalRites:document.getElementById('sacramentalRites'),
   benedictionGuide:document.getElementById('benedictionGuide'),
-  search:document.getElementById('search')
+  search:document.getElementById('search'),
+  norms:document.getElementById('norms')
 };
 
 let lastScreenId = 'home';
@@ -4765,27 +4745,97 @@ function localizeStepField(map){
     renderPrayerView(id);
     show('prayerView');
   }
-  document.getElementById('quickMorning').onclick = ()=>openQuickPrayer('foundations_morning_offering');
   document.getElementById('quickAngelus').onclick = ()=>openQuickPrayer('marian_angelus');
-  document.getElementById('quickRosary').onclick = ()=>document.getElementById('goRosary').click();
 
-  const todayRoman = romanCalendarToday();
-  document.getElementById('todayCalendarDate').textContent = todayRoman.date;
-  document.getElementById('todayCalendarFeast').textContent = todayRoman.title;
-  document.getElementById('todayCalendarColour').textContent = todayRoman.colour;
-
-  document.getElementById('downloadAngelusCalendar').onclick = ()=>{
-    const stamp = new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'');
+  const NORMS = [
+    {id:'morning', title:'Morning Offering', detail:'Offer the whole day to God', prayer:'foundations_morning_offering'},
+    {id:'mental_am', title:'Mental Prayer · Morning', detail:'A quiet conversation with Our Lord'},
+    {id:'mass', title:'Holy Mass & Communion', detail:'When possible; thanksgiving follows'},
+    {id:'new_testament', title:'New Testament', detail:'Read attentively for a few minutes'},
+    {id:'spiritual_reading', title:'Spiritual Reading', detail:'A sound spiritual book'},
+    {id:'angelus', title:'Angelus / Regina Cæli', detail:'Traditionally at noon', prayer:'marian_angelus'},
+    {id:'visit', title:'Visit to the Blessed Sacrament', detail:'A brief visit to Our Lord'},
+    {id:'rosary', title:'Holy Rosary', detail:'Contemplate Christ with Mary', action:'rosary'},
+    {id:'mental_pm', title:'Mental Prayer · Afternoon', detail:'A second period of recollection'},
+    {id:'examination', title:'Examination of Conscience', detail:'Review the day with God'},
+    {id:'three_aves', title:'Three Hail Marys', detail:'For holy purity before retiring', prayer:'foundations_hail_mary'}
+  ];
+  const NORMS_KEY = 'labora_norms_daily';
+  const normsTodayKey = ()=>{
     const now = new Date();
-    const datePart = `${now.getFullYear()}${String(now.getMonth()+1).padStart(2,'0')}${String(now.getDate()).padStart(2,'0')}`;
-    const events = [[6,'Morning'],[12,'Noon'],[18,'Evening']].map(([hour,label])=>`BEGIN:VEVENT\r\nUID:angelus-${hour}@lab-ora\r\nDTSTAMP:${stamp}\r\nDTSTART:${datePart}T${String(hour).padStart(2,'0')}0000\r\nRRULE:FREQ=DAILY\r\nSUMMARY:Angelus — ${label}\r\nDESCRIPTION:Pause and pray the Angelus with Lab-ora.\r\nEND:VEVENT`).join('\r\n');
-    const calendar = `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Lab-ora//Angelus Reminders//EN\r\nCALSCALE:GREGORIAN\r\n${events}\r\nEND:VCALENDAR\r\n`;
-    const link = document.createElement('a');
-    link.href = URL.createObjectURL(new Blob([calendar], {type:'text/calendar'}));
-    link.download = 'lab-ora-angelus-reminders.ics';
-    link.click();
-    setTimeout(()=>URL.revokeObjectURL(link.href), 1000);
+    return `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
   };
+  function getNormsState(){
+    try{
+      const saved = JSON.parse(localStorage.getItem(NORMS_KEY) || '{}');
+      return saved.date === normsTodayKey() ? saved : {date:normsTodayKey(), completed:[]};
+    }catch(e){ return {date:normsTodayKey(), completed:[]}; }
+  }
+  function saveNormsState(value){ localStorage.setItem(NORMS_KEY, JSON.stringify(value)); }
+  function renderNorms(){
+    const stateValue = getNormsState();
+    const list = document.getElementById('normsList');
+    list.innerHTML = '';
+    NORMS.forEach(norm=>{
+      const row = document.createElement('div');
+      row.className = 'norm-card' + (stateValue.completed.includes(norm.id) ? ' complete' : '');
+      const check = document.createElement('button');
+      check.type='button'; check.className='norm-check'; check.setAttribute('aria-label',`Mark ${norm.title} complete`);
+      check.textContent = stateValue.completed.includes(norm.id) ? '✓' : '';
+      check.onclick=()=>{
+        const current=getNormsState();
+        current.completed=current.completed.includes(norm.id)?current.completed.filter(id=>id!==norm.id):[...current.completed,norm.id];
+        saveNormsState(current); renderNorms();
+      };
+      const copy=document.createElement('button'); copy.type='button'; copy.className='norm-copy';
+      copy.innerHTML=`<strong>${norm.title}</strong><span>${norm.detail}</span>`;
+      copy.onclick=()=>{
+        if(norm.action==='rosary') document.getElementById('goRosary').click();
+        else if(norm.prayer) openQuickPrayer(norm.prayer);
+      };
+      row.append(check,copy); list.appendChild(row);
+    });
+    document.getElementById('normsProgress').textContent=`${stateValue.completed.length} of ${NORMS.length} completed today`;
+  }
+  document.getElementById('goNorms').onclick=()=>{renderNorms();show('norms');};
+  document.getElementById('normsBack').onclick=()=>show('home');
+  document.getElementById('resetNorms').onclick=()=>{saveNormsState({date:normsTodayKey(),completed:[]});renderNorms();};
+
+  const ANGELUS_ALERT_KEY='labora_angelus_alerts';
+  const angelusToggle=document.getElementById('angelusAlertsEnabled');
+  angelusToggle.checked=localStorage.getItem(ANGELUS_ALERT_KEY)==='true';
+  async function showAngelusAlert(test=false){
+    if(!('Notification' in window) || Notification.permission!=='granted') return;
+    const registration=await navigator.serviceWorker?.ready;
+    const options={body:test?'Your Angelus alert is ready.':'It is time to pause and pray the Angelus.',icon:'icon-192.png',badge:'icon-192.png',tag:'labora-angelus'};
+    if(registration) registration.showNotification('Lab-ora · Angelus',options);
+    else new Notification('Lab-ora · Angelus',options);
+  }
+  angelusToggle.onchange=async()=>{
+    if(angelusToggle.checked){
+      if(!('Notification' in window)){angelusToggle.checked=false;alert('Notifications are not supported by this browser.');return;}
+      const permission=await Notification.requestPermission();
+      if(permission!=='granted'){angelusToggle.checked=false;}
+    }
+    localStorage.setItem(ANGELUS_ALERT_KEY,String(angelusToggle.checked));
+  };
+  document.getElementById('testAngelusAlert').onclick=async()=>{
+    if(!('Notification' in window)){alert('Notifications are not supported by this browser.');return;}
+    if(Notification.permission!=='granted'){
+      const permission=await Notification.requestPermission();
+      if(permission!=='granted') return;
+    }
+    showAngelusAlert(true);
+  };
+  setInterval(()=>{
+    if(localStorage.getItem(ANGELUS_ALERT_KEY)!=='true') return;
+    const now=new Date(), hhmm=`${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+    if(!['12:00','18:00'].includes(hhmm)) return;
+    const stamp=`${now.toISOString().slice(0,10)}-${hhmm}`;
+    if(localStorage.getItem('labora_last_angelus_alert')===stamp) return;
+    localStorage.setItem('labora_last_angelus_alert',stamp); showAngelusAlert();
+  },30000);
+
 
 /************************************************************
  * Global Search

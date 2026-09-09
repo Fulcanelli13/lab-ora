@@ -95,7 +95,7 @@ main { margin-top: 0; }
 #home { background: transparent; border: 0; box-shadow: none; padding: 0; }
 
 .home-hero {
-  padding: 28px 12px 22px;
+  padding: 16px 8px 18px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -131,8 +131,8 @@ main { margin-top: 0; }
 
 .language-note span { color: var(--gold); padding: 0 .28rem; }
 
-.home-logo { margin: 12px 0 20px; }
-.home-logo svg { color: var(--accent); filter: drop-shadow(0 8px 16px rgba(0,0,0,.35)); }
+.home-logo { margin: 4px 0 12px; }
+.home-logo svg { max-height: 118px; color: var(--accent); filter: drop-shadow(0 8px 16px rgba(0,0,0,.35)); }
 
 .home-actions {
   width: min(100%, 560px);
@@ -141,7 +141,21 @@ main { margin-top: 0; }
   gap: 10px;
 }
 
-.home-actions #goPrayers { grid-column: 1 / -1; }
+.home-actions .primary-rosary-action {
+  grid-column: 1 / -1;
+  min-height: 82px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #edf2f5;
+  background: linear-gradient(145deg, #173653, #0d263f);
+  border-color: #8fa4b5;
+  box-shadow: 0 10px 24px rgba(0,0,0,.28), inset 0 0 0 1px rgba(196,210,220,.12);
+}
+
+.primary-rosary-action > span:nth-child(2) { font: 600 1.18rem "Cinzel", serif; letter-spacing: .09em; }
+.primary-rosary-action small { margin-top: 3px; color: #bdcbd5; font: .78rem "Cormorant Garamond", Georgia, serif; letter-spacing: .04em; }
+.primary-action-kicker { color: #d3bd7b; font: .64rem "Cinzel", serif; letter-spacing: .13em; text-transform: uppercase; }
 
 .btn-solid {
   min-height: 48px;
@@ -235,7 +249,7 @@ main { margin-top: 0; }
   font-weight: 600;
 }
 
-.list { grid-template-columns: 1fr; gap: 10px; }
+.list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
 
 .list .card,
 #homeDailyPrayers .card {
@@ -247,6 +261,26 @@ main { margin-top: 0; }
 
 .card .prayer-title { text-align: left; color: #f7f0df; font-size: 1.02rem; }
 .card .prayer-scripture { text-align: left; color: var(--muted); font-size: .85rem; }
+
+.alarm-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 42px;
+  color: #edf2f5;
+}
+.alarm-toggle input { width: 20px; height: 20px; accent-color: #aebdca; }
+
+.norms-intro { margin: 14px 0 10px; color: var(--muted); line-height: 1.45; }
+.norms-progress { margin-bottom: 12px; color: #d3bd7b; font: .72rem "Cinzel", serif; letter-spacing: .08em; text-transform: uppercase; }
+.norms-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; }
+.norm-card { min-width: 0; display: flex; align-items: stretch; border: 1px solid var(--line); border-radius: 13px; background: rgba(14,38,59,.9); overflow: hidden; }
+.norm-card.complete { background: rgba(22,57,65,.9); border-color: rgba(164,190,178,.5); }
+.norm-check { width: 42px; flex: 0 0 42px; border: 0; border-right: 1px solid var(--line); border-radius: 0; color: #eef4f1; background: rgba(255,255,255,.035); font-size: 1.1rem; }
+.norm-copy { min-width: 0; flex: 1; padding: 11px 10px; display: flex; flex-direction: column; align-items: flex-start; border: 0; border-radius: 0; text-align: left; background: transparent; }
+.norm-copy strong { color: #f2f4f5; font: 600 1rem "Cormorant Garamond", Georgia, serif; line-height: 1.05; }
+.norm-copy span { margin-top: 3px; color: var(--muted); font-size: .74rem; line-height: 1.15; }
+.norms-reset { margin-top: 14px; }
 
 .title {
   color: var(--accent-soft);
@@ -351,8 +385,8 @@ input:focus-visible { outline: 3px solid rgba(241, 217, 149, .75); outline-offse
 
 @media (max-width: 380px) {
   .app { padding-inline: 12px; }
-  .home-actions { grid-template-columns: 1fr; }
-  .home-actions #goPrayers { grid-column: auto; }
+  .home-actions { grid-template-columns: 1fr 1fr; }
+  .norms-grid { grid-template-columns: 1fr; }
   .top-nav button { font-size: .82rem; }
 }
 
