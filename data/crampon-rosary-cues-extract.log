@@ -1,0 +1,17 @@
+{
+  "schema": "labora.rosary.crampon.audit.v1",
+  "status": "PASS",
+  "source_commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c",
+  "source_git_blob_sha": "d00e7f91c6f20c9e5c6a970deb655bf041dcfdbd",
+  "source_bytes": 13186190,
+  "input_cues": 200,
+  "output_cues": 200,
+  "missing": [],
+  "source_chapters_used": 39,
+  "split_segments": 8,
+  "judith_virtual_verses": 3,
+  "psalm_numbering_aliases": {
+    "Psalm 44": "Psalms 45",
+    "Psalm 131": "Psalms 132"
+  }
+}
