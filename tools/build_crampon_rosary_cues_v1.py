@@ -45,7 +45,7 @@ def main():
   ref=row['r']; book,ch,start,end,suffix=parse_ref(ref); vm=verse_map(corpus,book,ch)
   need=list(range(start,end+1)); absent=[v for v in need if not vm.get(v)]
   if absent:
-   missing.append({'reference':ref,'missing_verses':absent}); continue
+   missing.append({'reference':ref,'missing_verses':absent,'available':[{"verse":v,"text":t} for v,t in sorted(vm.items())]}); continue
   source=' '.join(vm[v] for v in need)
   if suffix:
    if ref not in SPLITS: raise SystemExit(f'unconfigured split {ref}')
