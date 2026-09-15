@@ -1,0 +1,113 @@
+name: Temporary build canonical Rosary offline source bundle
+
+on:
+  push:
+    paths:
+      - '.github/workflows/build-rosary-offline-source-bundle.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build exact canonical offline source bundle
+        shell: bash
+        run: |
+          python - <<'PY'
+          import hashlib, json, pathlib, urllib.request
+
+          CATENA_COMMIT = "efe1bd084d918a34ca22ffeef2ecf711c593b392"
+          CRAMPON_BLOB = "d00e7f91c6f20c9e5c6a970deb655bf041dcfdbd"
+          CATENA_BLOBS = {"john":"cc99fe62a303aadfd3fcfea79429103cf80b5acd","luke":"57cad8bab1624b2fc3559868513a963622eae492","mark":"efeb0ee731a0631c8d15bc1a41891a6178210272","matthew":"7c19218587120dd9cf8efb51826fca8d13bb884e"}
+          DRB_FILES = {
+              "Luke":("luke","a0b189f15e27737caa96310e8b1181cadc338629"),"John":("john","14db612c579336e18b623d44540b71770a4d2ad8"),"Matthew":("matthew","e2a00813d1471f393b287b5e6cd4a0448041a207"),"Mark":("mark","0d95325ca90fa50a53c8c8d2f277124b41c94437"),"1 Corinthians":("1-corinthians","1ecca6167dcbd354888384568a29cf6106119323"),"Isaias":("isaiah","f072d837d3e66b810a8b40401778d9440d452bb1"),"Acts":("acts","2fb60bf81349335e6c15194e610fbc99213d5519"),"Psalm":("psalms","521985c58da226977f2070a56bf9061f3e6b509c"),"Canticles":("song-of-songs","0fe571e5ce803a9265a4e3af108862b69353c61c"),"Apocalypse":("revelation","5582cec92474378981acd527f5a60742df8a74f0"),"Judith":("judith","b72a797a1d4c71921cbd08ad09e4cc1d279528b6")}
+          REQUIRED_CATENA = set(["catena.john.1.29","catena.john.1.32","catena.john.18.33","catena.john.18.38","catena.john.19.1","catena.john.19.12","catena.john.19.16","catena.john.19.24","catena.john.19.28","catena.john.19.31","catena.john.2.1","catena.john.2.5","catena.john.20.1","catena.john.20.10","catena.john.20.19","catena.john.20.26","catena.john.3.1","catena.john.3.4","catena.john.6.35","catena.john.6.47","catena.john.6.52","catena.john.6.55","catena.luke.1.26","catena.luke.1.28","catena.luke.1.30","catena.luke.1.34","catena.luke.1.36","catena.luke.1.39","catena.luke.1.46","catena.luke.1.47","catena.luke.1.48","catena.luke.1.49","catena.luke.1.50","catena.luke.1.51","catena.luke.1.52","catena.luke.1.53","catena.luke.1.54","catena.luke.1.56","catena.luke.15.1","catena.luke.2.1","catena.luke.2.13","catena.luke.2.15","catena.luke.2.22","catena.luke.2.28","catena.luke.2.33","catena.luke.2.36","catena.luke.2.39","catena.luke.2.42","catena.luke.2.51","catena.luke.2.6","catena.luke.2.8","catena.luke.22.14","catena.luke.22.39","catena.luke.22.43","catena.luke.23.13","catena.luke.23.26","catena.luke.23.33","catena.luke.23.34","catena.luke.23.38","catena.luke.23.44","catena.luke.24.50","catena.luke.3.21","catena.luke.4.14","catena.luke.9.28","catena.luke.9.32","catena.mark.1.14","catena.mark.16.19","catena.matthew.10.5","catena.matthew.16.24","catena.matthew.17.1","catena.matthew.17.5","catena.matthew.26.26","catena.matthew.26.27","catena.matthew.26.36","catena.matthew.26.39","catena.matthew.26.45","catena.matthew.27.15","catena.matthew.27.27","catena.matthew.27.31","catena.matthew.28.16","catena.matthew.3.13","catena.matthew.5.1","catena.matthew.6.31"])
+          JUDITH_13_OVERRIDES = {
+              22:"Tous, adorant le Seigneur, lui dirent: « Le Seigneur t’a bénie dans sa force, car par toi il a réduit à néant tous nos ennemis. »",
+              23:"Ma fille, tu es bénie par le Seigneur, le Dieu très haut, plus que toutes les femmes qui sont sur la terre.",
+              24:"Béni soit le Seigneur, créateur du ciel et de la terre, qui a conduit ta main pour trancher la tête au plus grand de nos ennemis!",
+              25:"Il a rendu aujourd'hui ton nom si glorieux, que ta louange ne disparaîtra pas de la bouche des hommes, qui se souviendront éternellement de la puissance du Seigneur;"
+          }
+          def download(url):
+              with urllib.request.urlopen(url, timeout=120) as r: return r.read()
+          out=pathlib.Path("offline-source-bundle"); out.mkdir(exist_ok=True)
+
+          # Crampon: validate audited generated cue/chapter files, then normalize source chapter aliases to the canonical Rosary references.
+          cue_path=pathlib.Path("data/rosary-scripture-fr-crampon-v1.compact.json")
+          chapter_path=pathlib.Path("data/crampon-rosary-chapters-v1.json")
+          cues=json.loads(cue_path.read_text(encoding="utf-8")); src=json.loads(chapter_path.read_text(encoding="utf-8"))
+          assert cues.get("schema")=="labora.rosary.scripture.fr.crampon.compact.v1" and cues.get("count")==200
+          assert cues.get("source",{}).get("git_blob_sha")==CRAMPON_BLOB and sum(len(v) for v in cues.get("cues",{}).values())==200
+          meta=src.get("metadata",{}); tree=src.get("chapters",{})
+          assert meta.get("source_verified") is True and meta.get("source_git_blob_sha1")==CRAMPON_BLOB and meta.get("required_chapter_count")==39
+          assert sum(len(chs) for chs in tree.values())==39 and set(tree)==set(DRB_FILES)
+          aliases={"Psalm":{"45":"44","132":"131"}}
+          fr_chapters={}
+          for book, chapters in tree.items():
+              fr_chapters[book]={}
+              for source_ch, rows in chapters.items():
+                  canonical_ch=aliases.get(book,{}).get(str(source_ch),str(source_ch))
+                  clean=[{"verse":int(r["verse"]),"text":str(r.get("text") or "").strip()} for r in rows if str(r.get("text") or "").strip()]
+                  if book=="Judith" and canonical_ch=="13":
+                      have={r["verse"] for r in clean}
+                      for verse,text in JUDITH_13_OVERRIDES.items():
+                          if verse not in have: clean.append({"verse":verse,"text":text})
+                      clean.sort(key=lambda r:r["verse"])
+                  fr_chapters[book][canonical_ch]=clean
+          assert sum(len(chs) for chs in fr_chapters.values())==39
+          crampon_canonical={"schema":"adorientem.rosary.scripture.fr.crampon.canonical.v1","metadata":{**meta,"canonicalized_chapter_aliases":meta.get("canonical_chapter_aliases",{}),"judith_13_exact_override_verses":[22,23,24,25],"judith_13_override_provenance":"Audited Lab-ora extract_crampon_rosary_subset.py exact-source substring overrides"},"chapters":fr_chapters}
+          (out/cue_path.name).write_bytes(cue_path.read_bytes())
+          (out/"crampon-rosary-39-chapters.canonical.compact.json").write_text(json.dumps(crampon_canonical,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+          # English: exact same 39 canonical book/chapter identities from the Catena project's public-domain Douay-Rheims corpus.
+          needed={book:{int(ch) for ch in chapters} for book,chapters in fr_chapters.items()}
+          en_chapters={book:{} for book in needed}; drb_sha256={}
+          for book,(slug,blob) in DRB_FILES.items():
+              raw=download(f"https://raw.githubusercontent.com/AlvaroBalbin/catena/{CATENA_COMMIT}/data/bible/drb/{slug}.jsonl")
+              drb_sha256[book]=hashlib.sha256(raw).hexdigest(); by_ch={ch:[] for ch in needed[book]}
+              for line in raw.decode("utf-8").splitlines():
+                  if not line.strip(): continue
+                  row=json.loads(line); ch=int(row.get("chapter",0))
+                  if ch in by_ch and str(row.get("text") or "").strip(): by_ch[ch].append({"verse":int(row["verse"]),"text":str(row["text"]).strip()})
+              for ch in sorted(by_ch):
+                  verses=sorted(by_ch[ch],key=lambda r:r["verse"])
+                  if not verses: raise RuntimeError(f"FAIL CLOSED: no Douay-Rheims verses for {book} {ch}")
+                  en_chapters[book][str(ch)]=verses
+          assert sum(len(chs) for chs in en_chapters.values())==39
+          drb={"schema":"adorientem.rosary.scripture.en.douay-rheims.canonical.v1","metadata":{"translation":"Douay-Rheims, Challoner revision (1749-52)","source_repository":"AlvaroBalbin/catena","source_commit":CATENA_COMMIT,"source_files":{book:{"path":f"data/bible/drb/{slug}.jsonl","git_blob_sha1":blob,"downloaded_sha256":drb_sha256[book]} for book,(slug,blob) in DRB_FILES.items()},"required_book_count":11,"required_chapter_count":39,"public_domain":True},"chapters":en_chapters}
+          (out/"douay-rheims-rosary-39-chapters.canonical.compact.json").write_text(json.dumps(drb,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+          # Catena Aurea: exact 83 mapped pericope nodes and all ordered Father fragments.
+          nodes={}; catena_sha256={}
+          for gospel in ("john","luke","mark","matthew"):
+              raw=download(f"https://raw.githubusercontent.com/AlvaroBalbin/catena/{CATENA_COMMIT}/data/catena/{gospel}.jsonl"); catena_sha256[gospel]=hashlib.sha256(raw).hexdigest()
+              for line in raw.decode("utf-8").splitlines():
+                  if not line.strip(): continue
+                  node=json.loads(line); ident=node.get("id")
+                  if ident in REQUIRED_CATENA:
+                      if ident in nodes: raise RuntimeError(f"Duplicate Catena id: {ident}")
+                      for field in ("lemma","text","segments"):
+                          if field not in node or node[field] in (None,"",[]): raise RuntimeError(f"Missing {field} for {ident}")
+                      if not isinstance(node["segments"],list) or not all(isinstance(s,dict) and str(s.get("text") or "").strip() for s in node["segments"]): raise RuntimeError(f"Invalid ordered segments for {ident}")
+                      nodes[ident]=node
+          missing=sorted(REQUIRED_CATENA-nodes.keys())
+          if missing or len(nodes)!=83: raise RuntimeError(f"Catena subset mismatch found={len(nodes)} missing={missing}")
+          fragments=sum(len(n["segments"]) for n in nodes.values())
+          catena={"schema":"labora.rosary.catena.newman.compact.v1","count":83,"fragment_count":fragments,"source":{"repository":"AlvaroBalbin/catena","commit":CATENA_COMMIT,"edition":"Catena Aurea, Oxford English translation edited by John Henry Newman, 1841-45","source_file_git_blobs":CATENA_BLOBS,"downloaded_file_sha256":catena_sha256,"public_domain":True},"nodes":dict(sorted(nodes.items()))}
+          (out/"rosary-catena-newman-83.compact.json").write_text(json.dumps(catena,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+          qa={"crampon_cues":200,"crampon_canonical_chapters":39,"douay_rheims_canonical_chapters":39,"catena_nodes":83,"catena_fragments":fragments,"catena_commit":CATENA_COMMIT,"judith_13_exact_overrides":4,"no_generated_commentary":True}
+          (out/"OFFLINE-SOURCE-BUNDLE-QA.json").write_text(json.dumps(qa,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps(qa,indent=2))
+          PY
+      - name: Upload bounded offline source bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: rosary-offline-source-bundle-canonical
+          path: offline-source-bundle/
+          if-no-files-found: error
+          retention-days: 7
