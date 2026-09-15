@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'tools/labora_today_collector_rc2.py'
+      - 'tools/labora_today_collector_rc3.py'
       - '.github/workflows/update-today.yml'
   schedule:
     - cron: '17 */3 * * *'
@@ -30,10 +31,10 @@ jobs:
           python-version: '3.12'
 
       - name: Collect English feed
-        run: python tools/labora_today_collector_rc2.py --language en --output labora-today-en.json
+        run: python tools/labora_today_collector_rc3.py --language en --output labora-today-en.json
 
       - name: Collect French feed
-        run: python tools/labora_today_collector_rc2.py --language fr --output labora-today-fr.json
+        run: python tools/labora_today_collector_rc3.py --language fr --output labora-today-fr.json
 
       - name: Validate generated feeds
         run: |
@@ -45,6 +46,8 @@ jobs:
               data=json.loads(p.read_text(encoding='utf-8'))
               assert data.get('language') == lang
               assert data.get('meditation') or data.get('headlines'), f'empty {lang} feed'
+              title=((data.get('meditation') or {}).get('title') or '')
+              assert not title.lower().startswith('opus deiopus dei'), title
               print(lang, data.get('generatedAt'), len(data.get('headlines', [])), bool(data.get('meditation')))
           PY
 
