@@ -20,5 +20,5 @@ out={
  'source':{'repository':'scrollmapper/bible_databases','commit':'e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c','git_blob_sha':'d00e7f91c6f20c9e5c6a970deb655bf041dcfdbd'},
  'cues':{mid:by[mid] for mid in expected}
 }
-OUT.write_text(json.dumps(out,ensure_ascii=False,separators=(',',':'))+'\n','utf-8')
+OUT.write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n','utf-8')
 print(f'compact cues: {sum(len(v) for v in by.values())}; bytes={OUT.stat().st_size}')
