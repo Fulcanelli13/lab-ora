@@ -1,16 +1,24 @@
 {
-  "generatedAt": "2026-09-15T07:04:47Z",
+  "generatedAt": "2026-09-15T07:09:08Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Opus DeiOpus DeiMéditation : 15 septembre — Notre Dame des Douleurs",
+    "title": "Méditation : 15 septembre — Notre Dame des Douleurs",
     "date": "2026-09-15",
     "url": "https://opusdei.org/fr/meditation/meditation-15-septembre-notre-dame-des-douleurs/",
     "subtitle": "Les thèmes proposés pour la méditation sont : le martyre intérieur de Marie ; les larmes de la Vierge Marie ; un cœur compatissant."
   },
   "headlines": [
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Pour Léon XIV, «la Bibliothèque apostolique est un cœur»",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-bibliotheque-apostolique-reconciliation-dialogue-culture.html"
+    },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
@@ -28,6 +36,22 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/le-saint-siege-onu-la-dignite-des-personnes-agees-ne-dispararait.html"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "XVème PÈLERINAGE SUMMORUM PONTIFICUM À ROME, 23, 24, 25 OCTOBRE 2026",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4512"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "De nouveaux locaux pour les Archives et la Bibliothèque du Vatican",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vatican-archives-apostolique-patrimoine-conservation-chirographe.html"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -42,6 +66,14 @@
       "title": "Préparation des JMJ de Séoul: «Les jeunes sont l'avenir de l'Église et du monde»",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/preparation-jmj-seoul-2027-cardinal-farrell-esperance.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape Léon XIV célèbre son 71e anniversaire",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/le-pape-leon-xiv-celebre-son-71e-anniversaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -94,17 +126,16 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-15T07:04:42Z",
-    "lastSucceeded": "2026-09-15T07:04:47Z",
+    "lastFetched": "2026-09-15T07:09:04Z",
+    "lastSucceeded": "2026-09-15T07:09:08Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
         "count": 1
       },
       "vatican_news_pape_fr": {
-        "ok": false,
-        "count": 0,
-        "error": "ValueError: month must be in 1..12"
+        "ok": true,
+        "count": 5
       },
       "vatican_news_saint_siege_fr": {
         "ok": true,
@@ -120,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 0,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

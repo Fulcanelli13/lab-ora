@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-15T07:04:42Z",
+  "generatedAt": "2026-09-15T07:09:04Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Opus DeiOpus DeiMeditations: September 15, Our Lady of Sorrows",
+    "title": "Meditations: September 15, Our Lady of Sorrows",
     "date": "2026-09-15",
     "url": "https://opusdei.org/en/meditation/meditations-september-15-our-lady-of-sorrows/",
     "subtitle": "Some reflections that can assist our prayer on the feast of Our Lady of Sorrows."
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-15T07:04:39Z",
-    "lastSucceeded": "2026-09-15T07:04:42Z",
+    "lastFetched": "2026-09-15T07:09:02Z",
+    "lastSucceeded": "2026-09-15T07:09:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
