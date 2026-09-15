@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:09:04Z",
+  "generatedAt": "2026-09-15T14:21:36Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "34 dioceses received TLM permissions in 2025",
+      "title": "Weekly Traditional Latin Masses to end at two Toronto churches",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/34-dioceses-received-tlm-permissions-in-2025/"
+      "url": "https://advaticanum.com/article/weekly-traditional-latin-masses-to-end-at-two-toronto-churches/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/14/260914b.html"
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/15/260915a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on the Exaltation of the Cross",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
+      "title": "The Iconographic Style, #1: Truths and Myths",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "America’s youngest bishop blames ‘racism’ for lack of African-American bishops",
+      "title": "Bishop backs married priests but rejects women’s ordination",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/americas-youngest-bishop-blames-racism-for-lack-of-african-american-bishops/"
+      "url": "https://advaticanum.com/article/bishop-backs-married-priests-but-rejects-womens-ordination/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Sixteenth Sunday after Pentecost",
-      "publishedAt": "2026-09-13T14:10:46.385000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-sixteenth-sunday-after-pentecost.html"
+      "title": "Durandus on the Exaltation of the Cross",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishops mark 25 years since 9/11",
+      "title": "European cardinals push for greater autonomy in synodal Church",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-mark-25-years-since-9-11/"
+      "url": "https://advaticanum.com/article/european-cardinals-push-for-greater-autonomy-in-synodal-church/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "The Pope’s words at the Angelus prayer",
-      "publishedAt": "2026-09-13T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/13/260913a.html"
+      "title": "The Sixteenth Sunday after Pentecost",
+      "publishedAt": "2026-09-13T14:10:46.385000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-sixteenth-sunday-after-pentecost.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/the-most-holy-name-of-mary-2026.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "SingCon Liturgical Live-Streams This Weekend",
-      "publishedAt": "2026-09-11T22:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-liturgical-live-streams-this.html"
+      "title": "Vatican letter leaves door open for Summorum Pontificum Mass to return to St Peter’s",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-letter-leaves-door-open-for-summorum-pontificum-mass-to-return-to-st-peters/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-15T07:09:02Z",
-    "lastSucceeded": "2026-09-15T07:09:04Z",
+    "lastFetched": "2026-09-15T14:21:32Z",
+    "lastSucceeded": "2026-09-15T14:21:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,

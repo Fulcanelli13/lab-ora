@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:09:08Z",
+  "generatedAt": "2026-09-15T14:21:42Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Saint-Siège à l'ONU: la fragilité n'efface pas la dignité des personnes âgées",
+      "title": "Le Saint-Siège plaide pour une gouvernance éthique du nucléaire et de l’IA",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/le-saint-siege-onu-la-dignite-des-personnes-agees-ne-dispararait.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-gouvernance-ethique-nucleaire-ia-bien-commun.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Préparation des JMJ de Séoul: «Les jeunes sont l'avenir de l'Église et du monde»",
+      "title": "Le désarmement n’est pas un signe de faiblesse, estime le Saint-Siège",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/preparation-jmj-seoul-2027-cardinal-farrell-esperance.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-desarmement-armes-protection-civils-developpement.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La première «Médaille Léon XIV pour la durabilité» remise au cardinal Michael Czerny",
+      "title": "Préparation des JMJ de Séoul: «Les jeunes sont l'avenir de l'Église et du monde»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/villanova-devoile-premier-laureat-medaille-pape-leon-durabilite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/preparation-jmj-seoul-2027-cardinal-farrell-esperance.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "JOAJ: le Saint-Siège invite les jeunes ouest-africains à être une force transformatrice",
+      "title": "La première «Médaille Léon XIV pour la durabilité» remise au cardinal Michael Czerny",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/joaj-czerny-smerilli-invitent-jeunes-joaj-transformation.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/villanova-devoile-premier-laureat-medaille-pape-leon-durabilite.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Clôture à Bali du sommet sur l’IA: «Une ressource qui doit libérer et non asservir»",
+      "title": "JOAJ: le Saint-Siège invite les jeunes ouest-africains à être une force transformatrice",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/bali-magnificahumanitas-pape-leon-xiv-intelligence-artificielle.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/joaj-czerny-smerilli-invitent-jeunes-joaj-transformation.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-15T07:09:04Z",
-    "lastSucceeded": "2026-09-15T07:09:08Z",
+    "lastFetched": "2026-09-15T14:21:36Z",
+    "lastSucceeded": "2026-09-15T14:21:42Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
