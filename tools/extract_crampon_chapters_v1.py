@@ -31,7 +31,7 @@ def norm(s):
  return re.sub(r"[^a-z0-9]+","",s)
 
 def n(v):
- m=re.match(r"\d+",str(v));
+ m=re.match(r"\d+",str(v))
  if not m: raise ValueError(v)
  return int(m.group())
 
@@ -53,6 +53,7 @@ def main():
   if not hit: raise SystemExit(f"cannot resolve {canonical}; source books={[b.get('name') for b in books]}")
   resolved[canonical]=hit
  out={}
+ source_blanks=[]
  for canonical, chapters in REQUIRED.items():
   source=resolved[canonical]
   source_ch={n(c.get("chapter")):c for c in source.get("chapters",[])}
@@ -61,9 +62,12 @@ def main():
    if ch not in source_ch: raise SystemExit(f"missing chapter {canonical} {ch}")
    verses=[]
    for v in source_ch[ch].get("verses",[]):
+    verse_no=n(v.get("verse"))
     text=str(v.get("text","")).strip()
-    if not text: raise SystemExit(f"blank text {canonical} {ch}:{v.get('verse')}")
-    verses.append({"verse":n(v.get("verse")),"text":text})
+    if not text:
+     source_blanks.append(f"{canonical} {ch}:{verse_no}")
+     continue
+    verses.append({"verse":verse_no,"text":text})
    verses.sort(key=lambda x:x["verse"])
    if not verses: raise SystemExit(f"empty chapter {canonical} {ch}")
    out[canonical][str(ch)]=verses
@@ -72,12 +76,12 @@ def main():
   "source_repository":"scrollmapper/bible_databases","source_path":"sources/fr/FreCrampon/FreCrampon.json",
   "source_commit":SOURCE_COMMIT,"source_git_blob_sha1":SOURCE_BLOB_SHA1,"source_bytes":SOURCE_SIZE,
   "source_verified":True,"required_book_count":len(REQUIRED),"required_chapter_count":sum(map(len,REQUIRED.values())),
-  "source_book_names":{k:v.get("name") for k,v in resolved.items()}
+  "source_book_names":{k:v.get("name") for k,v in resolved.items()},"blank_source_entries":source_blanks
  }
  payload={"metadata":meta,"chapters":out}
  OUT.parent.mkdir(parents=True,exist_ok=True)
  OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
- REPORT.write_text(json.dumps({"status":"PASS",**meta},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
- print(json.dumps({"status":"PASS",**meta},ensure_ascii=False,indent=2))
+ REPORT.write_text(json.dumps({"status":"PASS_WITH_SOURCE_GAPS" if source_blanks else "PASS",**meta},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+ print(json.dumps({"status":"PASS_WITH_SOURCE_GAPS" if source_blanks else "PASS",**meta},ensure_ascii=False,indent=2))
 
 if __name__=="__main__": main()
