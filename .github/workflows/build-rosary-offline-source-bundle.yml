@@ -43,7 +43,16 @@ jobs:
           assert meta.get("source_verified") is True
           assert meta.get("source_git_blob_sha1") == expected_crampon
           assert meta.get("required_chapter_count") == 39
-          assert len(chapters.get("chapters", {})) == 39
+          chapter_tree = chapters.get("chapters", {})
+          def count_chapter_nodes(x):
+              if isinstance(x, dict) and isinstance(x.get("verses"), dict):
+                  return 1
+              if isinstance(x, dict):
+                  return sum(count_chapter_nodes(v) for v in x.values())
+              if isinstance(x, list):
+                  return sum(count_chapter_nodes(v) for v in x)
+              return 0
+          assert count_chapter_nodes(chapter_tree) == 39
           (out/cue_path.name).write_bytes(cue_path.read_bytes())
           (out/chapter_path.name).write_bytes(chapter_path.read_bytes())
 
