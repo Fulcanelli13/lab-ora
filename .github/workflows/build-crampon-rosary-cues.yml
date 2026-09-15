@@ -21,15 +21,27 @@ jobs:
         with:
           python-version: '3.12'
       - name: Build and validate Crampon Rosary cues
-        run: python tools/build_crampon_rosary_cues_v1.py
-      - name: Commit validated cue and chapter shards
+        id: build
+        shell: bash
+        run: |
+          set +e
+          python tools/build_crampon_rosary_cues_v1.py > data/crampon-rosary-cues-build.log 2>&1
+          code=$?
+          cat data/crampon-rosary-cues-build.log
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit $code
+      - name: Commit validated outputs or diagnostic log
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/crampon-cues data/crampon-chapters data/crampon-rosary-cues-v1-report.json
+          git add data/crampon-rosary-cues-build.log
+          test -d data/crampon-cues && git add data/crampon-cues
+          test -d data/crampon-chapters && git add data/crampon-chapters
+          test -f data/crampon-rosary-cues-v1-report.json && git add data/crampon-rosary-cues-v1-report.json
           if git diff --cached --quiet; then
-            echo "No cue changes"
+            echo "No cue/log changes"
           else
-            git commit -m "Build verified Crampon Rosary cues"
+            git commit -m "Record Crampon Rosary cue build result"
             git push
           fi
