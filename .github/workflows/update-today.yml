@@ -1,0 +1,61 @@
+name: Update Lab-ora Today feeds
+
+on:
+  push:
+    paths:
+      - 'tools/labora_today_collector_rc2.py'
+      - '.github/workflows/update-today.yml'
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: labora-today-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Collect English feed
+        run: python tools/labora_today_collector_rc2.py --language en --output labora-today-en.json
+
+      - name: Collect French feed
+        run: python tools/labora_today_collector_rc2.py --language fr --output labora-today-fr.json
+
+      - name: Validate generated feeds
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for lang in ('en','fr'):
+              p=Path(f'labora-today-{lang}.json')
+              data=json.loads(p.read_text(encoding='utf-8'))
+              assert data.get('language') == lang
+              assert data.get('meditation') or data.get('headlines'), f'empty {lang} feed'
+              print(lang, data.get('generatedAt'), len(data.get('headlines', [])), bool(data.get('meditation')))
+          PY
+
+      - name: Commit refreshed feeds
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add labora-today-en.json labora-today-fr.json
+          if git diff --cached --quiet; then
+            echo 'No feed changes to commit.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh Lab-ora Today feeds'
+          git push
