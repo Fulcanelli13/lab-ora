@@ -6,6 +6,7 @@ on:
     paths:
       - 'tools/extract_crampon_chapters_v1.py'
       - 'tools/extract_crampon_rosary.py'
+      - 'tools/compact_crampon_rosary.py'
       - 'tools/rosary_refs_en.json'
       - '.github/workflows/extract-crampon-rosary.yml'
 
@@ -32,6 +33,10 @@ jobs:
         run: |
           python tools/extract_crampon_rosary.py | tee data/crampon-rosary-cues-extract.log
 
+      - name: Build compact runtime payload
+        shell: bash
+        run: python tools/compact_crampon_rosary.py
+
       - name: Commit generated corpus and cue dataset
         shell: bash
         run: |
@@ -44,7 +49,8 @@ jobs:
             data/crampon-rosary-split-source-v1.json \
             data/crampon-rosary-cues-extract.log \
             data/rosary-scripture-fr-crampon-v1.json \
-            data/rosary-scripture-fr-crampon-v1-audit.json
+            data/rosary-scripture-fr-crampon-v1-audit.json \
+            data/rosary-scripture-fr-crampon-v1.compact.json
           if git diff --cached --quiet; then
             echo "No corpus/cue changes"
           else
