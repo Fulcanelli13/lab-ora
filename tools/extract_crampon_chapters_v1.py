@@ -8,6 +8,7 @@ SOURCE_BLOB_SHA1="d00e7f91c6f20c9e5c6a970deb655bf041dcfdbd"
 SOURCE_SIZE=13186190
 OUT=Path("data/crampon-rosary-chapters-v1.json")
 REPORT=Path("data/crampon-rosary-chapters-v1-report.json")
+SPLIT_OUT=Path("data/crampon-rosary-split-source-v1.json")
 REQUIRED={
  "Luke":[1,2,3,4,9,15,22,23,24], "John":[1,2,3,6,18,19,20],
  "Matthew":[3,5,6,10,16,17,26,27,28], "Mark":[1,16],
@@ -25,6 +26,7 @@ ALIASES={
  "Apocalypse":["Apocalypse","Revelation","Révélation","Revelation of John"],
  "Judith":["Judith"]
 }
+SPLIT_SOURCE=[("Luke",1,38),("Luke",3,21),("Luke",3,22),("Matthew",27,29)]
 
 def norm(s):
  s=unicodedata.normalize("NFKD",str(s)).encode("ascii","ignore").decode("ascii").lower()
@@ -81,7 +83,13 @@ def main():
  payload={"metadata":meta,"chapters":out}
  OUT.parent.mkdir(parents=True,exist_ok=True)
  OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+ split_payload={"metadata":{"source_commit":SOURCE_COMMIT,"source_git_blob_sha1":SOURCE_BLOB_SHA1},"verses":{}}
+ for book,ch,verse in SPLIT_SOURCE:
+  hit=next((v["text"] for v in out[book][str(ch)] if v["verse"]==verse),None)
+  if not hit: raise SystemExit(f"missing split source {book} {ch}:{verse}")
+  split_payload["verses"][f"{book} {ch}:{verse}"]=hit
+ SPLIT_OUT.write_text(json.dumps(split_payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  REPORT.write_text(json.dumps({"status":"PASS_WITH_SOURCE_GAPS" if source_blanks else "PASS",**meta},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
- print(json.dumps({"status":"PASS_WITH_SOURCE_GAPS" if source_blanks else "PASS",**meta},ensure_ascii=False,indent=2))
+ print(json.dumps({"status":"PASS_WITH_SOURCE_GAPS" if source_blanks else "PASS",**meta,"split_source_count":len(SPLIT_SOURCE)},ensure_ascii=False,indent=2))
 
 if __name__=="__main__": main()
