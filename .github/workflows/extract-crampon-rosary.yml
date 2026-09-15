@@ -19,15 +19,28 @@ jobs:
         with:
           python-version: '3.12'
       - name: Extract and verify pinned Crampon corpus
-        run: python tools/extract_crampon_chapters_v1.py
-      - name: Commit compact verified corpus
+        id: extract
+        shell: bash
+        run: |
+          mkdir -p data
+          set +e
+          python tools/extract_crampon_chapters_v1.py > data/crampon-rosary-extract.log 2>&1
+          code=$?
+          cat data/crampon-rosary-extract.log
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit $code
+      - name: Commit corpus or diagnostic log
+        if: always()
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/crampon-rosary-chapters-v1.json data/crampon-rosary-chapters-v1-report.json
+          git add data/crampon-rosary-extract.log
+          test -f data/crampon-rosary-chapters-v1.json && git add data/crampon-rosary-chapters-v1.json
+          test -f data/crampon-rosary-chapters-v1-report.json && git add data/crampon-rosary-chapters-v1-report.json
           if git diff --cached --quiet; then
-            echo "No corpus changes"
+            echo "No corpus/log changes"
           else
-            git commit -m "Generate verified Crampon Rosary corpus"
+            git commit -m "Record Crampon Rosary extraction result"
             git push
           fi
