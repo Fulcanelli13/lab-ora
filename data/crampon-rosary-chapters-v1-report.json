@@ -23,7 +23,14 @@
     "Apocalypse": "Revelation of John",
     "Judith": "Judith"
   },
+  "canonical_chapter_aliases": {
+    "Psalm 44": "Psalm 45",
+    "Psalm 131": "Psalm 132"
+  },
   "blank_source_entries": [
     "Matthew 17:27"
+  ],
+  "known_source_shape_notes": [
+    "Judith 13:23–31 are present inside the database record keyed as Judith 13:20; cue extraction must use verified verbatim substrings."
   ]
 }

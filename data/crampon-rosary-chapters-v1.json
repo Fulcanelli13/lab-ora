@@ -23,8 +23,15 @@
       "Apocalypse": "Revelation of John",
       "Judith": "Judith"
     },
+    "canonical_chapter_aliases": {
+      "Psalm 44": "Psalm 45",
+      "Psalm 131": "Psalm 132"
+    },
     "blank_source_entries": [
       "Matthew 17:27"
+    ],
+    "known_source_shape_notes": [
+      "Judith 13:23–31 are present inside the database record keyed as Judith 13:20; cue extraction must use verified verbatim substrings."
     ]
   },
   "chapters": {
@@ -5401,128 +5408,152 @@
       ]
     },
     "Psalm": {
-      "44": [
+      "45": [
         {
           "verse": 1,
-          "text": "Au maître de chant. Des fils de Coré. Cantique."
+          "text": "Au maître de chant. Sur les lis. Cantique des fils de Coré. Chant d'amour."
         },
         {
           "verse": 2,
-          "text": "O Dieu, nous avons entendu de nos oreilles, nos pères nous ont raconté l'œuvre que tu as accomplie de leur temps, aux jours anciens."
+          "text": "De mon cœur jaillit un beau chant; je dis: \" Mon œuvre est pour un roi! \" Ma langue est comme le roseau rapide du scribe,"
         },
         {
           "verse": 3,
-          "text": "De ta main tu as chassé des nations pour les établir, tu as frappé des peuples pour les étendre."
+          "text": "Tu es le plus beau des fils de l'homme, la grâce est répandue sur tes lèvres; c'est pourquoi Dieu t'a béni pour toujours."
         },
         {
           "verse": 4,
-          "text": "Car ce n'est point avec leur épée qu'ils ont conquis le pays, ce n'est point leur bras qui leur a donné la victoire; mais c'est ta droite, c'est ton bras, c'est la lumière de ta face, parce que tu les aimais."
+          "text": "Ceins ton épée sur ta cuisse, ô héros, revêts ta splendeur et ta majesté."
         },
         {
           "verse": 5,
-          "text": "C'est toi qui es mon roi, ô Dieu: ordonne le salut de Jacob!"
+          "text": "Et dans ta majesté avance-toi, monte sur ton char, combats pour la vérité, la douceur et la justice; et que ta droite te fasse accomplir des faits merveilleux."
         },
         {
           "verse": 6,
-          "text": "Par toi nous renverserons nos ennemis, en ton nom nous écraserons nos adversaires."
+          "text": "Tes flèches sont aiguës; des peuples tomberont à tes pieds; elles perceront le cœur des ennemis du roi."
         },
         {
           "verse": 7,
-          "text": "Car ce n'est pas en mon arc que j'ai confiance ce n'est pas mon épée qui me sauvera."
+          "text": "Ton trône, ô Dieu, est établi pour toujours; le sceptre de ta royauté est un sceptre de droiture."
         },
         {
           "verse": 8,
-          "text": "Mais c'est toi qui nous délivres de nos ennemis, et qui confonds ceux qui nous haïssent."
+          "text": "Tu aimes la justice et tu hais l'iniquité: c'est pourquoi Dieu, ton Dieu, t'a oint d'une huile d'allégresse, de préférence à tes compagnons."
         },
         {
           "verse": 9,
-          "text": "En Dieu nous nous glorifions chaque jour, et nous célébrons ton nom à jamais. — Séla."
+          "text": "La myrrhe, l'aloès et la casse s'exhalent de tous tes vêtements; des palais d'ivoire, les lyres te réjouissent."
         },
         {
           "verse": 10,
-          "text": "Cependant tu nous repousses et nous couvres de honte; tu ne sors plus avec nos armées."
+          "text": "Des filles de rois sont parmi tes bien-aimées; la reine est à ta droite, parée de l'or d'Ophir."
         },
         {
           "verse": 11,
-          "text": "Tu nous fais reculer devant l'ennemi, et ceux qui nous haïssent nous dépouillent."
+          "text": "\" Ecoute, ma fille, regarde et prête l'oreille: oublie ton peuple et la maison de ton père,"
         },
         {
           "verse": 12,
-          "text": "Tu nous livres comme des brebis destinées à la boucherie, tu nous disperses parmi les nations;"
+          "text": "et le roi sera épris de ta beauté; car il est ton Seigneur: rends-lui tes hommages."
         },
         {
           "verse": 13,
-          "text": "tu vends ton peuple à vil prix, tu ne l'estimes pas à une grande valeur."
+          "text": "La fille de Tyr, avec des présents, et les plus riches du peuple rechercheront ta faveur. \""
         },
         {
           "verse": 14,
-          "text": "Tu fais de nous un objet d'opprobre pour nos voisins, de moquerie et de risée pour ceux qui nous entourent."
+          "text": "Toute resplendissante est la fille du roi dans l'intérieur; son vêtement est fait de tissus d'or."
         },
         {
           "verse": 15,
-          "text": "Tu nous rends la fable des nations, et un sujet de hochements de tête parmi les peuples."
+          "text": "En robe de couleurs variées, elle est présentée au roi; après elles, des jeunes filles ses compagnes, te sont amenées."
         },
         {
           "verse": 16,
-          "text": "Ma honte est toujours devant mes yeux, et la confusion couvre mon visage,"
+          "text": "On les introduit au milieu des réjouissances et de l'allégresse; elles entrent dans le palais du Roi."
         },
         {
           "verse": 17,
-          "text": "à la voix de celui qui m'insulte et m'outrage, à la vue de l'ennemi et de celui qui respire la vengeance."
+          "text": "Tes enfants prendront la place de tes pères; tu les établiras princes sur toute la terre."
         },
         {
           "verse": 18,
-          "text": "Tout cela nous arrive sans que nous t'ayons oublié, sans que nous ayons été infidèles à ton alliance."
-        },
-        {
-          "verse": 19,
-          "text": "Notre cœur ne s'est point détourné en arrière, nos pas ne se sont pas écartés de ton sentier,"
-        },
-        {
-          "verse": 20,
-          "text": "pour que tu nous écrases dans la retraite des chacals, et que tu nous couvres de l'ombre de la mort."
-        },
-        {
-          "verse": 21,
-          "text": "Si nous avions oublié le nom de notre Dieu, et tendu les mains vers un dieu étranger,"
-        },
-        {
-          "verse": 22,
-          "text": "Dieu ne l'aurait-il pas aperçu, lui qui connaît les secrets du cœur?"
-        },
-        {
-          "verse": 23,
-          "text": "Mais c'est à cause de toi qu'on nous égorge tous les jours, qu'on nous traite comme des brebis destinées à la boucherie."
-        },
-        {
-          "verse": 24,
-          "text": "Réveille-toi! Pourquoi dors-tu, Seigneur? Réveille-toi, et ne nous repousse pas à jamais!"
-        },
-        {
-          "verse": 25,
-          "text": "Pourquoi caches-tu ta face, oublies-tu notre misère et notre oppression?"
-        },
-        {
-          "verse": 26,
-          "text": "Car notre âme est affaissée jusqu'à la poussière, notre corps est attaché à la terre."
-        },
-        {
-          "verse": 27,
-          "text": "Lève-toi pour nous secourir, délivre-nous à cause de ta bonté!"
+          "text": "Je rappellerai ton nom dans tous les âges; et les peuples te loueront éternellement et à jamais."
         }
       ],
-      "131": [
+      "132": [
         {
           "verse": 1,
-          "text": "Cantique des montées. De David. Yahweh, mon cœur ne s'est pas enflé d'orgueil, et mes regards n'ont pas été hautains. Je ne recherche point les grandes choses, ni ce qui est élevé au-dessus de moi."
+          "text": "Cantique des montées. Souviens-toi, Yahweh, de David, de toutes ses peines!"
         },
         {
           "verse": 2,
-          "text": "Non! Je tiens mon âme dans le calme et le silence. Comme un enfant sevré sur le sein de sa mère, comme l'enfant sevré mon âme est en moi."
+          "text": "Il fit ce serment à Yahweh, ce vœu au Fort de Jacob:"
         },
         {
           "verse": 3,
-          "text": "Israël, mets ton espoir en Yahweh! Maintenant et toujours!"
+          "text": "« Je n'entrerai pas dans la tente où j'habite, je ne monterai pas sur le lit où je repose;"
+        },
+        {
+          "verse": 4,
+          "text": "je n'accorderai point de sommeil à mes yeux, ni d'assoupissement à mes paupières,"
+        },
+        {
+          "verse": 5,
+          "text": "jusqu'à ce que j'aie trouvé un lieu pour Yahweh, une demeure pour le Fort de Jacob. »"
+        },
+        {
+          "verse": 6,
+          "text": "Voici, entendions-nous dire, qu'elle est à Ephrata; nous l'avons trouvée dans les champs de Jaar."
+        },
+        {
+          "verse": 7,
+          "text": "Allons au tabernacle de Yahweh, prosternons-nous devant l'escabeau de ses pieds."
+        },
+        {
+          "verse": 8,
+          "text": "Lève-toi, Yahweh, viens au lieu de ton repos, toi et l'arche de ta majesté!"
+        },
+        {
+          "verse": 9,
+          "text": "Que tes prêtres soient revêtus de justice, et que tes fidèles poussent des cris d'allégresse!"
+        },
+        {
+          "verse": 10,
+          "text": "A cause de David, ton serviteur, ne repousse pas la face de ton Oint!"
+        },
+        {
+          "verse": 11,
+          "text": "Yahweh a juré à David la vérité, il ne s'en départira pas: « C'est du fruit de tes entrailles, que je mettrai sur ton trône."
+        },
+        {
+          "verse": 12,
+          "text": "Si tes fils gardent mon alliance, et les préceptes que je leur enseignerai, leurs fils aussi, à tout jamais, seront assis sur ton trône. »"
+        },
+        {
+          "verse": 13,
+          "text": "Car Yahweh a choisi Sion, il l'a désirée pour sa demeure."
+        },
+        {
+          "verse": 14,
+          "text": "« C'est le lieu de mon repos pour toujours; j'y habiterai, car je l'ai désirée."
+        },
+        {
+          "verse": 15,
+          "text": "Je répandrai de riches bénédictions sur sa subsistance, je rassasierai de pain ses pauvres."
+        },
+        {
+          "verse": 16,
+          "text": "Je revêtirai de salut ses prêtres, et ses fidèles pousseront des cris d'allégresse."
+        },
+        {
+          "verse": 17,
+          "text": "Là je ferai grandir la puissance de David, je préparerai un flambeau à mon Oint."
+        },
+        {
+          "verse": 18,
+          "text": "Je revêtirai de honte ses ennemis, et sur son front resplendira son diadème. »"
         }
       ]
     },
