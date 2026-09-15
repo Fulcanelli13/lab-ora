@@ -30,6 +30,18 @@ jobs:
           cat data/crampon-rosary-cues-build.log
           echo "exit_code=$code" >> "$GITHUB_OUTPUT"
           exit $code
+      - name: Package verified Crampon corpus
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: labora-crampon-rosary-v1
+          path: |
+            data/crampon-cues
+            data/crampon-chapters
+            data/crampon-rosary-cues-v1-report.json
+            data/crampon-rosary-chapters-v1-report.json
+          if-no-files-found: error
+          retention-days: 30
       - name: Commit validated outputs or diagnostic log
         if: always()
         run: |
