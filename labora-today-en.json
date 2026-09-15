@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2026-09-15T07:04:42Z",
+  "language": "en",
+  "meditation": {
+    "source": "Opus Dei",
+    "lane": "meditation",
+    "language": "en",
+    "title": "Opus DeiOpus DeiMeditations: September 15, Our Lady of Sorrows",
+    "date": "2026-09-15",
+    "url": "https://opusdei.org/en/meditation/meditations-september-15-our-lady-of-sorrows/",
+    "subtitle": "Some reflections that can assist our prayer on the feast of Our Lady of Sorrows."
+  },
+  "headlines": [
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Leo XIV celebrates his 71st birthday",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-celebrates-his-71st-birthday/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "34 dioceses received TLM permissions in 2025",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/34-dioceses-received-tlm-permissions-in-2025/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/14/260914b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Durandus on the Exaltation of the Cross",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Leo reverses Francis-era Vatican salary cuts",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-reverses-francis-era-vatican-salary-cuts/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "America’s youngest bishop blames ‘racism’ for lack of African-American bishops",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/americas-youngest-bishop-blames-racism-for-lack-of-african-american-bishops/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audiences",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/14/260914a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Sixteenth Sunday after Pentecost",
+      "publishedAt": "2026-09-13T14:10:46.385000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-sixteenth-sunday-after-pentecost.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Exclusive: Cardinal Spengler defends Church’s approach to inculturation and environmentalism",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/exclusive-cardinal-spengler-defends-churchs-approach-to-inculturation-and-environmentalism/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "US bishops mark 25 years since 9/11",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/us-bishops-mark-25-years-since-9-11/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "The Pope’s words at the Angelus prayer",
+      "publishedAt": "2026-09-13T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/13/260913a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Durandus on the Kiss of Peace",
+      "publishedAt": "2026-09-12T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-kiss-of-peace.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Most Holy Name of Mary 2026",
+      "publishedAt": "2026-09-12T11:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-most-holy-name-of-mary-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "SingCon Liturgical Live-Streams This Weekend",
+      "publishedAt": "2026-09-11T22:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-liturgical-live-streams-this.html"
+    }
+  ],
+  "_diagnostics": {
+    "language": "en",
+    "lastFetched": "2026-09-15T07:04:39Z",
+    "lastSucceeded": "2026-09-15T07:04:42Z",
+    "adapters": {
+      "opus_dei": {
+        "ok": true,
+        "count": 1
+      },
+      "ad_vaticanum_vatican": {
+        "ok": true,
+        "count": 5
+      },
+      "ad_vaticanum_outside": {
+        "ok": true,
+        "count": 5
+      },
+      "nlm_atom": {
+        "ok": true,
+        "count": 5
+      },
+      "holy_see_en": {
+        "ok": true,
+        "count": 5
+      }
+    },
+    "itemCounts": {
+      "vatican": 3,
+      "outside_walls": 3,
+      "official": 3,
+      "tradition": 5
+    },
+    "discardedMalformed": 0,
+    "duplicatesRemoved": 2,
+    "policy": {
+      "target": 14,
+      "hardMax": 15,
+      "normalWindowHours": 96,
+      "hardExpiryHours": 168,
+      "strictLanguage": true
+    }
+  }
+}

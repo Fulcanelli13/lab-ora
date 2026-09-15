@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-09-15T07:04:47Z",
+  "language": "fr",
+  "meditation": {
+    "source": "Opus Dei",
+    "lane": "meditation",
+    "language": "fr",
+    "title": "Opus DeiOpus DeiMéditation : 15 septembre — Notre Dame des Douleurs",
+    "date": "2026-09-15",
+    "url": "https://opusdei.org/fr/meditation/meditation-15-septembre-notre-dame-des-douleurs/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le martyre intérieur de Marie ; les larmes de la Vierge Marie ; un cœur compatissant."
+  },
+  "headlines": [
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218898"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le Saint-Siège à l'ONU: la fragilité n'efface pas la dignité des personnes âgées",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/le-saint-siege-onu-la-dignite-des-personnes-agees-ne-dispararait.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218904"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Préparation des JMJ de Séoul: «Les jeunes sont l'avenir de l'Église et du monde»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/preparation-jmj-seoul-2027-cardinal-farrell-esperance.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Maroc: nomination d’un coadjuteur à Rabat pour remplacer le cardinal Cristobal Lopez Romero",
+      "publishedAt": "2026-09-13T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218885"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "La première «Médaille Léon XIV pour la durabilité» remise au cardinal Michael Czerny",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/villanova-devoile-premier-laureat-medaille-pape-leon-durabilite.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Rome: Mgr Castet célèbre la messe à la Casa San Clemente de l’Institut du Bon-Pasteur (IBP)",
+      "publishedAt": "2026-09-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218873"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Angleterre : Mgr Moth aborde les questions liturgiques et Traditionis Custodes",
+      "publishedAt": "2026-09-10T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218862"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "JOAJ: le Saint-Siège invite les jeunes ouest-africains à être une force transformatrice",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/joaj-czerny-smerilli-invitent-jeunes-joaj-transformation.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Clôture à Bali du sommet sur l’IA: «Une ressource qui doit libérer et non asservir»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/bali-magnificahumanitas-pape-leon-xiv-intelligence-artificielle.html"
+    }
+  ],
+  "_diagnostics": {
+    "language": "fr",
+    "lastFetched": "2026-09-15T07:04:42Z",
+    "lastSucceeded": "2026-09-15T07:04:47Z",
+    "adapters": {
+      "opus_dei": {
+        "ok": true,
+        "count": 1
+      },
+      "vatican_news_pape_fr": {
+        "ok": false,
+        "count": 0,
+        "error": "ValueError: month must be in 1..12"
+      },
+      "vatican_news_saint_siege_fr": {
+        "ok": true,
+        "count": 5
+      },
+      "riposte_catholique_fr": {
+        "ok": true,
+        "count": 5
+      },
+      "paix_liturgique_fr": {
+        "ok": true,
+        "count": 1
+      }
+    },
+    "itemCounts": {
+      "vatican": 0,
+      "outside_walls": 5,
+      "official": 5,
+      "tradition": 0
+    },
+    "discardedMalformed": 0,
+    "duplicatesRemoved": 0,
+    "policy": {
+      "target": 14,
+      "hardMax": 15,
+      "normalWindowHours": 96,
+      "hardExpiryHours": 168,
+      "strictLanguage": true
+    }
+  }
+}
