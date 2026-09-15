@@ -38,6 +38,7 @@ jobs:
           git add data/crampon-rosary-extract.log
           test -f data/crampon-rosary-chapters-v1.json && git add data/crampon-rosary-chapters-v1.json
           test -f data/crampon-rosary-chapters-v1-report.json && git add data/crampon-rosary-chapters-v1-report.json
+          test -f data/crampon-rosary-split-source-v1.json && git add data/crampon-rosary-split-source-v1.json
           if git diff --cached --quiet; then
             echo "No corpus/log changes"
           else
