@@ -1,0 +1,33 @@
+name: Extract Crampon Rosary Corpus
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'tools/extract_crampon_chapters_v1.py'
+      - '.github/workflows/extract-crampon-rosary.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extract and verify pinned Crampon corpus
+        run: python tools/extract_crampon_chapters_v1.py
+      - name: Commit compact verified corpus
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/crampon-rosary-chapters-v1.json data/crampon-rosary-chapters-v1-report.json
+          if git diff --cached --quiet; then
+            echo "No corpus changes"
+          else
+            git commit -m "Generate verified Crampon Rosary corpus"
+            git push
+          fi
