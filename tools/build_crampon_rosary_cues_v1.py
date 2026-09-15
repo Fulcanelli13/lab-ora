@@ -18,6 +18,12 @@ SPLITS={
  'Matthew 27:29a':"Ils tressèrent une couronne d'épines, qu'ils posèrent sur sa tête, et lui mirent un roseau dans la main droite;",
  'Matthew 27:29b':'puis, fléchissant le genou devant lui, ils lui disaient par dérision: " Salut, roi des Juifs. "'
 }
+# Locked cue refs remain Douay/Vulgate-facing. Source lookups follow Crampon/database versification.
+PSALM_CHAPTER_MAP={44:45,131:132}
+JUDITH_SEGMENTS={
+ 'Judith 13:23':'Ma fille, tu es bénie par le Seigneur, le Dieu très haut, plus que toutes les femmes qui sont sur la terre.',
+ 'Judith 13:25':"Il a rendu aujourd'hui ton nom si glorieux, que ta louange ne disparaîtra pas de la bouche des hommes, qui se souviendront éternellement de la puissance du Seigneur;"
+}
 FAMILY={'joy':'joyful','lum':'luminous','sor':'sorrowful','glo':'glorious'}
 SLUGS={'1 Corinthians':'1-corinthians','Isaias':'isaias','Psalm':'psalm','Canticles':'canticles','Apocalypse':'apocalypse','Judith':'judith','Luke':'luke','John':'john','Matthew':'matthew','Mark':'mark','Acts':'acts'}
 REF_RE=re.compile(r'^(.+?) (\d+):(\d+)(?:[–-](\d+))?([ab])?$')
@@ -33,32 +39,50 @@ def parse_ref(ref):
  book,chapter,start,end,suffix=m.groups()
  return book,int(chapter),int(start),int(end or start),suffix
 
+def french_display_ref(book,canonical_ch,start,end,suffix=''):
+ source_ch=PSALM_CHAPTER_MAP.get(canonical_ch,canonical_ch) if book=='Psalm' else canonical_ch
+ fr_book={'Psalm':'Psaume','Canticles':'Cantique des cantiques','Apocalypse':'Apocalypse','Isaias':'Isaïe','1 Corinthians':'1 Corinthiens'}.get(book,book)
+ span=str(start) if start==end else f'{start}–{end}'
+ return f'{fr_book} {source_ch}:{span}{suffix or ""}'
+
 def main():
  corpus=json.loads(CORPUS.read_text(encoding='utf-8'))
  contract=json.loads(CONTRACT.read_text(encoding='utf-8'))
  if len(contract)!=200: raise SystemExit(f'contract count {len(contract)} != 200')
- seen=set(); out={v:[] for v in FAMILY.values()}; split_checks=[]; missing=[]
+ seen=set(); out={v:[] for v in FAMILY.values()}; split_checks=[]; versification_checks=[]; missing=[]
  for row in contract:
   key=(row['m'],int(row['b']))
   if key in seen: raise SystemExit(f'duplicate cue {key}')
   seen.add(key)
-  ref=row['r']; book,ch,start,end,suffix=parse_ref(ref); vm=verse_map(corpus,book,ch)
-  need=list(range(start,end+1)); absent=[v for v in need if not vm.get(v)]
-  if absent:
-   missing.append({'reference':ref,'missing_verses':absent,'available':[{"verse":v,"text":t} for v,t in sorted(vm.items())]}); continue
-  source=' '.join(vm[v] for v in need)
-  if suffix:
-   if ref not in SPLITS: raise SystemExit(f'unconfigured split {ref}')
-   fr=SPLITS[ref]
-   full=vm[start]
-   if fr not in full: raise SystemExit(f'split is not verbatim substring: {ref} => {fr!r} not in {full!r}')
-   policy='verbatim_source_segment'
-   split_checks.append({'reference':ref,'source_verse':full,'segment':fr,'verbatim_substring':True})
+  ref=row['r']; book,ch,start,end,suffix=parse_ref(ref)
+  source_ch=PSALM_CHAPTER_MAP.get(ch,ch) if book=='Psalm' else ch
+  vm=verse_map(corpus,book,source_ch)
+  source_reference=f'{book} {source_ch}:{start}' + (f'–{end}' if end!=start else '')
+  display_reference_fr=french_display_ref(book,ch,start,end,suffix)
+  if ref in JUDITH_SEGMENTS:
+   full=vm.get(20,''); fr=JUDITH_SEGMENTS[ref]
+   if not full or fr not in full: raise SystemExit(f'Judith normalized-record segment not found verbatim: {ref}')
+   policy='verbatim_source_segment_database_versification_exception'; source_verses=[20]
+   source_reference='Judith 13:20 [database record containing printed vv. 23–31]'
+   display_reference_fr=ref
+   versification_checks.append({'reference':ref,'lookup':source_reference,'segment':fr,'verbatim_substring':True})
   else:
-   fr=source; policy='verbatim_full_referenced_verses'
+   need=list(range(start,end+1)); absent=[v for v in need if not vm.get(v)]
+   if absent:
+    missing.append({'reference':ref,'source_chapter':source_ch,'missing_verses':absent,'available':sorted(vm)}); continue
+   source=' '.join(vm[v] for v in need); source_verses=need
+   if suffix:
+    if ref not in SPLITS: raise SystemExit(f'unconfigured split {ref}')
+    fr=SPLITS[ref]; full=vm[start]
+    if fr not in full: raise SystemExit(f'split is not verbatim substring: {ref} => {fr!r} not in {full!r}')
+    policy='verbatim_source_segment'; split_checks.append({'reference':ref,'source_verse':full,'segment':fr,'verbatim_substring':True})
+   else:
+    fr=source; policy='verbatim_full_referenced_verses'
+   if book=='Psalm' and source_ch!=ch:
+    versification_checks.append({'reference':ref,'lookup':source_reference,'display_reference_fr':display_reference_fr,'chapter_map':f'{ch}→{source_ch}'})
   fam=FAMILY[row['m'][:3]]
-  out[fam].append({'m':row['m'],'b':int(row['b']),'r':ref,'fr':fr,'policy':policy,'source_verses':need})
- if missing: raise SystemExit('missing referenced verses: '+json.dumps(missing,ensure_ascii=False))
+  out[fam].append({'m':row['m'],'b':int(row['b']),'r':ref,'reference_fr':display_reference_fr,'fr':fr,'policy':policy,'source_reference':source_reference,'source_verses':source_verses})
+ if missing: raise SystemExit('missing referenced verses after versification map: '+json.dumps(missing,ensure_ascii=False))
  CUE_DIR.mkdir(parents=True,exist_ok=True); CHAPTER_DIR.mkdir(parents=True,exist_ok=True)
  for fam,rows in out.items():
   if len(rows)!=50: raise SystemExit(f'{fam} count {len(rows)} != 50')
@@ -70,9 +94,10 @@ def main():
  report={
   'status':'PASS','translation':'La Bible Augustin Crampon 1923','source_git_blob_sha1':corpus['metadata']['source_git_blob_sha1'],
   'contract_count':len(contract),'validated_cue_count':sum(len(v) for v in out.values()),'family_counts':{k:len(v) for k,v in out.items()},
-  'split_cue_count':len(split_checks),'split_checks':split_checks,'chapter_count':sum(len(v) for v in corpus['chapters'].values()),
-  'book_count':len(corpus['chapters']),'blank_source_entries':corpus['metadata'].get('blank_source_entries',[]),
-  'fail_closed':True,'text_policy':'No model translation. Ordinary cues are exact full Crampon referenced verses; a/b cues are exact source substrings.'
+  'split_cue_count':len(split_checks),'split_checks':split_checks,'versification_exception_count':len(versification_checks),'versification_checks':versification_checks,
+  'chapter_count':sum(len(v) for v in corpus['chapters'].values()),'book_count':len(corpus['chapters']),
+  'blank_source_entries':corpus['metadata'].get('blank_source_entries',[]),'fail_closed':True,
+  'text_policy':'No model translation. Ordinary cues are exact full Crampon referenced verses; a/b and documented Judith database-versification cues are exact source substrings.'
  }
  REPORT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print(json.dumps(report,ensure_ascii=False,indent=2))
