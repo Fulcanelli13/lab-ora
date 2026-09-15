@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:02:13Z",
+  "generatedAt": "2026-09-15T23:32:22Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218898"
+      "title": "Macron « snobé » par le pape ? Même Le Canard enchaîné parle de « camouflet »",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218923"
     },
     {
       "source": "Vatican News",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "XVème PÈLERINAGE SUMMORUM PONTIFICUM À ROME, 23, 24, 25 OCTOBRE 2026",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4512"
+      "title": "LA PARTICIPATION DES FIDÈLES UN DES ATOUTS MAJEURS DE LA MESSE TRADITIONNELLE",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4513"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
       "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218904"
+      "url": "https://riposte-catholique.fr/archives/218898"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Maroc: nomination d’un coadjuteur à Rabat pour remplacer le cardinal Cristobal Lopez Romero",
-      "publishedAt": "2026-09-13T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218885"
+      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218904"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: Mgr Castet célèbre la messe à la Casa San Clemente de l’Institut du Bon-Pasteur (IBP)",
-      "publishedAt": "2026-09-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218873"
+      "title": "Maroc: nomination d’un coadjuteur à Rabat pour remplacer le cardinal Cristobal Lopez Romero",
+      "publishedAt": "2026-09-13T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218885"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Angleterre : Mgr Moth aborde les questions liturgiques et Traditionis Custodes",
-      "publishedAt": "2026-09-10T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218862"
+      "title": "Rome: Mgr Castet célèbre la messe à la Casa San Clemente de l’Institut du Bon-Pasteur (IBP)",
+      "publishedAt": "2026-09-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218873"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-15T19:02:02Z",
-    "lastSucceeded": "2026-09-15T19:02:13Z",
+    "lastFetched": "2026-09-15T23:32:16Z",
+    "lastSucceeded": "2026-09-15T23:32:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
