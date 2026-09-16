@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-15T23:32:22Z",
+  "generatedAt": "2026-09-16T04:53:11Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 15 septembre — Notre Dame des Douleurs",
-    "date": "2026-09-15",
-    "url": "https://opusdei.org/fr/meditation/meditation-15-septembre-notre-dame-des-douleurs/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le martyre intérieur de Marie ; les larmes de la Vierge Marie ; un cœur compatissant."
+    "title": "Méditation : Mercredi de la 24ème semaine du Temps Ordinaire",
+    "date": "2026-09-16",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-24eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le jeu divin ; la découverte de l’image de Dieu ; une joie débordante."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-15T23:32:16Z",
-    "lastSucceeded": "2026-09-15T23:32:22Z",
+    "lastFetched": "2026-09-16T04:53:07Z",
+    "lastSucceeded": "2026-09-16T04:53:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
