@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:53:11Z",
+  "generatedAt": "2026-09-16T11:40:09Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, «la Bibliothèque apostolique est un cœur»",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-bibliotheque-apostolique-reconciliation-dialogue-culture.html"
+      "title": "Audience générale: construire une famille humaine à l’heure de l’intelligence artificielle",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-communaute-humaine-dignite-ia-famille-amour.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "De nouveaux locaux pour les Archives et la Bibliothèque du Vatican",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vatican-archives-apostolique-patrimoine-conservation-chirographe.html"
+      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le désarmement n’est pas un signe de faiblesse, estime le Saint-Siège",
+      "title": "«Un chemin d’espérance», l’appel au dialogue de 3 cardinaux",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-desarmement-armes-protection-civils-developpement.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/chemin-d-esperance-dialogue-cardinaux-interview-nostra-aetate.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape Léon XIV célèbre son 71e anniversaire",
+      "title": "Pour Léon XIV, «la Bibliothèque apostolique est un cœur»",
       "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/le-pape-leon-xiv-celebre-son-71e-anniversaire.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-bibliotheque-apostolique-reconciliation-dialogue-culture.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Préparation des JMJ de Séoul: «Les jeunes sont l'avenir de l'Église et du monde»",
+      "title": "60 ans après Nostra aetate, l’Église relance le dialogue contre la haine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/preparation-jmj-seoul-2027-cardinal-farrell-esperance.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/nostra-aetate-60-ans-document-dicasteres-paix-fraternite.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "De nouveaux locaux pour les Archives et la Bibliothèque du Vatican",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vatican-archives-apostolique-patrimoine-conservation-chirographe.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +119,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La première «Médaille Léon XIV pour la durabilité» remise au cardinal Michael Czerny",
+      "title": "Le désarmement n’est pas un signe de faiblesse, estime le Saint-Siège",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/villanova-devoile-premier-laureat-medaille-pape-leon-durabilite.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "JOAJ: le Saint-Siège invite les jeunes ouest-africains à être une force transformatrice",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/joaj-czerny-smerilli-invitent-jeunes-joaj-transformation.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-desarmement-armes-protection-civils-developpement.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-16T04:53:07Z",
-    "lastSucceeded": "2026-09-16T04:53:11Z",
+    "lastFetched": "2026-09-16T11:40:03Z",
+    "lastSucceeded": "2026-09-16T11:40:09Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,

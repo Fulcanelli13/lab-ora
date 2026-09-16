@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:53:07Z",
+  "generatedAt": "2026-09-16T11:40:03Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Weekly Traditional Latin Masses to end at two Toronto churches",
+      "title": "Bishop Burbidge tells Virginia Catholics to vote against abortion and marriage amendments",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/weekly-traditional-latin-masses-to-end-at-two-toronto-churches/"
+      "url": "https://advaticanum.com/article/bishop-burbidge-tells-virginia-catholics-to-vote-against-abortion-and-marriage-amendments/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/15/260915a.html"
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916d.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Iconographic Style, #1: Truths and Myths",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
+      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
+      "publishedAt": "2026-09-16T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,25 +55,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop backs married priests but rejects women’s ordination",
+      "title": "Weekly Traditional Latin Masses to end at two Toronto churches",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-backs-married-priests-but-rejects-womens-ordination/"
+      "url": "https://advaticanum.com/article/weekly-traditional-latin-masses-to-end-at-two-toronto-churches/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/14/260914a.html"
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916c.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on the Exaltation of the Cross",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
+      "title": "The Iconographic Style, #1: Truths and Myths",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "European cardinals push for greater autonomy in synodal Church",
+      "title": "Bishop backs married priests but rejects women’s ordination",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/european-cardinals-push-for-greater-autonomy-in-synodal-church/"
+      "url": "https://advaticanum.com/article/bishop-backs-married-priests-but-rejects-womens-ordination/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "The Pope’s words at the Angelus prayer",
-      "publishedAt": "2026-09-13T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/13/260913a.html"
+      "title": "Durandus on the Exaltation of the Cross",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-kiss-of-peace.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "The Most Holy Name of Mary 2026",
-      "publishedAt": "2026-09-12T11:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-most-holy-name-of-mary-2026.html"
+      "title": "Vatican letter leaves door open for Summorum Pontificum Mass to return to St Peter’s",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-letter-leaves-door-open-for-summorum-pontificum-mass-to-return-to-st-peters/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-16T04:53:03Z",
-    "lastSucceeded": "2026-09-16T04:53:07Z",
+    "lastFetched": "2026-09-16T11:39:58Z",
+    "lastSucceeded": "2026-09-16T11:40:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,17 +147,17 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 4
+        "count": 5
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,
