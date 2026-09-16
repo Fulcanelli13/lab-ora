@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:01:22Z",
+  "generatedAt": "2026-09-16T21:21:01Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "African cardinal calls for greater synodality and stronger role for lay Catholics",
+      "title": "Cardinal Müller: ‘Muslims do not respect weak Christianity’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/african-cardinal-calls-for-greater-synodality-and-stronger-role-for-lay-catholics/"
+      "url": "https://advaticanum.com/article/cardinal-muller-muslims-do-not-respect-weak-christianity/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
-      "publishedAt": "2026-09-16T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
+      "title": "The Ember Wednesday of September 2026",
+      "publishedAt": "2026-09-16T20:35:36.424000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Burbidge tells Virginia Catholics to vote against abortion and marriage amendments",
+      "title": "African cardinal calls for greater synodality and stronger role for lay Catholics",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-burbidge-tells-virginia-catholics-to-vote-against-abortion-and-marriage-amendments/"
+      "url": "https://advaticanum.com/article/african-cardinal-calls-for-greater-synodality-and-stronger-role-for-lay-catholics/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Iconographic Style, #1: Truths and Myths",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
+      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
+      "publishedAt": "2026-09-16T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Weekly Traditional Latin Masses to end at two Toronto churches",
+      "title": "Bishop Burbidge tells Virginia Catholics to vote against abortion and marriage amendments",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/weekly-traditional-latin-masses-to-end-at-two-toronto-churches/"
+      "url": "https://advaticanum.com/article/bishop-burbidge-tells-virginia-catholics-to-vote-against-abortion-and-marriage-amendments/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Audiences",
       "publishedAt": "2026-09-16T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Iconographic Style, #1: Truths and Myths",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "The Sixteenth Sunday after Pentecost",
       "publishedAt": "2026-09-13T14:10:46.385000Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-sixteenth-sunday-after-pentecost.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Durandus on the Kiss of Peace",
-      "publishedAt": "2026-09-12T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-kiss-of-peace.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-16T17:01:18Z",
-    "lastSucceeded": "2026-09-16T17:01:22Z",
+    "lastFetched": "2026-09-16T21:20:57Z",
+    "lastSucceeded": "2026-09-16T21:21:01Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
