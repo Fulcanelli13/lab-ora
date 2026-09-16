@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:40:03Z",
+  "generatedAt": "2026-09-16T17:01:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -11,6 +11,38 @@
     "subtitle": "Some reflections that can assist our prayer during the twenty-fourth week of Ordinary Time."
   },
   "headlines": [
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Vatican marks 60 years of Nostra Aetate with new document stating Christ is the ‘one and only Redeemer’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-marks-60-years-of-nostra-aetate-with-new-document-stating-christ-is-the-one-and-only-redeemer/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "African cardinal calls for greater synodality and stronger role for lay Catholics",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/african-cardinal-calls-for-greater-synodality-and-stronger-role-for-lay-catholics/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
+      "publishedAt": "2026-09-16T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
+    },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
@@ -31,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
+      "title": "Note from the Dicastery for the Doctrine of the Faith, the Dicastery for Promoting Christian Unity, and the Dicastery for Interreligious Dialogue, entitled: “A Journey of Hope: Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate”",
       "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916d.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916f.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
-      "publishedAt": "2026-09-16T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
+      "title": "The Iconographic Style, #1: Truths and Myths",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,30 +103,6 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Iconographic Style, #1: Truths and Myths",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Exclusive: Cardinal Spengler defends Church’s approach to inculturation and environmentalism",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-cardinal-spengler-defends-churchs-approach-to-inculturation-and-environmentalism/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Bishop backs married priests but rejects women’s ordination",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-backs-married-priests-but-rejects-womens-ordination/"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
       "title": "Durandus on the Exaltation of the Cross",
       "publishedAt": "2026-09-14T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
@@ -114,20 +122,12 @@
       "title": "Durandus on the Kiss of Peace",
       "publishedAt": "2026-09-12T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-kiss-of-peace.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican letter leaves door open for Summorum Pontificum Mass to return to St Peter’s",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-letter-leaves-door-open-for-summorum-pontificum-mass-to-return-to-st-peters/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-16T11:39:58Z",
-    "lastSucceeded": "2026-09-16T11:40:03Z",
+    "lastFetched": "2026-09-16T17:01:18Z",
+    "lastSucceeded": "2026-09-16T17:01:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
+      "official": 3,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 3,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

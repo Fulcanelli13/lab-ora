@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:40:09Z",
+  "generatedAt": "2026-09-16T17:01:27Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Saint-Siège plaide pour une gouvernance éthique du nucléaire et de l’IA",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-gouvernance-ethique-nucleaire-ia-bien-commun.html"
+      "title": "Nostra aetate: «Toutes les religions sont pour la paix» affirme le cardinal Fernandez",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/nostra-aetate-cardinal-fernandez-prefet-doctrine-foi-esperance.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,7 +63,7 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Un chemin d’espérance», l’appel au dialogue de 3 cardinaux",
+      "title": "«Un chemin d’espérance», l’appel au dialogue de trois cardinaux",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/chemin-d-esperance-dialogue-cardinaux-interview-nostra-aetate.html"
     },
@@ -117,17 +117,17 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Le désarmement n’est pas un signe de faiblesse, estime le Saint-Siège",
+      "title": "Léon XIV annule les réductions de salaire dues au Covid",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-siege-desarmement-armes-protection-civils-developpement.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-annule-reductions-salaire-cardinaux-et-superieurs-covid.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-16T11:40:03Z",
-    "lastSucceeded": "2026-09-16T11:40:09Z",
+    "lastFetched": "2026-09-16T17:01:22Z",
+    "lastSucceeded": "2026-09-16T17:01:27Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 5,
       "outside_walls": 5,
-      "official": 4,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
