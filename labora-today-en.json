@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:46:03Z",
+  "generatedAt": "2026-09-17T17:02:35Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Mutsaerts says traditional movement should be known for ‘holiness, large families and vocations’, not ‘sharpness of its tweets’",
+      "title": "US bishops say 1986 economic justice principles remain relevant today",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-mutsaerts-says-traditional-movement-should-be-known-for-holiness-large-families-and-vocations-not-sharpness-of-its-tweets/"
+      "url": "https://advaticanum.com/article/us-bishops-say-1986-economic-justice-principles-remain-relevant-today/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Müller: ‘Muslims do not respect weak Christianity’",
+      "title": "Syriac Catholic bishops use Pope Leo motu proprio in bid to remove patriarch",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-muller-muslims-do-not-respect-weak-christianity/"
+      "url": "https://advaticanum.com/article/syriac-catholic-bishops-use-pope-leo-motu-proprio-in-bid-to-remove-patriarch/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "African cardinal calls for greater synodality and stronger role for lay Catholics",
+      "title": "Cardinal Oscar Cantoni hospitalised following bout of influenza",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/african-cardinal-calls-for-greater-synodality-and-stronger-role-for-lay-catholics/"
+      "url": "https://advaticanum.com/article/cardinal-oscar-cantoni-hospitalised-following-bout-of-influenza/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-17T11:45:58Z",
-    "lastSucceeded": "2026-09-17T11:46:03Z",
+    "lastFetched": "2026-09-17T17:02:33Z",
+    "lastSucceeded": "2026-09-17T17:02:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

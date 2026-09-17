@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:46:11Z",
+  "generatedAt": "2026-09-17T17:02:42Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Macron « snobé » par le pape ? Même Le Canard enchaîné parle de « camouflet »",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218923"
+      "title": "Nicolas Dupont-Aignan sur le voyage du pape en France: « Macron voulait une visite d’État. Léon XIV a imposé un voyage apostolique »",
+      "publishedAt": "2026-09-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218940"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218898"
+      "title": "Macron « snobé » par le pape ? Même Le Canard enchaîné parle de « camouflet »",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218923"
     },
     {
       "source": "Vatican News",
@@ -79,17 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
       "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218904"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Pour le cardinal Parolin, il est urgent de réguler l’IA",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-parolin-intelligence-artificielle-regulation-mondiale.html"
+      "url": "https://riposte-catholique.fr/archives/218898"
     },
     {
       "source": "Vatican News",
@@ -103,23 +95,23 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Maroc: nomination d’un coadjuteur à Rabat pour remplacer le cardinal Cristobal Lopez Romero",
-      "publishedAt": "2026-09-13T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218885"
+      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218904"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: Mgr Castet célèbre la messe à la Casa San Clemente de l’Institut du Bon-Pasteur (IBP)",
-      "publishedAt": "2026-09-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218873"
+      "title": "Maroc: nomination d’un coadjuteur à Rabat pour remplacer le cardinal Cristobal Lopez Romero",
+      "publishedAt": "2026-09-13T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218885"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-17T11:46:03Z",
-    "lastSucceeded": "2026-09-17T11:46:11Z",
+    "lastFetched": "2026-09-17T17:02:35Z",
+    "lastSucceeded": "2026-09-17T17:02:42Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -145,7 +137,7 @@
     "itemCounts": {
       "vatican": 4,
       "outside_walls": 5,
-      "official": 3,
+      "official": 2,
       "tradition": 1
     },
     "discardedMalformed": 0,
