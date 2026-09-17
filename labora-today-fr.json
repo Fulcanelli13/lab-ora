@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:56:20Z",
+  "generatedAt": "2026-09-17T11:46:11Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Audience générale: construire une famille humaine à l’heure de l’intelligence artificielle",
+      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
       "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-communaute-humaine-dignite-ia-famille-amour.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
     },
     {
       "source": "Riposte Catholique",
@@ -40,16 +40,16 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LA PARTICIPATION DES FIDÈLES UN DES ATOUTS MAJEURS DE LA MESSE TRADITIONNELLE",
-      "publishedAt": null,
+      "publishedAt": "2026-09-16T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4513"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
+      "title": "Audience générale: construire une famille humaine à l’heure de l’intelligence artificielle",
       "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-communaute-humaine-dignite-ia-famille-amour.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Un chemin d’espérance», l’appel au dialogue de trois cardinaux",
+      "title": "Les Églises catholiques orientales européennes doivent parler d’une voix commune",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/chemin-d-esperance-dialogue-cardinaux-interview-nostra-aetate.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-gugerotti-eglises-orientales-europe-voix-commune.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "60 ans après Nostra aetate, l’Église relance le dialogue contre la haine",
+      "title": "Pour le cardinal Parolin, il est urgent de réguler l’IA",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/nostra-aetate-60-ans-document-dicasteres-paix-fraternite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-parolin-intelligence-artificielle-regulation-mondiale.html"
     },
     {
       "source": "Vatican News",
@@ -114,20 +114,12 @@
       "title": "Rome: Mgr Castet célèbre la messe à la Casa San Clemente de l’Institut du Bon-Pasteur (IBP)",
       "publishedAt": "2026-09-11T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/218873"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV annule les réductions de salaire dues au Covid",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-annule-reductions-salaire-cardinaux-et-superieurs-covid.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-17T04:56:14Z",
-    "lastSucceeded": "2026-09-17T04:56:20Z",
+    "lastFetched": "2026-09-17T11:46:03Z",
+    "lastSucceeded": "2026-09-17T11:46:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 3,
       "tradition": 1
