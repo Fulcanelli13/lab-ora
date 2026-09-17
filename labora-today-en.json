@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:02:35Z",
+  "generatedAt": "2026-09-17T21:25:10Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Satyrus, the Brother of St Ambrose",
-      "publishedAt": "2026-09-17T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
+      "title": "The Desert Great-Great Grandfathers",
+      "publishedAt": "2026-09-17T19:00:04.548000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-desert-great-great-grandfathers.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Ember Wednesday of September 2026",
-      "publishedAt": "2026-09-16T20:35:36.424000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
+      "title": "St Satyrus, the Brother of St Ambrose",
+      "publishedAt": "2026-09-17T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Ember Wednesday of September 2026",
+      "publishedAt": "2026-09-16T20:35:36.424000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
       "publishedAt": "2026-09-16T11:30:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
@@ -114,20 +122,12 @@
       "title": "The Iconographic Style, #1: Truths and Myths",
       "publishedAt": "2026-09-15T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Durandus on the Exaltation of the Cross",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-exaltation-of-cross.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-17T17:02:33Z",
-    "lastSucceeded": "2026-09-17T17:02:35Z",
+    "lastFetched": "2026-09-17T21:25:07Z",
+    "lastSucceeded": "2026-09-17T21:25:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
