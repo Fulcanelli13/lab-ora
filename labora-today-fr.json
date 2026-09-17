@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T21:21:07Z",
+  "generatedAt": "2026-09-17T04:56:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 24ème semaine du Temps Ordinaire",
-    "date": "2026-09-16",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-24eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le jeu divin ; la découverte de l’image de Dieu ; une joie débordante."
+    "title": "Méditation : Jeudi de la 24ème semaine du Temps Ordinaire",
+    "date": "2026-09-17",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-24eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : l’audace d’une femme ; deux regards sur le même geste ; le Christ reconnaît l’affection que nous lui portons."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LA PARTICIPATION DES FIDÈLES UN DES ATOUTS MAJEURS DE LA MESSE TRADITIONNELLE",
-      "publishedAt": "2026-09-16T12:00:00Z",
+      "publishedAt": null,
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4513"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-16T21:21:01Z",
-    "lastSucceeded": "2026-09-16T21:21:07Z",
+    "lastFetched": "2026-09-17T04:56:14Z",
+    "lastSucceeded": "2026-09-17T04:56:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

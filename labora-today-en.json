@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T21:21:01Z",
+  "generatedAt": "2026-09-17T04:56:14Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Twenty-Fourth Week of Ordinary Time",
-    "date": "2026-09-16",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-fourth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-fourth week of Ordinary Time."
+    "title": "Meditations: Thursday of the Twenty-Fourth Week of Ordinary Time",
+    "date": "2026-09-17",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-fourth-week-of-ordinary-time-2/",
+    "subtitle": "Some reflections that can assist our prayer during the 24th week of Ordinary Time."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-16T21:20:57Z",
-    "lastSucceeded": "2026-09-16T21:21:01Z",
+    "lastFetched": "2026-09-17T04:56:10Z",
+    "lastSucceeded": "2026-09-17T04:56:14Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
