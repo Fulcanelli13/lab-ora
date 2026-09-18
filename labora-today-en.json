@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:56:29Z",
+  "generatedAt": "2026-09-18T23:19:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s First Prayer before Holy Communion",
-      "publishedAt": "2026-09-18T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
+      "title": "An Old Documentary about Chartres Cathedral",
+      "publishedAt": "2026-09-18T21:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Rite of the Transitus of Saint Francis: Restoring True Devotion to One of the Church’s Most Beloved Saints",
-      "publishedAt": "2026-09-17T23:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-rite-of-transitus-of-saint-francis.html"
+      "title": "The Priest’s First Prayer before Holy Communion",
+      "publishedAt": "2026-09-18T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Rite of the Transitus of Saint Francis: Restoring True Devotion to One of the Church’s Most Beloved Saints",
+      "publishedAt": "2026-09-17T23:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-rite-of-transitus-of-saint-francis.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Desert Great-Great Grandfathers",
       "publishedAt": "2026-09-17T19:00:04.548000Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-desert-great-great-grandfathers.html"
@@ -114,20 +122,12 @@
       "title": "St Satyrus, the Brother of St Ambrose",
       "publishedAt": "2026-09-17T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Ember Wednesday of September 2026",
-      "publishedAt": "2026-09-16T20:35:36.424000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-18T20:56:25Z",
-    "lastSucceeded": "2026-09-18T20:56:29Z",
+    "lastFetched": "2026-09-18T23:19:53Z",
+    "lastSucceeded": "2026-09-18T23:19:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
