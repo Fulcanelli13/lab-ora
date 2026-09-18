@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:48:01Z",
+  "generatedAt": "2026-09-18T11:19:53Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
+      "title": "Léon XIV: le tissage de la paix crée la «civilisation de l’amour»",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/centre-etudes-augustinien-dialogue-paix-florence-pape-amour-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -39,17 +39,17 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "LA PARTICIPATION DES FIDÈLES UN DES ATOUTS MAJEURS DE LA MESSE TRADITIONNELLE",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4513"
+      "title": "EMBRASSER LA NOUVELLE LITURGIE... LE FAUX ARGUMENT DE L'OBÉISSANCE !",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4514"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Audience générale: construire une famille humaine à l’heure de l’intelligence artificielle",
+      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
       "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-communaute-humaine-dignite-ia-famille-amour.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
     },
     {
       "source": "Riposte Catholique",
@@ -68,12 +68,20 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-gugerotti-eglises-orientales-europe-voix-commune.html"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "Lettre n°1411",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4507"
+    },
+    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, «la Bibliothèque apostolique est un cœur»",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-bibliotheque-apostolique-reconciliation-dialogue-culture.html"
+      "title": "Audience générale: construire une famille humaine à l’heure de l’intelligence artificielle",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-communaute-humaine-dignite-ia-famille-amour.html"
     },
     {
       "source": "Riposte Catholique",
@@ -84,12 +92,20 @@
       "url": "https://riposte-catholique.fr/archives/218923"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "Lettre n°1413",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4511"
+    },
+    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "De nouveaux locaux pour les Archives et la Bibliothèque du Vatican",
+      "title": "Pour Léon XIV, «la Bibliothèque apostolique est un cœur»",
       "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vatican-archives-apostolique-patrimoine-conservation-chirographe.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-bibliotheque-apostolique-reconciliation-dialogue-culture.html"
     },
     {
       "source": "Riposte Catholique",
@@ -110,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-18T04:47:55Z",
-    "lastSucceeded": "2026-09-18T04:48:01Z",
+    "lastFetched": "2026-09-18T11:19:48Z",
+    "lastSucceeded": "2026-09-18T11:19:53Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -131,14 +147,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 1
+        "count": 3
       }
     },
     "itemCounts": {
       "vatican": 4,
       "outside_walls": 5,
       "official": 2,
-      "tradition": 1
+      "tradition": 3
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

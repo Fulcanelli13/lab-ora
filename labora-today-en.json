@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:47:55Z",
+  "generatedAt": "2026-09-18T11:19:48Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican marks 60 years of Nostra Aetate with new document stating Christ is the ‘one and only Redeemer’",
+      "title": "Cardinal Parolin says Russia should not be isolated",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-marks-60-years-of-nostra-aetate-with-new-document-stating-christ-is-the-one-and-only-redeemer/"
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-russia-should-not-be-isolated/"
     },
     {
       "source": "Ad Vaticanum",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916d.html"
+      "title": "Audiences",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -47,9 +47,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV celebrates his 71st birthday",
+      "title": "Vatican marks 60 years of Nostra Aetate with new document stating Christ is the ‘one and only Redeemer’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-celebrates-his-71st-birthday/"
+      "url": "https://advaticanum.com/article/vatican-marks-60-years-of-nostra-aetate-with-new-document-stating-christ-is-the-one-and-only-redeemer/"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Note from the Dicastery for the Doctrine of the Faith, the Dicastery for Promoting Christian Unity, and the Dicastery for Interreligious Dialogue, entitled: “A Journey of Hope: Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate”",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916f.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-17T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/17/260917a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -79,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo reverses Francis-era Vatican salary cuts",
+      "title": "Pope Leo XIV celebrates his 71st birthday",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-reverses-francis-era-vatican-salary-cuts/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-celebrates-his-71st-birthday/"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Note from the Dicastery for the Doctrine of the Faith, the Dicastery for Promoting Christian Unity, and the Dicastery for Interreligious Dialogue, entitled: “A Journey of Hope: Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate”",
       "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916f.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with participants in the Conference promoted by the Dicastery for the Causes of Saints, “The 21st century: a new time of martyrs?”",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916a.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Ember Wednesday of September 2026",
       "publishedAt": "2026-09-16T20:35:36.424000Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
+      "publishedAt": "2026-09-16T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-18T04:47:52Z",
-    "lastSucceeded": "2026-09-18T04:47:55Z",
+    "lastFetched": "2026-09-18T11:19:46Z",
+    "lastSucceeded": "2026-09-18T11:19:48Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
