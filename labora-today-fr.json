@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:27:21Z",
+  "generatedAt": "2026-09-18T20:56:41Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les nouveaux martyrs reflètent la lumière du Christ, assure Léon XIV",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-martyrs-colloqye-temoins-foi-dicastere-cause-des-saints.html"
+      "title": "Léon XIV exhorte le diocèse de Rome à une évaluation pastorale pour faire moins, mais mieux",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/assemblee-diocesaine-pape-eveque-rome.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-18T16:27:10Z",
-    "lastSucceeded": "2026-09-18T16:27:21Z",
+    "lastFetched": "2026-09-18T20:56:29Z",
+    "lastSucceeded": "2026-09-18T20:56:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
