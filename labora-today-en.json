@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T21:25:10Z",
+  "generatedAt": "2026-09-18T04:47:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Twenty-Fourth Week of Ordinary Time",
-    "date": "2026-09-17",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-fourth-week-of-ordinary-time-2/",
-    "subtitle": "Some reflections that can assist our prayer during the 24th week of Ordinary Time."
+    "title": "Meditations: Friday of the Twenty-Fourth Week of Ordinary Time",
+    "date": "2026-09-18",
+    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-twenty-fourth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-fourth week of Ordinary Time."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Desert Great-Great Grandfathers",
-      "publishedAt": "2026-09-17T19:00:04.548000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-desert-great-great-grandfathers.html"
+      "title": "The Rite of the Transitus of Saint Francis: Restoring True Devotion to One of the Church’s Most Beloved Saints",
+      "publishedAt": "2026-09-17T23:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-rite-of-transitus-of-saint-francis.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Satyrus, the Brother of St Ambrose",
-      "publishedAt": "2026-09-17T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
+      "title": "The Desert Great-Great Grandfathers",
+      "publishedAt": "2026-09-17T19:00:04.548000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-desert-great-great-grandfathers.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,31 +103,31 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "St Satyrus, the Brother of St Ambrose",
+      "publishedAt": "2026-09-17T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience with participants in the Conference promoted by the Dicastery for the Causes of Saints, “The 21st century: a new time of martyrs?”",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Ember Wednesday of September 2026",
       "publishedAt": "2026-09-16T20:35:36.424000Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-ember-wednesday-of-september-2026.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Invalidating the Mass Is Not as Easy As Some Seem to Think",
-      "publishedAt": "2026-09-16T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/invalidity-is-not-as-easy-as-some-seem.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Iconographic Style, #1: Truths and Myths",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-1-truths-and.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-17T21:25:07Z",
-    "lastSucceeded": "2026-09-17T21:25:10Z",
+    "lastFetched": "2026-09-18T04:47:52Z",
+    "lastSucceeded": "2026-09-18T04:47:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

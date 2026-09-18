@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T21:25:17Z",
+  "generatedAt": "2026-09-18T04:48:01Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 24ème semaine du Temps Ordinaire",
-    "date": "2026-09-17",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-24eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : l’audace d’une femme ; deux regards sur le même geste ; le Christ reconnaît l’affection que nous lui portons."
+    "title": "Méditation : Vendredi de la 24ème semaine du Temps Ordinaire",
+    "date": "2026-09-18",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-24eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : un Évangile destiné à tout le monde ; partager un trésor ; les femmes qui accompagnaient Jésus."
   },
   "headlines": [
     {
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-17T21:25:11Z",
-    "lastSucceeded": "2026-09-17T21:25:17Z",
+    "lastFetched": "2026-09-18T04:47:55Z",
+    "lastSucceeded": "2026-09-18T04:48:01Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
