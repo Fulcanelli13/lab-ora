@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:43:54Z",
+  "generatedAt": "2026-09-19T23:09:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Blood of Saint Januarius liquefies again in Naples",
+      "title": "Islamic prayer asking ‘What do you worship?’ chanted at Catholic university Mass attended by archbishop",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/blood-of-saint-januarius-liquefies-again-in-naples/"
+      "url": "https://advaticanum.com/article/islamic-prayer-asking-what-do-you-worship-chanted-at-catholic-university-mass-attended-by-archbishop/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Oster says German Synodal Path became a political process",
+      "title": "Blood of Saint Januarius liquefies again in Naples",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-oster-says-german-synodal-path-became-a-political-process/"
+      "url": "https://advaticanum.com/article/blood-of-saint-januarius-liquefies-again-in-naples/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US Congressman pays tribute to Fulton Sheen ahead of beatification",
+      "title": "Bishop Oster says German Synodal Path became a political process",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-congressman-pays-tribute-to-fulton-sheen-ahead-of-beatification/"
+      "url": "https://advaticanum.com/article/bishop-oster-says-german-synodal-path-became-a-political-process/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-19T20:43:51Z",
-    "lastSucceeded": "2026-09-19T20:43:54Z",
+    "lastFetched": "2026-09-19T23:09:20Z",
+    "lastSucceeded": "2026-09-19T23:09:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
