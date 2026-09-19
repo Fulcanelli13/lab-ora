@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:41:13Z",
+  "generatedAt": "2026-09-19T11:04:06Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,17 +31,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918e.html"
+      "title": "Audiences",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "An Old Documentary about Chartres Cathedral",
-      "publishedAt": "2026-09-18T21:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
+      "title": "The Hymn of the Ember Saturday Masses",
+      "publishedAt": "2026-09-19T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV in France and Visit to the Headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) (25- 28 September 2026) – Statistics",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918f.html"
+      "title": "Notice of “Meeting Point”",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s First Prayer before Holy Communion",
-      "publishedAt": "2026-09-18T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
+      "title": "An Old Documentary about Chartres Cathedral",
+      "publishedAt": "2026-09-18T21:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,25 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Note from the Dicastery for the Doctrine of the Faith, the Dicastery for Promoting Christian Unity, and the Dicastery for Interreligious Dialogue, entitled: “A Journey of Hope: Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate”",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/16/260916f.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918e.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Priest’s First Prayer before Holy Communion",
+      "publishedAt": "2026-09-18T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV in France and Visit to the Headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) (25- 28 September 2026) – Statistics",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918f.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,28 +122,12 @@
       "title": "The Rite of the Transitus of Saint Francis: Restoring True Devotion to One of the Church’s Most Beloved Saints",
       "publishedAt": "2026-09-17T23:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-rite-of-transitus-of-saint-francis.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Desert Great-Great Grandfathers",
-      "publishedAt": "2026-09-17T19:00:04.548000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-desert-great-great-grandfathers.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "St Satyrus, the Brother of St Ambrose",
-      "publishedAt": "2026-09-17T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-satyrus-brother-of-st-ambrose.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-19T04:41:09Z",
-    "lastSucceeded": "2026-09-19T04:41:13Z",
+    "lastFetched": "2026-09-19T11:04:03Z",
+    "lastSucceeded": "2026-09-19T11:04:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
