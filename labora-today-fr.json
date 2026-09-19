@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-18T23:20:09Z",
+  "generatedAt": "2026-09-19T04:41:18Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 24ème semaine du Temps Ordinaire",
-    "date": "2026-09-18",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-24eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : un Évangile destiné à tout le monde ; partager un trésor ; les femmes qui accompagnaient Jésus."
+    "title": "Méditation : Samedi de la 24ème semaine du Temps Ordinaire",
+    "date": "2026-09-19",
+    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-24eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Jésus enseigne par paraboles ; accueillir la Parole de Dieu ; le rôle des circonstances extérieures."
   },
   "headlines": [
     {
@@ -26,14 +26,6 @@
       "title": "Lourdes: retrait intégral des fresques de l’ancien jésuite Marko Rupnik",
       "publishedAt": "2026-09-17T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/218949"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Bambino Gesù, classé au 4e rang parmi les meilleurs hôpitaux pédiatriques",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/bambino-gesu-au-4e-rang-parmi-les-meilleurs-hopitaux-pediatrique.html"
     },
     {
       "source": "Paix Liturgique",
@@ -60,14 +52,6 @@
       "url": "https://riposte-catholique.fr/archives/218940"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Basilique Saint-Pierre: la coupole de la Chapelle Clémentine remise à neuf",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
-    },
-    {
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
@@ -92,14 +76,6 @@
       "url": "https://riposte-catholique.fr/archives/218923"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
-    },
-    {
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
@@ -122,12 +98,20 @@
       "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
       "publishedAt": "2026-09-14T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/218904"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape en France: un voyage entre défis nationaux et dialogue avec l'Europe",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/voyage-pape-france-paris-lourdes-metz-europe-unesco.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-18T23:19:58Z",
-    "lastSucceeded": "2026-09-18T23:20:09Z",
+    "lastFetched": "2026-09-19T04:41:13Z",
+    "lastSucceeded": "2026-09-19T04:41:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -138,8 +122,9 @@
         "count": 5
       },
       "vatican_news_saint_siege_fr": {
-        "ok": true,
-        "count": 5
+        "ok": false,
+        "count": 0,
+        "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
       },
       "riposte_catholique_fr": {
         "ok": true,
@@ -151,9 +136,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 3,
+      "official": 0,
       "tradition": 3
     },
     "discardedMalformed": 0,
