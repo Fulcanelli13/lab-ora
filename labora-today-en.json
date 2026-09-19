@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:04:06Z",
+  "generatedAt": "2026-09-19T15:54:53Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Audience of the Holy Father Leo XIV with a delegation of the “Special Olympics”",
       "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919a.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919d.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Notice of “Meeting Point”",
+      "title": "Audiences",
       "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-19T11:04:03Z",
-    "lastSucceeded": "2026-09-19T11:04:06Z",
+    "lastFetched": "2026-09-19T15:54:50Z",
+    "lastSucceeded": "2026-09-19T15:54:53Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:04:16Z",
+  "generatedAt": "2026-09-19T15:54:58Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Bambino Gesù, classé au 4e rang parmi les meilleurs hôpitaux pédiatriques",
+      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/bambino-gesu-au-4e-rang-parmi-les-meilleurs-hopitaux-pediatrique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
+      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
     },
     {
       "source": "Paix Liturgique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: le tissage de la paix crée la «civilisation de l’amour»",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/centre-etudes-augustinien-dialogue-paix-florence-pape-amour-foi.html"
+      "title": "Léon XIV exhorte son diocèse à une évaluation pastorale pour faire moins, mais mieux",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/assemblee-diocesaine-pape-eveque-rome.html"
     },
     {
       "source": "Riposte Catholique",
@@ -95,9 +95,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
+      "title": "«Green Lava», l'histoire d'un jeune homme en route vers les Oscars",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/green-lava-l-histoire-d-un-jeune-homme-en-route-vers-les-oscars.html"
     },
     {
       "source": "Paix Liturgique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-19T11:04:06Z",
-    "lastSucceeded": "2026-09-19T11:04:16Z",
+    "lastFetched": "2026-09-19T15:54:53Z",
+    "lastSucceeded": "2026-09-19T15:54:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
