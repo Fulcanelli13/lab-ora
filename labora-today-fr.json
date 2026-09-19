@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:54:58Z",
+  "generatedAt": "2026-09-19T20:43:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,17 +23,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Lourdes: retrait intégral des fresques de l’ancien jésuite Marko Rupnik",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218949"
+      "title": "Nanterre : ordinations de deux diacres permanents pour le diocèse le 4 octobre prochain",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218960"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
+      "title": "«Sounds of Loss», une installation sonore, qui rend hommage aux victimes de guerres",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-pierre-musique-hommage-victimes-guerre-humanite-vie.html"
     },
     {
       "source": "Paix Liturgique",
@@ -55,17 +55,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Nicolas Dupont-Aignan sur le voyage du pape en France: « Macron voulait une visite d’État. Léon XIV a imposé un voyage apostolique »",
+      "title": "Lourdes: retrait intégral des fresques de l’ancien jésuite Marko Rupnik",
       "publishedAt": "2026-09-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218940"
+      "url": "https://riposte-catholique.fr/archives/218949"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
+      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
     },
     {
       "source": "Paix Liturgique",
@@ -87,17 +87,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Macron « snobé » par le pape ? Même Le Canard enchaîné parle de « camouflet »",
-      "publishedAt": "2026-09-15T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218923"
+      "title": "Nicolas Dupont-Aignan sur le voyage du pape en France: « Macron voulait une visite d’État. Léon XIV a imposé un voyage apostolique »",
+      "publishedAt": "2026-09-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218940"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Green Lava», l'histoire d'un jeune homme en route vers les Oscars",
+      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/green-lava-l-histoire-d-un-jeune-homme-en-route-vers-les-oscars.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
     },
     {
       "source": "Paix Liturgique",
@@ -111,23 +111,23 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218898"
+      "title": "Macron « snobé » par le pape ? Même Le Canard enchaîné parle de « camouflet »",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218923"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe selon le rite ambrosien traditionnel au Portugal",
+      "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
       "publishedAt": "2026-09-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218904"
+      "url": "https://riposte-catholique.fr/archives/218898"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-19T15:54:53Z",
-    "lastSucceeded": "2026-09-19T15:54:58Z",
+    "lastFetched": "2026-09-19T20:43:54Z",
+    "lastSucceeded": "2026-09-19T20:43:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
