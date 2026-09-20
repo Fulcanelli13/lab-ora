@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:52:32Z",
+  "generatedAt": "2026-09-20T23:16:10Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "EMBRASSER LA NOUVELLE LITURGIE... LE FAUX ARGUMENT DE L'OBÉISSANCE !",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4514"
+      "title": "DE JEAN-PAUL II A LÉON XIV MÉTAMORPHOSE ET EFFONDREMENT DE L'ÉGLISE DE FRANCE",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4515"
     },
     {
       "source": "Vatican News",
@@ -68,14 +68,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "Lettre n°1411",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4507"
-    },
-    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
@@ -100,14 +92,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "Lettre n°1413",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4511"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -122,12 +106,28 @@
       "title": "Rome: un nouveau prêtre à la Très Sainte Trinité des Pèlerins",
       "publishedAt": "2026-09-14T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/218898"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Green Lava», l'histoire d'un jeune homme en route vers les Oscars",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/green-lava-l-histoire-d-un-jeune-homme-en-route-vers-les-oscars.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Bambino Gesù, classé au 4e rang parmi les meilleurs hôpitaux pédiatriques",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/bambino-gesu-au-4e-rang-parmi-les-meilleurs-hopitaux-pediatrique.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-20T20:52:28Z",
-    "lastSucceeded": "2026-09-20T20:52:32Z",
+    "lastFetched": "2026-09-20T23:16:05Z",
+    "lastSucceeded": "2026-09-20T23:16:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,14 +147,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 3
+        "count": 1
       }
     },
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 5,
-      "official": 3,
-      "tradition": 3
+      "official": 5,
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
