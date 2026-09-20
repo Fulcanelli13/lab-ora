@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-19T23:09:25Z",
+  "generatedAt": "2026-09-20T04:57:00Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 24ème semaine du Temps Ordinaire",
-    "date": "2026-09-19",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-24eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : Jésus enseigne par paraboles ; accueillir la Parole de Dieu ; le rôle des circonstances extérieures."
+    "title": "Méditation : Dimanche de la 25ème semaine du Temps Ordinaire (cycle A)",
+    "date": "2026-09-20",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-25eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le Christ appelle tout le monde à sa vigne ; apprécier le don de la vie ; Dieu veut le meilleur pour chacun."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-19T23:09:22Z",
-    "lastSucceeded": "2026-09-19T23:09:25Z",
+    "lastFetched": "2026-09-20T04:56:53Z",
+    "lastSucceeded": "2026-09-20T04:57:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
