@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T11:28:44Z",
+  "generatedAt": "2026-09-20T16:10:43Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Hymn of the Ember Saturday Masses",
-      "publishedAt": "2026-09-19T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
+      "title": "Durandus on the Book of Judith",
+      "publishedAt": "2026-09-20T12:00:28.293000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "An Old Documentary about Chartres Cathedral",
-      "publishedAt": "2026-09-18T21:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
+      "title": "The Hymn of the Ember Saturday Masses",
+      "publishedAt": "2026-09-19T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s First Prayer before Holy Communion",
-      "publishedAt": "2026-09-18T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
+      "title": "An Old Documentary about Chartres Cathedral",
+      "publishedAt": "2026-09-18T21:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Rite of the Transitus of Saint Francis: Restoring True Devotion to One of the Church’s Most Beloved Saints",
-      "publishedAt": "2026-09-17T23:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-rite-of-transitus-of-saint-francis.html"
+      "title": "The Priest’s First Prayer before Holy Communion",
+      "publishedAt": "2026-09-18T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-first-prayer-before-holy.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-20T11:28:40Z",
-    "lastSucceeded": "2026-09-20T11:28:44Z",
+    "lastFetched": "2026-09-20T16:10:40Z",
+    "lastSucceeded": "2026-09-20T16:10:43Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
