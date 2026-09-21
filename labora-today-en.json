@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-20T23:16:05Z",
+  "generatedAt": "2026-09-21T05:00:17Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Twenty-Fifth Week of Ordinary Time (Year A)",
-    "date": "2026-09-20",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-fifth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-fifth week of Ordinary Time."
+    "title": "Meditations: September 21, Saint Matthew",
+    "date": "2026-09-21",
+    "url": "https://opusdei.org/en/meditation/meditations-september-21-saint-matthew/",
+    "subtitle": "Some reflections that can assist our prayer on the feast of Saint Mathew, Apostle."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-20T23:16:03Z",
-    "lastSucceeded": "2026-09-20T23:16:05Z",
+    "lastFetched": "2026-09-21T05:00:14Z",
+    "lastSucceeded": "2026-09-21T05:00:17Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-20T23:16:10Z",
+  "generatedAt": "2026-09-21T05:00:24Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 25ème semaine du Temps Ordinaire (cycle A)",
-    "date": "2026-09-20",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-25eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le Christ appelle tout le monde à sa vigne ; apprécier le don de la vie ; Dieu veut le meilleur pour chacun."
+    "title": "Méditation : 21 septembre — Saint Matthieu",
+    "date": "2026-09-21",
+    "url": "https://opusdei.org/fr/meditation/meditation-21-septembre-saint-matthieu/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la rencontre de Matthieu avec Jésus ; un amour qui éclaire dans les difficultés ; se reconnaître pécheur."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-20T23:16:05Z",
-    "lastSucceeded": "2026-09-20T23:16:10Z",
+    "lastFetched": "2026-09-21T05:00:17Z",
+    "lastSucceeded": "2026-09-21T05:00:24Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
