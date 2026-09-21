@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:53:49Z",
+  "generatedAt": "2026-09-21T20:00:04Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Angélus: Léon XIV invite à laisser l’amour de Dieu dépasser la logique du calcul humain",
-      "publishedAt": "2026-09-20T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/angelus-leon-xiv-invite-l-amour-dieu-depasser-calcul-humain.html"
+      "title": "Le Pape à la rencontre du personnel du dicastère pour la Culture et l'Éducation",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-dicastere-culture-education-humanisme-dialogue.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-21T12:53:42Z",
-    "lastSucceeded": "2026-09-21T12:53:49Z",
+    "lastFetched": "2026-09-21T19:59:56Z",
+    "lastSucceeded": "2026-09-21T20:00:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:53:42Z",
+  "generatedAt": "2026-09-21T19:59:56Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Fulton Sheen beatification week begins with 45,000 pilgrims expected",
+      "title": "Catholic university says Flemish bishops were consulted over Quran reading at opening Mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/fulton-sheen-beatification-week-begins-with-45000-pilgrims-expected/"
+      "url": "https://advaticanum.com/article/catholic-university-says-flemish-bishops-were-consulted-over-quran-reading-at-opening-mass/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
+      "title": "Symbols of the Four Evangelists",
+      "publishedAt": "2026-09-21T16:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Islamic prayer asking ‘What do you worship?’ chanted at Catholic university Mass attended by archbishop",
+      "title": "Cardinal Marx criticises Church ‘nostalgia’, rejects Rome ‘demand list’ and warns over social media after AfD gains",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/islamic-prayer-asking-what-do-you-worship-chanted-at-catholic-university-mass-attended-by-archbishop/"
+      "url": "https://advaticanum.com/article/cardinal-marx-criticises-church-nostalgia-rejects-rome-demand-list-and-warns-over-social-media-after-afd-gains/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on the Book of Judith",
-      "publishedAt": "2026-09-20T12:00:28.293000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
+      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Blood of Saint Januarius liquefies again in Naples",
+      "title": "Fulton Sheen beatification week begins with 45,000 pilgrims expected",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/blood-of-saint-januarius-liquefies-again-in-naples/"
+      "url": "https://advaticanum.com/article/fulton-sheen-beatification-week-begins-with-45000-pilgrims-expected/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Resignations and Appointments",
       "publishedAt": "2026-09-18T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918e.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Durandus on the Book of Judith",
+      "publishedAt": "2026-09-20T12:00:28.293000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Apostolic Journey of His Holiness Pope Leo XIV in France and Visit to the Headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) (25- 28 September 2026) – Statistics",
       "publishedAt": "2026-09-18T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918f.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "An Old Documentary about Chartres Cathedral",
-      "publishedAt": "2026-09-18T21:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-21T12:53:37Z",
-    "lastSucceeded": "2026-09-21T12:53:42Z",
+    "lastFetched": "2026-09-21T19:59:52Z",
+    "lastSucceeded": "2026-09-21T19:59:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
