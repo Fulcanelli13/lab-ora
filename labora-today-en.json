@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:08:52Z",
+  "generatedAt": "2026-09-22T05:01:35Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -11,22 +11,6 @@
     "subtitle": "Some reflections that can assist our prayer during the twenty-fifth week of Ordinary Time."
   },
   "headlines": [
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo appoints Archbishop Hicks’s replacement",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "url": "https://advaticanum.com/article/pope-leo-appoints-archbishop-hickss-replacement/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Catholic university says Flemish bishops were consulted over Quran reading at opening Mass",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/catholic-university-says-flemish-bishops-were-consulted-over-quran-reading-at-opening-mass/"
-    },
     {
       "source": "Holy See Press Office",
       "lane": "official",
@@ -44,22 +28,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Cardinal Marx criticises Church ‘nostalgia’, rejects Rome ‘demand list’ and warns over social media after AfD gains",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-marx-criticises-church-nostalgia-rejects-rome-demand-list-and-warns-over-social-media-after-afd-gains/"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
@@ -74,22 +42,6 @@
       "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
       "publishedAt": "2026-09-21T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Parolin says Russia should not be isolated",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-russia-should-not-be-isolated/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Fulton Sheen beatification week begins with 45,000 pilgrims expected",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/fulton-sheen-beatification-week-begins-with-45000-pilgrims-expected/"
     },
     {
       "source": "Holy See Press Office",
@@ -122,24 +74,34 @@
       "title": "The Hymn of the Ember Saturday Masses",
       "publishedAt": "2026-09-19T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "An Old Documentary about Chartres Cathedral",
+      "publishedAt": "2026-09-18T21:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-22T00:08:49Z",
-    "lastSucceeded": "2026-09-22T00:08:52Z",
+    "lastFetched": "2026-09-22T05:01:04Z",
+    "lastSucceeded": "2026-09-22T05:01:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
         "count": 1
       },
       "ad_vaticanum_vatican": {
-        "ok": true,
-        "count": 5
+        "ok": false,
+        "count": 0,
+        "error": "TimeoutError: The read operation timed out"
       },
       "ad_vaticanum_outside": {
-        "ok": true,
-        "count": 5
+        "ok": false,
+        "count": 0,
+        "error": "TimeoutError: The read operation timed out"
       },
       "nlm_atom": {
         "ok": true,
@@ -151,10 +113,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
-      "outside_walls": 3,
+      "vatican": 0,
+      "outside_walls": 0,
       "official": 4,
-      "tradition": 4
+      "tradition": 5
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

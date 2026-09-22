@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:09:06Z",
+  "generatedAt": "2026-09-22T05:01:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-22T00:08:52Z",
-    "lastSucceeded": "2026-09-22T00:09:06Z",
+    "lastFetched": "2026-09-22T05:01:35Z",
+    "lastSucceeded": "2026-09-22T05:01:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
