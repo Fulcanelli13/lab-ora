@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:43:09Z",
+  "generatedAt": "2026-09-22T16:59:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Symbols of the Four Evangelists",
-      "publishedAt": "2026-09-21T16:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
+      "title": "The Iconographic Style, #2: Images Not Made with Human Hands",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-2-images-not.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
+      "title": "Symbols of the Four Evangelists",
+      "publishedAt": "2026-09-21T16:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on the Book of Judith",
-      "publishedAt": "2026-09-20T12:00:28.293000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
+      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
     },
     {
       "source": "Holy See Press Office",
@@ -116,18 +116,18 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921b.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Audience of the Holy Father Leo XIV with a delegation of the “Special Olympics”",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919d.html"
+      "title": "Durandus on the Book of Judith",
+      "publishedAt": "2026-09-20T12:00:28.293000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-22T11:43:06Z",
-    "lastSucceeded": "2026-09-22T11:43:09Z",
+    "lastFetched": "2026-09-22T16:59:56Z",
+    "lastSucceeded": "2026-09-22T16:59:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

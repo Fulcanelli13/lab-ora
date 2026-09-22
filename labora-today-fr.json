@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:43:15Z",
+  "generatedAt": "2026-09-22T17:00:12Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Les «Borgo Dialogues» réunissent des dirigeants du monde entier à New York",
+      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/borgo-dialogues-etats-unis-pour-faconner-avenir-avec-responsabil.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le nonce apostolique en France salue le «grand intérêt» pour la visite du Pape",
+      "title": "Les «Borgo Dialogues» réunissent des dirigeants du monde entier à New York",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/leon-xiv-en-france-nonce-mgr-celestino-milgiore.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/borgo-dialogues-etats-unis-pour-faconner-avenir-avec-responsabil.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Sounds of Loss», installation sonore en mémoire des victimes de guerres",
+      "title": "Le nonce apostolique en France salue le «grand intérêt» pour la visite du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-pierre-musique-hommage-victimes-guerre-humanite-vie.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/leon-xiv-en-france-nonce-mgr-celestino-milgiore.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
+      "title": "«Sounds of Loss», installation sonore en mémoire des victimes de guerres",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/saint-pierre-musique-hommage-victimes-guerre-humanite-vie.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Les discours de haine ne relèvent pas de la liberté d’expression»",
+      "title": "Basilique Saint-Pierre: la coupole de la chapelle Clémentine remise à neuf",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/observateur-saint-siege-onu-vatican-violence-persecution-verite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/fin-renovation-coupole-chapelle-clementine-saint-pierre-vatican.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-22T11:43:09Z",
-    "lastSucceeded": "2026-09-22T11:43:15Z",
+    "lastFetched": "2026-09-22T16:59:59Z",
+    "lastSucceeded": "2026-09-22T17:00:12Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
