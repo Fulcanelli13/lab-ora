@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:01:35Z",
+  "generatedAt": "2026-09-22T11:43:09Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -12,12 +12,28 @@
   },
   "headlines": [
     {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Leo appoints Archbishop Hicks’s replacement",
+      "publishedAt": "2026-09-17T12:00:00Z",
+      "url": "https://advaticanum.com/article/pope-leo-appoints-archbishop-hickss-replacement/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Müller calls for recovery of ‘true masculinity’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-recovery-of-true-masculinity/"
+    },
+    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience of the Holy Father Leo XIV with a delegation of the “Special Olympics”",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919d.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -28,12 +44,28 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
     },
     {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Late Lourdes bishop accused of abuse as diocese finds no evidence to verify claim",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/late-lourdes-bishop-accused-of-abuse-as-diocese-finds-no-evidence-to-verify-claim/"
+    },
+    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919a.html"
+      "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -44,12 +76,28 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
     },
     {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Parolin says Russia should not be isolated",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-russia-should-not-be-isolated/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Catholic university says Flemish bishops were consulted over Quran reading at opening Mass",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/catholic-university-says-flemish-bishops-were-consulted-over-quran-reading-at-opening-mass/"
+    },
+    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Notice of “Meeting Point”",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919b.html"
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6-17 November 2026) - Programme",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921e.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,45 +111,35 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Pontifical Letter to the Bishops of Latin America and the Caribbean on the occasion of the third centenary of the canonization of Saint Turibius of Mogrovejo",
+      "title": "Audiences",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921b.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience of the Holy Father Leo XIV with a delegation of the “Special Olympics”",
       "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919c.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Hymn of the Ember Saturday Masses",
-      "publishedAt": "2026-09-19T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "An Old Documentary about Chartres Cathedral",
-      "publishedAt": "2026-09-18T21:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/an-old-documentary-about-chartres.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-22T05:01:04Z",
-    "lastSucceeded": "2026-09-22T05:01:35Z",
+    "lastFetched": "2026-09-22T11:43:06Z",
+    "lastSucceeded": "2026-09-22T11:43:09Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
         "count": 1
       },
       "ad_vaticanum_vatican": {
-        "ok": false,
-        "count": 0,
-        "error": "TimeoutError: The read operation timed out"
+        "ok": true,
+        "count": 5
       },
       "ad_vaticanum_outside": {
-        "ok": false,
-        "count": 0,
-        "error": "TimeoutError: The read operation timed out"
+        "ok": true,
+        "count": 5
       },
       "nlm_atom": {
         "ok": true,
@@ -109,14 +147,14 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 4
+        "count": 5
       }
     },
     "itemCounts": {
-      "vatican": 0,
-      "outside_walls": 0,
-      "official": 4,
-      "tradition": 5
+      "vatican": 3,
+      "outside_walls": 3,
+      "official": 5,
+      "tradition": 3
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
