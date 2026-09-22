@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T20:00:04Z",
+  "generatedAt": "2026-09-22T00:09:06Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 21 septembre — Saint Matthieu",
-    "date": "2026-09-21",
-    "url": "https://opusdei.org/fr/meditation/meditation-21-septembre-saint-matthieu/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la rencontre de Matthieu avec Jésus ; un amour qui éclaire dans les difficultés ; se reconnaître pécheur."
+    "title": "Méditation : Mardi de la 25ème semaine du Temps Ordinaire",
+    "date": "2026-09-22",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-25eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : l’Église, famille de Jésus ; Marie, le femme de l’écoute ; ouverture de cœur."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-21T19:59:56Z",
-    "lastSucceeded": "2026-09-21T20:00:04Z",
+    "lastFetched": "2026-09-22T00:08:52Z",
+    "lastSucceeded": "2026-09-22T00:09:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

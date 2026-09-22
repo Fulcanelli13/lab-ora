@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T19:59:56Z",
+  "generatedAt": "2026-09-22T00:08:52Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: September 21, Saint Matthew",
-    "date": "2026-09-21",
-    "url": "https://opusdei.org/en/meditation/meditations-september-21-saint-matthew/",
-    "subtitle": "Some reflections that can assist our prayer on the feast of Saint Mathew, Apostle."
+    "title": "Meditations: Tuesday of the Twenty-Fifth Week of Ordinary Time",
+    "date": "2026-09-22",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-fifth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-fifth week of Ordinary Time."
   },
   "headlines": [
     {
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918e.html"
+      "title": "Notice of “Meeting Point”",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Pontifical Letter to the Bishops of Latin America and the Caribbean on the occasion of the third centenary of the canonization of Saint Turibius of Mogrovejo",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/19/260919c.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Hymn of the Ember Saturday Masses",
       "publishedAt": "2026-09-19T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-hymn-of-ember-saturday-masses.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV in France and Visit to the Headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) (25- 28 September 2026) – Statistics",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/18/260918f.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-21T19:59:52Z",
-    "lastSucceeded": "2026-09-21T19:59:56Z",
+    "lastFetched": "2026-09-22T00:08:49Z",
+    "lastSucceeded": "2026-09-22T00:08:52Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,7 +147,7 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 5
+        "count": 4
       }
     },
     "itemCounts": {
@@ -157,7 +157,7 @@
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,
