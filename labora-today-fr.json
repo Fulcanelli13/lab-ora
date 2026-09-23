@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:48:43Z",
+  "generatedAt": "2026-09-23T11:42:19Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle les Clarisses capucines à «renouveler» leur vie communautaire",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vocations-pape-clarisses-capucines-italie-formation-priere.html"
+      "title": "Audience générale: «le progrès doit être animé et orienté par la charité»",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-generale-pape-leonxiv-gaudium-spes-progres-charite.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Visite du pape à Paris: Saint-Nicolas du Chardonnet salue la présence du pape",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218997"
+      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219014"
     },
     {
       "source": "Vatican News",
@@ -47,6 +47,30 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
+      "title": "Léon XIV appelle les Clarisses capucines à «renouveler» leur vie communautaire",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vocations-pape-clarisses-capucines-italie-formation-priere.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Visite du pape à Paris: Saint-Nicolas du Chardonnet salue la présence du pape",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218997"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
       "title": "Le Pape à la rencontre du personnel du dicastère pour la Culture et l'Éducation",
       "publishedAt": "2026-09-21T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-dicastere-culture-education-humanisme-dialogue.html"
@@ -63,17 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
+      "title": "Les «Borgo Dialogues» réunissent des dirigeants du monde entier à New York",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Uruguay, Argentine et Pérou: le programme du voyage de Léon XIV dévoilé",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/programme-officiel-voyage-pape-leon-xiv-argentine-perou-uruguay.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/borgo-dialogues-etats-unis-pour-faconner-avenir-avec-responsabil.html"
     },
     {
       "source": "Riposte Catholique",
@@ -84,14 +100,6 @@
       "url": "https://riposte-catholique.fr/archives/218967"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Les «Borgo Dialogues» réunissent des dirigeants du monde entier à New York",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/borgo-dialogues-etats-unis-pour-faconner-avenir-avec-responsabil.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -100,26 +108,26 @@
       "url": "https://riposte-catholique.fr/archives/218960"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Lourdes: retrait intégral des fresques de l’ancien jésuite Marko Rupnik",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218949"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
       "title": "Le nonce apostolique en France salue le «grand intérêt» pour la visite du Pape",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/leon-xiv-en-france-nonce-mgr-celestino-milgiore.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV invite à protéger les mineurs migrants victimes de violences",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/mineurs-migrants-victimes-enfants-violences-refugies-dignite.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-23T04:48:36Z",
-    "lastSucceeded": "2026-09-23T04:48:43Z",
+    "lastFetched": "2026-09-23T11:42:09Z",
+    "lastSucceeded": "2026-09-23T11:42:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,7 +151,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 4,
       "tradition": 1

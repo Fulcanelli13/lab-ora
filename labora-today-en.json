@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:48:36Z",
+  "generatedAt": "2026-09-23T11:42:09Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,8 +32,8 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921c.html"
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/23/260923c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -47,9 +47,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
+      "title": "“Elegant Latin” and “dramatic gestures”: Archbishop Fulton Sheen at the Second Vatican Council",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
+      "url": "https://advaticanum.com/article/elegant-latin-and-dramatic-gestures-archbishop-fulton-sheen-at-the-second-vatican-council/"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
+      "title": "Audiences",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/23/260923b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -79,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Parolin says Russia should not be isolated",
+      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-russia-should-not-be-isolated/"
+      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6-17 November 2026) - Programme",
+      "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
       "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921e.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -111,23 +111,23 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6-17 November 2026) - Programme",
       "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921e.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Notice of “Meeting Point”",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921d.html"
+      "title": "Durandus on the Book of Judith",
+      "publishedAt": "2026-09-20T12:00:28.293000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-23T04:48:32Z",
-    "lastSucceeded": "2026-09-23T04:48:36Z",
+    "lastFetched": "2026-09-23T11:42:05Z",
+    "lastSucceeded": "2026-09-23T11:42:09Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
