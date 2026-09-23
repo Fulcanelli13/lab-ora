@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-22T21:22:08Z",
+  "generatedAt": "2026-09-23T04:48:36Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Twenty-Fifth Week of Ordinary Time",
-    "date": "2026-09-22",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-fifth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-fifth week of Ordinary Time."
+    "title": "Meditations: Wednesday of the Twenty-Fifth Week of Ordinary Time",
+    "date": "2026-09-23",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-fifth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-fifth week of Ordinary Time. The topics are: chosen in order to be sent; essentials and accessories; experiencing failure."
   },
   "headlines": [
     {
@@ -116,18 +116,18 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921b.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Holy See Press Office",
+      "lane": "official",
       "language": "en",
-      "title": "Durandus on the Book of Judith",
-      "publishedAt": "2026-09-20T12:00:28.293000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
+      "title": "Notice of “Meeting Point”",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-22T21:22:05Z",
-    "lastSucceeded": "2026-09-22T21:22:08Z",
+    "lastFetched": "2026-09-23T04:48:32Z",
+    "lastSucceeded": "2026-09-23T04:48:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 5,
+      "tradition": 3
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
