@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:42:19Z",
+  "generatedAt": "2026-09-23T17:05:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
+      "title": "Église de France: un redressement dans les entrées au séminaire ?",
       "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219014"
+      "url": "https://riposte-catholique.fr/archives/219022"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle les Clarisses capucines à «renouveler» leur vie communautaire",
+      "title": "Le Pape à la rencontre du personnel du dicastère pour la Culture et l'Éducation",
       "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vocations-pape-clarisses-capucines-italie-formation-priere.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-dicastere-culture-education-humanisme-dialogue.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Visite du pape à Paris: Saint-Nicolas du Chardonnet salue la présence du pape",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218997"
+      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219014"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape à la rencontre du personnel du dicastère pour la Culture et l'Éducation",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-dicastere-culture-education-humanisme-dialogue.html"
+      "title": "Léon XIV invite à protéger les mineurs migrants victimes de violences",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/mineurs-migrants-victimes-enfants-violences-refugies-dignite.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Une messe célébrée pour les vingt ans de la Fraternité Saint-Pierre à Amsterdam",
+      "title": "Visite du pape à Paris: Saint-Nicolas du Chardonnet salue la présence du pape",
       "publishedAt": "2026-09-22T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218985"
+      "url": "https://riposte-catholique.fr/archives/218997"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le Patriarcat syriaque catholique récuse les tensions et publie un communiqué",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218967"
+      "title": "Une messe célébrée pour les vingt ans de la Fraternité Saint-Pierre à Amsterdam",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218985"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Nanterre : ordinations de deux diacres permanents pour le diocèse le 4 octobre prochain",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218960"
+      "title": "Le Patriarcat syriaque catholique récuse les tensions et publie un communiqué",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/218967"
     },
     {
       "source": "Vatican News",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV invite à protéger les mineurs migrants victimes de violences",
+      "title": "Petites mains et grandes espérances, les bénévoles attendent le Pape en France",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/mineurs-migrants-victimes-enfants-violences-refugies-dignite.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/visite-apostolique-pape-leon-france-paris-lourdes-metz-benevoles.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-23T11:42:09Z",
-    "lastSucceeded": "2026-09-23T11:42:19Z",
+    "lastFetched": "2026-09-23T17:05:29Z",
+    "lastSucceeded": "2026-09-23T17:05:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

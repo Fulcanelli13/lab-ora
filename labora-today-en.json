@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:42:09Z",
+  "generatedAt": "2026-09-23T17:05:28Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Müller calls for recovery of ‘true masculinity’",
+      "title": "Cardinal Zuppi rejects ‘right to die’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-recovery-of-true-masculinity/"
+      "url": "https://advaticanum.com/article/cardinal-zuppi-rejects-right-to-die/"
     },
     {
       "source": "Holy See Press Office",
@@ -34,6 +34,38 @@
       "title": "Resignations and Appointments",
       "publishedAt": "2026-09-23T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/23/260923c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "A Missal for the Use of Braga, 1558",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/a-missal-for-rite-of-braga-1558.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Grech: Church is ‘synodal by nature’ but remains hierarchical",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-grech-church-is-synodal-by-nature-but-remains-hierarchical/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Müller calls for recovery of ‘true masculinity’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-recovery-of-true-masculinity/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audiences",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/23/260923b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,38 +95,6 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/23/260923b.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Symbols of the Four Evangelists",
-      "publishedAt": "2026-09-21T16:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Catholic university says Flemish bishops were consulted over Quran reading at opening Mass",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/catholic-university-says-flemish-bishops-were-consulted-over-quran-reading-at-opening-mass/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
       "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
       "publishedAt": "2026-09-21T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
+      "title": "Symbols of the Four Evangelists",
+      "publishedAt": "2026-09-21T16:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on the Book of Judith",
-      "publishedAt": "2026-09-20T12:00:28.293000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/durandus-on-book-of-judith.html"
+      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-23T11:42:05Z",
-    "lastSucceeded": "2026-09-23T11:42:09Z",
+    "lastFetched": "2026-09-23T17:05:26Z",
+    "lastSucceeded": "2026-09-23T17:05:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
