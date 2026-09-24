@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:50:30Z",
+  "generatedAt": "2026-09-24T17:14:31Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le théologien américain John Cavadini reçoit le Prix Ratzinger 2026",
+      "title": "De la visite du Pape en France, le cardinal Parolin espère un dynamisme renouvelé",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-voyage-apostolique-france-protection-vie-multilateralism.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le président du Portugal en audience avec le Pape",
+      "title": "Le Premier ministre hongrois reçu par le Pape",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/audience-president-portugal-pape-migration-multilateralisme-etat.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/premier-ministre-hongrois-audience-pape-moyen-orient-conflits.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
+      "title": "Pour le cardinal Parolin, la dignité humaine est en jeu avec l'IA",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-la-dignite-humaine-en-jeu-avec-l-ia.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "L'Europe et le défi de rester humains",
+      "title": "Le Pape Léon XIV perpétue l'héritage de Fulton Sheen à la veille de sa béatification",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-voyage-de-quatre-jours-france.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-perpetue-l-heritage-de-fulton-sheen-veille-beatificatio.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Les «Borgo Dialogues» réunissent des dirigeants du monde entier à New York",
+      "title": "Le théologien américain John Cavadini reçoit le Prix Ratzinger 2026",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/borgo-dialogues-etats-unis-pour-faconner-avenir-avec-responsabil.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le nonce apostolique en France salue le «grand intérêt» pour la visite du Pape",
+      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/leon-xiv-en-france-nonce-mgr-celestino-milgiore.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Petites mains et grandes espérances, les bénévoles attendent le Pape en France",
+      "title": "La parole de Léon XIV très attendue en France",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/visite-apostolique-pape-leon-france-paris-lourdes-metz-benevoles.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/la-parole-de-leon-xiv-tres-attendue-en-france.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-24T11:50:20Z",
-    "lastSucceeded": "2026-09-24T11:50:30Z",
+    "lastFetched": "2026-09-24T17:14:27Z",
+    "lastSucceeded": "2026-09-24T17:14:31Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

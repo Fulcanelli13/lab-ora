@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:50:20Z",
+  "generatedAt": "2026-09-24T17:14:26Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo appoints Archbishop Hicks’s replacement",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "url": "https://advaticanum.com/article/pope-leo-appoints-archbishop-hickss-replacement/"
+      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Zuppi rejects ‘right to die’",
+      "title": "Filipino cardinal criticises Trump attack on International Criminal Court",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-zuppi-rejects-right-to-die/"
+      "url": "https://advaticanum.com/article/filipino-cardinal-criticises-trump-attack-on-international-criminal-court/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,41 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Relics of St Padre Pio (Part 1)",
-      "publishedAt": "2026-09-23T21:17:43.306000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-1.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Cardinal Müller calls for recovery of ‘true masculinity’",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-recovery-of-true-masculinity/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A Missal for the Use of Braga, 1558",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/a-missal-for-rite-of-braga-1558.html"
+      "title": "The Feast of St Thecla, First-Martyr Among Women",
+      "publishedAt": "2026-09-24T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +55,41 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Late Lourdes bishop accused of abuse as diocese finds no evidence to verify claim",
+      "title": "Syriac Catholic Patriarch accuses Cardinal Gugerotti of orchestrating efforts to remove him",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/late-lourdes-bishop-accused-of-abuse-as-diocese-finds-no-evidence-to-verify-claim/"
+      "url": "https://advaticanum.com/article/syriac-catholic-patriarch-accuses-cardinal-gugerotti-of-orchestrating-efforts-to-remove-him/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience of the Holy Father Leo XIV with the Assembly of the Federation of the Federation of Capuchin Poor Clares of Italy",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/21/260921a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "SingCon 2026 Gathers in Brampton, Ontario",
+      "publishedAt": "2026-09-24T12:03:44.067000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-2026-gathers-in-brampton.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "“Elegant Latin” and “dramatic gestures”: Archbishop Fulton Sheen at the Second Vatican Council",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/elegant-latin-and-dramatic-gestures-archbishop-fulton-sheen-at-the-second-vatican-council/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Tagle warns Peoria of ‘heavy responsibility’ over Fulton Sheen beatification",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-tagle-warns-peoria-of-heavy-responsibility-over-fulton-sheen-beatification/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,31 +103,31 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Relics of St Padre Pio (Part 1)",
+      "publishedAt": "2026-09-23T21:17:43.306000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-1.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "A Missal for the Use of Braga, 1558",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/a-missal-for-rite-of-braga-1558.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Iconographic Style, #2: Images Not Made with Human Hands",
       "publishedAt": "2026-09-22T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-2-images-not.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Symbols of the Four Evangelists",
-      "publishedAt": "2026-09-21T16:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/symbols-of-four-evangelists.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Dr. Kwasniewski’s Midwest Lecture Tour, Sept. 30 - Oct. 4",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/dr-kwasniewskis-midwest-lecture-tour.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-24T11:50:15Z",
-    "lastSucceeded": "2026-09-24T11:50:20Z",
+    "lastFetched": "2026-09-24T17:14:23Z",
+    "lastSucceeded": "2026-09-24T17:14:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
