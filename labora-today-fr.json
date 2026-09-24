@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:14:31Z",
+  "generatedAt": "2026-09-24T21:33:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
+      "title": "Venue du pape à Paris: des signes de bienveillance de la part des fidèles de la Fraternité Saint-Pie X",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219032"
+      "url": "https://riposte-catholique.fr/archives/219034"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
+      "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219030"
+      "url": "https://riposte-catholique.fr/archives/219032"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Église de France: un redressement dans les entrées au séminaire ?",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219022"
+      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219030"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
+      "title": "Église de France: un redressement dans les entrées au séminaire ?",
       "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219014"
+      "url": "https://riposte-catholique.fr/archives/219022"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Visite du pape à Paris: Saint-Nicolas du Chardonnet salue la présence du pape",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/218997"
+      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219014"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-24T17:14:27Z",
-    "lastSucceeded": "2026-09-24T17:14:31Z",
+    "lastFetched": "2026-09-24T21:33:15Z",
+    "lastSucceeded": "2026-09-24T21:33:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
