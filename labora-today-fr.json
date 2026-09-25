@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:01:18Z",
+  "generatedAt": "2026-09-25T11:54:33Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV alerte sur les risques des avancées technologiques",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-audience-academie-des-sciences-ia-climat.html"
+      "title": "Léon XIV: «Je me rends en France pour apporter un message de paix au monde»",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-je-me-rends-en-france-apporter-un-message-de-paix.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Premier ministre hongrois reçu par le Pape",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/premier-ministre-hongrois-audience-pape-moyen-orient-conflits.html"
+      "title": "Dessin des enfants de l'hôpital Bambino Gesù: «Cher Léon, bon voyage en France»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/dessin-enfants-hopital-bambino-gesu-cher-leon-bon-voyage.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape Léon XIV perpétue l'héritage de Fulton Sheen à la veille de sa béatification",
+      "title": "Léon XIV s'envole pour la France, marquant le début de son 5e voyage apostolique",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-perpetue-l-heritage-de-fulton-sheen-veille-beatificatio.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-s-envole-france-debut-de-son-5e-voyage-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-25T05:01:11Z",
-    "lastSucceeded": "2026-09-25T05:01:18Z",
+    "lastFetched": "2026-09-25T11:54:24Z",
+    "lastSucceeded": "2026-09-25T11:54:33Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
