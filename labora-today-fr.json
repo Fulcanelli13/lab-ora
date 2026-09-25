@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-24T21:33:20Z",
+  "generatedAt": "2026-09-25T05:01:18Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 25ème semaine du Temps Ordinaire",
-    "date": "2026-09-24",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-25eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : souhaiter voir Jésus ; revêtir le Christ ; sainteté et apostolat."
+    "title": "Méditation : Vendredi de la 25ème semaine du Temps Ordinaire",
+    "date": "2026-09-25",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-25eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Qui est Jésus pour moi ? La logique nouvelle de la Croix ; étreindre la Croix avec joie."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "LE DIALOGUE AVEC LES TRADIS EST-Il POSSIBLE ? LE CARDINAL AVELINE, PERSONNAGE-CLÉ",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4516"
+      "title": "OUI MGR AVELINE, COMME VOUS, NOUS VOULONS LA COMMUNION !",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4517"
     },
     {
       "source": "Vatican News",
@@ -66,6 +66,14 @@
       "title": "Pour le cardinal Parolin, la dignité humaine est en jeu avec l'IA",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-la-dignite-humaine-en-jeu-avec-l-ia.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "notre Lettre n°1353",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4441"
     },
     {
       "source": "Vatican News",
@@ -114,20 +122,12 @@
       "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "La parole de Léon XIV très attendue en France",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/la-parole-de-leon-xiv-tres-attendue-en-france.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-24T21:33:15Z",
-    "lastSucceeded": "2026-09-24T21:33:20Z",
+    "lastFetched": "2026-09-25T05:01:11Z",
+    "lastSucceeded": "2026-09-25T05:01:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,14 +147,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 1
+        "count": 2
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 4,
-      "tradition": 1
+      "tradition": 2
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
