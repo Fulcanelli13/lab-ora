@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:54:24Z",
+  "generatedAt": "2026-09-25T17:15:15Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,16 +32,16 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/24/260924c.html"
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of St Thecla, First-Martyr Among Women",
-      "publishedAt": "2026-09-24T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
+      "title": "Blessed Joaquín de Albocácer",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/blessed-joaquin-de-albocacer.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/24/260924b.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Words of the Holy Father during the flight from Rome to Paris",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925d.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "SingCon 2026 Gathers in Brampton, Ontario",
-      "publishedAt": "2026-09-24T12:03:44.067000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-2026-gathers-in-brampton.html"
+      "title": "The Feast of St Thecla, First-Martyr Among Women",
+      "publishedAt": "2026-09-24T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -92,6 +92,22 @@
       "url": "https://advaticanum.com/article/filipino-cardinal-criticises-trump-attack-on-international-criminal-court/"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Courtesy Visit to the President of the Republic and Meeting with the Authorities, Civil Society and the Diplomatic Corps",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925e.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "SingCon 2026 Gathers in Brampton, Ontario",
+      "publishedAt": "2026-09-24T12:03:44.067000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-2026-gathers-in-brampton.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -106,28 +122,12 @@
       "title": "A Missal for the Use of Braga, 1558",
       "publishedAt": "2026-09-23T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/a-missal-for-rite-of-braga-1558.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Iconographic Style, #2: Images Not Made with Human Hands",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-iconographic-style-2-images-not.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-25T11:54:21Z",
-    "lastSucceeded": "2026-09-25T11:54:24Z",
+    "lastFetched": "2026-09-25T17:15:13Z",
+    "lastSucceeded": "2026-09-25T17:15:15Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
+      "official": 3,
       "tradition": 5
     },
     "discardedMalformed": 1,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

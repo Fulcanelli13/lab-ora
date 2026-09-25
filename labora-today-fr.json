@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:54:33Z",
+  "generatedAt": "2026-09-25T17:15:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Je me rends en France pour apporter un message de paix au monde»",
+      "title": "À Notre-Dame, Léon XIV invite l'Église de France à être vivante, multiforme et proche",
       "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-je-me-rends-en-france-apporter-un-message-de-paix.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vepres-leon-xiv-notre-dame-paris-eglise-vivante-et-proche.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Venue du pape à Paris: des signes de bienveillance de la part des fidèles de la Fraternité Saint-Pie X",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219034"
+      "title": "Notre-Dame de Paris: les prêtres et séminaristes de l’Institut du Bon-Pasteur (IBP) saluent le pape",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219041"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Dessin des enfants de l'hôpital Bambino Gesù: «Cher Léon, bon voyage en France»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/dessin-enfants-hopital-bambino-gesu-cher-leon-bon-voyage.html"
+      "title": "À l’UNESCO, Léon XIV défend le multilatéralisme et prône le dialogue",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/unesco-pape-culture-paix-intelligence-artificielle-education.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
+      "title": "Venue du pape à Paris: des signes de bienveillance de la part des fidèles de la Fraternité Saint-Pie X",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219032"
+      "url": "https://riposte-catholique.fr/archives/219034"
     },
     {
       "source": "Vatican News",
@@ -79,17 +79,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV s'envole pour la France, marquant le début de son 5e voyage apostolique",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-s-envole-france-debut-de-son-5e-voyage-apostolique.html"
+      "title": "Léon XIV appelle la France à être «un artisan infatigable de paix et de multilatéralisme»",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-voyage-france-leon-xiv-discours-aux-autorites-macron.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
+      "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219030"
+      "url": "https://riposte-catholique.fr/archives/219032"
     },
     {
       "source": "Vatican News",
@@ -100,34 +100,34 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
     },
     {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV: «Je me rends en France pour apporter un message de paix au monde»",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-je-me-rends-en-france-apporter-un-message-de-paix.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219030"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Église de France: un redressement dans les entrées au séminaire ?",
       "publishedAt": "2026-09-23T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219022"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Flavigny-sur-Ozerain: 26 entrées au séminaire",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219014"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-25T11:54:24Z",
-    "lastSucceeded": "2026-09-25T11:54:33Z",
+    "lastFetched": "2026-09-25T17:15:15Z",
+    "lastSucceeded": "2026-09-25T17:15:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 4,
+      "official": 3,
       "tradition": 2
     },
     "discardedMalformed": 0,
