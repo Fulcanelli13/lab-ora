@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:26:48Z",
+  "generatedAt": "2026-09-26T21:13:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -40,16 +40,16 @@
       "lane": "tradition",
       "language": "fr",
       "title": "OUI MGR AVELINE, COMME VOUS, NOUS VOULONS LA COMMUNION !",
-      "publishedAt": null,
+      "publishedAt": "2026-09-25T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4517"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les catéchumènes, promesse de fécondité pour l’Église de France",
+      "title": "Les temps forts de la deuxième journée de Léon XIV en France",
       "publishedAt": "2026-09-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-voyage-france-icp-paris-catechumenes-neophytes.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/temps-forts-images-pape-leon-xiv-france-deuxieme-journee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -72,16 +72,16 @@
       "lane": "tradition",
       "language": "fr",
       "title": "notre Lettre n°1353",
-      "publishedAt": null,
+      "publishedAt": "2026-09-25T12:00:00Z",
       "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4441"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV à la Maison Bakhita: les pauvres ne sont pas une catégorie sociologique",
+      "title": "À Lourdes, le Pape confie la France à la Vierge Marie",
       "publishedAt": "2026-09-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/visite-de-leon-xiv-a-la-maison-bakhita-du-diocese-de-paris.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-leon-voyage-apostolique-lourdes-france-vierge.html"
     },
     {
       "source": "Riposte Catholique",
@@ -100,6 +100,14 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
     },
     {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Les catéchumènes, promesse de fécondité pour l’Église de France",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-voyage-france-icp-paris-catechumenes-neophytes.html"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -114,20 +122,12 @@
       "title": "Église de France: un redressement dans les entrées au séminaire ?",
       "publishedAt": "2026-09-23T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219022"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-26T16:26:42Z",
-    "lastSucceeded": "2026-09-26T16:26:48Z",
+    "lastFetched": "2026-09-26T21:13:30Z",
+    "lastSucceeded": "2026-09-26T21:13:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 4,
+      "official": 3,
       "tradition": 2
     },
     "discardedMalformed": 0,
