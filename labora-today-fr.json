@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-25T21:37:32Z",
+  "generatedAt": "2026-09-26T05:03:26Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 25ème semaine du Temps Ordinaire",
-    "date": "2026-09-25",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-25eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : Qui est Jésus pour moi ? La logique nouvelle de la Croix ; étreindre la Croix avec joie."
+    "title": "Méditation : Samedi de la 25ème semaine du Temps Ordinaire",
+    "date": "2026-09-26",
+    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-25eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Admiration pour le Christ et vie contemplative ; la Croix est toujours près de nous ; la vie comme dialogue avec Dieu."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "OUI MGR AVELINE, COMME VOUS, NOUS VOULONS LA COMMUNION !",
-      "publishedAt": "2026-09-25T12:00:00Z",
+      "publishedAt": null,
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4517"
     },
     {
@@ -72,7 +72,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "notre Lettre n°1353",
-      "publishedAt": "2026-09-25T12:00:00Z",
+      "publishedAt": null,
       "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4441"
     },
     {
@@ -100,14 +100,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV: «Je me rends en France pour apporter un message de paix au monde»",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-je-me-rends-en-france-apporter-un-message-de-paix.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -122,12 +114,20 @@
       "title": "Église de France: un redressement dans les entrées au séminaire ?",
       "publishedAt": "2026-09-23T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219022"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Pardonnons» et «pardon», deux mots d'une grande force et actualité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/gallagher-pardonnons-et-pardon-deux-mots-d-une-grande-force.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-25T21:37:28Z",
-    "lastSucceeded": "2026-09-25T21:37:32Z",
+    "lastFetched": "2026-09-26T05:03:18Z",
+    "lastSucceeded": "2026-09-26T05:03:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 3,
+      "official": 4,
       "tradition": 2
     },
     "discardedMalformed": 0,
