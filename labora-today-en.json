@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:28:58Z",
+  "generatedAt": "2026-09-26T16:26:42Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Relics of St Padre Pio (Part 2)",
-      "publishedAt": "2026-09-25T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-2.html"
+      "title": "Our Lady’s Saturday",
+      "publishedAt": "2026-09-26T12:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Blessed Joaquín de Albocácer",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/blessed-joaquin-de-albocacer.html"
+      "title": "Relics of St Padre Pio (Part 2)",
+      "publishedAt": "2026-09-25T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-2.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of St Thecla, First-Martyr Among Women",
-      "publishedAt": "2026-09-24T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
+      "title": "Blessed Joaquín de Albocácer",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/blessed-joaquin-de-albocacer.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "SingCon 2026 Gathers in Brampton, Ontario",
-      "publishedAt": "2026-09-24T12:03:44.067000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/singcon-2026-gathers-in-brampton.html"
+      "title": "The Feast of St Thecla, First-Martyr Among Women",
+      "publishedAt": "2026-09-24T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-26T11:28:57Z",
-    "lastSucceeded": "2026-09-26T11:28:58Z",
+    "lastFetched": "2026-09-26T16:26:38Z",
+    "lastSucceeded": "2026-09-26T16:26:42Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -157,7 +157,7 @@
       "tradition": 4
     },
     "discardedMalformed": 1,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,
