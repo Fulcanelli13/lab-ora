@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:03:18Z",
+  "generatedAt": "2026-09-26T11:28:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925b.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Visit to the “Maison Bakhita” Centre for Social Support and Integration",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/26/260926a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Words of the Holy Father during the flight from Rome to Paris",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925d.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting with members of the Provincial Synodal Assembly, Catechumens and Neophytes",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/26/260926b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Courtesy Visit to the President of the Republic and Meeting with the Authorities, Civil Society and the Diplomatic Corps",
+      "title": "Resignations and Appointments",
       "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925e.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Words of the Holy Father during the flight from Rome to Paris",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925d.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "SingCon 2026 Gathers in Brampton, Ontario",
       "publishedAt": "2026-09-24T12:03:44.067000Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/singcon-2026-gathers-in-brampton.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican releases Pope Leo XIV’s full Peru itinerary with two full days in Chiclayo",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-releases-pope-leo-xivs-full-peru-itinerary-with-two-full-days-in-chiclayo/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-26T05:03:14Z",
-    "lastSucceeded": "2026-09-26T05:03:18Z",
+    "lastFetched": "2026-09-26T11:28:57Z",
+    "lastSucceeded": "2026-09-26T11:28:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
+      "official": 4,
       "tradition": 4
     },
     "discardedMalformed": 1,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

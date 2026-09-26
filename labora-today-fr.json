@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:03:26Z",
+  "generatedAt": "2026-09-26T11:29:02Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Notre-Dame, Léon XIV invite l'Église de France à être vivante, multiforme et proche",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/vepres-leon-xiv-notre-dame-paris-eglise-vivante-et-proche.html"
+      "title": "Léon XIV à la Maison Bakhita: les pauvres ne sont pas une catégorie sociologique",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/visite-de-leon-xiv-a-la-maison-bakhita-du-diocese-de-paris.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À l’UNESCO, Léon XIV défend le multilatéralisme et prône le dialogue",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/unesco-pape-culture-paix-intelligence-artificielle-education.html"
+      "title": "Les catéchumènes, promesse de fécondité pour l’Église de France",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-voyage-france-icp-paris-catechumenes-neophytes.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle la France à être «un artisan infatigable de paix et de multilatéralisme»",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-voyage-france-leon-xiv-discours-aux-autorites-macron.html"
+      "title": "Père Michel Daubanes: «Le Pape nous a dit qu'il voulait faire la procession»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-leon-voyage-apostolique-lourdes-sanctuaire-procession.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-26T05:03:18Z",
-    "lastSucceeded": "2026-09-26T05:03:26Z",
+    "lastFetched": "2026-09-26T11:28:58Z",
+    "lastSucceeded": "2026-09-26T11:29:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
