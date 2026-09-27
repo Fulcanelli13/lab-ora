@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:00:23Z",
+  "generatedAt": "2026-09-27T21:23:25Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -108,26 +108,26 @@
       "url": "https://www.vaticannews.va/fr/pape/news/2026-09/lourdes-accueil-notre-dame-temoignages-medecin-malades.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "À Lourdes, Léon XIV invite à prier pour la paix entre les peuples en conflit",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/angelus-appel-rosaire-lourdes-pape-voyage-france-paix.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
       "publishedAt": "2026-09-24T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219032"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219030"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-27T17:00:18Z",
-    "lastSucceeded": "2026-09-27T17:00:23Z",
+    "lastFetched": "2026-09-27T21:23:15Z",
+    "lastSucceeded": "2026-09-27T21:23:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
-      "outside_walls": 4,
+      "vatican": 4,
+      "outside_walls": 5,
       "official": 3,
       "tradition": 2
     },
