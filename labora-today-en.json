@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:06:48Z",
+  "generatedAt": "2026-09-27T17:00:18Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Our Lady’s Saturday",
-      "publishedAt": "2026-09-26T12:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
+      "title": "The Eighteenth Sunday after Pentecost",
+      "publishedAt": "2026-09-27T12:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-eighteenth-sunday-after-pentecost.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Relics of St Padre Pio (Part 2)",
-      "publishedAt": "2026-09-25T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-2.html"
+      "title": "Our Lady’s Saturday",
+      "publishedAt": "2026-09-26T12:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,39 +95,39 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925b.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass at Place de la Concorde",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/26/260926d.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Blessed Joaquín de Albocácer",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/blessed-joaquin-de-albocacer.html"
+      "title": "Relics of St Padre Pio (Part 2)",
+      "publishedAt": "2026-09-25T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-2.html"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Words of the Holy Father during the flight from Rome to Paris",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925d.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Arrival in Lourdes and Prayer at the Grotto of the Apparitions of Massabielle",
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/26/260926f.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Holy See Press Office",
+      "lane": "official",
       "language": "en",
-      "title": "The Feast of St Thecla, First-Martyr Among Women",
-      "publishedAt": "2026-09-24T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-feast-of-st-thecla-first-martyr.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/25/260925b.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-27T12:06:45Z",
-    "lastSucceeded": "2026-09-27T12:06:48Z",
+    "lastFetched": "2026-09-27T17:00:16Z",
+    "lastSucceeded": "2026-09-27T17:00:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,10 +153,10 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 5,
+      "tradition": 3
     },
-    "discardedMalformed": 1,
+    "discardedMalformed": 0,
     "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
