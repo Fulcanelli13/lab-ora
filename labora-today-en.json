@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:03:16Z",
+  "generatedAt": "2026-09-28T21:15:01Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo rejects euthanasia and urges Catholics to rediscover Our Lady at Lourdes",
+      "title": "Italian ‘migrant priest’ appeals parish removal to Vatican’s highest court",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-rejects-euthanasia-and-urges-catholics-to-rediscover-our-lady-at-lourdes/"
+      "url": "https://advaticanum.com/article/italian-migrant-priest-appeals-parish-removal-to-vaticans-highest-court/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Eighteenth Sunday after Pentecost",
-      "publishedAt": "2026-09-27T12:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-eighteenth-sunday-after-pentecost.html"
+      "title": "Music for Vespers of St Michael",
+      "publishedAt": "2026-09-28T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/music-for-vespers-of-st-michael.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo celebrates Mass for hundreds of thousands before travelling to Lourdes",
+      "title": "Bishop’s secretary shares Pride flag swastika image",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-celebrates-mass-for-hundreds-of-thousands-before-travelling-to-lourdes/"
+      "url": "https://advaticanum.com/article/bishops-secretary-shares-pride-flag-swastika-image/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Our Lady’s Saturday",
-      "publishedAt": "2026-09-26T12:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
+      "title": "The Eighteenth Sunday after Pentecost",
+      "publishedAt": "2026-09-27T12:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-eighteenth-sunday-after-pentecost.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo warns against a ‘paradise of machines’ as he begins visit to France",
+      "title": "Pope Leo rejects euthanasia and urges Catholics to rediscover Our Lady at Lourdes",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-warns-against-a-paradise-of-machines-as-he-begins-visit-to-france/"
+      "url": "https://advaticanum.com/article/pope-leo-rejects-euthanasia-and-urges-catholics-to-rediscover-our-lady-at-lourdes/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Relics of St Padre Pio (Part 2)",
-      "publishedAt": "2026-09-25T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/relics-of-st-padre-pio-part-2.html"
+      "title": "Our Lady’s Saturday",
+      "publishedAt": "2026-09-26T12:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-28T14:03:14Z",
-    "lastSucceeded": "2026-09-28T14:03:16Z",
+    "lastFetched": "2026-09-28T21:14:59Z",
+    "lastSucceeded": "2026-09-28T21:15:01Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

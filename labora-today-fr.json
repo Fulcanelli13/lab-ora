@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:03:20Z",
+  "generatedAt": "2026-09-28T21:15:07Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Metz, le Pape plaide pour une Europe de la paix, gardienne de la dignité humaine",
+      "title": "Léon XIV invite Metz à être un «phare d'espérance» pour l’Europe",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/metz-pape-leon-xiv-europe-paix-robert-schumen-dignite-humaine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/metz-leon-xiv-europe-econciliation-paix-europe-esperance-pardon.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les efforts créatifs en faveur de la négociation et l’illusion du réarmement",
+      "title": "Léon XIV quitte la France, à l’issue de son cinquième voyage apostolique",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-leon-metz-schuman-negociation-dialogue-multilateralisme.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-france-voyage-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les temps forts de la troisième journée de Léon XIV en France",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/france-lourdes-sanctuaire-procession-flambeaux-angelus-priere.html"
+      "title": "Depuis Metz, l'appel pour une Europe force de paix et de démocratie",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/metz-europe-union-europeenne-paix-democratie-reconciliation.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-28T14:03:16Z",
-    "lastSucceeded": "2026-09-28T14:03:20Z",
+    "lastFetched": "2026-09-28T21:15:02Z",
+    "lastSucceeded": "2026-09-28T21:15:07Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
