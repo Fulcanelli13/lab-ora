@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-27T21:23:25Z",
+  "generatedAt": "2026-09-28T05:28:21Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 26ème semaine du Temps Ordinaire (cycle A)",
-    "date": "2026-09-27",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-26eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la sincérité de nos émotions ; les sentiments nous apportent des connaissances précieuses ; agir en accord avec sa propre identité."
+    "title": "Méditation : Lundi de la 26ème semaine du Temps Ordinaire",
+    "date": "2026-09-28",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-26eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le piège de l’orgueil ; apprécier les qualités des autres ; se connaitre soi-même."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Messe du Pape à Lourdes, «lieu béni d’espérance, même au cœur de l’épreuve»",
+      "title": "Les temps forts de la troisième journée de Léon XIV en France",
       "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/messe-a-lourdes-leon-xiv-angelus.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/france-lourdes-sanctuaire-procession-flambeaux-angelus-priere.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-27T21:23:15Z",
-    "lastSucceeded": "2026-09-27T21:23:25Z",
+    "lastFetched": "2026-09-28T05:28:15Z",
+    "lastSucceeded": "2026-09-28T05:28:21Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
