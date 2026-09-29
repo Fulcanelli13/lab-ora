@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-28T21:15:01Z",
+  "generatedAt": "2026-09-29T01:02:50Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Twenty-Sixth Week of Ordinary Time",
-    "date": "2026-09-28",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-sixth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the 26th week of Ordinary Time."
+    "title": "Meditations: September 29, the Holy Archangels",
+    "date": "2026-09-29",
+    "url": "https://opusdei.org/en/meditation/meditations-september-29-the-holy-archangels/",
+    "subtitle": "Some reflections that can assist our prayer on the feast of Saints Michael, Gabriel, and Raphael, Archangels."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-28T21:14:59Z",
-    "lastSucceeded": "2026-09-28T21:15:01Z",
+    "lastFetched": "2026-09-29T01:02:45Z",
+    "lastSucceeded": "2026-09-29T01:02:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

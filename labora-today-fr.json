@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-28T21:15:07Z",
+  "generatedAt": "2026-09-29T01:03:05Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 26ème semaine du Temps Ordinaire",
-    "date": "2026-09-28",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-26eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le piège de l’orgueil ; apprécier les qualités des autres ; se connaitre soi-même."
+    "title": "Méditation : 29 septembre — Les Saints Archanges",
+    "date": "2026-09-29",
+    "url": "https://opusdei.org/fr/meditation/meditation-29-septembre-les-saints-archanges/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Saint Michel et la puissance de Dieu ; les messages de saint Gabriel ; Saint Raphaël, un jeune joyeux."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "OUI MGR AVELINE, COMME VOUS, NOUS VOULONS LA COMMUNION !",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4517"
+      "title": "GRAND SUCCÈS DU PAPE EN FRANCE QUELLE SUITE POSSIBLE ?",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4519"
     },
     {
       "source": "Vatican News",
@@ -66,14 +66,6 @@
       "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "notre Lettre n°1353",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4441"
     },
     {
       "source": "Vatican News",
@@ -122,12 +114,20 @@
       "title": "De la visite du Pape en France, le cardinal Parolin espère un dynamisme renouvelé",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-voyage-apostolique-france-protection-vie-multilateralism.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le théologien américain John Cavadini reçoit le Prix Ratzinger 2026",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-28T21:15:02Z",
-    "lastSucceeded": "2026-09-28T21:15:07Z",
+    "lastFetched": "2026-09-29T01:02:50Z",
+    "lastSucceeded": "2026-09-29T01:03:05Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,14 +147,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 2
+        "count": 1
       }
     },
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
-      "tradition": 2
+      "official": 5,
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
