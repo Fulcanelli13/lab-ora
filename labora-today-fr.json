@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:03:05Z",
+  "generatedAt": "2026-09-29T09:53:28Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Journée des migrants: «la réponse globale doit être centrée sur l'humain»",
+      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/journee-des-migrants-necessite-reponse-globale-centree-personne.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
+      "title": "La paix entre les Églises, une responsabilité pour l’Europe, affirme le cardinal Koch",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/paix-eglises-europe-societe-pouvoir-democratie-chretiens-unite.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Pour le cardinal Parolin, la dignité humaine est en jeu avec l'IA",
+      "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-la-dignite-humaine-en-jeu-avec-l-ia.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "De la visite du Pape en France, le cardinal Parolin espère un dynamisme renouvelé",
+      "title": "Journée des migrants: «la réponse globale doit être centrée sur l'humain»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-voyage-apostolique-france-protection-vie-multilateralism.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/journee-des-migrants-necessite-reponse-globale-centree-personne.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le théologien américain John Cavadini reçoit le Prix Ratzinger 2026",
+      "title": "Pour le cardinal Parolin, la dignité humaine est en jeu avec l'IA",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/theologien-americain-prix-ratzinger-afrique-theologie-dogmatique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-la-dignite-humaine-en-jeu-avec-l-ia.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-29T01:02:50Z",
-    "lastSucceeded": "2026-09-29T01:03:05Z",
+    "lastFetched": "2026-09-29T09:53:23Z",
+    "lastSucceeded": "2026-09-29T09:53:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

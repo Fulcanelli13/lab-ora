@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:02:50Z",
+  "generatedAt": "2026-09-29T09:53:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Italian ‘migrant priest’ appeals parish removal to Vatican’s highest court",
+      "title": "EXCLUSIVE: Bishop Lippert on Mission, introducing the TLM to his diocese, German synodality and what to read",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/italian-migrant-priest-appeals-parish-removal-to-vaticans-highest-court/"
+      "url": "https://advaticanum.com/article/exclusive-bishop-lippert-on-mission-introducing-the-tlm-to-his-diocese-german-synodality-and-what-to-read/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop’s secretary shares Pride flag swastika image",
+      "title": "Italian ‘migrant priest’ appeals parish removal to Vatican’s highest court",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishops-secretary-shares-pride-flag-swastika-image/"
+      "url": "https://advaticanum.com/article/italian-migrant-priest-appeals-parish-removal-to-vaticans-highest-court/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo rejects euthanasia and urges Catholics to rediscover Our Lady at Lourdes",
+      "title": "Bishop’s secretary shares Pride flag swastika image",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-rejects-euthanasia-and-urges-catholics-to-rediscover-our-lady-at-lourdes/"
+      "url": "https://advaticanum.com/article/bishops-secretary-shares-pride-flag-swastika-image/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting with Bishops of the Bishops’ Conference of France",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/27/260927a.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -111,23 +111,23 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Prairie of the Sanctuary of Our Lady of Lourdes",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/27/260927b.html"
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Farewell Ceremony from France, Departure from Metz and Telegrams",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928d.html"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Angelus",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting with Bishops of the Bishops’ Conference of France",
       "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/27/260927c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/27/260927a.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-29T01:02:45Z",
-    "lastSucceeded": "2026-09-29T01:02:50Z",
+    "lastFetched": "2026-09-29T09:53:17Z",
+    "lastSucceeded": "2026-09-29T09:53:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
