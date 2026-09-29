@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:53:22Z",
+  "generatedAt": "2026-09-29T18:06:28Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
+      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
+      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
     },
     {
       "source": "Ad Vaticanum",
@@ -31,25 +31,25 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Lourdes – Metz, Interreligious Meeting",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928a.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/29/260929a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Music for Vespers of St Michael",
-      "publishedAt": "2026-09-28T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/music-for-vespers-of-st-michael.html"
+      "title": "St Michael in the Apocrypha",
+      "publishedAt": "2026-09-29T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Grech: Church is ‘synodal by nature’ but remains hierarchical",
+      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-grech-church-is-synodal-by-nature-but-remains-hierarchical/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,25 +63,25 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting “At the Roots of Europe for Peace and Unity”",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Lourdes – Metz, Interreligious Meeting",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Eighteenth Sunday after Pentecost",
-      "publishedAt": "2026-09-27T12:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-eighteenth-sunday-after-pentecost.html"
+      "title": "Musica Domestica, by Andrew Goldstein & David Clayton, Available for Pre-order",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "“Elegant Latin” and “dramatic gestures”: Archbishop Fulton Sheen at the Second Vatican Council",
+      "title": "Cardinal Grech: Church is ‘synodal by nature’ but remains hierarchical",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/elegant-latin-and-dramatic-gestures-archbishop-fulton-sheen-at-the-second-vatican-council/"
+      "url": "https://advaticanum.com/article/cardinal-grech-church-is-synodal-by-nature-but-remains-hierarchical/"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,17 +95,25 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting “At the Roots of Europe for Peace and Unity”",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Our Lady’s Saturday",
-      "publishedAt": "2026-09-26T12:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/our-ladys-saturday.html"
+      "title": "Music for Vespers of St Michael",
+      "publishedAt": "2026-09-28T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/music-for-vespers-of-st-michael.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
     },
     {
       "source": "Holy See Press Office",
@@ -114,20 +122,12 @@
       "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Farewell Ceremony from France, Departure from Metz and Telegrams",
       "publishedAt": "2026-09-28T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928d.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting with Bishops of the Bishops’ Conference of France",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/27/260927a.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-29T09:53:17Z",
-    "lastSucceeded": "2026-09-29T09:53:22Z",
+    "lastFetched": "2026-09-29T18:06:25Z",
+    "lastSucceeded": "2026-09-29T18:06:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

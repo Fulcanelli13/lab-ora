@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:53:28Z",
+  "generatedAt": "2026-09-29T18:06:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,25 +15,25 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV invite Metz à être un «phare d'espérance» pour l’Europe",
+      "title": "En images, les temps forts du voyage apostolique du Pape en France",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/metz-leon-xiv-europe-econciliation-paix-europe-esperance-pardon.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/video-voyage-apostolique-france-pape-leon-xiv.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Paris: une banderole pour demander au pape d’accorder à la Fraternité Saint-Pie X des facultés canoniques",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219049"
+      "title": "Le témoignage bienveillant d’un évêque missionnaire envers le rite traditionnel",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219058"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
+      "title": "Le Saint-Siège cultive la responsabilité face à la criminalité financière",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/vatican-responsabilite-nouvelles-formes-criminalite-financieres.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,33 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV quitte la France, à l’issue de son cinquième voyage apostolique",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-france-voyage-apostolique.html"
+      "title": "Léon XIV en France, un appel à la liberté et à l’espérance, estime le cardinal Bustillo",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-france-liberte-esperance-dialogue-guerre-politique.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Paris: une banderole pour demander au pape d’accorder à la Fraternité Saint-Pie X des facultés canoniques",
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219049"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Institut du Verbe Incarné: le père Buela reconnu coupable d’abus",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/tribunal-premier-instance-vatican-coupable-institus-verbe.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "À bord du vol retour pour Rome, Léon XIV dénonce les guerres insensées",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/leon-xiv-vol-conference-de-presse.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La paix entre les Églises, une responsabilité pour l’Europe, affirme le cardinal Koch",
+      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/paix-eglises-europe-societe-pouvoir-democratie-chretiens-unite.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Depuis Metz, l'appel pour une Europe force de paix et de démocratie",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/metz-europe-union-europeenne-paix-democratie-reconciliation.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -84,14 +100,6 @@
       "url": "https://riposte-catholique.fr/archives/219034"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -100,34 +108,26 @@
       "url": "https://riposte-catholique.fr/archives/219032"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
+      "source": "Vatican News",
+      "lane": "official",
       "language": "fr",
-      "title": "Les familles de tradition se rassemblent à la nonciature à Paris le 25 septembre",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219030"
+      "title": "La paix entre les Églises, une responsabilité pour l’Europe, affirme le cardinal Koch",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/paix-eglises-europe-societe-pouvoir-democratie-chretiens-unite.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Journée des migrants: «la réponse globale doit être centrée sur l'humain»",
+      "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/journee-des-migrants-necessite-reponse-globale-centree-personne.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Pour le cardinal Parolin, la dignité humaine est en jeu avec l'IA",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-la-dignite-humaine-en-jeu-avec-l-ia.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-29T09:53:23Z",
-    "lastSucceeded": "2026-09-29T09:53:28Z",
+    "lastFetched": "2026-09-29T18:06:28Z",
+    "lastSucceeded": "2026-09-29T18:06:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
