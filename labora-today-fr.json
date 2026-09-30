@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:39:16Z",
+  "generatedAt": "2026-09-30T20:04:00Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Saint-Siège cultive la responsabilité face à la criminalité financière",
+      "title": "Face à un ordre mondial fragilisé, les religions sont à valoriser, estime Mgr Gallagher",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/vatican-responsabilite-nouvelles-formes-criminalite-financieres.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/mgr-gallagher-collogue-religions-et-diplomatie-rome.html"
     },
     {
       "source": "Paix Liturgique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape appelle au dialogue les combattants engagés au Tigré",
+      "title": "Le Pape rend hommage aux martyrs polonais de Pratulin",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/appel-leon-xiv-tigre-ethiopie-audience-generale-abiy-ahmed-tplf.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-audience-martyrs-polonais-greco-catholiques-wincenty-lewoni.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
+      "title": "Le Saint-Siège cultive la responsabilité face à la criminalité financière",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/vatican-responsabilite-nouvelles-formes-criminalite-financieres.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La paix entre les Églises, une responsabilité pour l’Europe, affirme le cardinal Koch",
+      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/paix-eglises-europe-societe-pouvoir-democratie-chretiens-unite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "À l’ONU, le cardinal Parolin invite à «rétablir la confiance» par le dialogue",
+      "title": "Le Pape appelle au dialogue les combattants engagés au Tigré",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/parolin-onu-retablir-confiance-dialogue-multilateralisme.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/appel-leon-xiv-tigre-ethiopie-audience-generale-abiy-ahmed-tplf.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-30T12:39:12Z",
-    "lastSucceeded": "2026-09-30T12:39:16Z",
+    "lastFetched": "2026-09-30T20:03:55Z",
+    "lastSucceeded": "2026-09-30T20:04:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,

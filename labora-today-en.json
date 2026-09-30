@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:39:12Z",
+  "generatedAt": "2026-09-30T20:03:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "EXCLUSIVE: Bishop Lippert on Mission, introducing the TLM to his diocese, German synodality and what to read",
+      "title": "Cardinal Koch urges Christians to restore peace between the Churches",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-bishop-lippert-on-mission-introducing-the-tlm-to-his-diocese-german-synodality-and-what-to-read/"
+      "url": "https://advaticanum.com/article/cardinal-koch-urges-christians-to-restore-peace-between-the-churches/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Italian ‘migrant priest’ appeals parish removal to Vatican’s highest court",
+      "title": "New Zealand bishop warns against liturgical improvisation and restoring elements of the 1962 Missal",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/italian-migrant-priest-appeals-parish-removal-to-vaticans-highest-court/"
+      "url": "https://advaticanum.com/article/new-zealand-bishop-warns-against-liturgical-improvisation-and-restoring-elements-of-the-1962-missal/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop’s secretary shares Pride flag swastika image",
+      "title": "EXCLUSIVE: Bishop Lippert on Mission, introducing the TLM to his diocese, German synodality and what to read",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishops-secretary-shares-pride-flag-swastika-image/"
+      "url": "https://advaticanum.com/article/exclusive-bishop-lippert-on-mission-introducing-the-tlm-to-his-diocese-german-synodality-and-what-to-read/"
     },
     {
       "source": "Holy See Press Office",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Music for Vespers of St Michael",
-      "publishedAt": "2026-09-28T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/music-for-vespers-of-st-michael.html"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
       "publishedAt": "2026-09-28T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Farewell Ceremony from France, Departure from Metz and Telegrams",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-30T12:39:09Z",
-    "lastSucceeded": "2026-09-30T12:39:12Z",
+    "lastFetched": "2026-09-30T20:03:52Z",
+    "lastSucceeded": "2026-09-30T20:03:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 5,
+      "tradition": 3
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
