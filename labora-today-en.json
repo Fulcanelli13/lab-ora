@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:36:50Z",
+  "generatedAt": "2026-09-30T12:39:12Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Michael in the Apocrypha",
-      "publishedAt": "2026-09-29T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
+      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Musica Domestica, by Andrew Goldstein & David Clayton, Available for Pre-order",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
+      "title": "St Michael in the Apocrypha",
+      "publishedAt": "2026-09-29T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Musica Domestica, by Andrew Goldstein & David Clayton, Available for Pre-order",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Music for Vespers of St Michael",
       "publishedAt": "2026-09-28T19:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/music-for-vespers-of-st-michael.html"
@@ -114,20 +122,12 @@
       "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
       "publishedAt": "2026-09-28T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Farewell Ceremony from France, Departure from Metz and Telegrams",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-30T05:36:47Z",
-    "lastSucceeded": "2026-09-30T05:36:50Z",
+    "lastFetched": "2026-09-30T12:39:09Z",
+    "lastSucceeded": "2026-09-30T12:39:12Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
