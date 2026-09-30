@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-29T22:19:06Z",
+  "generatedAt": "2026-09-30T05:36:55Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 29 septembre — Les Saints Archanges",
-    "date": "2026-09-29",
-    "url": "https://opusdei.org/fr/meditation/meditation-29-septembre-les-saints-archanges/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : Saint Michel et la puissance de Dieu ; les messages de saint Gabriel ; Saint Raphaël, un jeune joyeux."
+    "title": "Méditation : Mercredi de la 26ème semaine du Temps Ordinaire",
+    "date": "2026-09-30",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-26eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : une vie d’amour, mais pas une vie confortable ; Jésus appelle tout le monde ; Dieu nous réserve des surprises."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le témoignage bienveillant d’un évêque missionnaire envers le rite traditionnel",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219058"
+      "title": "Rome: les tribunaux romains confirment les infractions commises par le fondateur d’un institut",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219071"
     },
     {
       "source": "Vatican News",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "GRAND SUCCÈS DU PAPE EN FRANCE QUELLE SUITE POSSIBLE ?",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4519"
+      "title": "POUR QUE L'ÉGLISE AIT LA PAIX DES JEUNES IMPLORENT LA PAIX LITURGIQUE",
+      "publishedAt": null,
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4520"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Paris: une banderole pour demander au pape d’accorder à la Fraternité Saint-Pie X des facultés canoniques",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219049"
+      "title": "Le témoignage bienveillant d’un évêque missionnaire envers le rite traditionnel",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219058"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Notre-Dame de Paris: les prêtres et séminaristes de l’Institut du Bon-Pasteur (IBP) saluent le pape",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219041"
+      "title": "Paris: une banderole pour demander au pape d’accorder à la Fraternité Saint-Pie X des facultés canoniques",
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219049"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Venue du pape à Paris: des signes de bienveillance de la part des fidèles de la Fraternité Saint-Pie X",
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219034"
+      "title": "Notre-Dame de Paris: les prêtres et séminaristes de l’Institut du Bon-Pasteur (IBP) saluent le pape",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219041"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le pape Léon ignore la demande d’audience des pèlerins traditionalistes",
+      "title": "Venue du pape à Paris: des signes de bienveillance de la part des fidèles de la Fraternité Saint-Pie X",
       "publishedAt": "2026-09-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219032"
+      "url": "https://riposte-catholique.fr/archives/219034"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-29T22:19:00Z",
-    "lastSucceeded": "2026-09-29T22:19:06Z",
+    "lastFetched": "2026-09-30T05:36:50Z",
+    "lastSucceeded": "2026-09-30T05:36:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
