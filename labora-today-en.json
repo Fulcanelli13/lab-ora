@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:12:24Z",
+  "generatedAt": "2026-10-01T18:26:36Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Traditional Latin Mass petitioners sent back to bishop who rejected their request",
+      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/traditional-latin-mass-petitioners-sent-back-to-bishop-who-rejected-their-request/"
+      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/29/260929a.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Jerome’s Lion",
-      "publishedAt": "2026-09-30T20:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
+      "title": "“The Mystery of the Orthodox Liturgy”: A New Video about the Byzantine Rite",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,25 +55,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Koch urges Christians to restore peace between the Churches",
+      "title": "‘The guillotine is gone’: Bishop Rob Mutsaerts contrasts revolutionary France with Pope Leo’s welcome",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-koch-urges-christians-to-restore-peace-between-the-churches/"
+      "url": "https://advaticanum.com/article/the-guillotine-is-gone-bishop-rob-mutsaerts-contrasts-revolutionary-france-with-pope-leos-welcome/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Lourdes – Metz, Interreligious Meeting",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928a.html"
+      "title": "Audience with Representatives of the Lutheran World Federation",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001g.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
+      "title": "St Jerome’s Lion",
+      "publishedAt": "2026-09-30T20:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,17 +87,33 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "New Zealand bishop warns against liturgical improvisation and restoring elements of the 1962 Missal",
+      "title": "Traditional Latin Mass petitioners sent back to bishop who rejected their request",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/new-zealand-bishop-warns-against-liturgical-improvisation-and-restoring-elements-of-the-1962-missal/"
+      "url": "https://advaticanum.com/article/traditional-latin-mass-petitioners-sent-back-to-bishop-who-rejected-their-request/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Meeting “At the Roots of Europe for Peace and Unity”",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928b.html"
+      "title": "Activities of the Holy Father",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Notice from the Office of Liturgical Celebrations",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,28 +122,12 @@
       "title": "St Michael in the Apocrypha",
       "publishedAt": "2026-09-29T18:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Musica Domestica, by Andrew Goldstein & David Clayton, Available for Pre-order",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-01T10:12:20Z",
-    "lastSucceeded": "2026-10-01T10:12:24Z",
+    "lastFetched": "2026-10-01T18:26:34Z",
+    "lastSucceeded": "2026-10-01T18:26:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -157,7 +157,7 @@
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

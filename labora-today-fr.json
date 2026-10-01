@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:12:33Z",
+  "generatedAt": "2026-10-01T18:26:41Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,25 +15,25 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "La «renaissance», le fil conducteur du voyage apostolique en France",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-audience-generale-voyage-apostolique-france-eglise-bilan.html"
+      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Visite du pape en France: un fiasco ?",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219079"
+      "title": "Saint-Pierre de Rome: célébration d’une messe traditionnelle",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219096"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Face à un ordre mondial fragilisé, les religions sont à valoriser, estime Mgr Gallagher",
+      "title": "La complémentarité entre l’humanité et l’IA, selon le cardinal Fernández",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/mgr-gallagher-collogue-religions-et-diplomatie-rome.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/magnifica-humanitas-cardinal-fernandez-ia-humanite.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,41 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les contemplatives dominicaines appelées à offrir des oasis de paix au monde",
+      "title": "Le Pape Léon XIV a reçu en audience le président de la République centrafricaine",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-recu-le-president-republique-centrafricaine.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Pologne: un évêque présent à la première messe d’un prêtre de l’Institut du Christ Roi Souverain Prêtre (ICRSP)",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219088"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le cardinal Zuppi de retour de mission en Russie",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-zuppi-retour-de-mission-en-russie.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Visite du pape en France: un fiasco ?",
       "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-leon-xiv-vatican-moniales-contemplatives-dominicaines.html"
+      "url": "https://riposte-catholique.fr/archives/219079"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Colloque sur les vocations et les charismes, la beauté de l’unité dans la diversité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/symposium-vocations-et-charismes-cardinal-ouellet.html"
     },
     {
       "source": "Riposte Catholique",
@@ -60,74 +92,18 @@
       "url": "https://riposte-catholique.fr/archives/219071"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Institut du Verbe Incarné: le père Buela reconnu coupable d’abus",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/tribunal-premier-instance-vatican-coupable-institus-verbe.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape rend hommage aux martyrs polonais de Pratulin",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/pape-audience-martyrs-polonais-greco-catholiques-wincenty-lewoni.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Le témoignage bienveillant d’un évêque missionnaire envers le rite traditionnel",
       "publishedAt": "2026-09-29T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219058"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le Saint-Siège cultive la responsabilité face à la criminalité financière",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/vatican-responsabilite-nouvelles-formes-criminalite-financieres.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Paris: une banderole pour demander au pape d’accorder à la Fraternité Saint-Pie X des facultés canoniques",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219049"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Notre-Dame de Paris: les prêtres et séminaristes de l’Institut du Bon-Pasteur (IBP) saluent le pape",
-      "publishedAt": "2026-09-25T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219041"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le cardinal Zuppi effectue une mission de trois jours à Moscou",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-09/cardinal-zuppi-mission-moscou-ukraine-humanitaire-paix-guerre.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape appelle au dialogue les combattants engagés au Tigré",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-09/appel-leon-xiv-tigre-ethiopie-audience-generale-abiy-ahmed-tplf.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-01T10:12:24Z",
-    "lastSucceeded": "2026-10-01T10:12:33Z",
+    "lastFetched": "2026-10-01T18:26:36Z",
+    "lastSucceeded": "2026-10-01T18:26:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +127,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 2,
       "outside_walls": 5,
-      "official": 4,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
