@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-30T20:04:00Z",
+  "generatedAt": "2026-10-01T00:34:38Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 26ème semaine du Temps Ordinaire",
-    "date": "2026-09-30",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-26eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : une vie d’amour, mais pas une vie confortable ; Jésus appelle tout le monde ; Dieu nous réserve des surprises."
+    "title": "Méditation : Jeudi de la 26ème semaine du Temps Ordinaire",
+    "date": "2026-10-01",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-26eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : l’amour de la moisson ; apôtres dans la vie de tous les jours ; transmettre la proximité de Dieu."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-09-30T20:03:55Z",
-    "lastSucceeded": "2026-09-30T20:04:00Z",
+    "lastFetched": "2026-10-01T00:34:33Z",
+    "lastSucceeded": "2026-10-01T00:34:38Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-30T20:03:55Z",
+  "generatedAt": "2026-10-01T00:34:33Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Twenty-Sixth Week of Ordinary Time",
-    "date": "2026-09-30",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-sixth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the 26th week of Ordinary Time."
+    "title": "Meditations: Thursday of the Twenty-Sixth Week of Ordinary Time",
+    "date": "2026-10-01",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-sixth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-sixth week of Ordinary Time. The topics are: love for the harvest; apostles in ordinary life; communicating God's closeness."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
+      "title": "St Jerome’s Lion",
+      "publishedAt": "2026-09-30T20:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Michael in the Apocrypha",
-      "publishedAt": "2026-09-29T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
+      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "St Michael in the Apocrypha",
+      "publishedAt": "2026-09-29T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Musica Domestica, by Andrew Goldstein & David Clayton, Available for Pre-order",
       "publishedAt": "2026-09-29T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/musica-domestica-by-andrew-goldstein.html"
@@ -114,20 +122,12 @@
       "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Holy Mass in the Saint Stephen’s Cathedral",
       "publishedAt": "2026-09-28T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928c.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of the Holy Father Leo XIV to France and Visit to the Headquarters of UNESCO (25-28 September 2026) – Farewell Ceremony from France, Departure from Metz and Telegrams",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/09/28/260928d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-09-30T20:03:52Z",
-    "lastSucceeded": "2026-09-30T20:03:55Z",
+    "lastFetched": "2026-10-01T00:34:31Z",
+    "lastSucceeded": "2026-10-01T00:34:33Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
