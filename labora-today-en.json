@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:34:33Z",
+  "generatedAt": "2026-10-01T10:12:24Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Koch urges Christians to restore peace between the Churches",
+      "title": "Traditional Latin Mass petitioners sent back to bishop who rejected their request",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-koch-urges-christians-to-restore-peace-between-the-churches/"
+      "url": "https://advaticanum.com/article/traditional-latin-mass-petitioners-sent-back-to-bishop-who-rejected-their-request/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "New Zealand bishop warns against liturgical improvisation and restoring elements of the 1962 Missal",
+      "title": "Cardinal Koch urges Christians to restore peace between the Churches",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/new-zealand-bishop-warns-against-liturgical-improvisation-and-restoring-elements-of-the-1962-missal/"
+      "url": "https://advaticanum.com/article/cardinal-koch-urges-christians-to-restore-peace-between-the-churches/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "EXCLUSIVE: Bishop Lippert on Mission, introducing the TLM to his diocese, German synodality and what to read",
+      "title": "New Zealand bishop warns against liturgical improvisation and restoring elements of the 1962 Missal",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-bishop-lippert-on-mission-introducing-the-tlm-to-his-diocese-german-synodality-and-what-to-read/"
+      "url": "https://advaticanum.com/article/new-zealand-bishop-warns-against-liturgical-improvisation-and-restoring-elements-of-the-1962-missal/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-01T00:34:31Z",
-    "lastSucceeded": "2026-10-01T00:34:33Z",
+    "lastFetched": "2026-10-01T10:12:20Z",
+    "lastSucceeded": "2026-10-01T10:12:24Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
