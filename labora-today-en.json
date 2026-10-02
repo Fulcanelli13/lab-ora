@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T09:49:56Z",
+  "generatedAt": "2026-10-02T17:53:33Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
+      "title": "Vatican official says ‘pointless to split hairs’ as Synod Secretariat expands Amoris Laetitia role",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
+      "url": "https://advaticanum.com/article/vatican-official-says-pointless-to-split-hairs-as-synod-secretariat-expands-amoris-laetitia-role/"
     },
     {
       "source": "Ad Vaticanum",
@@ -32,8 +32,40 @@
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001a.html"
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/02/261002a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Priest’s Second Prayer for Holy Communion",
+      "publishedAt": "2026-10-02T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Bo says Pope Leo’s words on peace carry special meaning for Myanmar",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-bo-says-pope-leos-words-on-peace-carry-special-meaning-for-myanmar/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience with artists and curators of the Meeting “The Art of Possibility: Weaving Together, promoted by the Dicastery for Culture and Education",
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/02/261002c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Bo says Pope Leo’s words on peace carry special meaning for Myanmar",
+      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-bo-says-pope-leos-words-on-peace-carry-special-meaning-for-myanmar/"
+      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
     },
     {
       "source": "Holy See Press Office",
@@ -76,28 +108,12 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Grech: Church is ‘synodal by nature’ but remains hierarchical",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-grech-church-is-synodal-by-nature-but-remains-hierarchical/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Activities of the Holy Father",
+      "title": "Audience with a delegation from the “Hera Group”",
       "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/291001h.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,28 +122,12 @@
       "title": "St Jerome’s Lion",
       "publishedAt": "2026-09-30T20:15:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Notice from the Office of Liturgical Celebrations",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/01/261001c.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-02T09:49:53Z",
-    "lastSucceeded": "2026-10-02T09:49:56Z",
+    "lastFetched": "2026-10-02T17:53:31Z",
+    "lastSucceeded": "2026-10-02T17:53:33Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

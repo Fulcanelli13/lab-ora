@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T09:50:02Z",
+  "generatedAt": "2026-10-02T17:53:43Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
+      "title": "Léon XIV aux artistes: l’Église a besoin de vous",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-artistes-conservateurs-exposition.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape Léon XIV a reçu en audience le président de la République centrafricaine",
+      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-recu-le-president-republique-centrafricaine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Zuppi de retour de mission en Russie",
+      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-zuppi-retour-de-mission-en-russie.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape Léon XIV a reçu en audience le président de la République centrafricaine",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-recu-le-president-republique-centrafricaine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Colloque sur les vocations et les charismes, la beauté de l’unité dans la diversité",
+      "title": "Sainte-Marie-Majeure: les reliques de la Sainte Crèche plus près des fidèles",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/symposium-vocations-et-charismes-cardinal-ouellet.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/relique-sainte-creche-sainte-marie-majeure.html"
     },
     {
       "source": "Riposte Catholique",
@@ -98,12 +106,28 @@
       "title": "Le témoignage bienveillant d’un évêque missionnaire envers le rite traditionnel",
       "publishedAt": "2026-09-29T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219058"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le cardinal Zuppi de retour de mission en Russie",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-zuppi-retour-de-mission-en-russie.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Colloque sur les vocations et les charismes, la beauté de l’unité dans la diversité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/symposium-vocations-et-charismes-cardinal-ouellet.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-02T09:49:56Z",
-    "lastSucceeded": "2026-10-02T09:50:02Z",
+    "lastFetched": "2026-10-02T17:53:33Z",
+    "lastSucceeded": "2026-10-02T17:53:43Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -127,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 3,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,
