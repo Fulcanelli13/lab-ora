@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-01T18:26:36Z",
+  "generatedAt": "2026-10-02T00:49:28Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Twenty-Sixth Week of Ordinary Time",
-    "date": "2026-10-01",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-sixth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-sixth week of Ordinary Time. The topics are: love for the harvest; apostles in ordinary life; communicating God's closeness."
+    "title": "Meditations: October 2, Founding of Opus Dei",
+    "date": "2026-10-02",
+    "url": "https://opusdei.org/en/meditation/meditations-october-2-founding-of-opus-dei/",
+    "subtitle": "Some reflections that can assist our prayer on the feast of the founding of Opus Dei."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“The Mystery of the Orthodox Liturgy”: A New Video about the Byzantine Rite",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
+      "title": "The Book of Hours of Marguerite of Orléans (Part 1)",
+      "publishedAt": "2026-10-01T20:00:06.810000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Jerome’s Lion",
-      "publishedAt": "2026-09-30T20:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
+      "title": "“The Mystery of the Orthodox Liturgy”: A New Video about the Byzantine Rite",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
+      "title": "St Jerome’s Lion",
+      "publishedAt": "2026-09-30T20:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Michael in the Apocrypha",
-      "publishedAt": "2026-09-29T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-michael-in-apocrypha.html"
+      "title": "Photos of a Missale Romanum Printed in Antwerp, 1616",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/photos-of-missale-romanum-printed-in.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-01T18:26:34Z",
-    "lastSucceeded": "2026-10-01T18:26:36Z",
+    "lastFetched": "2026-10-02T00:49:24Z",
+    "lastSucceeded": "2026-10-02T00:49:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

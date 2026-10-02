@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-01T18:26:41Z",
+  "generatedAt": "2026-10-02T00:49:35Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 26ème semaine du Temps Ordinaire",
-    "date": "2026-10-01",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-26eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : l’amour de la moisson ; apôtres dans la vie de tous les jours ; transmettre la proximité de Dieu."
+    "title": "Méditation : 2 octobre — Anniversaire de la fondation de l'Opus Dei",
+    "date": "2026-10-02",
+    "url": "https://opusdei.org/fr/meditation/meditation-2-octobre-anniversaire-de-la-fondation-de-lopus-dei/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : c’est Dieu qui a voulu l’Opus Dei ; des contemplatifs au milieu du monde ; collaborer à une initiative divine."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "POUR QUE L'ÉGLISE AIT LA PAIX DES JEUNES IMPLORENT LA PAIX LITURGIQUE",
-      "publishedAt": "2026-09-30T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4520"
+      "title": "FERVEUR AUTHENTIQUE... MAIS RÉPONSES TROUBLANTES",
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4522"
     },
     {
       "source": "Vatican News",
@@ -102,8 +102,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-01T18:26:36Z",
-    "lastSucceeded": "2026-10-01T18:26:41Z",
+    "lastFetched": "2026-10-02T00:49:28Z",
+    "lastSucceeded": "2026-10-02T00:49:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
