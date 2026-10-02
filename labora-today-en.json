@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:49:28Z",
+  "generatedAt": "2026-10-02T09:49:56Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
+      "title": "Bishop Bätzing defends German Church reform agenda at Fulda plenary",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
+      "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "‘The guillotine is gone’: Bishop Rob Mutsaerts contrasts revolutionary France with Pope Leo’s welcome",
+      "title": "Cardinal Bo says Pope Leo’s words on peace carry special meaning for Myanmar",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/the-guillotine-is-gone-bishop-rob-mutsaerts-contrasts-revolutionary-france-with-pope-leos-welcome/"
+      "url": "https://advaticanum.com/article/cardinal-bo-says-pope-leos-words-on-peace-carry-special-meaning-for-myanmar/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Traditional Latin Mass petitioners sent back to bishop who rejected their request",
+      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/traditional-latin-mass-petitioners-sent-back-to-bishop-who-rejected-their-request/"
+      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-02T00:49:24Z",
-    "lastSucceeded": "2026-10-02T00:49:28Z",
+    "lastFetched": "2026-10-02T09:49:53Z",
+    "lastSucceeded": "2026-10-02T09:49:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
