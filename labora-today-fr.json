@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:21:26Z",
+  "generatedAt": "2026-10-03T21:20:11Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -68,14 +68,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-03T16:21:18Z",
-    "lastSucceeded": "2026-10-03T16:21:26Z",
+    "lastFetched": "2026-10-03T21:20:06Z",
+    "lastSucceeded": "2026-10-03T21:20:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
