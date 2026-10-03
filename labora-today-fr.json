@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:43:21Z",
+  "generatedAt": "2026-10-03T16:21:26Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV aux artistes: l’Église a besoin de vous",
+      "title": "Le président du Monténégro reçu par Léon XIV",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-artistes-conservateurs-exposition.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-audience-president-montenegro-paix-balkans-ukraine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
+      "title": "«Amoris laetitia», pour une annonce de l’Évangile avec les familles",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
+      "title": "Léon XIV aux artistes: l’Église a besoin de vous",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-artistes-conservateurs-exposition.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia», pour une annonce de l’Évangile avec les familles",
+      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape Léon XIV a reçu en audience le président de la République centrafricaine",
+      "title": "Léon XIV invite à prier pour la pastorale de la santé mentale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-recu-le-president-republique-centrafricaine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-leon-xiv-invite-prier-pour-la-sante-mentale.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-03T11:43:04Z",
-    "lastSucceeded": "2026-10-03T11:43:21Z",
+    "lastFetched": "2026-10-03T16:21:18Z",
+    "lastSucceeded": "2026-10-03T16:21:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

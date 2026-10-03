@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:43:04Z",
+  "generatedAt": "2026-10-03T16:21:18Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Full schedule released for eight-day Amoris laetitia anniversary gathering",
+      "title": "Cardinal Gambetti leaves St Peter’s for Chieti-Vasto",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/full-schedule-released-for-eight-day-amoris-laetitia-anniversary-gathering/"
+      "url": "https://advaticanum.com/article/cardinal-gambetti-leaves-st-peters-for-chieti-vasto/"
     },
     {
       "source": "Ad Vaticanum",
@@ -39,17 +39,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Vespers Hymn for the Feast of the Guardian Angels",
-      "publishedAt": "2026-10-02T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
+      "title": "The Book of Hours of Marguerite of Orléans (Part 2)",
+      "publishedAt": "2026-10-03T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of_0376299783.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican official says ‘pointless to split hairs’ as Synod Secretariat expands Amoris Laetitia role",
+      "title": "Full schedule released for eight-day Amoris laetitia anniversary gathering",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-official-says-pointless-to-split-hairs-as-synod-secretariat-expands-amoris-laetitia-role/"
+      "url": "https://advaticanum.com/article/full-schedule-released-for-eight-day-amoris-laetitia-anniversary-gathering/"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,17 +71,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s Second Prayer for Holy Communion",
-      "publishedAt": "2026-10-02T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
+      "title": "The Vespers Hymn for the Feast of the Guardian Angels",
+      "publishedAt": "2026-10-02T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
+      "title": "Vatican official says ‘pointless to split hairs’ as Synod Secretariat expands Amoris Laetitia role",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
+      "url": "https://advaticanum.com/article/vatican-official-says-pointless-to-split-hairs-as-synod-secretariat-expands-amoris-laetitia-role/"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Book of Hours of Marguerite of Orléans (Part 1)",
-      "publishedAt": "2026-10-01T20:00:06.810000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of.html"
+      "title": "The Priest’s Second Prayer for Holy Communion",
+      "publishedAt": "2026-10-02T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "St Jerome’s Lion",
-      "publishedAt": "2026-09-30T20:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/st-jeromes-lion.html"
+      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-03T11:43:01Z",
-    "lastSucceeded": "2026-10-03T11:43:04Z",
+    "lastFetched": "2026-10-03T16:21:15Z",
+    "lastSucceeded": "2026-10-03T16:21:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
       "official": 3,
-      "tradition": 5
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,
