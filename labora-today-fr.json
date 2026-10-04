@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T21:20:11Z",
+  "generatedAt": "2026-10-04T05:58:25Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 26ème semaine du Temps Ordinaire",
-    "date": "2026-10-03",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-26eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : La joie des soixante-douze ; nous sommes des porteurs de cette joie ; un fruit de l’Esprit Saint."
+    "title": "Méditation : Dimanche de la 27ème semaine du Temps Ordinaire (cycle A)",
+    "date": "2026-10-04",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-27eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : une vigne qui ne porte pas de fruit ; le souvenir des soins du vigneron ; le Christ, pierre angulaire de la vigne."
   },
   "headlines": [
     {
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-03T21:20:06Z",
-    "lastSucceeded": "2026-10-03T21:20:11Z",
+    "lastFetched": "2026-10-04T05:58:19Z",
+    "lastSucceeded": "2026-10-04T05:58:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

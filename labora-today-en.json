@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T21:20:06Z",
+  "generatedAt": "2026-10-04T05:58:19Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Saturday of the Twenty-Sixth Week of Ordinary Time",
-    "date": "2026-10-03",
-    "url": "https://opusdei.org/en/meditation/meditations-saturday-26th-week-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the 26th week of Ordinary Time. The topics are: the joy of the seventy-two; we are bearers of that joy; a fruit of the Holy Spirit."
+    "title": "Meditations: Sunday of the Twenty-Seventh Week of Ordinary Time (Year A)",
+    "date": "2026-10-04",
+    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-seventh-week-of-ordinary-time-year-a/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: a vine that does not bear fruit; the memory of the vine-dresser's care; Christ in the vineyard."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-03T21:20:04Z",
-    "lastSucceeded": "2026-10-03T21:20:06Z",
+    "lastFetched": "2026-10-04T05:58:17Z",
+    "lastSucceeded": "2026-10-04T05:58:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
