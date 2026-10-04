@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:39:22Z",
+  "generatedAt": "2026-10-04T23:57:58Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Inde: célébration d’une messe traditionnelle au Kerala",
+      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
       "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219133"
+      "url": "https://riposte-catholique.fr/archives/219141"
     },
     {
       "source": "Vatican News",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "FERVEUR AUTHENTIQUE... MAIS RÉPONSES TROUBLANTES",
-      "publishedAt": "2026-10-02T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4522"
+      "title": "QUEL EST LE PROGRAMME LITURGIQUE DU PAPE ? CELUI DE LA PAIX ? OU CELUI D'ANDREA GRILLO ?",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4521"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Dernière minute: le cardinal Gambetti nommé archevêque de Chieti-Vasto",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219120"
+      "title": "Inde: célébration d’une messe traditionnelle au Kerala",
+      "publishedAt": "2026-10-04T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219133"
     },
     {
       "source": "Vatican News",
@@ -68,12 +68,20 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "Lettre de Paix liturgique du 24 juillet 2026",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4490"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Séminaire de Courtalain: une retraite pour commencer l’année",
+      "title": "Dernière minute: le cardinal Gambetti nommé archevêque de Chieti-Vasto",
       "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219114"
+      "url": "https://riposte-catholique.fr/archives/219120"
     },
     {
       "source": "Vatican News",
@@ -87,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le cardinal Gambetti devrait être remplacé à Saint-Pierre de Rome",
+      "title": "Séminaire de Courtalain: une retraite pour commencer l’année",
       "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219105"
+      "url": "https://riposte-catholique.fr/archives/219114"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Saint-Pierre de Rome: célébration d’une messe traditionnelle",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219096"
+      "title": "Le cardinal Gambetti devrait être remplacé à Saint-Pierre de Rome",
+      "publishedAt": "2026-10-03T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219105"
     },
     {
       "source": "Vatican News",
@@ -110,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-04T18:39:16Z",
-    "lastSucceeded": "2026-10-04T18:39:22Z",
+    "lastFetched": "2026-10-04T23:57:48Z",
+    "lastSucceeded": "2026-10-04T23:57:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -131,14 +139,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 1
+        "count": 2
       }
     },
     "itemCounts": {
       "vatican": 2,
       "outside_walls": 5,
       "official": 4,
-      "tradition": 1
+      "tradition": 2
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
