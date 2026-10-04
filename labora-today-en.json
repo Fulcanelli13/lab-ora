@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:25:53Z",
+  "generatedAt": "2026-10-04T18:39:16Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Book of Hours of Marguerite of Orléans (Part 2)",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of_0376299783.html"
+      "title": "A Proper Hymn of St Francis of Assisi",
+      "publishedAt": "2026-10-04T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Vespers Hymn for the Feast of the Guardian Angels",
-      "publishedAt": "2026-10-02T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
+      "title": "The Book of Hours of Marguerite of Orléans (Part 2)",
+      "publishedAt": "2026-10-03T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of_0376299783.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,17 +103,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s Second Prayer for Holy Communion",
-      "publishedAt": "2026-10-02T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
+      "title": "The Vespers Hymn for the Feast of the Guardian Angels",
+      "publishedAt": "2026-10-02T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“The Mystery of the Orthodox Liturgy”: A New Video about the Byzantine Rite",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-mystery-of-orthodox-liturgy-new.html"
+      "title": "The Priest’s Second Prayer for Holy Communion",
+      "publishedAt": "2026-10-02T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-04T12:25:49Z",
-    "lastSucceeded": "2026-10-04T12:25:53Z",
+    "lastFetched": "2026-10-04T18:39:13Z",
+    "lastSucceeded": "2026-10-04T18:39:16Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

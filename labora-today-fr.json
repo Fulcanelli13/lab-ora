@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:26:02Z",
+  "generatedAt": "2026-10-04T18:39:22Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia», pour une annonce de l’Évangile avec les familles",
+      "title": "Sortir de la logique de domination et des inégalités pour mettre fin à la guerre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/entretien-cardinal-parolin-saint-siege-repubblica-guerre-onu.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
+      "title": "«Amoris laetitia», pour une annonce de l’Évangile avec les familles",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Sainte-Marie-Majeure: les reliques de la Sainte Crèche plus près des fidèles",
+      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/relique-sainte-creche-sainte-marie-majeure.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,23 +103,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Zuppi de retour de mission en Russie",
+      "title": "Sainte-Marie-Majeure: les reliques de la Sainte Crèche plus près des fidèles",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-zuppi-retour-de-mission-en-russie.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Colloque sur les vocations et les charismes, la beauté de l’unité dans la diversité",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/symposium-vocations-et-charismes-cardinal-ouellet.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/relique-sainte-creche-sainte-marie-majeure.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-04T12:25:53Z",
-    "lastSucceeded": "2026-10-04T12:26:02Z",
+    "lastFetched": "2026-10-04T18:39:16Z",
+    "lastSucceeded": "2026-10-04T18:39:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -145,7 +137,7 @@
     "itemCounts": {
       "vatican": 2,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,
