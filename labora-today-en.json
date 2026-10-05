@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:46:22Z",
+  "generatedAt": "2026-10-05T22:02:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Proper Hymn of St Francis of Assisi",
-      "publishedAt": "2026-10-04T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
+      "title": "Why Translation Matters",
+      "publishedAt": "2026-10-05T15:18:05.460000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Book of Hours of Marguerite of Orléans (Part 2)",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of_0376299783.html"
+      "title": "A Proper Hymn of St Francis of Assisi",
+      "publishedAt": "2026-10-04T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -90,6 +90,14 @@
       "title": "Bishop Bätzing defends German Church reform agenda at Fulda plenary",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Book of Hours of Marguerite of Orléans (Part 2)",
+      "publishedAt": "2026-10-03T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-book-of-hours-of-marguerite-of_0376299783.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-05T14:46:19Z",
-    "lastSucceeded": "2026-10-05T14:46:22Z",
+    "lastFetched": "2026-10-05T22:02:17Z",
+    "lastSucceeded": "2026-10-05T22:02:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 3,
       "official": 2,
-      "tradition": 4
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 4,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,

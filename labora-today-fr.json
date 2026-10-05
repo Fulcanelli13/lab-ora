@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:46:26Z",
+  "generatedAt": "2026-10-05T22:02:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
-      "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219141"
+      "title": "Le pape reçoit les responsables de la Conférence épiscopale des États-Unis",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219158"
     },
     {
       "source": "Vatican News",
@@ -55,17 +55,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Inde: célébration d’une messe traditionnelle au Kerala",
-      "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219133"
+      "title": "Rome: des noms en lice pour Saint-Pierre de Rome et certains Dicastères",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219151"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "« Le Journal spirituel du pape François», trente ans de notes personnelles",
+      "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
     },
     {
       "source": "Paix Liturgique",
@@ -74,6 +74,30 @@
       "title": "Lettre de Paix liturgique du 24 juillet 2026",
       "publishedAt": "2026-10-05T12:00:00Z",
       "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4490"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
+      "publishedAt": "2026-10-04T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219141"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Le Journal spirituel du Pape François», trente ans de notes personnelles",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Inde: célébration d’une messe traditionnelle au Kerala",
+      "publishedAt": "2026-10-04T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219133"
     },
     {
       "source": "Riposte Catholique",
@@ -92,22 +116,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pape-leon-audience-pretre-religieux-corens-rome-reconciliation.html"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Séminaire de Courtalain: une retraite pour commencer l’année",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219114"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Le cardinal Gambetti devrait être remplacé à Saint-Pierre de Rome",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219105"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-05T14:46:22Z",
-    "lastSucceeded": "2026-10-05T14:46:26Z",
+    "lastFetched": "2026-10-05T22:02:22Z",
+    "lastSucceeded": "2026-10-05T22:02:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -145,7 +153,7 @@
     "itemCounts": {
       "vatican": 2,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 2
     },
     "discardedMalformed": 0,
