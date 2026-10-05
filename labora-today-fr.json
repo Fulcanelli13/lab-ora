@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-04T23:57:58Z",
+  "generatedAt": "2026-10-05T05:46:27Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 27ème semaine du Temps Ordinaire (cycle A)",
-    "date": "2026-10-04",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-27eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : une vigne qui ne porte pas de fruit ; le souvenir des soins du vigneron ; le Christ, pierre angulaire de la vigne."
+    "title": "Méditation : Lundi de la 27ème semaine du Temps Ordinaire",
+    "date": "2026-10-05",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-27eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la charité nous ouvre les yeux ; Jésus et les Samaritains ; aimer en actes."
   },
   "headlines": [
     {
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-04T23:57:48Z",
-    "lastSucceeded": "2026-10-04T23:57:58Z",
+    "lastFetched": "2026-10-05T05:46:19Z",
+    "lastSucceeded": "2026-10-05T05:46:27Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

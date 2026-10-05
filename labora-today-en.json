@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-04T23:57:48Z",
+  "generatedAt": "2026-10-05T05:46:18Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Twenty-Seventh Week of Ordinary Time (Year A)",
-    "date": "2026-10-04",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-seventh-week-of-ordinary-time-year-a/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: a vine that does not bear fruit; the memory of the vine-dresser's care; Christ in the vineyard."
+    "title": "Meditations: Monday of the Twenty-Seventh Week of Ordinary Time",
+    "date": "2026-10-05",
+    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-seventh-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: charity opens our eyes, Jesus and the Samaritans, loving through deeds."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Press Conference to present the Meeting of the Holy Father Leo XIV with the Heads of the Eastern Churches and the Presidents of the Episcopal Conferences, entitled “Ten years after Amoris Lætitia: proclaiming the Gospel with families today”",
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/02/261002b.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Priest’s Second Prayer for Holy Communion",
       "publishedAt": "2026-10-02T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-04T23:57:44Z",
-    "lastSucceeded": "2026-10-04T23:57:48Z",
+    "lastFetched": "2026-10-05T05:46:15Z",
+    "lastSucceeded": "2026-10-05T05:46:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
+      "official": 4,
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 3,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
