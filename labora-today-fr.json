@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:46:27Z",
+  "generatedAt": "2026-10-05T14:46:26Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Angélus: «l’Église est la vigne à cultiver avec justice»",
+      "title": "Léon XIV: les femmes au Vatican sont une richesse à reconnaître et valoriser",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-l-eglise-est-la-vigne-cultiver-avec-justice.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-femmes-vatican-une-richesse-reconnaitre-valoriser.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le président du Monténégro reçu par Léon XIV",
+      "title": "Angélus: «l’Église est la vigne à cultiver avec justice»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-audience-president-montenegro-paix-balkans-ukraine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-l-eglise-est-la-vigne-cultiver-avec-justice.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia», pour une annonce de l’Évangile avec les familles",
+      "title": "« Le Journal spirituel du pape François», trente ans de notes personnelles",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-eglises-orientales-conferences-episcopales.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
     },
     {
       "source": "Paix Liturgique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Coup d'envoi du II colloque interreligieux conjoint au Kazakhstan",
+      "title": "Léon XIV invite les prêtres et religieux coréens à témoigner de la réconciliation",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-dialogue-interreligieux-kazakhstan-dicastere.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pape-leon-audience-pretre-religieux-corens-rome-reconciliation.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,15 +111,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Sainte-Marie-Majeure: les reliques de la Sainte Crèche plus près des fidèles",
+      "title": "Kazakhstan: clôture de la deuxième édition du colloque interreligieux",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/relique-sainte-creche-sainte-marie-majeure.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/kazakhstan-cloture-de-la-2e-edition-du-colloque-interreligieux.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-05T05:46:19Z",
-    "lastSucceeded": "2026-10-05T05:46:27Z",
+    "lastFetched": "2026-10-05T14:46:22Z",
+    "lastSucceeded": "2026-10-05T14:46:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

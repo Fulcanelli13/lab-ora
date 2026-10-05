@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:46:18Z",
+  "generatedAt": "2026-10-05T14:46:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,17 +23,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Bätzing defends German Church reform agenda at Fulda plenary",
+      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
+      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/03/261003b.html"
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Bo says Pope Leo’s words on peace carry special meaning for Myanmar",
+      "title": "Exclusive interview: Cardinal Bo speaks on China, Myanmar and communion with Rome",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-bo-says-pope-leos-words-on-peace-carry-special-meaning-for-myanmar/"
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-bo-speaks-on-china-myanmar-and-communion-with-rome/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/03/261003a.html"
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/291005a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -87,17 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop Hebda begins canonical process after priest affiliates with SSPX",
+      "title": "Bishop Bätzing defends German Church reform agenda at Fulda plenary",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-hebda-begins-canonical-process-after-priest-affiliates-with-sspx/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with artists and curators of the Meeting “The Art of Possibility: Weaving Together, promoted by the Dicastery for Culture and Education",
-      "publishedAt": "2026-10-02T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/02/261002c.html"
+      "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +100,34 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Press Conference to present the Meeting of the Holy Father Leo XIV with the Heads of the Eastern Churches and the Presidents of the Episcopal Conferences, entitled “Ten years after Amoris Lætitia: proclaiming the Gospel with families today”",
-      "publishedAt": "2026-10-02T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/02/261002b.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Priest’s Second Prayer for Holy Communion",
       "publishedAt": "2026-10-02T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Leo XIV warns against the ‘drama of atheistic humanism’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-warns-against-the-drama-of-atheistic-humanism/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-05T05:46:15Z",
-    "lastSucceeded": "2026-10-05T05:46:18Z",
+    "lastFetched": "2026-10-05T14:46:19Z",
+    "lastSucceeded": "2026-10-05T14:46:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 5,
       "outside_walls": 3,
-      "official": 4,
+      "official": 2,
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 4,
     "policy": {
       "target": 14,
       "hardMax": 15,
