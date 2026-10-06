@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:25:29Z",
+  "generatedAt": "2026-10-06T15:58:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
+      "title": "Montagna and Pentin question whether Pope Leo will break with Francis",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
+      "url": "https://advaticanum.com/article/montagna-and-pentin-question-whether-pope-leo-will-break-with-francis/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Why Translation Matters",
-      "publishedAt": "2026-10-05T15:18:05.460000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
+      "title": "On Gothic Art, Part 1",
+      "publishedAt": "2026-10-06T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-1.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Exclusive interview: Cardinal Bo speaks on China, Myanmar and communion with Rome",
+      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-bo-speaks-on-china-myanmar-and-communion-with-rome/"
+      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Proper Hymn of St Francis of Assisi",
-      "publishedAt": "2026-10-04T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
+      "title": "Why Translation Matters",
+      "publishedAt": "2026-10-05T15:18:05.460000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Bätzing defends German Church reform agenda at Fulda plenary",
+      "title": "Exclusive interview: Cardinal Bo speaks on China, Myanmar and communion with Rome",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-bo-speaks-on-china-myanmar-and-communion-with-rome/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Holy See Press Office Press Release: Audience with the Prime Minister of the Republic of Slovenia",
       "publishedAt": "2026-10-05T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "A Proper Hymn of St Francis of Assisi",
+      "publishedAt": "2026-10-04T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "The Vespers Hymn for the Feast of the Guardian Angels",
       "publishedAt": "2026-10-02T19:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-vespers-hymn-for-feast-of-guardian.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Priest’s Second Prayer for Holy Communion",
-      "publishedAt": "2026-10-02T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-06T06:25:26Z",
-    "lastSucceeded": "2026-10-06T06:25:29Z",
+    "lastFetched": "2026-10-06T15:58:52Z",
+    "lastSucceeded": "2026-10-06T15:58:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

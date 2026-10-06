@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:25:36Z",
+  "generatedAt": "2026-10-06T15:58:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: les femmes au Vatican sont une richesse à reconnaître et valoriser",
+      "title": "Pour Léon XIV, l' amour conjugal est un «oui» inlassable et fidèle pour toute une vie",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-femmes-vatican-une-richesse-reconnaitre-valoriser.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-l-amour-un-oui-profond-a-l-autre-youcat-love-forever.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,25 +31,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Sortir de la logique de domination et des inégalités pour mettre fin à la guerre",
+      "title": "La prière, fondement d'une nouvelle civilisation, affirme Mgr Rudelli",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/entretien-cardinal-parolin-saint-siege-repubblica-guerre-onu.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "QUEL EST LE PROGRAMME LITURGIQUE DU PAPE ? CELUI DE LA PAIX ? OU CELUI D'ANDREA GRILLO ?",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4521"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pompei-vicaire-rudelli-priere-fondement-nouvelle-vie-paix.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Angélus: «l’Église est la vigne à cultiver avec justice»",
+      "title": "Léon XIV: les femmes au Vatican sont une richesse à reconnaître et valoriser",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-l-eglise-est-la-vigne-cultiver-avec-justice.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-femmes-vatican-une-richesse-reconnaitre-valoriser.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +55,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
+      "title": "Rencontre sur Amoris laetitia: un souffle nouveau pour la pastorale familiale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/rencontre-sur-amoris-leatitia-l-occasion-d-un-souffle-nouveau.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
+      "source": "Vatican News",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Lettre de Paix liturgique du 24 juillet 2026",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4490"
+      "title": "Angélus: «l’Église est la vigne à cultiver avec justice»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-l-eglise-est-la-vigne-cultiver-avec-justice.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Le Journal spirituel du Pape François», trente ans de notes personnelles",
+      "title": "Gabon: le nouveau nonce apostolique accueilli sous le signe de l'espérance",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gabon-le-nouveau-nonce-apostolique-accueilli-a-librreville.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +103,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Léon XIV invite les prêtres et religieux coréens à témoigner de la réconciliation",
+      "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pape-leon-audience-pretre-religieux-corens-rome-reconciliation.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Kazakhstan: clôture de la deuxième édition du colloque interreligieux",
+      "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/kazakhstan-cloture-de-la-2e-edition-du-colloque-interreligieux.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-06T06:25:29Z",
-    "lastSucceeded": "2026-10-06T06:25:36Z",
+    "lastFetched": "2026-10-06T15:58:55Z",
+    "lastSucceeded": "2026-10-06T15:58:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +143,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 2
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
