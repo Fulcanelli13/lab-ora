@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-05T22:02:22Z",
+  "generatedAt": "2026-10-06T06:25:29Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Twenty-Seventh Week of Ordinary Time",
-    "date": "2026-10-05",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-seventh-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: charity opens our eyes, Jesus and the Samaritans, loving through deeds."
+    "title": "Meditations: Tuesday of the Twenty-Seventh Week of Ordinary Time",
+    "date": "2026-10-06",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-seventh-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: seeking Christ “among the pots and pans;\" Martha: when we’re overwhelmed; Mary: a word that informs our lives."
   },
   "headlines": [
     {
@@ -92,6 +92,14 @@
       "url": "https://advaticanum.com/article/bishop-batzing-defends-german-church-reform-agenda-at-fulda-plenary/"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Holy See Press Office Press Release: Audience with the Prime Minister of the Republic of Slovenia",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005c.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -114,20 +122,12 @@
       "title": "The Priest’s Second Prayer for Holy Communion",
       "publishedAt": "2026-10-02T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/the-priests-second-prayer-for-holy.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Archbishop Randazzo warns against using synodality to discard Church tradition",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-randazzo-warns-against-using-synodality-to-discard-church-tradition/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-05T22:02:17Z",
-    "lastSucceeded": "2026-10-05T22:02:22Z",
+    "lastFetched": "2026-10-06T06:25:26Z",
+    "lastSucceeded": "2026-10-06T06:25:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
+      "official": 3,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 3,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

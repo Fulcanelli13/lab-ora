@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-05T22:02:32Z",
+  "generatedAt": "2026-10-06T06:25:36Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 27ème semaine du Temps Ordinaire",
-    "date": "2026-10-05",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-27eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la charité nous ouvre les yeux ; Jésus et les Samaritains ; aimer en actes."
+    "title": "Méditation : Mardi de la 27ème semaine du Temps Ordinaire",
+    "date": "2026-10-06",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-27eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : chercher le Christ « parmi les casseroles » ; Marthe : quand nous sommes débordés ; Marie : un mot qui informe la vie."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-05T22:02:22Z",
-    "lastSucceeded": "2026-10-05T22:02:32Z",
+    "lastFetched": "2026-10-06T06:25:29Z",
+    "lastSucceeded": "2026-10-06T06:25:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
