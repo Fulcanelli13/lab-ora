@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:58:59Z",
+  "generatedAt": "2026-10-06T22:40:37Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,7 +15,7 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, l' amour conjugal est un «oui» inlassable et fidèle pour toute une vie",
+      "title": "Pour Léon XIV, l' amour conjugal est un «oui» inlassable pour toute une vie",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-l-amour-un-oui-profond-a-l-autre-youcat-love-forever.html"
     },
@@ -31,9 +31,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La prière, fondement d'une nouvelle civilisation, affirme Mgr Rudelli",
+      "title": "Saint-Siège: l’utilisation de l’IA dans l'agroalimentaire doit placer l’humain au centre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pompei-vicaire-rudelli-priere-fondement-nouvelle-vie-paix.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-utilisation-de-l-ia-systemes-agroalimentaires.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "QUEL EST LE PROGRAMME LITURGIQUE DU PAPE ? CELUI DE LA PAIX ? OU CELUI D'ANDREA GRILLO ?",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4521"
     },
     {
       "source": "Vatican News",
@@ -55,9 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Rencontre sur Amoris laetitia: un souffle nouveau pour la pastorale familiale",
+      "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/rencontre-sur-amoris-leatitia-l-occasion-d-un-souffle-nouveau.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "Lettre de Paix liturgique du 24 juillet 2026",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4490"
     },
     {
       "source": "Vatican News",
@@ -79,9 +95,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Gabon: le nouveau nonce apostolique accueilli sous le signe de l'espérance",
+      "title": "La prière, fondement d'une nouvelle civilisation, affirme Mgr Rudelli",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gabon-le-nouveau-nonce-apostolique-accueilli-a-librreville.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pompei-vicaire-rudelli-priere-fondement-nouvelle-vie-paix.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,14 +119,6 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
       "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-06T15:58:55Z",
-    "lastSucceeded": "2026-10-06T15:58:59Z",
+    "lastFetched": "2026-10-06T22:40:25Z",
+    "lastSucceeded": "2026-10-06T22:40:37Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -145,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 5,
-      "official": 5,
-      "tradition": 0
+      "official": 4,
+      "tradition": 2
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
