@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:04:47Z",
+  "generatedAt": "2026-10-07T13:29:17Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,16 +32,16 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005b.html"
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007d.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Charterhouse of Pavia",
-      "publishedAt": "2026-10-06T19:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
+      "title": "A Cardinal’s Liturgical Ordo from 1681",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/291005a.html"
+      "title": "Audience of the Holy Father with a group of “Patrons of the Arts in the Vatican Museums” from Louisiana",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "On Gothic Art, Part 1",
-      "publishedAt": "2026-10-06T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-1.html"
+      "title": "The Charterhouse of Pavia",
+      "publishedAt": "2026-10-06T19:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Holy See Press Office Press Release: Audience with the Prime Minister of the Republic of Slovenia",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005c.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "On Gothic Art, Part 1",
+      "publishedAt": "2026-10-06T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-1.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Audience with priests and religious from Korea, resident in Rome",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005d.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with representatives of the Association of Lay Vatican Employees, and the Association Donne in Vaticano (“Women in the Vatican”)",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/05/261005e.html"
+      "title": "A Proper Hymn of St Francis of Assisi",
+      "publishedAt": "2026-10-04T18:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-07T06:04:43Z",
-    "lastSucceeded": "2026-10-07T06:04:47Z",
+    "lastFetched": "2026-10-07T13:29:13Z",
+    "lastSucceeded": "2026-10-07T13:29:17Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

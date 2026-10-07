@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:04:56Z",
+  "generatedAt": "2026-10-07T13:29:25Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -44,14 +44,6 @@
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4523"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV: les femmes au Vatican sont une richesse à reconnaître et valoriser",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-femmes-vatican-une-richesse-reconnaitre-valoriser.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -66,14 +58,6 @@
       "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Angélus: «l’Église est la vigne à cultiver avec justice»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-l-eglise-est-la-vigne-cultiver-avec-justice.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-07T06:04:47Z",
-    "lastSucceeded": "2026-10-07T06:04:56Z",
+    "lastFetched": "2026-10-07T13:29:17Z",
+    "lastSucceeded": "2026-10-07T13:29:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +135,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 1,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
