@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T22:40:37Z",
+  "generatedAt": "2026-10-07T06:04:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 27ème semaine du Temps Ordinaire",
-    "date": "2026-10-06",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-27eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : chercher le Christ « parmi les casseroles » ; Marthe : quand nous sommes débordés ; Marie : un mot qui informe la vie."
+    "title": "Méditation : 7 octobre — Notre-Dame du Rosaire",
+    "date": "2026-10-07",
+    "url": "https://opusdei.org/fr/meditation/meditation-7-octobre-notre-dame-du-rosaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le Rosaire nous conduit à Jésus ; un chemin pour la vie contemplative ; pour la paix et la famille."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "QUEL EST LE PROGRAMME LITURGIQUE DU PAPE ? CELUI DE LA PAIX ? OU CELUI D'ANDREA GRILLO ?",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4521"
+      "title": "APRÈS LA VISITE DU PAPE LÉON XIV, QUE VONT FAIRE NOS ÉVÊQUES POUR LE FUTUR DU CATHOLICISME DE FRANCE ? MAIS L'ÉGLISE DE FRANCE A-T-ELLE UN AVENIR ???",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4523"
     },
     {
       "source": "Vatican News",
@@ -66,14 +66,6 @@
       "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "Lettre de Paix liturgique du 24 juillet 2026",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://www.paixliturgique.org/aff_lettre.asp?LET_N_ID=4490"
     },
     {
       "source": "Vatican News",
@@ -122,12 +114,20 @@
       "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Le Journal spirituel du Pape François», trente ans de notes personnelles",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-06T22:40:25Z",
-    "lastSucceeded": "2026-10-06T22:40:37Z",
+    "lastFetched": "2026-10-07T06:04:47Z",
+    "lastSucceeded": "2026-10-07T06:04:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,14 +147,14 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 2
+        "count": 1
       }
     },
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
-      "tradition": 2
+      "official": 5,
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
