@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:29:17Z",
+  "generatedAt": "2026-10-07T22:56:39Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Cardinal’s Liturgical Ordo from 1681",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
+      "title": "Pope Pius XI on the Holy Rosary",
+      "publishedAt": "2026-10-07T20:00:04.117000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Montagna and Pentin question whether Pope Leo will break with Francis",
+      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/montagna-and-pentin-question-whether-pope-leo-will-break-with-francis/"
+      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Charterhouse of Pavia",
-      "publishedAt": "2026-10-06T19:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
+      "title": "A Cardinal’s Liturgical Ordo from 1681",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
+      "title": "Exclusive interview: Cardinal Bo speaks on China, Myanmar and communion with Rome",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-bo-speaks-on-china-myanmar-and-communion-with-rome/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Audiences",
       "publishedAt": "2026-10-07T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Charterhouse of Pavia",
+      "publishedAt": "2026-10-06T19:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Why Translation Matters",
       "publishedAt": "2026-10-05T15:18:05.460000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A Proper Hymn of St Francis of Assisi",
-      "publishedAt": "2026-10-04T18:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-proper-hymn-of-st-francis-of-assisi.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-07T13:29:13Z",
-    "lastSucceeded": "2026-10-07T13:29:17Z",
+    "lastFetched": "2026-10-07T22:56:36Z",
+    "lastSucceeded": "2026-10-07T22:56:39Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

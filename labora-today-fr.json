@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:29:25Z",
+  "generatedAt": "2026-10-07T22:56:47Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -11,14 +11,6 @@
     "subtitle": "Les thèmes proposés pour la méditation sont : le Rosaire nous conduit à Jésus ; un chemin pour la vie contemplative ; pour la paix et la famille."
   },
   "headlines": [
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Pour Léon XIV, l' amour conjugal est un «oui» inlassable pour toute une vie",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-l-amour-un-oui-profond-a-l-autre-youcat-love-forever.html"
-    },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
@@ -110,8 +102,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-07T13:29:17Z",
-    "lastSucceeded": "2026-10-07T13:29:25Z",
+    "lastFetched": "2026-10-07T22:56:39Z",
+    "lastSucceeded": "2026-10-07T22:56:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -135,7 +127,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 1,
+      "vatican": 0,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
