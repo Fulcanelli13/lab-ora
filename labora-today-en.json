@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T10:39:10Z",
+  "generatedAt": "2026-10-08T18:52:25Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Pope Pius XI on the Holy Rosary",
-      "publishedAt": "2026-10-07T20:00:04.117000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
+      "title": "The Festival of the Personal Ordinariate of Our Lady of Walsingham, October 13-15th, Eastbourne, England",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Cardinal’s Liturgical Ordo from 1681",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
+      "title": "Pope Pius XI on the Holy Rosary",
+      "publishedAt": "2026-10-07T20:00:04.117000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "A Cardinal’s Liturgical Ordo from 1681",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Charterhouse of Pavia",
       "publishedAt": "2026-10-06T19:30:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
@@ -114,20 +122,12 @@
       "title": "On Gothic Art, Part 1",
       "publishedAt": "2026-10-06T11:30:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-1.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Why Translation Matters",
-      "publishedAt": "2026-10-05T15:18:05.460000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/why-translation-matters.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-08T10:39:07Z",
-    "lastSucceeded": "2026-10-08T10:39:10Z",
+    "lastFetched": "2026-10-08T18:52:22Z",
+    "lastSucceeded": "2026-10-08T18:52:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

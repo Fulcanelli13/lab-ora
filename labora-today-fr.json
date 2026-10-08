@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T10:39:15Z",
+  "generatedAt": "2026-10-08T18:52:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -12,6 +12,46 @@
   },
   "headlines": [
     {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le président de Sierra Leone reçu en audience par le Pape",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/audience-president-maada-bio-sierra-leone.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Abbé Gonzague Peignot : « À propos du pape »",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219169"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Mgr Gallagher au Pakistan pour les 75 ans de relations avec le Saint-Siège",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-pakistan-75e-anniversaire-relations-diplomatiques.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "APRÈS LA VISITE DU PAPE LÉON XIV, QUE VONT FAIRE NOS ÉVÊQUES POUR LE FUTUR DU CATHOLICISME DE FRANCE ? MAIS L'ÉGLISE DE FRANCE A-T-ELLE UN AVENIR ???",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4523"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Dicastère pour l’Évangélisation, sœur Mary Barron nommée secrétaire adjointe",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/dicastere-evangelisation-mary-barron-secretaire-adjointe-uisg.html"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -23,17 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Saint-Siège: l’utilisation de l’IA dans l'agroalimentaire doit placer l’humain au centre",
+      "title": "La fraternité, seule voie possible pour un avenir durable",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-utilisation-de-l-ia-systemes-agroalimentaires.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "APRÈS LA VISITE DU PAPE LÉON XIV, QUE VONT FAIRE NOS ÉVÊQUES POUR LE FUTUR DU CATHOLICISME DE FRANCE ? MAIS L'ÉGLISE DE FRANCE A-T-ELLE UN AVENIR ???",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4523"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/koovakad-assise-paix-religions-magnifica-humanitas.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Protection des mineurs, une nouvelle étape pour les travaux de la Commission",
+      "title": "Saint-Siège: l’utilisation de l’IA dans l'agroalimentaire doit placer l’humain au centre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/protection-mineur-eglise-instrumentum-laboris-victime-protection.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-utilisation-de-l-ia-systemes-agroalimentaires.html"
     },
     {
       "source": "Riposte Catholique",
@@ -60,42 +92,18 @@
       "url": "https://riposte-catholique.fr/archives/219141"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "La prière, fondement d'une nouvelle civilisation, affirme Mgr Rudelli",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/pompei-vicaire-rudelli-priere-fondement-nouvelle-vie-paix.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Inde: célébration d’une messe traditionnelle au Kerala",
       "publishedAt": "2026-10-04T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219133"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Dernière minute: le cardinal Gambetti nommé archevêque de Chieti-Vasto",
-      "publishedAt": "2026-10-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219120"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-08T10:39:10Z",
-    "lastSucceeded": "2026-10-08T10:39:15Z",
+    "lastFetched": "2026-10-08T18:52:25Z",
+    "lastSucceeded": "2026-10-08T18:52:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -119,9 +127,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 0,
+      "vatican": 2,
       "outside_walls": 5,
-      "official": 4,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
