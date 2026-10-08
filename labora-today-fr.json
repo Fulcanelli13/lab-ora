@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-07T22:56:47Z",
+  "generatedAt": "2026-10-08T01:02:15Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 7 octobre — Notre-Dame du Rosaire",
-    "date": "2026-10-07",
-    "url": "https://opusdei.org/fr/meditation/meditation-7-octobre-notre-dame-du-rosaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le Rosaire nous conduit à Jésus ; un chemin pour la vie contemplative ; pour la paix et la famille."
+    "title": "Méditation : Jeudi de la 27ème semaine du Temps Ordinaire",
+    "date": "2026-10-08",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-27eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la pédagogie du Maître ; aucune demande ne reste sans réponse ; quand il semble que Dieu n’écoute pas."
   },
   "headlines": [
     {
@@ -102,8 +102,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-07T22:56:39Z",
-    "lastSucceeded": "2026-10-07T22:56:47Z",
+    "lastFetched": "2026-10-08T01:02:06Z",
+    "lastSucceeded": "2026-10-08T01:02:15Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

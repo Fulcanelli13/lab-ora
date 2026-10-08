@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-07T22:56:39Z",
+  "generatedAt": "2026-10-08T01:02:06Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: October 7, Our Lady of the Rosary",
-    "date": "2026-10-07",
-    "url": "https://opusdei.org/en/meditation/meditations-october-7-our-lady-of-the-rosary/",
-    "subtitle": "Some reflections that can enrich our prayer on the feast of Our Lady of the Rosary."
+    "title": "Meditations: Thursday of the Twenty-Seventh Week of Ordinary Time",
+    "date": "2026-10-08",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-seventh-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: how the Master teaches; no request goes unanswered; when God doesn’t seem to be listening."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-07T22:56:36Z",
-    "lastSucceeded": "2026-10-07T22:56:39Z",
+    "lastFetched": "2026-10-08T01:02:04Z",
+    "lastSucceeded": "2026-10-08T01:02:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
