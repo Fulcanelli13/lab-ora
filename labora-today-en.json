@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:02:06Z",
+  "generatedAt": "2026-10-08T10:39:10Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,17 +23,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Ryś says Vatican II must guide Tradition and defends Pope Saint John Paul II",
+      "title": "Dom Robert Igo on Ampleforth and the future of English Benedictine life",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-rys-says-vatican-ii-must-guide-tradition-and-defends-pope-saint-john-paul-ii/"
+      "url": "https://advaticanum.com/article/dom-robert-igo-on-ampleforth-and-the-future-of-english-benedictine-life/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007d.html"
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
+      "title": "Cardinal Ryś says Vatican II must guide Tradition and defends Pope Saint John Paul II",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
+      "url": "https://advaticanum.com/article/cardinal-rys-says-vatican-ii-must-guide-tradition-and-defends-pope-saint-john-paul-ii/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience of the Holy Father with a group of “Patrons of the Arts in the Vatican Museums” from Louisiana",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007a.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -87,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Exclusive interview: Cardinal Bo speaks on China, Myanmar and communion with Rome",
+      "title": "Bishop of Aosta defends Church welcome for homosexual people after Pride flag swastika post",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-bo-speaks-on-china-myanmar-and-communion-with-rome/"
+      "url": "https://advaticanum.com/article/bishop-of-aosta-defends-church-welcome-for-homosexual-people-after-pride-flag-swastika-post/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Audience of the Holy Father with a group of “Patrons of the Arts in the Vatican Museums” from Louisiana",
       "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-08T01:02:04Z",
-    "lastSucceeded": "2026-10-08T01:02:06Z",
+    "lastFetched": "2026-10-08T10:39:07Z",
+    "lastSucceeded": "2026-10-08T10:39:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

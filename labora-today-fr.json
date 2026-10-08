@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:02:15Z",
+  "generatedAt": "2026-10-08T10:39:15Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -90,20 +90,12 @@
       "title": "Pour le cardinal Blase Cupich, la défense des immigrés est un acte de culte",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/chicago-cardinal-cupich-homelie-immigration-hospitalite.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "«Le Journal spirituel du Pape François», trente ans de notes personnelles",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/journal-personnel-pape-francois-cardinal-fernandez.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-08T01:02:06Z",
-    "lastSucceeded": "2026-10-08T01:02:15Z",
+    "lastFetched": "2026-10-08T10:39:10Z",
+    "lastSucceeded": "2026-10-08T10:39:15Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -129,7 +121,7 @@
     "itemCounts": {
       "vatican": 0,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,
