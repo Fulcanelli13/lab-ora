@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08T18:52:32Z",
+  "generatedAt": "2026-10-09T01:14:46Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 27ème semaine du Temps Ordinaire",
-    "date": "2026-10-08",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-27eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la pédagogie du Maître ; aucune demande ne reste sans réponse ; quand il semble que Dieu n’écoute pas."
+    "title": "Méditation : Vendredi de la 27ème semaine du Temps Ordinaire",
+    "date": "2026-10-09",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-27eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la division en nous ; la recherche des applaudissements de Dieu ; l’unité, témoignage de l’amour de Dieu."
   },
   "headlines": [
     {
@@ -34,14 +34,6 @@
       "title": "Mgr Gallagher au Pakistan pour les 75 ans de relations avec le Saint-Siège",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-pakistan-75e-anniversaire-relations-diplomatiques.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "APRÈS LA VISITE DU PAPE LÉON XIV, QUE VONT FAIRE NOS ÉVÊQUES POUR LE FUTUR DU CATHOLICISME DE FRANCE ? MAIS L'ÉGLISE DE FRANCE A-T-ELLE UN AVENIR ???",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4523"
     },
     {
       "source": "Vatican News",
@@ -102,8 +94,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-08T18:52:25Z",
-    "lastSucceeded": "2026-10-08T18:52:32Z",
+    "lastFetched": "2026-10-09T01:14:24Z",
+    "lastSucceeded": "2026-10-09T01:14:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -122,15 +114,16 @@
         "count": 5
       },
       "paix_liturgique_fr": {
-        "ok": true,
-        "count": 1
+        "ok": false,
+        "count": 0,
+        "error": "TimeoutError: The read operation timed out"
       }
     },
     "itemCounts": {
       "vatican": 2,
       "outside_walls": 5,
       "official": 3,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
