@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T10:38:20Z",
+  "generatedAt": "2026-10-09T18:23:02Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "German bishops’ president to bring experiences of same-sex couples to Rome",
+      "title": "EXCLUSIVE: Cardinal Ferrão defends controversial Amoris Laetitia remarks on changing family structures",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/german-bishops-president-to-bring-experiences-of-same-sex-couples-to-rome/"
+      "url": "https://advaticanum.com/article/exclusive-cardinal-ferrao-defends-controversial-amoris-laetitia-remarks-on-changing-family-structures/"
     },
     {
       "source": "Ad Vaticanum",
@@ -39,17 +39,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“The Myth of Post-Conciliar Decentralization” - A New Video from Unam Sanctam Catholicam",
-      "publishedAt": "2026-10-08T20:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-myth-of-post-conciliar.html"
+      "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Gambetti leaves St Peter’s for Chieti-Vasto",
+      "title": "German bishops’ president to bring experiences of same-sex couples to Rome",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-gambetti-leaves-st-peters-for-chieti-vasto/"
+      "url": "https://advaticanum.com/article/german-bishops-president-to-bring-experiences-of-same-sex-couples-to-rome/"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,17 +71,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Festival of the Personal Ordinariate of Our Lady of Walsingham, October 13-15th, Eastbourne, England",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
+      "title": "“The Myth of Post-Conciliar Decentralization” - A New Video from Unam Sanctam Catholicam",
+      "publishedAt": "2026-10-08T20:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-myth-of-post-conciliar.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Full schedule released for eight-day Amoris laetitia anniversary gathering",
+      "title": "Cardinal Gambetti leaves St Peter’s for Chieti-Vasto",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/full-schedule-released-for-eight-day-amoris-laetitia-anniversary-gathering/"
+      "url": "https://advaticanum.com/article/cardinal-gambetti-leaves-st-peters-for-chieti-vasto/"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Festival of the Personal Ordinariate of Our Lady of Walsingham, October 13-15th, Eastbourne, England",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Pope Pius XI on the Holy Rosary",
       "publishedAt": "2026-10-07T20:00:04.117000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
@@ -114,20 +122,12 @@
       "title": "A Cardinal’s Liturgical Ordo from 1681",
       "publishedAt": "2026-10-07T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Charterhouse of Pavia",
-      "publishedAt": "2026-10-06T19:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-charterhouse-of-pavia.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-09T10:38:17Z",
-    "lastSucceeded": "2026-10-09T10:38:20Z",
+    "lastFetched": "2026-10-09T18:23:01Z",
+    "lastSucceeded": "2026-10-09T18:23:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
