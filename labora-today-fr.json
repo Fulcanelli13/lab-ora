@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T18:23:07Z",
+  "generatedAt": "2026-10-10T00:54:52Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 27ème semaine du Temps Ordinaire",
-    "date": "2026-10-09",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-27eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la division en nous ; la recherche des applaudissements de Dieu ; l’unité, témoignage de l’amour de Dieu."
+    "title": "Méditation : Samedi de la 27ème semaine du Temps Ordinaire",
+    "date": "2026-10-10",
+    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-27eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Jésus corrige toujours par amour ; aimer les autres avec leurs défauts ; un fruit de l’amitié."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Abbé Gonzague Peignot : « À propos du pape »",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219169"
+      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219176"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le pape reçoit les responsables de la Conférence épiscopale des États-Unis",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219158"
+      "title": "Abbé Gonzague Peignot : « À propos du pape »",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219169"
     },
     {
       "source": "Vatican News",
@@ -71,9 +71,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: des noms en lice pour Saint-Pierre de Rome et certains Dicastères",
+      "title": "Le pape reçoit les responsables de la Conférence épiscopale des États-Unis",
       "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219151"
+      "url": "https://riposte-catholique.fr/archives/219158"
     },
     {
       "source": "Vatican News",
@@ -87,23 +87,23 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
-      "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219141"
+      "title": "Rome: des noms en lice pour Saint-Pierre de Rome et certains Dicastères",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219151"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Inde: célébration d’une messe traditionnelle au Kerala",
+      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
       "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219133"
+      "url": "https://riposte-catholique.fr/archives/219141"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-09T18:23:03Z",
-    "lastSucceeded": "2026-10-09T18:23:07Z",
+    "lastFetched": "2026-10-10T00:54:47Z",
+    "lastSucceeded": "2026-10-10T00:54:52Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

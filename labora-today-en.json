@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T18:23:02Z",
+  "generatedAt": "2026-10-10T00:54:47Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Friday of the Twenty-Seventh Week of Ordinary Time",
-    "date": "2026-10-09",
-    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-twenty-seventh-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: the division within us, seeking God’s approval, unity: a testimony to God's love."
+    "title": "Meditations: Saturday of the Twenty-Seventh Week of Ordinary Time",
+    "date": "2026-10-10",
+    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-twenty-seventh-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: Jesus always corrects out of love; loving others’ defects; one of the fruits of friendship."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
+      "title": "St John Henry Newman’s Church in Oxford",
+      "publishedAt": "2026-10-09T19:45:10.303000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/st-john-henry-newmans-church-in-oxford.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“The Myth of Post-Conciliar Decentralization” - A New Video from Unam Sanctam Catholicam",
-      "publishedAt": "2026-10-08T20:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-myth-of-post-conciliar.html"
+      "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "“The Myth of Post-Conciliar Decentralization” - A New Video from Unam Sanctam Catholicam",
+      "publishedAt": "2026-10-08T20:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-myth-of-post-conciliar.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Festival of the Personal Ordinariate of Our Lady of Walsingham, October 13-15th, Eastbourne, England",
       "publishedAt": "2026-10-08T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
@@ -114,20 +122,12 @@
       "title": "Pope Pius XI on the Holy Rosary",
       "publishedAt": "2026-10-07T20:00:04.117000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A Cardinal’s Liturgical Ordo from 1681",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-liturgical-ordo-from-1681-owned-by.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-09T18:23:01Z",
-    "lastSucceeded": "2026-10-09T18:23:02Z",
+    "lastFetched": "2026-10-10T00:54:40Z",
+    "lastSucceeded": "2026-10-10T00:54:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
