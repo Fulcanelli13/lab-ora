@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:54:47Z",
+  "generatedAt": "2026-10-10T09:54:32Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008b.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/09/261009a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Resignations and Appointments",
       "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008a.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-10T00:54:40Z",
-    "lastSucceeded": "2026-10-10T00:54:47Z",
+    "lastFetched": "2026-10-10T09:54:27Z",
+    "lastSucceeded": "2026-10-10T09:54:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

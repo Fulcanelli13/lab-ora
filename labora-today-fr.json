@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:54:52Z",
+  "generatedAt": "2026-10-10T09:54:38Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Tagle, nouveau doyen du Collège des cardinaux",
+      "title": "«La mort ne doit pas être transformée en spectacle», affirme le cardinal Parolin",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-tagle-nouveau-doyen-college-cardinalice.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-executions-publiques-usa-nobel-paix-droits.html"
     },
     {
       "source": "Paix Liturgique",
@@ -102,8 +102,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-10T00:54:47Z",
-    "lastSucceeded": "2026-10-10T00:54:52Z",
+    "lastFetched": "2026-10-10T09:54:32Z",
+    "lastSucceeded": "2026-10-10T09:54:38Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
