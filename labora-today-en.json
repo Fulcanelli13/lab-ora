@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:54:32Z",
+  "generatedAt": "2026-10-10T17:21:41Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "EXCLUSIVE: Cardinal Ferrão defends controversial Amoris Laetitia remarks on changing family structures",
+      "title": "Pope Leo XIV appoints Archbishop Viola to lead St Peter’s Basilica as liturgical questions remain",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-cardinal-ferrao-defends-controversial-amoris-laetitia-remarks-on-changing-family-structures/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-appoints-archbishop-viola-to-lead-st-peters-basilica-as-liturgical-questions-remain/"
     },
     {
       "source": "Ad Vaticanum",
@@ -31,9 +31,41 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/10/261010c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Dr. Kwasniewski’s Lectures in Netherlands, Belgium, and England, Oct. 24-31",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/dr-kwasniewskis-lectures-in-netherlands.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "EXCLUSIVE: Cardinal Ferrão defends controversial Amoris Laetitia remarks on changing family structures",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/exclusive-cardinal-ferrao-defends-controversial-amoris-laetitia-remarks-on-changing-family-structures/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Dom Robert Igo on Ampleforth and the future of English Benedictine life",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/dom-robert-igo-on-ampleforth-and-the-future-of-english-benedictine-life/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/09/261009a.html"
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/10/291010b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Dom Robert Igo on Ampleforth and the future of English Benedictine life",
+      "title": "Cardinal Ryś says Vatican II must guide Tradition and defends Pope Saint John Paul II",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/dom-robert-igo-on-ampleforth-and-the-future-of-english-benedictine-life/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/08/261008b.html"
+      "url": "https://advaticanum.com/article/cardinal-rys-says-vatican-ii-must-guide-tradition-and-defends-pope-saint-john-paul-ii/"
     },
     {
       "source": "New Liturgical Movement",
@@ -74,30 +98,6 @@
       "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
       "publishedAt": "2026-10-09T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Gambetti leaves St Peter’s for Chieti-Vasto",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-gambetti-leaves-st-peters-for-chieti-vasto/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Cardinal Ryś says Vatican II must guide Tradition and defends Pope Saint John Paul II",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-rys-says-vatican-ii-must-guide-tradition-and-defends-pope-saint-john-paul-ii/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience of the Holy Father with a group of “Patrons of the Arts in the Vatican Museums” from Louisiana",
-      "publishedAt": "2026-10-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/07/261007a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "Pope Pius XI on the Holy Rosary",
-      "publishedAt": "2026-10-07T20:00:04.117000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/pope-pius-xi-on-holy-rosary.html"
+      "title": "Cardinal Gambetti leaves St Peter’s for Chieti-Vasto",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-gambetti-leaves-st-peters-for-chieti-vasto/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-10T09:54:27Z",
-    "lastSucceeded": "2026-10-10T09:54:32Z",
+    "lastFetched": "2026-10-10T17:21:38Z",
+    "lastSucceeded": "2026-10-10T17:21:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,

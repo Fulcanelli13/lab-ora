@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:54:38Z",
+  "generatedAt": "2026-10-10T17:21:50Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Dicastère pour l’Évangélisation, sœur Mary Barron nommée secrétaire adjointe",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/dicastere-evangelisation-mary-barron-secretaire-adjointe-uisg.html"
+      "title": "L’Église grecque-catholique melkite, «témoin de la paix» en zones de guerre",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/eglise-grecque-catholique-melkite-pape-reconciliation-paix-jeune.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«La mort ne doit pas être transformée en spectacle», affirme le cardinal Parolin",
+      "title": "Béatification de Maria Isacchi, «un témoignage lumineux du Christ»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-executions-publiques-usa-nobel-paix-droits.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/beatification-mere-maria-ignazia-isacchi-messe.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le président de Sierra Leone reçu en audience par le Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/audience-president-maada-bio-sierra-leone.html"
+      "title": "Pour Léon XIV, l’objet muséal transmet au présent la sagesse du passé",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-directeurs-musees-art-evagile-beaute-humanite-patrimoine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La haine en ligne ou religieuse sont des formes de racisme, met en garde le Saint-Siège",
+      "title": "Le Saint-Siège réitère sa position sur les Ordres équestres",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/onu-el-kassis-lutte-racisme-discriminations-haine.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-ordres-equestres-secretairerie-etat-vatican-position.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape nomme Mgr Viola archiprêtre de la basilique Saint-Pierre",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/nomination-mgr-viola-archipretre-saint-pierre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À l'ONU, l'appel du Saint-Siège pour un moratoire sur les exécutions capitales",
+      "title": "Mgr Gallagher au Pakistan: «La paix et la dignité sont les piliers de la diplomatie pontificale»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/onu-saint-siege-abolition-peine-de-mort.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/mg-gallagher-au-pakistan-paix-dignite-humaine-diplomatie.html"
     },
     {
       "source": "Riposte Catholique",
@@ -98,12 +106,20 @@
       "title": "Pour revoir le Pèlerinage Utrique Fidelis",
       "publishedAt": "2026-10-04T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219141"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«La mort ne doit pas être transformée en spectacle», affirme le cardinal Parolin",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-executions-publiques-usa-nobel-paix-droits.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-10T09:54:32Z",
-    "lastSucceeded": "2026-10-10T09:54:38Z",
+    "lastFetched": "2026-10-10T17:21:41Z",
+    "lastSucceeded": "2026-10-10T17:21:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -127,9 +143,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 3,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,
