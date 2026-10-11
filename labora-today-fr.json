@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-10T21:47:31Z",
+  "generatedAt": "2026-10-11T05:51:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 27ème semaine du Temps Ordinaire",
-    "date": "2026-10-10",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-27eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : Jésus corrige toujours par amour ; aimer les autres avec leurs défauts ; un fruit de l’amitié."
+    "title": "Méditation : Dimanche de la 28ème semaine du Temps Ordinaire (Cycle A)",
+    "date": "2026-10-11",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-28eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le banquet qui nous attend ; inviter tout le monde au festin ; savourer les bonnes choses de Dieu."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219176"
+      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
+      "publishedAt": "2026-10-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219192"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Abbé Gonzague Peignot : « À propos du pape »",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219169"
+      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219176"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le pape reçoit les responsables de la Conférence épiscopale des États-Unis",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219158"
+      "title": "Abbé Gonzague Peignot : « À propos du pape »",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219169"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rome: des noms en lice pour Saint-Pierre de Rome et certains Dicastères",
+      "title": "Le pape reçoit les responsables de la Conférence épiscopale des États-Unis",
       "publishedAt": "2026-10-05T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219151"
+      "url": "https://riposte-catholique.fr/archives/219158"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Pour revoir le Pèlerinage Utrique Fidelis",
-      "publishedAt": "2026-10-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219141"
+      "title": "Rome: des noms en lice pour Saint-Pierre de Rome et certains Dicastères",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219151"
     },
     {
       "source": "Vatican News",
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-10T21:47:20Z",
-    "lastSucceeded": "2026-10-10T21:47:31Z",
+    "lastFetched": "2026-10-11T05:51:50Z",
+    "lastSucceeded": "2026-10-11T05:51:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

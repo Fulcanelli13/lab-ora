@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-10T21:47:20Z",
+  "generatedAt": "2026-10-11T05:51:50Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Saturday of the Twenty-Seventh Week of Ordinary Time",
-    "date": "2026-10-10",
-    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-twenty-seventh-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-seventh week of Ordinary Time. The topics are: Jesus always corrects out of love; loving others’ defects; one of the fruits of friendship."
+    "title": "Meditations: Sunday of the Twenty-Eighth Week of Ordinary Time (Year A)",
+    "date": "2026-10-11",
+    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-eighth-week-of-ordinary-time-year-a/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the banquet awaiting us; inviting everyone to the feast; savoring God's gifts."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-10T21:47:16Z",
-    "lastSucceeded": "2026-10-10T21:47:20Z",
+    "lastFetched": "2026-10-11T05:51:47Z",
+    "lastSucceeded": "2026-10-11T05:51:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
