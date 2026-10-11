@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:55:25Z",
+  "generatedAt": "2026-10-11T19:34:43Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Guerre Ukraine-Russie: le Pape appelle à libérer les céréales pour les pays pauvres",
+      "title": "Les fidèles, place Saint-Pierre: nous prions pour la santé du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/guerre-ukraine-russie-le-pape-appelle-a-liberer-les-cereales-p.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/les-fideles-de-la-place-saint-pierre-aux-cotes-du-pape-nous.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape nomme Mgr Viola archiprêtre de la basilique Saint-Pierre",
+      "title": "Guerre Ukraine-Russie: le Pape appelle à libérer les céréales pour les pays pauvres",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/nomination-mgr-viola-archipretre-saint-pierre.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/guerre-ukraine-russie-le-pape-appelle-a-liberer-les-cereales-p.html"
     },
     {
       "source": "Riposte Catholique",
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-11T12:55:16Z",
-    "lastSucceeded": "2026-10-11T12:55:25Z",
+    "lastFetched": "2026-10-11T19:34:35Z",
+    "lastSucceeded": "2026-10-11T19:34:43Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
