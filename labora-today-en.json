@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:51:50Z",
+  "generatedAt": "2026-10-11T12:55:16Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Dr. Kwasniewski’s Lectures in Netherlands, Belgium, and England, Oct. 24-31",
-      "publishedAt": "2026-10-10T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/dr-kwasniewskis-lectures-in-netherlands.html"
+      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
+      "publishedAt": "2026-10-11T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St John Henry Newman’s Church in Oxford",
-      "publishedAt": "2026-10-09T19:45:10.303000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/st-john-henry-newmans-church-in-oxford.html"
+      "title": "Dr. Kwasniewski’s Lectures in Netherlands, Belgium, and England, Oct. 24-31",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/dr-kwasniewskis-lectures-in-netherlands.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,6 +95,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "St John Henry Newman’s Church in Oxford",
+      "publishedAt": "2026-10-09T19:45:10.303000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/st-john-henry-newmans-church-in-oxford.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
       "publishedAt": "2026-10-09T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-myth-of-post-conciliar.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Festival of the Personal Ordinariate of Our Lady of Walsingham, October 13-15th, Eastbourne, England",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-festival-of-personal-ordinariate-of.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-11T05:51:47Z",
-    "lastSucceeded": "2026-10-11T05:51:50Z",
+    "lastFetched": "2026-10-11T12:55:13Z",
+    "lastSucceeded": "2026-10-11T12:55:16Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
