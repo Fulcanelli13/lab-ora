@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-12T00:35:22Z",
+  "generatedAt": "2026-10-12T10:55:54Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Twenty-Eighth Week of Ordinary Time (Year A)",
+    "title": "Meditations: Monday of the Twenty-Eighth Week of Ordinary Time",
     "date": "2026-10-12",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-eighth-week-of-ordinary-time-year-a/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the banquet awaiting us; inviting everyone to the feast; savoring God's gifts."
+    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-eighth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: seeking a sign; Christ is alive; signs that confirm our decision."
   },
   "headlines": [
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV appoints Archbishop Viola to lead St Peter’s Basilica as liturgical questions remain",
+      "title": "Pope Leo to become third pontiff hospitalised at ‘Vatican III’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-appoints-archbishop-viola-to-lead-st-peters-basilica-as-liturgical-questions-remain/"
+      "url": "https://advaticanum.com/article/pope-leo-to-become-third-pontiff-hospitalised-at-vatican-iii/"
     },
     {
       "source": "Ad Vaticanum",
@@ -32,8 +32,8 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-10T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/10/261010c.html"
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -47,9 +47,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "EXCLUSIVE: Cardinal Ferrão defends controversial Amoris Laetitia remarks on changing family structures",
+      "title": "Pope Leo XIV appoints Archbishop Viola to lead St Peter’s Basilica as liturgical questions remain",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-cardinal-ferrao-defends-controversial-amoris-laetitia-remarks-on-changing-family-structures/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-appoints-archbishop-viola-to-lead-st-peters-basilica-as-liturgical-questions-remain/"
     },
     {
       "source": "Ad Vaticanum",
@@ -64,8 +64,8 @@
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-10T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/10/291010b.html"
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -79,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "German bishops’ president to bring experiences of same-sex couples to Rome",
+      "title": "EXCLUSIVE: Cardinal Ferrão defends controversial Amoris Laetitia remarks on changing family structures",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/german-bishops-president-to-bring-experiences-of-same-sex-couples-to-rome/"
+      "url": "https://advaticanum.com/article/exclusive-cardinal-ferrao-defends-controversial-amoris-laetitia-remarks-on-changing-family-structures/"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience with the Synod of Bishops of the Melkite Greek Catholic Church of Antioch",
-      "publishedAt": "2026-10-10T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/10/291010a.html"
+      "title": "Letter of the Holy Father Leo XIV to Cardinal Giovanni Battista Re, dean emeritus of the College of Cardinals",
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-12T00:35:18Z",
-    "lastSucceeded": "2026-10-12T00:35:22Z",
+    "lastFetched": "2026-10-12T10:55:52Z",
+    "lastSucceeded": "2026-10-12T10:55:54Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

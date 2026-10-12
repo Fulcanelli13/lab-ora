@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:35:29Z",
+  "generatedAt": "2026-10-12T10:55:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LE MAGISTÈRE POST-CONCILIAIRE, OU LA PASTORALITÉ DISSOLVANTE",
-      "publishedAt": null,
+      "publishedAt": "2026-10-09T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4525"
     },
     {
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-12T00:35:22Z",
-    "lastSucceeded": "2026-10-12T00:35:29Z",
+    "lastFetched": "2026-10-12T10:55:54Z",
+    "lastSucceeded": "2026-10-12T10:55:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
