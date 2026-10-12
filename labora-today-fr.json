@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-11T19:34:43Z",
+  "generatedAt": "2026-10-12T00:35:29Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 28ème semaine du Temps Ordinaire (Cycle A)",
-    "date": "2026-10-11",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-28eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le banquet qui nous attend ; inviter tout le monde au festin ; savourer les bonnes choses de Dieu."
+    "title": "Méditation : Lundi de la 28ème semaine du Temps Ordinaire",
+    "date": "2026-10-12",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-28eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : à la recherche d’un signe ; le Christ est vivant ; quelques signes qui confirment notre décision."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LE MAGISTÈRE POST-CONCILIAIRE, OU LA PASTORALITÉ DISSOLVANTE",
-      "publishedAt": "2026-10-09T12:00:00Z",
+      "publishedAt": null,
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4525"
     },
     {
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-11T19:34:35Z",
-    "lastSucceeded": "2026-10-11T19:34:43Z",
+    "lastFetched": "2026-10-12T00:35:22Z",
+    "lastSucceeded": "2026-10-12T00:35:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
