@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:58:28Z",
+  "generatedAt": "2026-10-13T22:48:22Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Quand les Papes parlent de leur santé",
+      "title": "Cardinal Baldo Reina: «Que Dieu accorde santé et réconfort au Pape»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/papes-sante-histoire-maladie-priere.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-hospitalisation-leon-xiv.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
-      "publishedAt": "2026-10-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219192"
+      "title": "Séminaire de Wigratzbad: 22 nouveaux propédeutes font leur entrée",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219204"
     },
     {
       "source": "Vatican News",
@@ -47,6 +47,30 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
+      "title": "Succès de l’opération chirurgicale du Pape Léon XIV",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hospitalisation-gemelli0.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
+      "publishedAt": "2026-10-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219192"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
       "title": "Au Pérou, une chaîne de prière lancée pour le Pape",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/perou-la-chaine-de-priere-pour-le-pape.html"
@@ -63,17 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
+      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "En prière pour la santé du Pape Léon XIV",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-sante-pape-leon-xiv-lourdes-marie-majeure.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
     },
     {
       "source": "Riposte Catholique",
@@ -85,19 +101,11 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
+      "title": "En prière pour la santé du Pape Léon XIV",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "L'association «Femmes au Vatican», dix ans de présence et une histoire qui se poursuit",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/les-femmes-au-vatican-10-ans-presence-une-histoire-continue.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-sante-pape-leon-xiv-lourdes-marie-majeure.html"
     },
     {
       "source": "Vatican News",
@@ -106,20 +114,12 @@
       "title": "Début de l’Année jubilaire de Guadalupe: le Pape invite à intensifier l’évangélisation",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-pape-leon-xiv-annee-jubiliaire-guadalupe-mexique.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "À l'hôpital Gemelli, les fidèles encouragent le Pape: «Nous sommes avec toi»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hopital-gemelli-intervention-poumon.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-13T16:58:19Z",
-    "lastSucceeded": "2026-10-13T16:58:28Z",
+    "lastFetched": "2026-10-13T22:48:16Z",
+    "lastSucceeded": "2026-10-13T22:48:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -144,8 +144,8 @@
     },
     "itemCounts": {
       "vatican": 5,
-      "outside_walls": 3,
-      "official": 4,
+      "outside_walls": 4,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
