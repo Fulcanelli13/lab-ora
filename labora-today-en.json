@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:49:49Z",
+  "generatedAt": "2026-10-13T16:58:19Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Lacroix says Chapter 8 debate has ‘hijacked’ Amoris Laetitia for a decade",
+      "title": "Exclusive interview: Cardinal Roche to traditionalists: ‘You are edging yourself away from the centre of Catholicism’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-lacroix-says-chapter-8-debate-has-hijacked-amoris-laetitia-for-a-decade/"
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-roche-to-traditionalists-you-are-edging-yourself-away-from-the-centre-of-catholicism-2/"
     },
     {
       "source": "Ad Vaticanum",
@@ -32,24 +32,24 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012c.html"
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/13/291013a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Basilica of St Apollinaris in Classe",
-      "publishedAt": "2026-10-12T21:30:14.384000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
+      "title": "On Gothic Art, Part 2",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-2.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Archbishop Lackner praises Amoris laetitia as a ‘groundbreaking document’",
+      "title": "Cardinal Lacroix says Chapter 8 debate has ‘hijacked’ Amoris Laetitia for a decade",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-lackner-praises-amoris-laetitia-as-a-groundbreaking-document/"
+      "url": "https://advaticanum.com/article/cardinal-lacroix-says-chapter-8-debate-has-hijacked-amoris-laetitia-for-a-decade/"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,17 +71,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Prayers for Pope Leo",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
+      "title": "The Basilica of St Apollinaris in Classe",
+      "publishedAt": "2026-10-12T21:30:14.384000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo to become third pontiff hospitalised at ‘Vatican III’",
+      "title": "Archbishop Lackner praises Amoris laetitia as a ‘groundbreaking document’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-to-become-third-pontiff-hospitalised-at-vatican-iii/"
+      "url": "https://advaticanum.com/article/archbishop-lackner-praises-amoris-laetitia-as-a-groundbreaking-document/"
     },
     {
       "source": "Ad Vaticanum",
@@ -92,12 +92,12 @@
       "url": "https://advaticanum.com/article/dom-robert-igo-on-ampleforth-and-the-future-of-english-benedictine-life/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Letter of the Holy Father Leo XIV to Cardinal Giovanni Battista Re, dean emeritus of the College of Cardinals",
+      "title": "Prayers for Pope Leo",
       "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012b.html"
+      "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/dr-kwasniewskis-lectures-in-netherlands.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "St John Henry Newman’s Church in Oxford",
-      "publishedAt": "2026-10-09T19:45:10.303000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/st-john-henry-newmans-church-in-oxford.html"
+      "title": "Pope Leo to become third pontiff hospitalised at ‘Vatican III’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-to-become-third-pontiff-hospitalised-at-vatican-iii/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-13T06:49:38Z",
-    "lastSucceeded": "2026-10-13T06:49:49Z",
+    "lastFetched": "2026-10-13T16:58:13Z",
+    "lastSucceeded": "2026-10-13T16:58:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,

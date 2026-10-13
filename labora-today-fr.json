@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:50:06Z",
+  "generatedAt": "2026-10-13T16:58:28Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les fidèles, place Saint-Pierre: nous prions pour la santé du Pape",
+      "title": "Quand les Papes parlent de leur santé",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/les-fideles-de-la-place-saint-pierre-aux-cotes-du-pape-nous.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/papes-sante-histoire-maladie-priere.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Guerre Ukraine-Russie: le Pape appelle à libérer les céréales pour les pays pauvres",
+      "title": "Au Pérou, une chaîne de prière lancée pour le Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/guerre-ukraine-russie-le-pape-appelle-a-liberer-les-cereales-p.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/perou-la-chaine-de-priere-pour-le-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
+      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "En prière pour la santé du Pape Léon XIV",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-sante-pape-leon-xiv-lourdes-marie-majeure.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,23 +87,39 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
+      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
       "title": "L'association «Femmes au Vatican», dix ans de présence et une histoire qui se poursuit",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/les-femmes-au-vatican-10-ans-presence-une-histoire-continue.html"
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Béatification de Maria Isacchi, «un témoignage lumineux du Christ»",
+      "title": "Début de l’Année jubilaire de Guadalupe: le Pape invite à intensifier l’évangélisation",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/beatification-mere-maria-ignazia-isacchi-messe.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-pape-leon-xiv-annee-jubiliaire-guadalupe-mexique.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "À l'hôpital Gemelli, les fidèles encouragent le Pape: «Nous sommes avec toi»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hopital-gemelli-intervention-poumon.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-13T06:49:49Z",
-    "lastSucceeded": "2026-10-13T06:50:06Z",
+    "lastFetched": "2026-10-13T16:58:19Z",
+    "lastSucceeded": "2026-10-13T16:58:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -119,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 5,
       "outside_walls": 3,
       "official": 4,
       "tradition": 1
