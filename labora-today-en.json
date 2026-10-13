@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12T21:17:27Z",
+  "generatedAt": "2026-10-13T06:49:49Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Twenty-Eighth Week of Ordinary Time",
-    "date": "2026-10-12",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-eighth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: seeking a sign; Christ is alive; signs that confirm our decision."
+    "title": "Meditations: Tuesday of the Twenty-Eighth Week of Ordinary Time",
+    "date": "2026-10-13",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-eighth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: discovering the good in what we do; chastity is a joyful affirmation; redirecting our desires."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Prayers for Pope Leo",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
+      "title": "The Basilica of St Apollinaris in Classe",
+      "publishedAt": "2026-10-12T21:30:14.384000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
-      "publishedAt": "2026-10-11T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
+      "title": "Prayers for Pope Leo",
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
+      "publishedAt": "2026-10-11T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Dr. Kwasniewski’s Lectures in Netherlands, Belgium, and England, Oct. 24-31",
       "publishedAt": "2026-10-10T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/dr-kwasniewskis-lectures-in-netherlands.html"
@@ -114,20 +122,12 @@
       "title": "St John Henry Newman’s Church in Oxford",
       "publishedAt": "2026-10-09T19:45:10.303000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/st-john-henry-newmans-church-in-oxford.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Priest’s Final Prayers before Holy Communion, Part 3",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/lost-in-translation-171-after-finishing.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-12T21:17:23Z",
-    "lastSucceeded": "2026-10-12T21:17:27Z",
+    "lastFetched": "2026-10-13T06:49:38Z",
+    "lastSucceeded": "2026-10-13T06:49:49Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

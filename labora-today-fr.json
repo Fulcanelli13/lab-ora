@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12T21:17:37Z",
+  "generatedAt": "2026-10-13T06:50:06Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 28ème semaine du Temps Ordinaire",
-    "date": "2026-10-12",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-28eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : à la recherche d’un signe ; le Christ est vivant ; quelques signes qui confirment notre décision."
+    "title": "Méditation : Mardi de la 28ème semaine du Temps Ordinaire",
+    "date": "2026-10-13",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-28eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : découvrir le bien dans ce que nous faisons ; la chasteté est une affirmation joyeuse ; réorienter nos désirs."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "LE MAGISTÈRE POST-CONCILIAIRE, OU LA PASTORALITÉ DISSOLVANTE",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4525"
+      "title": "OUI OU NON ? LES LIVRES LITURGIQUES D'AVANT LA REFORME DE 1969 EXPRIMENT-ILS LA LEX CREDENTI DE L'EGLISE ?",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4526"
     },
     {
       "source": "Vatican News",
@@ -94,8 +94,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-12T21:17:27Z",
-    "lastSucceeded": "2026-10-12T21:17:37Z",
+    "lastFetched": "2026-10-13T06:49:49Z",
+    "lastSucceeded": "2026-10-13T06:50:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
