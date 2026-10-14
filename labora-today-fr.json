@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:57:56Z",
+  "generatedAt": "2026-10-14T11:57:57Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Cardinal Baldo Reina: «Que Dieu accorde santé et réconfort au Pape»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-hospitalisation-leon-xiv.html"
+      "title": "Amoris laetitia: la charité de l’amour, fondement de la famille",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/amoris-laetitia-messe-place-saint-pierre-pape-famille.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia»: réflexion sur le mariage, la vie en couple et les craintes des jeunes",
+      "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-vatican-reflexion-mariage-migration-precarite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Succès de l’opération chirurgicale du Pape Léon XIV",
+      "title": "Le Pape a passé une nuit tranquille à l'hôpital Gemelli",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hospitalisation-gemelli0.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-operation-chirurgicale-hopital-gemelli.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
+      "title": "«Amoris laetitia»: réflexion sur le mariage, la vie en couple et les craintes des jeunes",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-vatican-reflexion-mariage-migration-precarite.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Au Pérou, une chaîne de prière lancée pour le Pape",
+      "title": "Succès de l’opération chirurgicale du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/perou-la-chaine-de-priere-pour-le-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hospitalisation-gemelli0.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
+      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
     },
     {
       "source": "Riposte Catholique",
@@ -101,25 +101,33 @@
     },
     {
       "source": "Vatican News",
-      "lane": "vatican",
+      "lane": "official",
       "language": "fr",
-      "title": "En prière pour la santé du Pape Léon XIV",
+      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-sante-pape-leon-xiv-lourdes-marie-majeure.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Début de l’Année jubilaire de Guadalupe: le Pape invite à intensifier l’évangélisation",
+      "title": "Cardinal Baldo Reina: «Que Dieu accorde santé et réconfort au Pape»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-pape-leon-xiv-annee-jubiliaire-guadalupe-mexique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-hospitalisation-leon-xiv.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Au Pérou, une chaîne de prière lancée pour le Pape",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/perou-la-chaine-de-priere-pour-le-pape.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-14T04:57:50Z",
-    "lastSucceeded": "2026-10-14T04:57:56Z",
+    "lastFetched": "2026-10-14T11:57:47Z",
+    "lastSucceeded": "2026-10-14T11:57:57Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -145,7 +153,7 @@
     "itemCounts": {
       "vatican": 5,
       "outside_walls": 4,
-      "official": 3,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:57:49Z",
+  "generatedAt": "2026-10-14T11:57:47Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,8 +32,8 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/13/291013a.html"
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Holy See Press Office Press Release",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/13/261013b.html"
+      "title": "Holy Mass on the tenth anniversary of the Apostolic Exhortation Amoris Laetitia",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with members of the “Circolo San Pietro”",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012e.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "Prayers for Pope Leo",
       "publishedAt": "2026-10-12T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
+      "publishedAt": "2026-10-11T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-14T04:57:46Z",
-    "lastSucceeded": "2026-10-14T04:57:49Z",
+    "lastFetched": "2026-10-14T11:57:43Z",
+    "lastSucceeded": "2026-10-14T11:57:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
