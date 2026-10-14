@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:16:22Z",
+  "generatedAt": "2026-10-14T21:43:51Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "There Was No “Original Liturgical War”: A Response to Dmitri Solzhenitsyn",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
+      "title": "Obrecht’s Mass of St Donatianus",
+      "publishedAt": "2026-10-14T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Latin for Musicians Class with Veterum Sapientia Institute - Starting Next Week!",
-      "publishedAt": "2026-10-13T20:45:07.599000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/latin-for-musicians-class-with-veterum.html"
+      "title": "There Was No “Original Liturgical War”: A Response to Dmitri Solzhenitsyn",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Latin for Musicians Class with Veterum Sapientia Institute - Starting Next Week!",
+      "publishedAt": "2026-10-13T20:45:07.599000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/latin-for-musicians-class-with-veterum.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "On Gothic Art, Part 2",
       "publishedAt": "2026-10-13T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-2.html"
@@ -114,20 +122,12 @@
       "title": "The Basilica of St Apollinaris in Classe",
       "publishedAt": "2026-10-12T21:30:14.384000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Prayers for Pope Leo",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-14T17:16:18Z",
-    "lastSucceeded": "2026-10-14T17:16:22Z",
+    "lastFetched": "2026-10-14T21:43:50Z",
+    "lastSucceeded": "2026-10-14T21:43:51Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

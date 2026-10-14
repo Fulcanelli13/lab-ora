@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:16:30Z",
+  "generatedAt": "2026-10-14T21:43:57Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -34,14 +34,6 @@
       "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "OUI OU NON ? LES LIVRES LITURGIQUES D'AVANT LA REFORME DE 1969 EXPRIMENT-ILS LA LEX CREDENTI DE L'EGLISE ?",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4526"
     },
     {
       "source": "Vatican News",
@@ -118,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-14T17:16:22Z",
-    "lastSucceeded": "2026-10-14T17:16:30Z",
+    "lastFetched": "2026-10-14T21:43:51Z",
+    "lastSucceeded": "2026-10-14T21:43:57Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -146,7 +138,7 @@
       "vatican": 4,
       "outside_walls": 4,
       "official": 4,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
