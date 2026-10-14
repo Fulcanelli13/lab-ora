@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T22:48:22Z",
+  "generatedAt": "2026-10-14T04:57:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 28ème semaine du Temps Ordinaire",
-    "date": "2026-10-13",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-28eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : découvrir le bien dans ce que nous faisons ; la chasteté est une affirmation joyeuse ; réorienter nos désirs."
+    "title": "Méditation : Mercredi de la 28ème semaine du Temps Ordinaire",
+    "date": "2026-10-14",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-28eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : les raisons qui animent le cœur ; découvrir le bien des commandements ; chercher Dieu dans la vie de tous les jours."
   },
   "headlines": [
     {
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-13T22:48:16Z",
-    "lastSucceeded": "2026-10-13T22:48:22Z",
+    "lastFetched": "2026-10-14T04:57:50Z",
+    "lastSucceeded": "2026-10-14T04:57:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

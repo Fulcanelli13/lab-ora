@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T22:48:16Z",
+  "generatedAt": "2026-10-14T04:57:49Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Twenty-Eighth Week of Ordinary Time",
-    "date": "2026-10-13",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-eighth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: discovering the good in what we do; chastity is a joyful affirmation; redirecting our desires."
+    "title": "Meditations: Wednesday of the Twenty-Eighth Week of Ordinary Time",
+    "date": "2026-10-14",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-eighth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the reasons that move the heart; discovering the goodness of the commandments; seeking God in daily life."
   },
   "headlines": [
     {
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012a.html"
+      "title": "Holy See Press Office Press Release",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/13/261013b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -92,6 +92,14 @@
       "url": "https://advaticanum.com/article/archbishop-cordileone-church-had-greater-unity-under-summorum-pontificum/"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audiences",
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012a.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -100,34 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-apollinaris-in-classe.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience with members of the “Circolo San Pietro”",
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012e.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "Prayers for Pope Leo",
       "publishedAt": "2026-10-12T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
-      "publishedAt": "2026-10-11T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Archbishop Lackner praises Amoris laetitia as a ‘groundbreaking document’",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-lackner-praises-amoris-laetitia-as-a-groundbreaking-document/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-13T22:48:12Z",
-    "lastSucceeded": "2026-10-13T22:48:16Z",
+    "lastFetched": "2026-10-14T04:57:46Z",
+    "lastSucceeded": "2026-10-14T04:57:49Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 3,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
