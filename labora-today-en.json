@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:57:47Z",
+  "generatedAt": "2026-10-14T17:16:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -11,6 +11,38 @@
     "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the reasons that move the heart; discovering the goodness of the commandments; seeking God in daily life."
   },
   "headlines": [
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Leo to proceed with November South America trip despite lung surgery, says cardinal",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-to-proceed-with-november-south-america-trip-despite-lung-surgery-says-cardinal/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Architect of Traditionis custodes accuses Archbishop Cordileone of ‘schismatic arguments’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/architect-of-traditionis-custodes-accuses-archbishop-cordileone-of-schismatic-arguments/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "There Was No “Original Liturgical War”: A Response to Dmitri Solzhenitsyn",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
+    },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
@@ -31,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
+      "title": "Holy Mass on the tenth anniversary of the Apostolic Exhortation Amoris Laetitia",
       "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Holy Mass on the tenth anniversary of the Apostolic Exhortation Amoris Laetitia",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/14/261014a.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -74,30 +106,6 @@
       "title": "On Gothic Art, Part 2",
       "publishedAt": "2026-10-13T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-2.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Lacroix says Chapter 8 debate has ‘hijacked’ Amoris Laetitia for a decade",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-lacroix-says-chapter-8-debate-has-hijacked-amoris-laetitia-for-a-decade/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Archbishop Cordileone: Church had greater unity under Summorum Pontificum",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-cordileone-church-had-greater-unity-under-summorum-pontificum/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/12/291012a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Prayers for Pope Leo",
       "publishedAt": "2026-10-12T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/prayers-for-pope-leo.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Feast of the Holy Fathers of the Seventh Ecumenical Council",
-      "publishedAt": "2026-10-11T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-holy-fathers-of-seventh.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-14T11:57:43Z",
-    "lastSucceeded": "2026-10-14T11:57:47Z",
+    "lastFetched": "2026-10-14T17:16:18Z",
+    "lastSucceeded": "2026-10-14T17:16:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

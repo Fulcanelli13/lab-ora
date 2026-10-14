@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:57:57Z",
+  "generatedAt": "2026-10-14T17:16:30Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Amoris laetitia: la charité de l’amour, fondement de la famille",
+      "title": "Depuis la place Saint-Pierre, les prières des fidèles montent pour Léon XIV",
       "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/amoris-laetitia-messe-place-saint-pierre-pape-famille.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-priere-fideles-sante-place-saint-pierre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape a passé une nuit tranquille à l'hôpital Gemelli",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-operation-chirurgicale-hopital-gemelli.html"
+      "title": "Amoris laetitia: la charité de l’amour, fondement de la famille",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/amoris-laetitia-messe-place-saint-pierre-pape-famille.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Succès de l’opération chirurgicale du Pape",
+      "title": "Évolution postopératoire normale: le Pape a recommencé à marcher",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-hospitalisation-gemelli0.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-declaration-post-operatoire-mercredi-apres-midi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Cardinal Baldo Reina: «Que Dieu accorde santé et réconfort au Pape»",
+      "title": "Le Pape a passé une nuit tranquille à l'hôpital Gemelli",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chapelet-priere-hospitalisation-leon-xiv.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Au Pérou, une chaîne de prière lancée pour le Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/perou-la-chaine-de-priere-pour-le-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-operation-chirurgicale-hopital-gemelli.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-14T11:57:47Z",
-    "lastSucceeded": "2026-10-14T11:57:57Z",
+    "lastFetched": "2026-10-14T17:16:22Z",
+    "lastSucceeded": "2026-10-14T17:16:30Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 4,
       "official": 4,
       "tradition": 1
