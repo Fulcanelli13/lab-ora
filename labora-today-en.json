@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:34:26Z",
+  "generatedAt": "2026-10-15T17:04:28Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Architect of Traditionis custodes accuses Archbishop Cordileone of ‘schismatic arguments’",
+      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/architect-of-traditionis-custodes-accuses-archbishop-cordileone-of-schismatic-arguments/"
+      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Ohio-based Ukrainian Catholic deacon criticises decline in Eucharistic reverence since Vatican II",
+      "title": "Archbishop of Birmingham, UK, gives approval for celebration of medieval Sarum Mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/ohio-based-ukrainian-catholic-deacon-criticises-decline-in-eucharistic-reverence-since-vatican-ii/"
+      "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishop restricts ad orientem Masses to two weekdays per parish",
+      "title": "Architect of Traditionis custodes accuses Archbishop Cordileone of ‘schismatic arguments’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishop-restricts-ad-orientem-masses-to-two-weekdays-per-parish/"
+      "url": "https://advaticanum.com/article/architect-of-traditionis-custodes-accuses-archbishop-cordileone-of-schismatic-arguments/"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-15T11:34:23Z",
-    "lastSucceeded": "2026-10-15T11:34:26Z",
+    "lastFetched": "2026-10-15T17:04:25Z",
+    "lastSucceeded": "2026-10-15T17:04:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

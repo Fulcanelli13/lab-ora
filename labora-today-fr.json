@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:34:37Z",
+  "generatedAt": "2026-10-15T17:04:35Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
+      "title": "Le président de la République dominicaine reçu au Vatican",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/audience-president-republique-dominicaine-vatican-parolin.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Amoris laetitia: la charité de l’amour, fondement de la famille",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/amoris-laetitia-messe-place-saint-pierre-pape-famille.html"
+      "title": "Les examens du Pape montrent une «bonne récupération du poumon opéré»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
+      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape a passé une bonne nuit à l'hôpital Gemelli",
+      "title": "Les évêques canadiens s'unissent aux prières pour le rétablissement du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettre-des-eveques-du-canada-priere-pour-la-sante-du-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,25 +87,25 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia»: réflexion sur le mariage, la vie en couple et les craintes des jeunes",
+      "title": "Un nouvel évêque consacré en Chine, dans le diocèse de Haimen",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-vatican-reflexion-mariage-migration-precarite.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Abbé Gonzague Peignot : « À propos du pape »",
-      "publishedAt": "2026-10-08T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219169"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/consecration-eveque-haimen-chine-accord-saint-siege-provisoire.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
+      "title": "Le Saint-Siège aux Nations unies: le désarmement ne peut être reporté",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/le-saint-siege-aux-nations-unies-le-desarmement-ne-peut-etre-r.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le Saint-Siège exhorte à renforcer la coopération entre les États face à la criminalité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-oea-cooperation-entre-les-etats-criminalite.html"
     },
     {
       "source": "Vatican News",
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-15T11:34:27Z",
-    "lastSucceeded": "2026-10-15T11:34:37Z",
+    "lastFetched": "2026-10-15T17:04:29Z",
+    "lastSucceeded": "2026-10-15T17:04:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -144,8 +144,8 @@
     },
     "itemCounts": {
       "vatican": 4,
-      "outside_walls": 4,
-      "official": 4,
+      "outside_walls": 3,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,
