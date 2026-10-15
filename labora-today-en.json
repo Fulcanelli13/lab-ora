@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T21:43:51Z",
+  "generatedAt": "2026-10-15T04:44:37Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Twenty-Eighth Week of Ordinary Time",
-    "date": "2026-10-14",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-eighth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the reasons that move the heart; discovering the goodness of the commandments; seeking God in daily life."
+    "title": "Meditations: Thursday of the Twenty-Eighth Week of Ordinary Time",
+    "date": "2026-10-15",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-eighth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: humility, the path that leads us to God; the examination of conscience: recognizing God’s voice; courage to examine our hearts."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-14T21:43:50Z",
-    "lastSucceeded": "2026-10-14T21:43:51Z",
+    "lastFetched": "2026-10-15T04:44:31Z",
+    "lastSucceeded": "2026-10-15T04:44:37Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

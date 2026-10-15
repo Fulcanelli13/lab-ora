@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T21:43:57Z",
+  "generatedAt": "2026-10-15T04:44:44Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 28ème semaine du Temps Ordinaire",
-    "date": "2026-10-14",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-28eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : les raisons qui animent le cœur ; découvrir le bien des commandements ; chercher Dieu dans la vie de tous les jours."
+    "title": "Méditation : Jeudi de la 28ème semaine du Temps Ordinaire",
+    "date": "2026-10-15",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-28eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : l’humilité, le chemin qui mène à Dieu ; l’examen de conscience : reconnaître la voix du Seigneur ; encouragement à regarder notre cœur."
   },
   "headlines": [
     {
@@ -34,6 +34,14 @@
       "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "VETUS OU NOVUS BONNET BLANC ET BLANC BONNET ?",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4527"
     },
     {
       "source": "Vatican News",
@@ -110,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-14T21:43:51Z",
-    "lastSucceeded": "2026-10-14T21:43:57Z",
+    "lastFetched": "2026-10-15T04:44:37Z",
+    "lastSucceeded": "2026-10-15T04:44:44Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -138,7 +146,7 @@
       "vatican": 4,
       "outside_walls": 4,
       "official": 4,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
