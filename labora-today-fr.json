@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:44:44Z",
+  "generatedAt": "2026-10-15T11:34:37Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
+      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Amoris laetitia»: réflexion sur le mariage, la vie en couple et les craintes des jeunes",
+      "title": "La médaille «Pape Léon XIV», leadership de la responsabilité environnementale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-vatican-reflexion-mariage-migration-precarite.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/medaille-pape-leon-xiv-borgo-laudato-si.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Évolution postopératoire normale: le Pape a recommencé à marcher",
+      "title": "Le Pape a passé une bonne nuit à l'hôpital Gemelli",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-declaration-post-operatoire-mercredi-apres-midi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
+      "title": "«Amoris laetitia»: réflexion sur le mariage, la vie en couple et les craintes des jeunes",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-vatican-reflexion-mariage-migration-precarite.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,23 +103,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Mgr Gallagher: le cri de chaque enfant déplacé touche le cœur de Dieu",
+      "title": "Mgr Gallagher défend «l'impératif moral» de l'asile et le retour volontaire",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-cri-enfant-deplace-ou-exploite-touche-coeur-de-dieu.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/gallagher-refugies-migrants-unhcr-suisse.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape a passé une nuit tranquille à l'hôpital Gemelli",
+      "title": "Évolution postopératoire normale: le Pape a recommencé à marcher",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-operation-chirurgicale-hopital-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-declaration-post-operatoire-mercredi-apres-midi.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-15T04:44:37Z",
-    "lastSucceeded": "2026-10-15T04:44:44Z",
+    "lastFetched": "2026-10-15T11:34:27Z",
+    "lastSucceeded": "2026-10-15T11:34:37Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
