@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:04:28Z",
+  "generatedAt": "2026-10-15T21:26:19Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Great Interview on Medieval Catholic England",
-      "publishedAt": "2026-10-15T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
+      "title": "The Basilica of St Vitalis in Ravenna",
+      "publishedAt": "2026-10-15T21:20:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Obrecht’s Mass of St Donatianus",
-      "publishedAt": "2026-10-14T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
+      "title": "A Great Interview on Medieval Catholic England",
+      "publishedAt": "2026-10-15T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,6 +95,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Obrecht’s Mass of St Donatianus",
+      "publishedAt": "2026-10-14T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "There Was No “Original Liturgical War”: A Response to Dmitri Solzhenitsyn",
       "publishedAt": "2026-10-14T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/latin-for-musicians-class-with-veterum.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "On Gothic Art, Part 2",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/gothic-art-2.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-15T17:04:25Z",
-    "lastSucceeded": "2026-10-15T17:04:28Z",
+    "lastFetched": "2026-10-15T21:26:16Z",
+    "lastSucceeded": "2026-10-15T21:26:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
