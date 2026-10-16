@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:42:18Z",
+  "generatedAt": "2026-10-16T21:13:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
-      "publishedAt": "2026-10-16T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
+      "title": "A Tour of the Parkminster Charterhouse",
+      "publishedAt": "2026-10-16T20:15:35.483000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Basilica of St Vitalis in Ravenna",
-      "publishedAt": "2026-10-15T21:20:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
+      "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
+      "publishedAt": "2026-10-16T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,6 +95,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Basilica of St Vitalis in Ravenna",
+      "publishedAt": "2026-10-15T21:20:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "A Great Interview on Medieval Catholic England",
       "publishedAt": "2026-10-15T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "There Was No “Original Liturgical War”: A Response to Dmitri Solzhenitsyn",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-16T16:42:15Z",
-    "lastSucceeded": "2026-10-16T16:42:18Z",
+    "lastFetched": "2026-10-16T21:13:20Z",
+    "lastSucceeded": "2026-10-16T21:13:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
