@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-15T21:26:27Z",
+  "generatedAt": "2026-10-16T04:36:28Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 28ème semaine du Temps Ordinaire",
-    "date": "2026-10-15",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-28eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : l’humilité, le chemin qui mène à Dieu ; l’examen de conscience : reconnaître la voix du Seigneur ; encouragement à regarder notre cœur."
+    "title": "Méditation : Vendredi de la 28ème semaine du Temps Ordinaire",
+    "date": "2026-10-16",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-28eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : témoigner de la vérité par les actes ; la sincérité dans l’accompagnement spirituel ; les fondements de la vie spirituelle."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Séminaire de Wigratzbad: 22 nouveaux propédeutes font leur entrée",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219204"
+      "title": "Angleterre : un évêque autorise la célébration selon le rite de Sarum",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219213"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
-      "publishedAt": "2026-10-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219192"
+      "title": "Séminaire de Wigratzbad: 22 nouveaux propédeutes font leur entrée",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219204"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219176"
+      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
+      "publishedAt": "2026-10-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219192"
     },
     {
       "source": "Vatican News",
@@ -90,6 +90,14 @@
       "title": "En Ukraine, l’Église comme rempart d’espérance contre le désespoir",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/nonce-ukraine-l-eglise-rempart-esperance-guerre-paix-humanitaire.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219176"
     },
     {
       "source": "Vatican News",
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-15T21:26:19Z",
-    "lastSucceeded": "2026-10-15T21:26:27Z",
+    "lastFetched": "2026-10-16T04:36:23Z",
+    "lastSucceeded": "2026-10-16T04:36:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -144,7 +152,7 @@
     },
     "itemCounts": {
       "vatican": 4,
-      "outside_walls": 3,
+      "outside_walls": 4,
       "official": 5,
       "tradition": 1
     },
