@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:36:23Z",
+  "generatedAt": "2026-10-16T11:29:03Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,16 +32,16 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/15/261015a.html"
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Basilica of St Vitalis in Ravenna",
-      "publishedAt": "2026-10-15T21:20:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
+      "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
+      "publishedAt": "2026-10-16T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "From the Eastern Churches",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/15/261015b.html"
+      "title": "Message of the Holy Father for World Food Day 2026",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Great Interview on Medieval Catholic England",
-      "publishedAt": "2026-10-15T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
+      "title": "The Basilica of St Vitalis in Ravenna",
+      "publishedAt": "2026-10-15T21:20:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -92,12 +92,12 @@
       "url": "https://advaticanum.com/article/architect-of-traditionis-custodes-accuses-archbishop-cordileone-of-schismatic-arguments/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Holy See Press Office Press Release: Audience with the President of the Dominican Republic",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/15/261015c.html"
+      "title": "A Great Interview on Medieval Catholic England",
+      "publishedAt": "2026-10-15T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/there-was-no-original-liturgical-war.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "Latin for Musicians Class with Veterum Sapientia Institute - Starting Next Week!",
-      "publishedAt": "2026-10-13T20:45:07.599000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/latin-for-musicians-class-with-veterum.html"
+      "title": "Exclusive interview: Cardinal Roche to traditionalists: ‘You are edging yourself away from the centre of Catholicism’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-roche-to-traditionalists-you-are-edging-yourself-away-from-the-centre-of-catholicism-2/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-16T04:36:20Z",
-    "lastSucceeded": "2026-10-16T04:36:23Z",
+    "lastFetched": "2026-10-16T11:28:59Z",
+    "lastSucceeded": "2026-10-16T11:29:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,

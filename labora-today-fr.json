@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:36:28Z",
+  "generatedAt": "2026-10-16T11:29:07Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Depuis la place Saint-Pierre, les prières des fidèles montent pour Léon XIV",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-priere-fideles-sante-place-saint-pierre.html"
+      "title": "Pour Léon XIV, le pain ne doit pas être utilisé comme une arme de guerre",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-fao-journee-de-l-alimentation.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV poursuit sa convalescence et reprend ses activités",
+      "title": "Les enfants hospitalisés au Gemelli au Pape: «Nous prions pour toi!»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
     },
     {
       "source": "Riposte Catholique",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Évolution postopératoire normale: le Pape a recommencé à marcher",
+      "title": "Léon XIV poursuit sa convalescence et reprend ses activités",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-declaration-post-operatoire-mercredi-apres-midi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-16T04:36:23Z",
-    "lastSucceeded": "2026-10-16T04:36:28Z",
+    "lastFetched": "2026-10-16T11:29:03Z",
+    "lastSucceeded": "2026-10-16T11:29:07Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
