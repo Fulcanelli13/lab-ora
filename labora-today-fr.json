@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:13:28Z",
+  "generatedAt": "2026-10-16T23:39:00Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -34,14 +34,6 @@
       "title": "Le président de la République dominicaine reçu au Vatican",
       "publishedAt": "2026-10-15T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/audience-president-republique-dominicaine-vatican-parolin.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "VETUS OU NOVUS BONNET BLANC ET BLANC BONNET ?",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4527"
     },
     {
       "source": "Vatican News",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-16T21:13:22Z",
-    "lastSucceeded": "2026-10-16T21:13:28Z",
+    "lastFetched": "2026-10-16T23:38:54Z",
+    "lastSucceeded": "2026-10-16T23:39:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -154,7 +146,7 @@
       "vatican": 5,
       "outside_walls": 3,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
