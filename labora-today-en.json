@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:29:03Z",
+  "generatedAt": "2026-10-16T16:42:18Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "EXCLUSIVE: Amoris laetitia synthesis report to address Communion for divorced Catholics, but issue ‘not the centre’",
+      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-amoris-laetitia-synthesis-report-to-address-communion-for-divorced-catholics-but-issue-not-the-centre/"
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
+      "title": "Bishop Varden says Catholics in irregular unions should be welcomed without relativising their situation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
+      "url": "https://advaticanum.com/article/bishop-varden-says-catholics-in-irregular-unions-should-be-welcomed-without-relativising-their-situation/"
     },
     {
       "source": "Holy See Press Office",
@@ -47,17 +47,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo to proceed with November South America trip despite lung surgery, says cardinal",
+      "title": "EXCLUSIVE: Amoris laetitia synthesis report to address Communion for divorced Catholics, but issue ‘not the centre’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-to-proceed-with-november-south-america-trip-despite-lung-surgery-says-cardinal/"
+      "url": "https://advaticanum.com/article/exclusive-amoris-laetitia-synthesis-report-to-address-communion-for-divorced-catholics-but-issue-not-the-centre/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop of Birmingham, UK, gives approval for celebration of medieval Sarum Mass",
+      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
+      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
     },
     {
       "source": "Holy See Press Office",
@@ -79,17 +79,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV undergoes successful surgery to remove cancerous lung tumour",
+      "title": "Pope Leo to proceed with November South America trip despite lung surgery, says cardinal",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-undergoes-successful-surgery-to-remove-cancerous-lung-tumour/"
+      "url": "https://advaticanum.com/article/pope-leo-to-proceed-with-november-south-america-trip-despite-lung-surgery-says-cardinal/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Architect of Traditionis custodes accuses Archbishop Cordileone of ‘schismatic arguments’",
+      "title": "Archbishop of Birmingham, UK, gives approval for celebration of medieval Sarum Mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/architect-of-traditionis-custodes-accuses-archbishop-cordileone-of-schismatic-arguments/"
+      "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
     },
     {
       "source": "New Liturgical Movement",
@@ -119,15 +119,15 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Exclusive interview: Cardinal Roche to traditionalists: ‘You are edging yourself away from the centre of Catholicism’",
+      "title": "Pope Leo XIV undergoes successful surgery to remove cancerous lung tumour",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-roche-to-traditionalists-you-are-edging-yourself-away-from-the-centre-of-catholicism-2/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-undergoes-successful-surgery-to-remove-cancerous-lung-tumour/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-16T11:28:59Z",
-    "lastSucceeded": "2026-10-16T11:29:03Z",
+    "lastFetched": "2026-10-16T16:42:15Z",
+    "lastSucceeded": "2026-10-16T16:42:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

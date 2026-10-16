@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:29:07Z",
+  "generatedAt": "2026-10-16T16:42:25Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, le pain ne doit pas être utilisé comme une arme de guerre",
+      "title": "Amélioration constante de l’état de santé de Léon XIV",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-fao-journee-de-l-alimentation.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sante-convalescence-gemelli.html"
     },
     {
       "source": "Riposte Catholique",
@@ -36,20 +36,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/audience-president-republique-dominicaine-vatican-parolin.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "VETUS OU NOVUS BONNET BLANC ET BLANC BONNET ?",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4527"
-    },
-    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les enfants hospitalisés au Gemelli au Pape: «Nous prions pour toi!»",
+      "title": "Léon XIV demande à Poutine une trêve humanitaire à Oleshky",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-appel-telephonique-vladimir-poutine-treve-ukraine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les évêques canadiens s'unissent aux prières pour le rétablissement du Pape",
+      "title": "Les enfants hospitalisés au Gemelli: «Nous prions pour le Pape»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettre-des-eveques-du-canada-priere-pour-la-sante-du-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,17 +79,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
+      "title": "Saint-Siège-Irak, 60 ans d’espérance face à la méfiance du monde",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-irak-saint-siege-relations-diplomatiques.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
       "title": "En Ukraine, l’Église comme rempart d’espérance contre le désespoir",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/nonce-ukraine-l-eglise-rempart-esperance-guerre-paix-humanitaire.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Le cardinal Luis Tagle devient doyen du Collège des cardinaux",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219176"
     },
     {
       "source": "Vatican News",
@@ -109,25 +101,25 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Un nouvel évêque consacré en Chine, dans le diocèse de Haimen",
+      "title": "Pour Léon XIV, le pain ne doit pas être utilisé comme une arme de guerre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/consecration-eveque-haimen-chine-accord-saint-siege-provisoire.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-fao-journee-de-l-alimentation.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV poursuit sa convalescence et reprend ses activités",
+      "title": "Les évêques canadiens s'unissent aux prières pour le rétablissement du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/sante-du-pape-hopital-gemelli-evolution.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettre-des-eveques-du-canada-priere-pour-la-sante-du-pape.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-16T11:29:03Z",
-    "lastSucceeded": "2026-10-16T11:29:07Z",
+    "lastFetched": "2026-10-16T16:42:18Z",
+    "lastSucceeded": "2026-10-16T16:42:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +143,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
-      "outside_walls": 4,
+      "vatican": 5,
+      "outside_walls": 3,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
