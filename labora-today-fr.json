@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:32:13Z",
+  "generatedAt": "2026-10-17T10:49:04Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,25 +15,25 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Amélioration constante de l’état de santé de Léon XIV",
+      "title": "Le Pape quitte l'hôpital Gemelli en début d'après-midi et célèbrera l'Angélus au Vatican",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sante-convalescence-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Angleterre : un évêque autorise la célébration selon le rite de Sarum",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219213"
+      "title": "« Vers un Christianisme sans religion »: organisation d’un colloque thomiste par les communautés amies du Pèlerinage de Chartres",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219231"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le président de la République dominicaine reçu au Vatican",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/audience-president-republique-dominicaine-vatican-parolin.html"
+      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
     },
     {
       "source": "Paix Liturgique",
@@ -55,6 +55,30 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
+      "title": "Angleterre : un évêque autorise la célébration selon le rite de Sarum",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219213"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Pétros ení»: un nouveau film sur la tombe de saint Pierre met en scène le Pape Léon XIV",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/petros-eni-nouveau-film-tombe-saint-pierre-foi-christ-eglise.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Amélioration constante de l’état de santé de Léon XIV",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sante-convalescence-gemelli.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
       "title": "Séminaire de Wigratzbad: 22 nouveaux propédeutes font leur entrée",
       "publishedAt": "2026-10-13T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219204"
@@ -63,17 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
+      "title": "Pour le cardinal Parolin, la procréation est un don, le fruit de l’amour conjugal",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Les enfants hospitalisés au Gemelli: «Nous prions pour le Pape»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-procreation-don-fecondite-amour-conjugal-vie.html"
     },
     {
       "source": "Riposte Catholique",
@@ -101,33 +117,17 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Mgr Gallagher: «Le dialogue est essentiel pour entretenir l'espoir de la paix»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/mgr-gallagher-le-dialogue-est-essentiel-pour-entretenir-l-espo.html"
-    },
-    {
-      "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, le pain ne doit pas être utilisé comme une arme de guerre",
+      "title": "Les enfants hospitalisés au Gemelli: «Nous prions pour le Pape»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-fao-journee-de-l-alimentation.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Les évêques canadiens s'unissent aux prières pour le rétablissement du Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettre-des-eveques-du-canada-priere-pour-la-sante-du-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-17T04:32:04Z",
-    "lastSucceeded": "2026-10-17T04:32:13Z",
+    "lastFetched": "2026-10-17T10:49:00Z",
+    "lastSucceeded": "2026-10-17T10:49:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
-      "outside_walls": 3,
+      "vatican": 4,
+      "outside_walls": 4,
       "official": 5,
       "tradition": 1
     },

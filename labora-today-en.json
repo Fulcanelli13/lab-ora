@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:32:04Z",
+  "generatedAt": "2026-10-17T10:49:00Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016b.html"
+      "title": "From the Eastern Churches",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Message of the Holy Father for World Food Day 2026",
+      "title": "Resignations and Appointments",
       "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016a.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "From the Eastern Churches",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/15/261015b.html"
+      "title": "Message of the Holy Father for World Food Day 2026",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-17T04:32:01Z",
-    "lastSucceeded": "2026-10-17T04:32:04Z",
+    "lastFetched": "2026-10-17T10:48:56Z",
+    "lastSucceeded": "2026-10-17T10:49:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
