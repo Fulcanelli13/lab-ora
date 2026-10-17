@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:38:29Z",
+  "generatedAt": "2026-10-17T20:39:27Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
+      "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -47,9 +47,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "EXCLUSIVE: Amoris laetitia synthesis report to address Communion for divorced Catholics, but issue ‘not the centre’",
+      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-amoris-laetitia-synthesis-report-to-address-communion-for-divorced-catholics-but-issue-not-the-centre/"
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -79,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo to proceed with November South America trip despite lung surgery, says cardinal",
+      "title": "German bishops’ chairman confirms controversy over Communion for divorced Catholics at Vatican meeting",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-to-proceed-with-november-south-america-trip-despite-lung-surgery-says-cardinal/"
+      "url": "https://advaticanum.com/article/german-bishops-chairman-confirms-controversy-over-communion-for-divorced-catholics-at-vatican-meeting/"
     },
     {
       "source": "Ad Vaticanum",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-17T15:38:25Z",
-    "lastSucceeded": "2026-10-17T15:38:29Z",
+    "lastFetched": "2026-10-17T20:39:22Z",
+    "lastSucceeded": "2026-10-17T20:39:27Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
