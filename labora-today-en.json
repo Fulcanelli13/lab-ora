@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T23:38:54Z",
+  "generatedAt": "2026-10-17T04:32:04Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Friday of the Twenty-Eighth Week of Ordinary Time",
-    "date": "2026-10-16",
-    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-twenty-eighth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: bearing witness to the truth through actions, sincerity in spiritual guidance, the bedrock of the spiritual life."
+    "title": "Meditations: Saturday of the Twenty-Eighth Week of Ordinary Time",
+    "date": "2026-10-17",
+    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-twenty-eighth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the testimony that strengthens our love for Christ; when misunderstandings arise; trusting the Holy Spirit."
   },
   "headlines": [
     {
@@ -92,6 +92,14 @@
       "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "From the Eastern Churches",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/15/261015b.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -114,20 +122,12 @@
       "title": "Obrecht’s Mass of St Donatianus",
       "publishedAt": "2026-10-14T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV undergoes successful surgery to remove cancerous lung tumour",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-undergoes-successful-surgery-to-remove-cancerous-lung-tumour/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-16T23:38:50Z",
-    "lastSucceeded": "2026-10-16T23:38:54Z",
+    "lastFetched": "2026-10-17T04:32:01Z",
+    "lastSucceeded": "2026-10-17T04:32:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
+      "official": 3,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 3,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
