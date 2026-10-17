@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:49:04Z",
+  "generatedAt": "2026-10-17T15:38:36Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,7 +15,7 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape quitte l'hôpital Gemelli en début d'après-midi et célèbrera l'Angélus au Vatican",
+      "title": "Le Pape de retour au Vatican après sa sortie de l'hôpital",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
     },
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Conclusions des travaux de la rencontre sur Amoris laetitia",
+      "title": "Le cardinal Semeraro invite les fidèles à suivre l’exemple des martyrs d’Ibiza",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/amoris-laetitia-point-presse-conclusions-des-travaux.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-semeraro-martyrs-ibiza-eglise-espagne-beatification.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV demande à Poutine une trêve humanitaire à Oleshky",
+      "title": "Chirurgien du Pape: il n’y a aucune raison médicale de ne pas effectuer ce voyage en Amérique du Sud",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-appel-telephonique-vladimir-poutine-treve-ukraine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chirurgien-du-pape-voyage-en-amerique-du-sud.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Amélioration constante de l’état de santé de Léon XIV",
+      "title": "Léon XIV demande à Poutine une trêve humanitaire à Oleshky",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sante-convalescence-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-appel-telephonique-vladimir-poutine-treve-ukraine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les enfants hospitalisés au Gemelli: «Nous prions pour le Pape»",
+      "title": "Amélioration constante de l’état de santé de Léon XIV",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/lettres-d-enfants-hospitalises-pape-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sante-convalescence-gemelli.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-17T10:49:00Z",
-    "lastSucceeded": "2026-10-17T10:49:04Z",
+    "lastFetched": "2026-10-17T15:38:30Z",
+    "lastSucceeded": "2026-10-17T15:38:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

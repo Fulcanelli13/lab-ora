@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:49:00Z",
+  "generatedAt": "2026-10-17T15:38:29Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Tour of the Parkminster Charterhouse",
-      "publishedAt": "2026-10-16T20:15:35.483000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
+      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
+      "publishedAt": "2026-10-17T13:00:04.106000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
-      "publishedAt": "2026-10-16T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
+      "title": "A Tour of the Parkminster Charterhouse",
+      "publishedAt": "2026-10-16T20:15:35.483000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
+      "publishedAt": "2026-10-16T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Basilica of St Vitalis in Ravenna",
       "publishedAt": "2026-10-15T21:20:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
@@ -114,20 +122,12 @@
       "title": "A Great Interview on Medieval Catholic England",
       "publishedAt": "2026-10-15T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-great-interview-on-medieval-catholic.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Obrecht’s Mass of St Donatianus",
-      "publishedAt": "2026-10-14T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/obrechts-mass-of-st-donatianus.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-17T10:48:56Z",
-    "lastSucceeded": "2026-10-17T10:49:00Z",
+    "lastFetched": "2026-10-17T15:38:25Z",
+    "lastSucceeded": "2026-10-17T15:38:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
