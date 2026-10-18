@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:48:15Z",
+  "generatedAt": "2026-10-18T23:16:34Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "VETUS OU NOVUS BONNET BLANC ET BLANC BONNET ?",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4527"
+      "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
+      "publishedAt": null,
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
     },
     {
       "source": "Vatican News",
@@ -66,6 +66,14 @@
       "title": "«Pétros ení»: un nouveau film sur la tombe de saint Pierre met en scène le Pape Léon XIV",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/petros-eni-nouveau-film-tombe-saint-pierre-foi-christ-eglise.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "Paix Liturgique France",
+      "publishedAt": null,
+      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
     },
     {
       "source": "Vatican News",
@@ -114,20 +122,12 @@
       "title": "À l'hôpital Gemelli, Léon XIV remercie les médecins et la foule",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-sortie-de-l-hopital-gemelli-remerciements.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape de retour au Vatican après sa sortie de l'hôpital",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-18T20:48:08Z",
-    "lastSucceeded": "2026-10-18T20:48:15Z",
+    "lastFetched": "2026-10-18T23:16:29Z",
+    "lastSucceeded": "2026-10-18T23:16:34Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,17 +147,17 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 1
+        "count": 3
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 3,
       "official": 5,
-      "tradition": 1
+      "tradition": 2
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
