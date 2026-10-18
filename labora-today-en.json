@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:12:06Z",
+  "generatedAt": "2026-10-18T15:54:18Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Holy See Press Office Press Release: Telephone conversation between the Holy Father and the President of the Russian Federation",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016c.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "A Tour of the Parkminster Charterhouse",
       "publishedAt": "2026-10-16T20:15:35.483000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Holy See Press Office Press Release: Telephone conversation between the Holy Father and the President of the Russian Federation",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016c.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-18T11:12:03Z",
-    "lastSucceeded": "2026-10-18T11:12:06Z",
+    "lastFetched": "2026-10-18T15:54:15Z",
+    "lastSucceeded": "2026-10-18T15:54:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

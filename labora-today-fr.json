@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:12:10Z",
+  "generatedAt": "2026-10-18T15:54:23Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Aucune raison médicale ne justifie l'annulation du voyage en Amérique du Sud",
+      "title": "100e Journée mondiale des Missions, le Pape accorde l'indulgence plénière",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chirurgien-du-pape-voyage-en-amerique-du-sud.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-indulgence-pleniere-100-journee-missionnaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À l'hôpital Gemelli, Léon XIV remercie les médecins et la foule",
+      "title": "Aucune raison médicale ne justifie l'annulation du voyage en Amérique du Sud",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-sortie-de-l-hopital-gemelli-remerciements.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chirurgien-du-pape-voyage-en-amerique-du-sud.html"
     },
     {
       "source": "Riposte Catholique",
@@ -90,14 +90,6 @@
       "title": "Pour le cardinal Parolin, la procréation est un don, le fruit de l’amour conjugal",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-procreation-don-fecondite-amour-conjugal-vie.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Mgr Cordileone : « plus d’unité sous Summorum Pontificum que sous Traditionis Custodes »",
-      "publishedAt": "2026-10-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219192"
     },
     {
       "source": "Vatican News",
@@ -119,6 +111,14 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
+      "title": "À l'hôpital Gemelli, Léon XIV remercie les médecins et la foule",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-sortie-de-l-hopital-gemelli-remerciements.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
       "title": "Le Pape de retour au Vatican après sa sortie de l'hôpital",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-18T11:12:06Z",
-    "lastSucceeded": "2026-10-18T11:12:10Z",
+    "lastFetched": "2026-10-18T15:54:18Z",
+    "lastSucceeded": "2026-10-18T15:54:23Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
-      "outside_walls": 4,
+      "vatican": 5,
+      "outside_walls": 3,
       "official": 5,
       "tradition": 1
     },
