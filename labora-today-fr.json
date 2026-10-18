@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:38:48Z",
+  "generatedAt": "2026-10-18T11:12:10Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le chirurgien du Pape: aucune raison médicale ne justifie l'annulation de la visite en Amérique du Sud",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chirurgien-du-pape-voyage-en-amerique-du-sud.html"
+      "title": "Lors du premier Angélus après son opération, le Pape remercie les fidèles pour leurs prières",
+      "publishedAt": "2026-10-18T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-pape-leon-xiv-saint-pierre-vatican-meditation-dimanche.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À l'hôpital Gemelli, Léon XIV remercie les médecins et la foule",
+      "title": "Aucune raison médicale ne justifie l'annulation du voyage en Amérique du Sud",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-sortie-de-l-hopital-gemelli-remerciements.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/chirurgien-du-pape-voyage-en-amerique-du-sud.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape de retour au Vatican après sa sortie de l'hôpital",
+      "title": "À l'hôpital Gemelli, Léon XIV remercie les médecins et la foule",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-sortie-de-l-hopital-gemelli-remerciements.html"
     },
     {
       "source": "Riposte Catholique",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV demande à Poutine une trêve humanitaire à Oleshky",
+      "title": "Le Pape de retour au Vatican après sa sortie de l'hôpital",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-appel-telephonique-vladimir-poutine-treve-ukraine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-analyses-sang-radiographie-thoracique-polyclinique-gemelli.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-18T04:38:41Z",
-    "lastSucceeded": "2026-10-18T04:38:48Z",
+    "lastFetched": "2026-10-18T11:12:06Z",
+    "lastSucceeded": "2026-10-18T11:12:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
