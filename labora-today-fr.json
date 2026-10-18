@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T23:09:48Z",
+  "generatedAt": "2026-10-18T04:38:48Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 28ème semaine du Temps Ordinaire",
-    "date": "2026-10-17",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-28eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le témoignage qui renforce notre amour pour le Christ ; en cas d’incompréhension ; la confiance en l’Esprit Saint."
+    "title": "Méditation : 29ème dimanche du Temps Ordinaire, cycle A",
+    "date": "2026-10-18",
+    "url": "https://opusdei.org/fr/meditation/meditation-29eme-dimanche-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : une question sans issue apparente ; à César ce qui est à César ; à Dieu ce qui est à Dieu."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-17T23:09:39Z",
-    "lastSucceeded": "2026-10-17T23:09:48Z",
+    "lastFetched": "2026-10-18T04:38:41Z",
+    "lastSucceeded": "2026-10-18T04:38:48Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

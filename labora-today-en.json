@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T23:09:39Z",
+  "generatedAt": "2026-10-18T04:38:41Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Saturday of the Twenty-Eighth Week of Ordinary Time",
-    "date": "2026-10-17",
-    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-twenty-eighth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-eighth week of Ordinary Time. The topics are: the testimony that strengthens our love for Christ; when misunderstandings arise; trusting the Holy Spirit."
+    "title": "Meditations: Sunday of the Twenty-Ninth Week of Ordinary Time (Year A)",
+    "date": "2026-10-18",
+    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-ninth-week-of-ordinary-time-year-a/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a question with no right answer; what belongs to Caesar; what belongs to God."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Holy See Press Office Press Release: Telephone conversation between the Holy Father and the President of the Russian Federation",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016c.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "Review of Abbé Claude Barthe, The Seven Sacraments, Past and Present: A Short Critical Study of the New Rituals",
       "publishedAt": "2026-10-16T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/review-of-abbe-claude-barthe-seven.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Basilica of St Vitalis in Ravenna",
-      "publishedAt": "2026-10-15T21:20:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-basilica-of-st-vitalis-in-ravenna.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-17T23:09:35Z",
-    "lastSucceeded": "2026-10-17T23:09:39Z",
+    "lastFetched": "2026-10-18T04:38:36Z",
+    "lastSucceeded": "2026-10-18T04:38:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
