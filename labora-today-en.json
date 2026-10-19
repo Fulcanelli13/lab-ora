@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:23:46Z",
+  "generatedAt": "2026-10-19T20:36:31Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
+      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
+      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
     },
     {
       "source": "Holy See Press Office",
@@ -36,12 +36,52 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/19/261019a.html"
     },
     {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Proper Office of the Evangelists",
+      "publishedAt": "2026-10-18T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
+    },
+    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
       "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Holy See Press Office Press Release",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/19/261019b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
+      "publishedAt": "2026-10-17T21:04:44.612000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -60,20 +100,12 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/18/261018a.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Bishop Varden says Catholics in irregular unions should be welcomed without relativising their situation",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-varden-says-catholics-in-irregular-unions-should-be-welcomed-without-relativising-their-situation/"
+      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
+      "publishedAt": "2026-10-17T13:00:04.106000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     },
     {
       "source": "Holy See Press Office",
@@ -84,50 +116,18 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017a.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "Holy See Press Office Press Release",
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017b.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "German bishops’ chairman confirms controversy over Communion for divorced Catholics at Vatican meeting",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/german-bishops-chairman-confirms-controversy-over-communion-for-divorced-catholics-at-vatican-meeting/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "EXCLUSIVE: Amoris laetitia synthesis report to address Communion for divorced Catholics, but issue ‘not the centre’",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-amoris-laetitia-synthesis-report-to-address-communion-for-divorced-catholics-but-issue-not-the-centre/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Archbishop of Birmingham, UK, gives approval for celebration of medieval Sarum Mass",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
+      "title": "A Tour of the Parkminster Charterhouse",
+      "publishedAt": "2026-10-16T20:15:35.483000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-19T13:23:27Z",
-    "lastSucceeded": "2026-10-19T13:23:46Z",
+    "lastFetched": "2026-10-19T20:36:20Z",
+    "lastSucceeded": "2026-10-19T20:36:31Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -142,9 +142,8 @@
         "count": 5
       },
       "nlm_atom": {
-        "ok": false,
-        "count": 0,
-        "error": "TimeoutError: The read operation timed out"
+        "ok": true,
+        "count": 5
       },
       "holy_see_en": {
         "ok": true,
@@ -152,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
-      "outside_walls": 5,
+      "vatican": 3,
+      "outside_walls": 3,
       "official": 4,
-      "tradition": 0
+      "tradition": 4
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 1,
