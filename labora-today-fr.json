@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T23:16:34Z",
+  "generatedAt": "2026-10-19T04:45:45Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 29ème dimanche du Temps Ordinaire, cycle A",
-    "date": "2026-10-18",
-    "url": "https://opusdei.org/fr/meditation/meditation-29eme-dimanche-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : une question sans issue apparente ; à César ce qui est à César ; à Dieu ce qui est à Dieu."
+    "title": "Méditation : Lundi de la 29ème semaine du Temps Ordinaire",
+    "date": "2026-10-19",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-29eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la prière responsabilise tout le monde ; le riche insensé ; la perception des biens immatériels."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
     },
     {
@@ -72,7 +72,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "Paix Liturgique France",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-18T23:16:29Z",
-    "lastSucceeded": "2026-10-18T23:16:34Z",
+    "lastFetched": "2026-10-19T04:45:40Z",
+    "lastSucceeded": "2026-10-19T04:45:45Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T23:16:29Z",
+  "generatedAt": "2026-10-19T04:45:40Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Twenty-Ninth Week of Ordinary Time (Year A)",
-    "date": "2026-10-18",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-twenty-ninth-week-of-ordinary-time-year-a/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a question with no right answer; what belongs to Caesar; what belongs to God."
+    "title": "Meditations: Monday of the Twenty-Ninth Week of Ordinary Time",
+    "date": "2026-10-19",
+    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-ninth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: prayer makes each of us responsible; the foolish rich man; recognizing immaterial goods."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-18T23:16:26Z",
-    "lastSucceeded": "2026-10-18T23:16:29Z",
+    "lastFetched": "2026-10-19T04:45:36Z",
+    "lastSucceeded": "2026-10-19T04:45:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,7 +147,7 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 5
+        "count": 4
       }
     },
     "itemCounts": {
@@ -157,7 +157,7 @@
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,
