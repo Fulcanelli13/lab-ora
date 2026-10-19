@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T04:45:40Z",
+  "generatedAt": "2026-10-19T13:23:46Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,57 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Pope Leo XIV returns to public view following lung surgery",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/19/261019a.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Exclusive interview with the only bishop in communion with Rome whose mission is the TLM",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/exclusive-interview-with-the-only-bishop-in-communion-with-rome-whose-mission-is-the-tlm/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "The Pope’s words at the Angelus prayer",
+      "publishedAt": "2026-10-18T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/18/261018a.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -36,44 +84,12 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017a.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Proper Office of the Evangelists",
-      "publishedAt": "2026-10-18T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016b.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
-      "publishedAt": "2026-10-17T21:04:44.612000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
+      "title": "Holy See Press Office Press Release",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017b.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -85,49 +101,33 @@
     },
     {
       "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "EXCLUSIVE: Amoris laetitia synthesis report to address Communion for divorced Catholics, but issue ‘not the centre’",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/exclusive-amoris-laetitia-synthesis-report-to-address-communion-for-divorced-catholics-but-issue-not-the-centre/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "China consecrates 19th bishop under Vatican-Beijing agreement",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/china-consecrates-19th-bishop-under-vatican-beijing-agreement/"
+    },
+    {
+      "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
       "title": "Archbishop of Birmingham, UK, gives approval for celebration of medieval Sarum Mass",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/archbishop-of-birmingham-uk-gives-approval-for-celebration-of-medieval-sarum-mass/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Message of the Holy Father for World Food Day 2026",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016a.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
-      "publishedAt": "2026-10-17T13:00:04.106000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Holy See Press Office Press Release: Telephone conversation between the Holy Father and the President of the Russian Federation",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/16/261016c.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A Tour of the Parkminster Charterhouse",
-      "publishedAt": "2026-10-16T20:15:35.483000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-19T04:45:36Z",
-    "lastSucceeded": "2026-10-19T04:45:40Z",
+    "lastFetched": "2026-10-19T13:23:27Z",
+    "lastSucceeded": "2026-10-19T13:23:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -142,22 +142,23 @@
         "count": 5
       },
       "nlm_atom": {
-        "ok": true,
-        "count": 5
+        "ok": false,
+        "count": 0,
+        "error": "TimeoutError: The read operation timed out"
       },
       "holy_see_en": {
         "ok": true,
-        "count": 4
+        "count": 5
       }
     },
     "itemCounts": {
-      "vatican": 3,
-      "outside_walls": 3,
+      "vatican": 5,
+      "outside_walls": 5,
       "official": 4,
-      "tradition": 4
+      "tradition": 0
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
