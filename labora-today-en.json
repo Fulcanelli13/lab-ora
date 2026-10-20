@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T20:36:31Z",
+  "generatedAt": "2026-10-20T00:23:31Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
     "title": "Meditations: Monday of the Twenty-Ninth Week of Ordinary Time",
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-ninth-week-of-ordinary-time/",
     "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: prayer makes each of us responsible; the foolish rich man; recognizing immaterial goods."
   },
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-19T20:36:20Z",
-    "lastSucceeded": "2026-10-19T20:36:31Z",
+    "lastFetched": "2026-10-20T00:23:28Z",
+    "lastSucceeded": "2026-10-20T00:23:31Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

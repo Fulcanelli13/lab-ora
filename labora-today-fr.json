@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-19T20:36:46Z",
+  "generatedAt": "2026-10-20T00:23:36Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 29ème semaine du Temps Ordinaire",
-    "date": "2026-10-19",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-29eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : la prière responsabilise tout le monde ; le riche insensé ; la perception des biens immatériels."
+    "title": "Méditation : Mardi de la 29ème semaine du Temps Ordinaire",
+    "date": "2026-10-20",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-29eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : un cœur en état de veille ; le centre de nos espoirs ; mettre de l’amour dans ce qui est routinier."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
     },
     {
@@ -72,7 +72,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "Paix Liturgique France",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-19T20:36:32Z",
-    "lastSucceeded": "2026-10-19T20:36:46Z",
+    "lastFetched": "2026-10-20T00:23:31Z",
+    "lastSucceeded": "2026-10-20T00:23:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
