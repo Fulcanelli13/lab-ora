@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:20:11Z",
+  "generatedAt": "2026-10-20T19:18:47Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
-      "publishedAt": "2026-10-19T12:00:00Z",
+      "publishedAt": null,
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
     },
     {
@@ -72,7 +72,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "Paix Liturgique France",
-      "publishedAt": "2026-10-19T12:00:00Z",
+      "publishedAt": null,
       "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-20T14:19:58Z",
-    "lastSucceeded": "2026-10-20T14:20:11Z",
+    "lastFetched": "2026-10-20T19:18:37Z",
+    "lastSucceeded": "2026-10-20T19:18:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

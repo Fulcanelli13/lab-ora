@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:19:58Z",
+  "generatedAt": "2026-10-20T19:18:36Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Portable Altars Through the Centuries",
-      "publishedAt": "2026-10-20T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
+      "title": "Two Recent Glagolitic Masses",
+      "publishedAt": "2026-10-20T18:30:06.387000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Proper Office of the Evangelists",
-      "publishedAt": "2026-10-18T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
+      "title": "Portable Altars Through the Centuries",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
-      "publishedAt": "2026-10-17T21:04:44.612000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
+      "title": "The Proper Office of the Evangelists",
+      "publishedAt": "2026-10-18T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
-      "publishedAt": "2026-10-17T13:00:04.106000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
+      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
+      "publishedAt": "2026-10-17T21:04:44.612000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-20T14:19:53Z",
-    "lastSucceeded": "2026-10-20T14:19:58Z",
+    "lastFetched": "2026-10-20T19:18:31Z",
+    "lastSucceeded": "2026-10-20T19:18:36Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
