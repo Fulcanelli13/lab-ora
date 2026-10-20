@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-20T00:23:31Z",
+  "generatedAt": "2026-10-20T08:36:42Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Twenty-Ninth Week of Ordinary Time",
+    "title": "Meditations: Tuesday of the Twenty-Ninth Week of Ordinary Time",
     "date": "2026-10-20",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-twenty-ninth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: prayer makes each of us responsible; the foolish rich man; recognizing immaterial goods."
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-ninth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a vigilant heart; the center of our hopes; infusing everyday routines with love."
   },
   "headlines": [
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV returns to public view following lung surgery",
+      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
+      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
     },
     {
       "source": "Ad Vaticanum",
@@ -47,9 +47,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
+      "title": "Pope Leo XIV returns to public view following lung surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -79,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Parolin says Pope Leo may need to ‘adjust his pontificate’ following lung surgery",
+      "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-says-pope-leo-may-need-to-adjust-his-pontificate-following-lung-surgery/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-20T00:23:28Z",
-    "lastSucceeded": "2026-10-20T00:23:31Z",
+    "lastFetched": "2026-10-20T08:36:39Z",
+    "lastSucceeded": "2026-10-20T08:36:42Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
