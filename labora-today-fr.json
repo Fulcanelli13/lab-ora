@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:36:49Z",
+  "generatedAt": "2026-10-20T14:20:11Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Semeraro invite les fidèles à suivre l’exemple des martyrs d’Ibiza",
+      "title": "À Londres, le cardinal Koovakad exhorte catholiques et jaïns à s'unir pour la paix",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-semeraro-martyrs-ibiza-eglise-espagne-beatification.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-a-londres-catholiques-et-jains-paix.html"
     },
     {
       "source": "Paix Liturgique",
@@ -95,9 +95,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Pétros ení»: un nouveau film sur la tombe de saint Pierre met en scène le Pape Léon XIV",
+      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/petros-eni-nouveau-film-tombe-saint-pierre-foi-christ-eglise.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -108,26 +108,26 @@
       "url": "https://riposte-catholique.fr/archives/219213"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Séminaire de Wigratzbad: 22 nouveaux propédeutes font leur entrée",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219204"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Pour le cardinal Parolin, la procréation est un don, le fruit de l’amour conjugal",
+      "title": "Le cardinal Semeraro invite les fidèles à suivre l’exemple des martyrs d’Ibiza",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-procreation-don-fecondite-amour-conjugal-vie.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-semeraro-martyrs-ibiza-eglise-espagne-beatification.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "100e Journée mondiale des Missions, le Pape accorde l'indulgence plénière",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-indulgence-pleniere-100-journee-missionnaire.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-20T08:36:42Z",
-    "lastSucceeded": "2026-10-20T08:36:49Z",
+    "lastFetched": "2026-10-20T14:19:58Z",
+    "lastSucceeded": "2026-10-20T14:20:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
-      "outside_walls": 5,
+      "vatican": 4,
+      "outside_walls": 4,
       "official": 4,
       "tradition": 2
     },

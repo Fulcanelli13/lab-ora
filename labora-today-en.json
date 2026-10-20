@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:36:42Z",
+  "generatedAt": "2026-10-20T14:19:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
+      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
+      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Proper Office of the Evangelists",
-      "publishedAt": "2026-10-18T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
+      "title": "Portable Altars Through the Centuries",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
+      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
+      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
-      "publishedAt": "2026-10-17T21:04:44.612000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
+      "title": "The Proper Office of the Evangelists",
+      "publishedAt": "2026-10-18T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Exclusive interview with the only bishop in communion with Rome whose mission is the TLM",
+      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-with-the-only-bishop-in-communion-with-rome-whose-mission-is-the-tlm/"
+      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
-      "publishedAt": "2026-10-17T13:00:04.106000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
+      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
+      "publishedAt": "2026-10-17T21:04:44.612000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Tour of the Parkminster Charterhouse",
-      "publishedAt": "2026-10-16T20:15:35.483000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-tour-of-parkminster-charterhouse.html"
+      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
+      "publishedAt": "2026-10-17T13:00:04.106000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-20T08:36:39Z",
-    "lastSucceeded": "2026-10-20T08:36:42Z",
+    "lastFetched": "2026-10-20T14:19:53Z",
+    "lastSucceeded": "2026-10-20T14:19:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
