@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T23:55:22Z",
+  "generatedAt": "2026-10-21T04:53:55Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 29ème semaine du Temps Ordinaire",
-    "date": "2026-10-20",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-29eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : un cœur en état de veille ; le centre de nos espoirs ; mettre de l’amour dans ce qui est routinier."
+    "title": "Méditation : Mercredi de la 29ème semaine du Temps Ordinaire",
+    "date": "2026-10-21",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-29eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le goût de la cité de Dieu ; orienter nos efforts vers le Seigneur ; l’amour de la confession."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Décès de l’archevêque chaldéen catholique de Dyarbakir",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219257"
+      "title": "Oxford : célébration d’une messe traditionnelle et procession",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219266"
     },
     {
       "source": "Vatican News",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
     },
     {
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Selon le Dicastère pour les textes législatifs les facultés romaines à l’égard de la Fraternité Saint-Pie X n’ont pas été révoquées",
+      "title": "Décès de l’archevêque chaldéen catholique de Dyarbakir",
       "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219248"
+      "url": "https://riposte-catholique.fr/archives/219257"
     },
     {
       "source": "Vatican News",
@@ -72,7 +72,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "Paix Liturgique France",
-      "publishedAt": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
       "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
     },
     {
@@ -87,9 +87,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "« Vers un Christianisme sans religion »: organisation d’un colloque thomiste par les communautés amies du Pèlerinage de Chartres",
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219231"
+      "title": "Selon le Dicastère pour les textes législatifs les facultés romaines à l’égard de la Fraternité Saint-Pie X n’ont pas été révoquées",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219248"
     },
     {
       "source": "Vatican News",
@@ -98,6 +98,14 @@
       "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "« Vers un Christianisme sans religion »: organisation d’un colloque thomiste par les communautés amies du Pèlerinage de Chartres",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219231"
     },
     {
       "source": "Riposte Catholique",
@@ -114,20 +122,12 @@
       "title": "Le cardinal Semeraro invite les fidèles à suivre l’exemple des martyrs d’Ibiza",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-semeraro-martyrs-ibiza-eglise-espagne-beatification.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "100e Journée mondiale des Missions, le Pape accorde l'indulgence plénière",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-indulgence-pleniere-100-journee-missionnaire.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-20T23:55:15Z",
-    "lastSucceeded": "2026-10-20T23:55:22Z",
+    "lastFetched": "2026-10-21T04:53:47Z",
+    "lastSucceeded": "2026-10-21T04:53:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
-      "outside_walls": 4,
+      "vatican": 3,
+      "outside_walls": 5,
       "official": 4,
       "tradition": 2
     },

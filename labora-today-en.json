@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T23:55:15Z",
+  "generatedAt": "2026-10-21T04:53:46Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Twenty-Ninth Week of Ordinary Time",
-    "date": "2026-10-20",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-twenty-ninth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a vigilant heart; the center of our hopes; infusing everyday routines with love."
+    "title": "Meditations: Wednesday of the Twenty-Ninth Week of Ordinary Time",
+    "date": "2026-10-21",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-ninth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a taste for the city of God; turning our desires toward God; love for Confession."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "From the Eastern Churches",
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/17/261017a.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
       "publishedAt": "2026-10-17T21:04:44.612000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
+      "publishedAt": "2026-10-17T13:00:04.106000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-20T23:55:10Z",
-    "lastSucceeded": "2026-10-20T23:55:15Z",
+    "lastFetched": "2026-10-21T04:53:42Z",
+    "lastSucceeded": "2026-10-21T04:53:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,17 +147,17 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 5
+        "count": 3
       }
     },
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,
