@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:53:46Z",
+  "generatedAt": "2026-10-21T11:54:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
+      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
+      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/19/261019a.html"
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021d.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Two Recent Glagolitic Masses",
-      "publishedAt": "2026-10-20T18:30:06.387000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
+      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,25 +55,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
+      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
+      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Holy See Press Office Press Release",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/19/261019b.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021c.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Portable Altars Through the Centuries",
-      "publishedAt": "2026-10-20T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
+      "title": "Two Recent Glagolitic Masses",
+      "publishedAt": "2026-10-20T18:30:06.387000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,17 +87,33 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishop asks priests to discontinue additional prayers before and after Mass",
+      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishop-asks-priests-to-discontinue-additional-prayers-before-and-after-mass/"
+      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "The Pope’s words at the Angelus prayer",
-      "publishedAt": "2026-10-18T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/18/261018a.html"
+      "title": "Audience with participants in the Conference “Holiness in History”, organized by the Dicastery for the Causes of Saints",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Portable Altars Through the Centuries",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "General Audience",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,28 +122,12 @@
       "title": "The Proper Office of the Evangelists",
       "publishedAt": "2026-10-18T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "“Mystic Rose in God’s Fair Garden Growing”: Dr. Kwasniewski’s New Book on the Blessed Virgin Mary",
-      "publishedAt": "2026-10-17T21:04:44.612000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/mystic-rose-in-gods-fair-garden-growing.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Domenico Zipoli, A Jesuit Baroque Composer",
-      "publishedAt": "2026-10-17T13:00:04.106000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/domenico-zipoli-jesuit-baroque-composer.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-21T04:53:42Z",
-    "lastSucceeded": "2026-10-21T04:53:46Z",
+    "lastFetched": "2026-10-21T11:54:51Z",
+    "lastSucceeded": "2026-10-21T11:54:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,17 +147,17 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 3
+        "count": 5
       }
     },
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

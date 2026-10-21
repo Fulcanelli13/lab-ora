@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:53:55Z",
+  "generatedAt": "2026-10-21T11:55:04Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À l'Angélus, après son opération, le Pape remercie les fidèles pour leurs prières",
-      "publishedAt": "2026-10-18T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-pape-leon-xiv-saint-pierre-vatican-meditation-dimanche.html"
+      "title": "Audience générale: la vie, une fois conçue, doit être protégée avec le plus grand soin",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-audience-generale-gaudium-et-spes-mariage-et-famille.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV effectue des nominations au sein de la Commission théologique internationale",
+      "title": "Léon XIV: «Sans les saints, l’histoire du monde serait plus pauvre et moins humaine»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-nouvelles-nominations-commission-theologique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-participants-la-saintete-dans-l-histoire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Convalescent, le Pape tiendra l'audience générale ce mercredi",
+      "title": "Léon XIV effectue des nominations au sein de la Commission théologique internationale",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/convalescent-le-pape-tiendra-l-audience-generale-ce-mercredi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-nouvelles-nominations-commission-theologique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -95,9 +95,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
+      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
     },
     {
       "source": "Riposte Catholique",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Semeraro invite les fidèles à suivre l’exemple des martyrs d’Ibiza",
+      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-semeraro-martyrs-ibiza-eglise-espagne-beatification.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-21T04:53:47Z",
-    "lastSucceeded": "2026-10-21T04:53:55Z",
+    "lastFetched": "2026-10-21T11:54:55Z",
+    "lastSucceeded": "2026-10-21T11:55:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
