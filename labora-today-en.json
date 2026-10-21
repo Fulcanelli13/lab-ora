@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:54:55Z",
+  "generatedAt": "2026-10-21T17:15:45Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
+      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
+      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
-      "publishedAt": "2026-10-21T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
+      "title": "The Legend of Saint Ursula",
+      "publishedAt": "2026-10-21T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
+      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
+      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Two Recent Glagolitic Masses",
-      "publishedAt": "2026-10-20T18:30:06.387000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
+      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Cupich praises controversial legacy of Cardinal Bernardin",
+      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-cupich-praises-controversial-legacy-of-cardinal-bernardin/"
+      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Portable Altars Through the Centuries",
-      "publishedAt": "2026-10-20T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
+      "title": "Two Recent Glagolitic Masses",
+      "publishedAt": "2026-10-20T18:30:06.387000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Proper Office of the Evangelists",
-      "publishedAt": "2026-10-18T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
+      "title": "Portable Altars Through the Centuries",
+      "publishedAt": "2026-10-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-21T11:54:51Z",
-    "lastSucceeded": "2026-10-21T11:54:55Z",
+    "lastFetched": "2026-10-21T17:15:34Z",
+    "lastSucceeded": "2026-10-21T17:15:45Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:55:04Z",
+  "generatedAt": "2026-10-21T17:15:55Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,17 +23,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Oxford : célébration d’une messe traditionnelle et procession",
+      "title": "Courtalain: entrée de 17 nouveaux séminaristes",
       "publishedAt": "2026-10-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219266"
+      "url": "https://riposte-catholique.fr/archives/219278"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Rencontre sur “Amoris laetitia” au Vatican, des évêques africains en parle",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/rencontre-sur-amoris-laetitia-au-vatican-des-prelats-africain.html"
+      "title": "Le Saint-Siège invite à placer la dignité humaine au cœur de la lutte contre la criminalité",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-autriche-criminalite-transnationale.html"
     },
     {
       "source": "Paix Liturgique",
@@ -55,17 +55,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Décès de l’archevêque chaldéen catholique de Dyarbakir",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219257"
+      "title": "Oxford : célébration d’une messe traditionnelle et procession",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219266"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À Londres, le cardinal Koovakad exhorte catholiques et jaïns à s'unir pour la paix",
+      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-a-londres-catholiques-et-jains-paix.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
     },
     {
       "source": "Paix Liturgique",
@@ -87,17 +87,25 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Selon le Dicastère pour les textes législatifs les facultés romaines à l’égard de la Fraternité Saint-Pie X n’ont pas été révoquées",
+      "title": "Décès de l’archevêque chaldéen catholique de Dyarbakir",
       "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219248"
+      "url": "https://riposte-catholique.fr/archives/219257"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
+      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Selon le Dicastère pour les textes législatifs les facultés romaines à l’égard de la Fraternité Saint-Pie X n’ont pas été révoquées",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219248"
     },
     {
       "source": "Riposte Catholique",
@@ -108,26 +116,18 @@
       "url": "https://riposte-catholique.fr/archives/219231"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Angleterre : un évêque autorise la célébration selon le rite de Sarum",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219213"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
+      "title": "À Londres, le cardinal Koovakad exhorte catholiques et jaïns à s'unir pour la paix",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-a-londres-catholiques-et-jains-paix.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-21T11:54:55Z",
-    "lastSucceeded": "2026-10-21T11:55:04Z",
+    "lastFetched": "2026-10-21T17:15:45Z",
+    "lastSucceeded": "2026-10-21T17:15:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
