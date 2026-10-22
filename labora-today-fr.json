@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T21:45:36Z",
+  "generatedAt": "2026-10-22T04:54:08Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 29ème semaine du Temps Ordinaire",
-    "date": "2026-10-21",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-29eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le goût de la cité de Dieu ; orienter nos efforts vers le Seigneur ; l’amour de la confession."
+    "title": "Méditation : Jeudi de la 29ème semaine du Temps Ordinaire",
+    "date": "2026-10-22",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-29eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : un feu qui change nos vies ; l'amour de l’Esprit Saint ; être une lumière d’espérance."
   },
   "headlines": [
     {
@@ -39,17 +39,17 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "AU DICASTÈRE DU CULTE DIVIN, ON CHANGE... SANS RIEN CHANGER",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4529"
+      "title": "ANDREA GRILLO DISTRIBUE LES MARQUES D'INFAMIE... DÉFENDRE LA MESSE TRADITIONNELLE SERAIT POUR LUI HÉRÉTIQUE",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4532"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Sans les saints, l’histoire du monde serait plus pauvre et moins humaine»",
+      "title": "Le Pape ne nécessite d’aucun traitement d’après les résultats des examens histologiques",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-participants-la-saintete-dans-l-histoire.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-cursus-post-operatoire-pas-de-traitement-necessaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -68,20 +68,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "Paix Liturgique France",
-      "publishedAt": "2026-10-19T12:00:00Z",
-      "url": "https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4031"
-    },
-    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV effectue des nominations au sein de la Commission théologique internationale",
+      "title": "Léon XIV: «Sans les saints, l’histoire du monde serait plus pauvre et moins humaine»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-nouvelles-nominations-commission-theologique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-participants-la-saintete-dans-l-histoire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -122,12 +114,20 @@
       "title": "À Londres, le cardinal Koovakad exhorte catholiques et jaïns à s'unir pour la paix",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-a-londres-catholiques-et-jains-paix.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV effectue des nominations au sein de la Commission théologique internationale",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-nouvelles-nominations-commission-theologique.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-21T21:45:31Z",
-    "lastSucceeded": "2026-10-21T21:45:36Z",
+    "lastFetched": "2026-10-22T04:54:03Z",
+    "lastSucceeded": "2026-10-22T04:54:08Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,17 +147,17 @@
       },
       "paix_liturgique_fr": {
         "ok": true,
-        "count": 3
+        "count": 1
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 4,
-      "tradition": 2
+      "tradition": 1
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,

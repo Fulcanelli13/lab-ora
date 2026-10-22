@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T21:45:31Z",
+  "generatedAt": "2026-10-22T04:54:02Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Twenty-Ninth Week of Ordinary Time",
-    "date": "2026-10-21",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-twenty-ninth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a taste for the city of God; turning our desires toward God; love for Confession."
+    "title": "Meditations: Thursday of the Twenty-Ninth Week of Ordinary Time",
+    "date": "2026-10-22",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-ninth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a fire that changes our lives; the love of the Holy Spirit; being a light of hope."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-21T21:45:29Z",
-    "lastSucceeded": "2026-10-21T21:45:31Z",
+    "lastFetched": "2026-10-22T04:53:55Z",
+    "lastSucceeded": "2026-10-22T04:54:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
