@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:57:47Z",
+  "generatedAt": "2026-10-22T17:13:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Doctrine de la Foi: repartir du kérygme en temps de crise de la transmission de la foi",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/doctrine-de-la-foi-kerygme-crise-transmission.html"
+      "title": "Le Saint-Siège signe un accord avec la République du Honduras",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-accord-republique-honduras-developpement-humain.html"
     },
     {
       "source": "Paix Liturgique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Une rencontre qui attire et fascine",
+      "title": "Doctrine de la Foi: repartir du kérygme en temps de crise de la transmission de la foi",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/une-rencontre-qui-attire-fascine-editorial-transmission-foi.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/doctrine-de-la-foi-kerygme-crise-transmission.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cardinal Parolin: nous demandons le don de la paix par l’intercession de Jean-Paul II",
+      "title": "L'urgence d'éliminer les armes nucléaires et sécuriser les sites en temps de guerre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/parolin-paix-saint-pierre-memoire-liturgique-foi-pape-polonais.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-onu-urgent-eliminer-armes-nucleaires.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Saint-Siège invite à placer la dignité humaine au cœur de la lutte contre la criminalité",
+      "title": "Une rencontre qui attire et fascine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-autriche-criminalite-transnationale.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/une-rencontre-qui-attire-fascine-editorial-transmission-foi.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
+      "title": "Cardinal Parolin: demandons le don de la paix par l’intercession de Jean-Paul II",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/parolin-paix-saint-pierre-memoire-liturgique-foi-pape-polonais.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-22T11:57:38Z",
-    "lastSucceeded": "2026-10-22T11:57:47Z",
+    "lastFetched": "2026-10-22T17:13:50Z",
+    "lastSucceeded": "2026-10-22T17:13:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

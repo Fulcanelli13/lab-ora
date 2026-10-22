@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:57:37Z",
+  "generatedAt": "2026-10-22T17:13:50Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
+      "title": "Vatican issues new guidance on transmitting the Catholic faith",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
+      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
     },
     {
       "source": "Ad Vaticanum",
@@ -39,17 +39,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Legend of Saint Ursula",
-      "publishedAt": "2026-10-21T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
+      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
+      "publishedAt": "2026-10-22T16:35:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV returns to public view following lung surgery",
+      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
+      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,17 +71,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
-      "publishedAt": "2026-10-21T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
+      "title": "The Legend of Saint Ursula",
+      "publishedAt": "2026-10-21T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV discharged from hospital following lung cancer surgery",
+      "title": "Pope Leo XIV returns to public view following lung surgery",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-discharged-from-hospital-following-lung-cancer-surgery/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Two Recent Glagolitic Masses",
       "publishedAt": "2026-10-20T18:30:06.387000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
@@ -114,20 +122,12 @@
       "title": "Portable Altars Through the Centuries",
       "publishedAt": "2026-10-20T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Proper Office of the Evangelists",
-      "publishedAt": "2026-10-18T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-proper-office-of-evangelists.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-22T11:57:33Z",
-    "lastSucceeded": "2026-10-22T11:57:37Z",
+    "lastFetched": "2026-10-22T17:13:47Z",
+    "lastSucceeded": "2026-10-22T17:13:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
