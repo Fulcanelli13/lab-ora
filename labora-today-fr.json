@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:54:08Z",
+  "generatedAt": "2026-10-22T11:57:47Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Audience générale: la vie, une fois conçue, doit être protégée avec le plus grand soin",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-audience-generale-gaudium-et-spes-mariage-et-famille.html"
+      "title": "Le Pape appelle à aider les jeunes à trouver une nouvelle façon de vivre dans le monde",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-pastorale-scolaire-et-universitaire-jeunes.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Saint-Siège invite à placer la dignité humaine au cœur de la lutte contre la criminalité",
+      "title": "Doctrine de la Foi: repartir du kérygme en temps de crise de la transmission de la foi",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-autriche-criminalite-transnationale.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/doctrine-de-la-foi-kerygme-crise-transmission.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape ne nécessite d’aucun traitement d’après les résultats des examens histologiques",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-cursus-post-operatoire-pas-de-traitement-necessaire.html"
+      "title": "L’Église ne tolère pas l’antisémitisme et le combat, rappelle Léon XIV",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-eglise-ne-tolere-pas-l-antisemitisme-pape-jewish-commitee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
+      "title": "Une rencontre qui attire et fascine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/une-rencontre-qui-attire-fascine-editorial-transmission-foi.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Sans les saints, l’histoire du monde serait plus pauvre et moins humaine»",
+      "title": "Le Pape ne nécessite d’aucun traitement d’après les résultats des examens histologiques",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-participants-la-saintete-dans-l-histoire.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-cursus-post-operatoire-pas-de-traitement-necessaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le saint donne une nouvelle orientation à l'Histoire, affirme le cardinal Semeraro",
+      "title": "Cardinal Parolin: nous demandons le don de la paix par l’intercession de Jean-Paul II",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/colloque-causes-des-saints-semeraro-histoire.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/parolin-paix-saint-pierre-memoire-liturgique-foi-pape-polonais.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À Londres, le cardinal Koovakad exhorte catholiques et jaïns à s'unir pour la paix",
+      "title": "Le Saint-Siège invite à placer la dignité humaine au cœur de la lutte contre la criminalité",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-a-londres-catholiques-et-jains-paix.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-autriche-criminalite-transnationale.html"
     },
     {
       "source": "Vatican News",
-      "lane": "vatican",
+      "lane": "official",
       "language": "fr",
-      "title": "Léon XIV effectue des nominations au sein de la Commission théologique internationale",
+      "title": "Le cardinal Parolin demande que l'IA soit régie par le droit",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-nouvelles-nominations-commission-theologique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-conference-droit-ia-inegalites.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-22T04:54:03Z",
-    "lastSucceeded": "2026-10-22T04:54:08Z",
+    "lastFetched": "2026-10-22T11:57:38Z",
+    "lastSucceeded": "2026-10-22T11:57:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,
