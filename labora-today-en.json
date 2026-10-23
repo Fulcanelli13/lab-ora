@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:11:55Z",
+  "generatedAt": "2026-10-23T21:27:13Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV withdraws from Assisi interreligious peace meeting",
+      "title": "Vatican bars traditional Latin Mass pilgrims from entering St Peter’s Basilica in procession, organisers say",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-withdraws-from-assisi-interreligious-peace-meeting/"
+      "url": "https://advaticanum.com/article/vatican-bars-traditional-latin-mass-pilgrims-from-entering-st-peters-basilica-in-procession-organisers-say/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
+      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
+      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
     },
     {
       "source": "Holy See Press Office",
@@ -47,17 +47,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican issues new guidance on transmitting the Catholic faith",
+      "title": "Pope Leo XIV withdraws from Assisi interreligious peace meeting",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-withdraws-from-assisi-interreligious-peace-meeting/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
+      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
+      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
     },
     {
       "source": "Holy See Press Office",
@@ -79,17 +79,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
+      "title": "Vatican issues new guidance on transmitting the Catholic faith",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
+      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Former vicar general of Spanish diocese faces canonical criminal trial over alleged financial irregularities",
+      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/former-vicar-general-of-spanish-diocese-faces-canonical-criminal-trial-over-alleged-financial-irregularities/"
+      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-23T17:11:52Z",
-    "lastSucceeded": "2026-10-23T17:11:55Z",
+    "lastFetched": "2026-10-23T21:27:11Z",
+    "lastSucceeded": "2026-10-23T21:27:13Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
