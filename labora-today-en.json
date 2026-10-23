@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:56:02Z",
+  "generatedAt": "2026-10-23T11:43:35Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,16 +32,16 @@
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/22/261022c.html"
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/23/261023b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
-      "publishedAt": "2026-10-22T23:18:15.365000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
+      "title": "The Purification and Ablutions",
+      "publishedAt": "2026-10-23T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience with a delegation from the American Jewish Committee",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/22/261021a.html"
+      "title": "Audience with participants in the International Conference on the occasion of the 150th anniversary of the Faculty of Canon Law of the Pontifical Gregorian University",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/23/261023a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
-      "publishedAt": "2026-10-22T16:35:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
+      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
+      "publishedAt": "2026-10-22T23:18:15.365000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Document of the Dicastery for the Doctrine of the Faith: Venite ad me. Considerations on the Transmission of the Faith in an Epochal Change",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/22/261022d.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
+      "publishedAt": "2026-10-22T16:35:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,14 +114,6 @@
       "title": "The Legend of Saint Ursula",
       "publishedAt": "2026-10-21T17:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021d.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-23T04:56:00Z",
-    "lastSucceeded": "2026-10-23T04:56:02Z",
+    "lastFetched": "2026-10-23T11:43:32Z",
+    "lastSucceeded": "2026-10-23T11:43:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:56:08Z",
+  "generatedAt": "2026-10-23T11:43:39Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape appelle à aider les jeunes à trouver une nouvelle façon de vivre dans le monde",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-pastorale-scolaire-et-universitaire-jeunes.html"
+      "title": "Le droit canonique doit refléter une Église ne séparant jamais la justice de la vérité",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-gregorienne-faculte-de-droit-canonique-150-ans.html"
     },
     {
       "source": "Riposte Catholique",
@@ -36,20 +36,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-accord-republique-honduras-developpement-humain.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "ANDREA GRILLO DISTRIBUE LES MARQUES D'INFAMIE... DÉFENDRE LA MESSE TRADITIONNELLE SERAIT POUR LUI HÉRÉTIQUE",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4532"
-    },
-    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "L’Église ne tolère pas l’antisémitisme et le combat, rappelle Léon XIV",
+      "title": "Le Pape appelle à aider les jeunes à trouver une nouvelle façon de vivre dans le monde",
       "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-eglise-ne-tolere-pas-l-antisemitisme-pape-jewish-commitee.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-pastorale-scolaire-et-universitaire-jeunes.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape ne nécessite d’aucun traitement d’après les résultats des examens histologiques",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-cursus-post-operatoire-pas-de-traitement-necessaire.html"
+      "title": "L’Église ne tolère pas l’antisémitisme et le combat, rappelle Léon XIV",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-eglise-ne-tolere-pas-l-antisemitisme-pape-jewish-commitee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-23T04:56:02Z",
-    "lastSucceeded": "2026-10-23T04:56:08Z",
+    "lastFetched": "2026-10-23T11:43:35Z",
+    "lastSucceeded": "2026-10-23T11:43:39Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -154,7 +146,7 @@
       "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
