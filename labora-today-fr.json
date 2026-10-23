@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:43:39Z",
+  "generatedAt": "2026-10-23T17:11:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le droit canonique doit refléter une Église ne séparant jamais la justice de la vérité",
+      "title": "Mgr Shevchuk remet au Pape «les prières de l’Ukraine» et une liste de prisonniers",
       "publishedAt": "2026-10-23T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-gregorienne-faculte-de-droit-canonique-150-ans.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/shevchuk-audience-pape-priere-ukraine-russie-enfants-paix.html"
     },
     {
       "source": "Riposte Catholique",
@@ -36,12 +36,20 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-accord-republique-honduras-developpement-humain.html"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "ANDREA GRILLO DISTRIBUE LES MARQUES D'INFAMIE... DÉFENDRE LA MESSE TRADITIONNELLE SERAIT POUR LUI HÉRÉTIQUE",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4532"
+    },
+    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape appelle à aider les jeunes à trouver une nouvelle façon de vivre dans le monde",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-pastorale-scolaire-et-universitaire-jeunes.html"
+      "title": "Le droit canonique doit refléter une Église ne séparant jamais la justice de la vérité",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-gregorienne-faculte-de-droit-canonique-150-ans.html"
     },
     {
       "source": "Riposte Catholique",
@@ -55,17 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Doctrine de la Foi: repartir du kérygme en temps de crise de la transmission de la foi",
+      "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/doctrine-de-la-foi-kerygme-crise-transmission.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "L’Église ne tolère pas l’antisémitisme et le combat, rappelle Léon XIV",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-eglise-ne-tolere-pas-l-antisemitisme-pape-jewish-commitee.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "L'urgence d'éliminer les armes nucléaires et sécuriser les sites en temps de guerre",
+      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-onu-urgent-eliminer-armes-nucleaires.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,23 +103,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Une rencontre qui attire et fascine",
+      "title": "Réorienter le financement des armes vers le développement humain intégral",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/une-rencontre-qui-attire-fascine-editorial-transmission-foi.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-onu-vatican-fiancement-armes-developpement-integral.html"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cardinal Parolin: demandons le don de la paix par l’intercession de Jean-Paul II",
+      "title": "L'urgence d'éliminer les armes nucléaires et sécuriser les sites en temps de guerre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/parolin-paix-saint-pierre-memoire-liturgique-foi-pape-polonais.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-onu-urgent-eliminer-armes-nucleaires.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-23T11:43:35Z",
-    "lastSucceeded": "2026-10-23T11:43:39Z",
+    "lastFetched": "2026-10-23T17:11:55Z",
+    "lastSucceeded": "2026-10-23T17:11:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,10 +143,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:43:35Z",
+  "generatedAt": "2026-10-23T17:11:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican issues new guidance on transmitting the Catholic faith",
+      "title": "Pope Leo XIV withdraws from Assisi interreligious peace meeting",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-withdraws-from-assisi-interreligious-peace-meeting/"
     },
     {
       "source": "Ad Vaticanum",
@@ -39,17 +39,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Purification and Ablutions",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
+      "title": "The Relics of St Boethius",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
+      "title": "Vatican issues new guidance on transmitting the Catholic faith",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
+      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,17 +71,17 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
-      "publishedAt": "2026-10-22T23:18:15.365000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
+      "title": "The Purification and Ablutions",
+      "publishedAt": "2026-10-23T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV returns to public view following lung surgery",
+      "title": "Curia cardinal links opposition to 1986 Assisi prayer meeting to ‘schismatic rupture’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-returns-to-public-view-following-lung-surgery/"
+      "url": "https://advaticanum.com/article/curia-cardinal-links-opposition-to-1986-assisi-prayer-meeting-to-schismatic-rupture/"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
+      "publishedAt": "2026-10-22T23:18:15.365000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
       "publishedAt": "2026-10-22T16:35:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
@@ -114,20 +122,12 @@
       "title": "The Legend of Saint Ursula",
       "publishedAt": "2026-10-21T17:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
-      "publishedAt": "2026-10-21T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-23T11:43:32Z",
-    "lastSucceeded": "2026-10-23T11:43:35Z",
+    "lastFetched": "2026-10-23T17:11:52Z",
+    "lastSucceeded": "2026-10-23T17:11:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
