@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T21:39:24Z",
+  "generatedAt": "2026-10-23T04:56:02Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Twenty-Ninth Week of Ordinary Time",
-    "date": "2026-10-22",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-twenty-ninth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: a fire that changes our lives; the love of the Holy Spirit; being a light of hope."
+    "title": "Meditations: Friday of the Twenty-Ninth Week of Ordinary Time",
+    "date": "2026-10-23",
+    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-twenty-ninth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: discovering the signs that point to Jesus; freedom and discernment; setting a straight course in our lives."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
-      "publishedAt": "2026-10-22T16:35:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
+      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
+      "publishedAt": "2026-10-22T23:18:15.365000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Legend of Saint Ursula",
-      "publishedAt": "2026-10-21T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
+      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
+      "publishedAt": "2026-10-22T16:35:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,6 +95,22 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
+      "title": "Document of the Dicastery for the Doctrine of the Faith: Venite ad me. Considerations on the Transmission of the Faith in an Epochal Change",
+      "publishedAt": "2026-10-22T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/22/261022d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Legend of Saint Ursula",
+      "publishedAt": "2026-10-21T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
       "title": "Resignations and Appointments",
       "publishedAt": "2026-10-21T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/21/261021d.html"
@@ -106,28 +122,12 @@
       "title": "Back in Print: A Revealing Diary by Ferdinando Antonelli Documenting the Consilium’s Actual Operation",
       "publishedAt": "2026-10-21T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/back-in-print-revealing-diary-by.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Two Recent Glagolitic Masses",
-      "publishedAt": "2026-10-20T18:30:06.387000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/two-recent-glagolitic-masses.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Portable Altars Through the Centuries",
-      "publishedAt": "2026-10-20T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/portable-altars-through-centuries.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-22T21:39:20Z",
-    "lastSucceeded": "2026-10-22T21:39:24Z",
+    "lastFetched": "2026-10-23T04:56:00Z",
+    "lastSucceeded": "2026-10-23T04:56:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
