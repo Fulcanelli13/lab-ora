@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:59:30Z",
+  "generatedAt": "2026-10-24T20:53:02Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
+      "title": "Full homily of Bishop Athanasius Schneider at St Mary Major during Ad Petri Sedem pilgrimage",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
+      "url": "https://advaticanum.com/article/full-homily-of-bishop-athanasius-schneider-at-st-mary-major-during-ad-petri-sedem-pilgrimage/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
+      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
+      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
+      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
+      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-24T15:59:27Z",
-    "lastSucceeded": "2026-10-24T15:59:30Z",
+    "lastFetched": "2026-10-24T20:52:59Z",
+    "lastSucceeded": "2026-10-24T20:53:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
