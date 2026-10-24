@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:06:54Z",
+  "generatedAt": "2026-10-24T15:59:41Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Mgr Shevchuk remet au Pape «les prières de l’Ukraine» et une liste de prisonniers",
-      "publishedAt": "2026-10-23T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/shevchuk-audience-pape-priere-ukraine-russie-enfants-paix.html"
+      "title": "Le Pape encourage les jeunes de «Jesus Youth» à être des témoins courageux de la foi",
+      "publishedAt": "2026-10-24T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/conference-international-jesus-jeunes-temoin-foi-courage-mariage.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "La procession a eu lieu jusqu’à Saint-Pierre de Rome",
+      "title": "4000 personnes à la Basilique Sainte-Marie-Majeure pour la messe traditionnelle",
       "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219296"
+      "url": "https://riposte-catholique.fr/archives/219302"
     },
     {
       "source": "Vatican News",
@@ -47,9 +47,33 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le droit canonique doit refléter une Église ne séparant jamais la justice de la vérité",
+      "title": "Mgr Shevchuk remet au Pape «les prières de l’Ukraine» et une liste de prisonniers",
       "publishedAt": "2026-10-23T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-gregorienne-faculte-de-droit-canonique-150-ans.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/shevchuk-audience-pape-priere-ukraine-russie-enfants-paix.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "La procession a eu lieu jusqu’à Saint-Pierre de Rome",
+      "publishedAt": "2026-10-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219296"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "En visite ad limina, les évêques du Panama appelés au soutien des plus démunis",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/visite-ad-limina-vatican-panama-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
+      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
     },
     {
       "source": "Riposte Catholique",
@@ -76,28 +100,12 @@
       "url": "https://riposte-catholique.fr/archives/219285"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Courtalain: entrée de 17 nouveaux séminaristes",
       "publishedAt": "2026-10-21T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219278"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Oxford : célébration d’une messe traditionnelle et procession",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219266"
     },
     {
       "source": "Vatican News",
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-24T11:06:43Z",
-    "lastSucceeded": "2026-10-24T11:06:54Z",
+    "lastFetched": "2026-10-24T15:59:30Z",
+    "lastSucceeded": "2026-10-24T15:59:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,7 +151,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1

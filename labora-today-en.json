@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:06:43Z",
+  "generatedAt": "2026-10-24T15:59:30Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
+      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
+      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Relics of St Boethius",
-      "publishedAt": "2026-10-23T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
+      "title": "A Very Curious Legend of St Raphael",
+      "publishedAt": "2026-10-24T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
+      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
+      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Purification and Ablutions",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
+      "title": "The Relics of St Boethius",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Grech encourages Irish Church to guide families towards Christian vocation",
+      "title": "Denver Archdiocese imposed restrictions on Fr Chad Ripperger following investigation into medical advice",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-grech-encourages-irish-church-to-guide-families-towards-christian-vocation/"
+      "url": "https://advaticanum.com/article/denver-archdiocese-imposed-restrictions-on-fr-chad-ripperger-following-investigation-into-medical-advice/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Audiences",
       "publishedAt": "2026-10-24T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Purification and Ablutions",
+      "publishedAt": "2026-10-23T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
       "publishedAt": "2026-10-22T16:35:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Legend of Saint Ursula",
-      "publishedAt": "2026-10-21T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-legend-of-saint-ursula.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-24T11:06:40Z",
-    "lastSucceeded": "2026-10-24T11:06:43Z",
+    "lastFetched": "2026-10-24T15:59:27Z",
+    "lastSucceeded": "2026-10-24T15:59:30Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
