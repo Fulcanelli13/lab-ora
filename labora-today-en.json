@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:53:02Z",
+  "generatedAt": "2026-10-24T23:17:51Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Very Curious Legend of St Raphael",
-      "publishedAt": "2026-10-24T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
+      "title": "Something Else Got Lost in Translation",
+      "publishedAt": "2026-10-24T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Relics of St Boethius",
-      "publishedAt": "2026-10-23T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
+      "title": "A Very Curious Legend of St Raphael",
+      "publishedAt": "2026-10-24T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Relics of St Boethius",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Purification and Ablutions",
       "publishedAt": "2026-10-23T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
@@ -114,20 +122,12 @@
       "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
       "publishedAt": "2026-10-22T23:18:15.365000Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Another Admission Against Interest: “Loss of the Collective Memory of Rites”",
-      "publishedAt": "2026-10-22T16:35:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/another-admission-against-interest-loss.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-24T20:52:59Z",
-    "lastSucceeded": "2026-10-24T20:53:02Z",
+    "lastFetched": "2026-10-24T23:17:49Z",
+    "lastSucceeded": "2026-10-24T23:17:51Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
