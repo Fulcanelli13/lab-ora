@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T23:17:56Z",
+  "generatedAt": "2026-10-25T04:47:12Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 29ème semaine du Temps Ordinaire",
-    "date": "2026-10-24",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-29eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : les âmes sont comme le bon vin ; patience avec nos faiblesses ; accueillir la douleur avec patience."
+    "title": "Méditation : Dimanche de la 30ème semaine du Temps Ordinaire (cycle A)",
+    "date": "2026-10-25",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-30eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : servir Dieu deux fois ; être des témoins de l’amour du Seigneur ; un cœur sans barrières."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-24T23:17:51Z",
-    "lastSucceeded": "2026-10-24T23:17:56Z",
+    "lastFetched": "2026-10-25T04:47:04Z",
+    "lastSucceeded": "2026-10-25T04:47:12Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

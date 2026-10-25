@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T23:17:51Z",
+  "generatedAt": "2026-10-25T04:47:04Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Saturday of the Twenty-Ninth Week of Ordinary Time",
-    "date": "2026-10-24",
-    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-twenty-ninth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: souls are like good wine; being patient with our weaknesses; embracing suffering patiently."
+    "title": "Meditations: Sunday of the Thirtieth Week of Ordinary Time (Year A)",
+    "date": "2026-10-25",
+    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-thirthieth-week-of-ordinary-time-year-a/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: serving God twice; witnessing to God's love; a heart without barriers."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-24T23:17:49Z",
-    "lastSucceeded": "2026-10-24T23:17:51Z",
+    "lastFetched": "2026-10-25T04:47:00Z",
+    "lastSucceeded": "2026-10-25T04:47:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
