@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:47:12Z",
+  "generatedAt": "2026-10-25T11:37:21Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -34,14 +34,6 @@
       "title": "Le Saint-Siège signe un accord avec la République du Honduras",
       "publishedAt": "2026-10-22T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-accord-republique-honduras-developpement-humain.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "ANDREA GRILLO DISTRIBUE LES MARQUES D'INFAMIE... DÉFENDRE LA MESSE TRADITIONNELLE SERAIT POUR LUI HÉRÉTIQUE",
-      "publishedAt": "2026-10-22T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4532"
     },
     {
       "source": "Vatican News",
@@ -122,12 +114,20 @@
       "title": "L'urgence d'éliminer les armes nucléaires et sécuriser les sites en temps de guerre",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-onu-urgent-eliminer-armes-nucleaires.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Angelus: «Sans amour, la foi serait sans consistance»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-pape-evangile-amour.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-25T04:47:04Z",
-    "lastSucceeded": "2026-10-25T04:47:12Z",
+    "lastFetched": "2026-10-25T11:37:12Z",
+    "lastSucceeded": "2026-10-25T11:37:21Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -146,15 +146,16 @@
         "count": 5
       },
       "paix_liturgique_fr": {
-        "ok": true,
-        "count": 1
+        "ok": false,
+        "count": 0,
+        "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

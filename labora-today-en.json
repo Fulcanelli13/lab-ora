@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:47:04Z",
+  "generatedAt": "2026-10-25T11:37:12Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Something Else Got Lost in Translation",
-      "publishedAt": "2026-10-24T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
+      "title": "The Feast of Christ the King 2026",
+      "publishedAt": "2026-10-25T11:30:29.414000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-christ-king-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Very Curious Legend of St Raphael",
-      "publishedAt": "2026-10-24T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
+      "title": "Something Else Got Lost in Translation",
+      "publishedAt": "2026-10-24T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "A Very Curious Legend of St Raphael",
+      "publishedAt": "2026-10-24T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Relics of St Boethius",
       "publishedAt": "2026-10-23T17:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
@@ -114,20 +122,12 @@
       "title": "The Purification and Ablutions",
       "publishedAt": "2026-10-23T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Saints Nunilo and Alodia, and Their Ivory Reliquary",
-      "publishedAt": "2026-10-22T23:18:15.365000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/saints-nunilo-and-alodia-and-their.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-25T04:47:00Z",
-    "lastSucceeded": "2026-10-25T04:47:04Z",
+    "lastFetched": "2026-10-25T11:37:09Z",
+    "lastSucceeded": "2026-10-25T11:37:12Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
