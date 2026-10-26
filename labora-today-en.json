@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-25T23:18:01Z",
+  "generatedAt": "2026-10-26T04:52:09Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Thirtieth Week of Ordinary Time (Year A)",
-    "date": "2026-10-25",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-thirthieth-week-of-ordinary-time-year-a/",
-    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: serving God twice; witnessing to God's love; a heart without barriers."
+    "title": "Meditations: Monday of the Thirtieth Week of Ordinary Time",
+    "date": "2026-10-26",
+    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-thirtieth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: Christ takes our sorrow upon Himself; a woman loosed from her bonds; God loves our freedom."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience with participants in the “Jesus Youth International Conference 2026”",
+      "publishedAt": "2026-10-24T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024a.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Relics of St Boethius",
       "publishedAt": "2026-10-23T17:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Purification and Ablutions",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-ablutions.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-25T23:17:57Z",
-    "lastSucceeded": "2026-10-25T23:18:01Z",
+    "lastFetched": "2026-10-26T04:52:04Z",
+    "lastSucceeded": "2026-10-26T04:52:09Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

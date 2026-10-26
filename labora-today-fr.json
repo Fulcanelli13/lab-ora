@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-25T23:18:06Z",
+  "generatedAt": "2026-10-26T04:52:18Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 30ème semaine du Temps Ordinaire (cycle A)",
-    "date": "2026-10-25",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-30eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : servir Dieu deux fois ; être des témoins de l’amour du Seigneur ; un cœur sans barrières."
+    "title": "Méditation : Lundi de la 30ème semaine du Temps Ordinaire",
+    "date": "2026-10-26",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-30eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : le Christ prend sur lui nos souffrances ; une femme libérée de ses liens ; Dieu aime notre liberté."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-25T23:18:01Z",
-    "lastSucceeded": "2026-10-25T23:18:06Z",
+    "lastFetched": "2026-10-26T04:52:09Z",
+    "lastSucceeded": "2026-10-26T04:52:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
