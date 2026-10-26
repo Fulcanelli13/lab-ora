@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:09:19Z",
+  "generatedAt": "2026-10-26T20:31:17Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican bars traditional Latin Mass pilgrims from entering St Peter’s Basilica in procession, organisers say",
+      "title": "Cardinal Paolo Romeo, former Archbishop of Palermo and Vatican diplomat, dies aged 88",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-bars-traditional-latin-mass-pilgrims-from-entering-st-peters-basilica-in-procession-organisers-say/"
+      "url": "https://advaticanum.com/article/cardinal-paolo-romeo-former-archbishop-of-palermo-and-vatican-diplomat-dies-aged-88/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Full homily of Bishop Athanasius Schneider at St Mary Major during Ad Petri Sedem pilgrimage",
+      "title": "American bishops accuse White House of exploiting prayer with Trump for political purposes",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/full-homily-of-bishop-athanasius-schneider-at-st-mary-major-during-ad-petri-sedem-pilgrimage/"
+      "url": "https://advaticanum.com/article/american-bishops-accuse-white-house-of-exploiting-prayer-with-trump-for-political-purposes/"
     },
     {
       "source": "Holy See Press Office",
@@ -47,17 +47,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV withdraws from Assisi interreligious peace meeting",
+      "title": "Inside the Ad Petri Sedem pilgrimage controversy",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-withdraws-from-assisi-interreligious-peace-meeting/"
+      "url": "https://advaticanum.com/article/vatican-letter-reveals-ad-petri-sedem-procession-refusal-was-issued-weeks-before-pilgrimage/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
+      "title": "Full homily of Bishop Athanasius Schneider at St Mary Major during Ad Petri Sedem pilgrimage",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
+      "url": "https://advaticanum.com/article/full-homily-of-bishop-athanasius-schneider-at-st-mary-major-during-ad-petri-sedem-pilgrimage/"
     },
     {
       "source": "Holy See Press Office",
@@ -79,17 +79,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Vatican issues new guidance on transmitting the Catholic faith",
+      "title": "Vatican bars traditional Latin Mass pilgrims from entering St Peter’s Basilica in procession, organisers say",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-issues-new-guidance-on-transmitting-the-catholic-faith/"
+      "url": "https://advaticanum.com/article/vatican-bars-traditional-latin-mass-pilgrims-from-entering-st-peters-basilica-in-procession-organisers-say/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "“Primacy and synodality belong together”: Ecumenical Patriarch receives honorary doctorate at Angelicum",
+      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/primacy-and-synodality-belong-together-ecumenical-patriarch-receives-honorary-doctorate-at-angelicum/"
+      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-26T13:09:16Z",
-    "lastSucceeded": "2026-10-26T13:09:19Z",
+    "lastFetched": "2026-10-26T20:31:12Z",
+    "lastSucceeded": "2026-10-26T20:31:17Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
