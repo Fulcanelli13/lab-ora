@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:52:18Z",
+  "generatedAt": "2026-10-26T13:09:24Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Mgr Shevchuk remet au Pape «les prières de l’Ukraine» et une liste de prisonniers",
-      "publishedAt": "2026-10-23T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/shevchuk-audience-pape-priere-ukraine-russie-enfants-paix.html"
+      "title": "Le Pape a reçu la présidente slovène",
+      "publishedAt": "2026-10-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-slovene.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "«Jamais il n'a été aussi évident que les guerres appauvrissent et nuisent au monde»",
+      "title": "Célébrer Dieu, pour aider les autres selon ses desseins",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-appel-guerres-paix-yemen-jordanie-assise.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-s-urs-de-la-charite-de-sainte-jeanne-antide-thouret.html"
     },
     {
       "source": "Riposte Catholique",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Angélus: Sans amour, la foi serait sans consistance",
+      "title": "«Jamais il n'a été aussi évident que les guerres appauvrissent et nuisent au monde»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/angelus-pape-evangile-amour.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-appel-guerres-paix-yemen-jordanie-assise.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-26T04:52:09Z",
-    "lastSucceeded": "2026-10-26T04:52:18Z",
+    "lastFetched": "2026-10-26T13:09:19Z",
+    "lastSucceeded": "2026-10-26T13:09:24Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:52:09Z",
+  "generatedAt": "2026-10-26T13:09:19Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,17 +31,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024c.html"
+      "title": "Audiences",
+      "publishedAt": "2026-10-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/26/261026b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of Christ the King 2026",
-      "publishedAt": "2026-10-25T11:30:29.414000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-christ-king-2026.html"
+      "title": "St Demetrius the Great-Martyr",
+      "publishedAt": "2026-10-26T11:30:16.260000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/st-demetrius-great-martyr.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Promulgation of Decrees of the Dicastery for the Causes of Saints",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024d.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/25/261025b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Something Else Got Lost in Translation",
-      "publishedAt": "2026-10-24T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
+      "title": "The Feast of Christ the King 2026",
+      "publishedAt": "2026-10-25T11:30:29.414000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-christ-king-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,9 +95,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Promulgation of Decrees of the Dicastery for the Causes of Saints",
       "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Something Else Got Lost in Translation",
+      "publishedAt": "2026-10-24T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,14 +114,6 @@
       "title": "A Very Curious Legend of St Raphael",
       "publishedAt": "2026-10-24T11:30:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with participants in the “Jesus Youth International Conference 2026”",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/24/261024a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-26T04:52:04Z",
-    "lastSucceeded": "2026-10-26T04:52:09Z",
+    "lastFetched": "2026-10-26T13:09:16Z",
+    "lastSucceeded": "2026-10-26T13:09:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
