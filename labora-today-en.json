@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:03:47Z",
+  "generatedAt": "2026-10-27T15:27:09Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "American bishops accuse White House of exploiting prayer with Trump for political purposes",
+      "title": "Bishop of Knoxville issues seven-page memorandum on SSPX",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/american-bishops-accuse-white-house-of-exploiting-prayer-with-trump-for-political-purposes/"
+      "url": "https://advaticanum.com/article/bishop-of-knoxville-issues-seven-page-memorandum-on-sspx/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Demetrius the Great-Martyr",
-      "publishedAt": "2026-10-26T11:30:16.260000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/st-demetrius-great-martyr.html"
+      "title": "Baroque Sacred Art: Hope that Transcends Suffering, #1",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/baroque-sacred-art-hope-that-transcends.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Full homily of Bishop Athanasius Schneider at St Mary Major during Ad Petri Sedem pilgrimage",
+      "title": "American bishops accuse White House of exploiting prayer with Trump for political purposes",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/full-homily-of-bishop-athanasius-schneider-at-st-mary-major-during-ad-petri-sedem-pilgrimage/"
+      "url": "https://advaticanum.com/article/american-bishops-accuse-white-house-of-exploiting-prayer-with-trump-for-political-purposes/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of Christ the King 2026",
-      "publishedAt": "2026-10-25T11:30:29.414000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-christ-king-2026.html"
+      "title": "Upcoming Event for All Souls: New Bedford, MA",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/upcoming-event-for-all-souls-new.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Twelve Catholic bishops pray over President Trump in Oval Office before midterm elections",
+      "title": "Full homily of Bishop Athanasius Schneider at St Mary Major during Ad Petri Sedem pilgrimage",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/twelve-catholic-bishops-pray-over-president-trump-in-oval-office-before-midterm-elections/"
+      "url": "https://advaticanum.com/article/full-homily-of-bishop-athanasius-schneider-at-st-mary-major-during-ad-petri-sedem-pilgrimage/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,31 +103,31 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "St Demetrius the Great-Martyr",
+      "publishedAt": "2026-10-26T11:30:16.260000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/st-demetrius-great-martyr.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Feast of Christ the King 2026",
+      "publishedAt": "2026-10-25T11:30:29.414000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-feast-of-christ-king-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Something Else Got Lost in Translation",
       "publishedAt": "2026-10-24T21:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/something-else-got-lost-in-translation.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A Very Curious Legend of St Raphael",
-      "publishedAt": "2026-10-24T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-very-curious-legend-of-st-raphael.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Relics of St Boethius",
-      "publishedAt": "2026-10-23T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-relics-of-st-boethius.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-27T09:03:44Z",
-    "lastSucceeded": "2026-10-27T09:03:47Z",
+    "lastFetched": "2026-10-27T15:27:03Z",
+    "lastSucceeded": "2026-10-27T15:27:09Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
