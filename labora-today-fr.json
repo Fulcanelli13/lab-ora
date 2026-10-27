@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:27:14Z",
+  "generatedAt": "2026-10-27T22:18:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape a reçu la présidente slovène",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-slovene.html"
+      "title": "Léon XIV: «Il n’y a pas de guerre sainte, seule la paix est sainte»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-video-leon-xiv-une-paix-desarmee-et-desarmante.html"
     },
     {
       "source": "Riposte Catholique",
@@ -39,9 +39,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Il n’y a pas de guerre sainte, seule la paix est sainte»",
+      "title": "Le Pape rencontrera des victimes d'abus en Amérique latine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-video-leon-xiv-une-paix-desarmee-et-desarmante.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-rencontrera-des-victimes-d-abus-en-amerique-latine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Célébrer Dieu, pour aider les autres selon ses desseins",
+      "title": "1986, la rencontre d'Assise, un tournant",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-s-urs-de-la-charite-de-sainte-jeanne-antide-thouret.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/la-rencontre-d-assise-de-1986-un-tournant.html"
     },
     {
       "source": "Riposte Catholique",
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-27T15:27:09Z",
-    "lastSucceeded": "2026-10-27T15:27:14Z",
+    "lastFetched": "2026-10-27T22:18:16Z",
+    "lastSucceeded": "2026-10-27T22:18:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
