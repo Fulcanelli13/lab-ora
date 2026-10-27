@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-26T20:31:22Z",
+  "generatedAt": "2026-10-27T00:28:48Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 30ème semaine du Temps Ordinaire",
-    "date": "2026-10-26",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-30eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : le Christ prend sur lui nos souffrances ; une femme libérée de ses liens ; Dieu aime notre liberté."
+    "title": "Méditation : Mardi de la 30ème semaine du Temps Ordinaire",
+    "date": "2026-10-27",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-30eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : Dieu agit dans ce qui est petit ; disproportion entre la mission et l’instrument ; un mot qui fermente."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-26T20:31:17Z",
-    "lastSucceeded": "2026-10-26T20:31:22Z",
+    "lastFetched": "2026-10-27T00:28:43Z",
+    "lastSucceeded": "2026-10-27T00:28:48Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

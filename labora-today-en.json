@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-26T20:31:17Z",
+  "generatedAt": "2026-10-27T00:28:43Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Thirtieth Week of Ordinary Time",
-    "date": "2026-10-26",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-thirtieth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: Christ takes our sorrow upon Himself; a woman loosed from her bonds; God loves our freedom."
+    "title": "Meditations: Tuesday of the Thirtieth Week of Ordinary Time",
+    "date": "2026-10-27",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirtieth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: God works in little things; the disproportion between the mission and the instrument; a leavening word."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-26T20:31:12Z",
-    "lastSucceeded": "2026-10-26T20:31:17Z",
+    "lastFetched": "2026-10-27T00:28:41Z",
+    "lastSucceeded": "2026-10-27T00:28:43Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
