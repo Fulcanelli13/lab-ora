@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:59:56Z",
+  "generatedAt": "2026-10-28T20:18:29Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -11,6 +11,30 @@
     "subtitle": "Les thèmes proposés pour la méditation sont : Simon, passionné par le Seigneur ; la question de Judas Thaddée ; la pleine liberté de l’amour."
   },
   "headlines": [
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le salut de Léon XIV aux militants engagés auprès des migrants à Chicago",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-migrants-detenus-chicago.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "États-Unis: le cardinal Tobin doit subir une intervention chirurgicale",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219340"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Cardinal Koovakad: la «méthode» d'Assise est nécessaire aujourd'hui",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-assise-ensemble-pour-la-paix.html"
+    },
     {
       "source": "Vatican News",
       "lane": "vatican",
@@ -31,9 +55,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cardinal Koovakad: la «méthode» d'Assise est nécessaire aujourd'hui",
+      "title": "Collecte au Vatican pour l'Ukraine, «un beau témoignage de l'Église»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-assise-ensemble-pour-la-paix.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-vatican-collecte-aumonier.html"
     },
     {
       "source": "Vatican News",
@@ -55,17 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Collecte au Vatican pour l'Ukraine, «un beau témoignage de l'Église»",
+      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-vatican-collecte-aumonier.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape rencontrera des victimes d'abus en Amérique latine",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-rencontrera-des-victimes-d-abus-en-amerique-latine.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
     },
     {
       "source": "Riposte Catholique",
@@ -76,14 +92,6 @@
       "url": "https://riposte-catholique.fr/archives/219318"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -92,42 +100,18 @@
       "url": "https://riposte-catholique.fr/archives/219310"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "4000 personnes à la Basilique Sainte-Marie-Majeure pour la messe traditionnelle",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219302"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
       "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "1986, la rencontre d'Assise, un tournant",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/la-rencontre-d-assise-de-1986-un-tournant.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV: «Il n’y a pas de guerre sainte, seule la paix est sainte»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-video-leon-xiv-une-paix-desarmee-et-desarmante.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-28T12:59:51Z",
-    "lastSucceeded": "2026-10-28T12:59:56Z",
+    "lastFetched": "2026-10-28T20:18:22Z",
+    "lastSucceeded": "2026-10-28T20:18:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -152,7 +136,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 4,
       "tradition": 0

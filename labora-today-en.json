@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:59:51Z",
+  "generatedAt": "2026-10-28T20:18:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo XIV could visit United States in near future, says Archbishop Gallagher",
+      "title": "Cardinal Vesco says Catholic Church is ‘not there to convert’ in interview on evangelisation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-could-visit-united-states-in-near-future-says-archbishop-gallagher/"
+      "url": "https://advaticanum.com/article/cardinal-vesco-says-catholic-church-is-not-there-to-convert-in-interview-on-evangelisation/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Follow-up on Disposing of Candle Wax",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
+      "title": "The Legends of Saints Simon and Jude",
+      "publishedAt": "2026-10-28T19:45:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop Rob Mutsaerts responds to Cardinal Roche’s interview",
+      "title": "Pope Leo XIV could visit United States in near future, says Archbishop Gallagher",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-rob-mutsaerts-responds-to-cardinal-roches-interview/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-could-visit-united-states-in-near-future-says-archbishop-gallagher/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Vigil of Ss Simon and Jude",
-      "publishedAt": "2026-10-27T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-ss-simon-and-jude.html"
+      "title": "Follow-up on Disposing of Candle Wax",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop of Knoxville issues seven-page memorandum on SSPX",
+      "title": "Bishop Rob Mutsaerts responds to Cardinal Roche’s interview",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-of-knoxville-issues-seven-page-memorandum-on-sspx/"
+      "url": "https://advaticanum.com/article/bishop-rob-mutsaerts-responds-to-cardinal-roches-interview/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Baroque Sacred Art: Hope that Transcends Suffering, #1",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/baroque-sacred-art-hope-that-transcends.html"
+      "title": "The Vigil of Ss Simon and Jude",
+      "publishedAt": "2026-10-27T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-ss-simon-and-jude.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Upcoming Event for All Souls: New Bedford, MA",
-      "publishedAt": "2026-10-27T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/upcoming-event-for-all-souls-new.html"
+      "title": "Baroque Sacred Art: Hope that Transcends Suffering, #1",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/baroque-sacred-art-hope-that-transcends.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-28T12:59:48Z",
-    "lastSucceeded": "2026-10-28T12:59:51Z",
+    "lastFetched": "2026-10-28T20:18:18Z",
+    "lastSucceeded": "2026-10-28T20:18:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
