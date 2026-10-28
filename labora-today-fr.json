@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:47:01Z",
+  "generatedAt": "2026-10-28T12:59:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Il n’y a pas de guerre sainte, seule la paix est sainte»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-video-leon-xiv-une-paix-desarmee-et-desarmante.html"
+      "title": "Mercedes-Benz appelé à fournir des véhicules durables et accessibles",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-mercedes-benz-papamobile-exposition-vatican.html"
     },
     {
       "source": "Riposte Catholique",
@@ -39,9 +39,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape rencontrera des victimes d'abus en Amérique latine",
+      "title": "Léon XIV: la foi appelée à devenir culture, pour toucher chaque personne",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-rencontrera-des-victimes-d-abus-en-amerique-latine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-audience-generale-gaudium-et-spes-foi-et-culture.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "1986, la rencontre d'Assise, un tournant",
+      "title": "Le Pape rencontrera des victimes d'abus en Amérique latine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/la-rencontre-d-assise-de-1986-un-tournant.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-rencontrera-des-victimes-d-abus-en-amerique-latine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -106,12 +106,28 @@
       "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "1986, la rencontre d'Assise, un tournant",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/la-rencontre-d-assise-de-1986-un-tournant.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV: «Il n’y a pas de guerre sainte, seule la paix est sainte»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/message-video-leon-xiv-une-paix-desarmee-et-desarmante.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-28T05:46:40Z",
-    "lastSucceeded": "2026-10-28T05:47:01Z",
+    "lastFetched": "2026-10-28T12:59:51Z",
+    "lastSucceeded": "2026-10-28T12:59:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -136,7 +152,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 5,
       "outside_walls": 5,
       "official": 4,
       "tradition": 0

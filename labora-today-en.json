@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:46:40Z",
+  "generatedAt": "2026-10-28T12:59:51Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -11,6 +11,38 @@
     "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: Simon's passion for God; Judas Thaddeus's question; the full freedom of love."
   },
   "headlines": [
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Fernández criticises progressive and conservative bishops for losing sight of the heart of the Gospel",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-fernandez-criticises-progressive-and-conservative-bishops-for-losing-sight-of-the-heart-of-the-gospel/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Pope Leo XIV could visit United States in near future, says Archbishop Gallagher",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-could-visit-united-states-in-near-future-says-archbishop-gallagher/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audiences",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Follow-up on Disposing of Candle Wax",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
+    },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
@@ -31,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Calendar of Liturgical Celebrations presided over by the Holy Father Leo XIV (November – December 2026)",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/27/261027a.html"
+      "title": "General Audience",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Video Message of the Holy Father to the participants in the international meeting “Unarmed and Disarming Peace” in Assisi",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/27/261027b.html"
+      "title": "Notice from the Office of Liturgical Celebrations",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -76,28 +108,12 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/baroque-sacred-art-hope-that-transcends.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Vatican bars traditional Latin Mass pilgrims from entering St Peter’s Basilica in procession, organisers say",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-bars-traditional-latin-mass-pilgrims-from-entering-st-peters-basilica-in-procession-organisers-say/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "American bishops accuse White House of exploiting prayer with Trump for political purposes",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/american-bishops-accuse-white-house-of-exploiting-prayer-with-trump-for-political-purposes/"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/26/261026b.html"
+      "title": "Calendar of Liturgical Celebrations presided over by the Holy Father Leo XIV (November – December 2026)",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/27/261027a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -106,28 +122,12 @@
       "title": "Upcoming Event for All Souls: New Bedford, MA",
       "publishedAt": "2026-10-27T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/upcoming-event-for-all-souls-new.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Holy See Press Office Press Release: Audience with the President of the Republic of Slovenia",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/26/261026a.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "St Demetrius the Great-Martyr",
-      "publishedAt": "2026-10-26T11:30:16.260000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/st-demetrius-great-martyr.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-28T05:46:36Z",
-    "lastSucceeded": "2026-10-28T05:46:40Z",
+    "lastFetched": "2026-10-28T12:59:48Z",
+    "lastSucceeded": "2026-10-28T12:59:51Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -157,7 +157,7 @@
       "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
