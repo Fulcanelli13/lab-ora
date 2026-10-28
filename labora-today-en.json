@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-27T22:18:16Z",
+  "generatedAt": "2026-10-28T05:46:40Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Thirtieth Week of Ordinary Time",
-    "date": "2026-10-27",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirtieth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: God works in little things; the disproportion between the mission and the instrument; a leavening word."
+    "title": "Meditations: October 28, Saints Simon and Jude",
+    "date": "2026-10-28",
+    "url": "https://opusdei.org/en/meditation/meditations-simon-and-jude/",
+    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: Simon's passion for God; Judas Thaddeus's question; the full freedom of love."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-27T22:18:14Z",
-    "lastSucceeded": "2026-10-27T22:18:16Z",
+    "lastFetched": "2026-10-28T05:46:36Z",
+    "lastSucceeded": "2026-10-28T05:46:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
