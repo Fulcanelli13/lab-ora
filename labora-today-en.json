@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-28T20:18:22Z",
+  "generatedAt": "2026-10-29T01:00:03Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: October 28, Saints Simon and Jude",
-    "date": "2026-10-28",
-    "url": "https://opusdei.org/en/meditation/meditations-simon-and-jude/",
-    "subtitle": "Some reflections that can assist our prayer during the twenty-ninth week of Ordinary Time. The topics are: Simon's passion for God; Judas Thaddeus's question; the full freedom of love."
+    "title": "Meditations: Thursday of the Thirtieth Week of Ordinary Time",
+    "date": "2026-10-29",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirtieth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: in God’s hands; Jesus comes to save us; praying for peace in the Holy Land."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-28T20:18:18Z",
-    "lastSucceeded": "2026-10-28T20:18:22Z",
+    "lastFetched": "2026-10-29T00:59:56Z",
+    "lastSucceeded": "2026-10-29T01:00:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

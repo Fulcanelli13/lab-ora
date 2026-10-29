@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-28T20:18:29Z",
+  "generatedAt": "2026-10-29T01:00:11Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 28 octobre, Saint Simon et Saint Jude, apôtres",
-    "date": "2026-10-28",
-    "url": "https://opusdei.org/fr/meditation/meditation-28-octobre-saint-simon-et-saint-jude-apotres/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : Simon, passionné par le Seigneur ; la question de Judas Thaddée ; la pleine liberté de l’amour."
+    "title": "Méditation : Jeudi de la 30ème semaine du Temps Ordinaire",
+    "date": "2026-10-29",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-30eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : dans les mains de Dieu ; Jésus vient nous sauver ; prions pour la paix en Terre Sainte."
   },
   "headlines": [
     {
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-28T20:18:22Z",
-    "lastSucceeded": "2026-10-28T20:18:29Z",
+    "lastFetched": "2026-10-29T01:00:03Z",
+    "lastSucceeded": "2026-10-29T01:00:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
