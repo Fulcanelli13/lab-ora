@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:02:39Z",
+  "generatedAt": "2026-10-29T18:29:56Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Vesco says Catholic Church is ‘not there to convert’ in interview on evangelisation",
+      "title": "Cardinal Tobin to undergo surgery following discovery of kidney mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-vesco-says-catholic-church-is-not-there-to-convert-in-interview-on-evangelisation/"
+      "url": "https://advaticanum.com/article/cardinal-tobin-to-undergo-surgery-following-discovery-of-kidney-mass/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028b.html"
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Legends of Saints Simon and Jude",
-      "publishedAt": "2026-10-28T19:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
+      "title": "Axios Men’s Ensemble Concert Tour of Benedict Sheehan’s Ukrainian War Requiem",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/axios-mens-ensemble-concert-tour-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,41 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo XIV could visit United States in near future, says Archbishop Gallagher",
+      "title": "Cardinal Müller calls for German Synodal Path to be stopped: ‘No place for rainbow flags in the Church’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-could-visit-united-states-in-near-future-says-archbishop-gallagher/"
+      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-german-synodal-path-to-be-stopped-no-place-for-rainbow-flags-in-the-church/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Telegram of the Holy Father, signed by Cardinal Secretary of State Pietro Parolin, for the victims of the railway accident in Spain",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Legends of Saints Simon and Jude",
+      "publishedAt": "2026-10-28T19:45:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Inside the Ad Petri Sedem pilgrimage controversy",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-letter-reveals-ad-petri-sedem-procession-refusal-was-issued-weeks-before-pilgrimage/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Bishop Barron rebukes Cardinal Vesco over claims Church is not there to convert",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/bishop-barron-rebukes-cardinal-vesco-over-claims-church-is-not-there-to-convert/"
     },
     {
       "source": "Holy See Press Office",
@@ -76,44 +108,12 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Inside the Ad Petri Sedem pilgrimage controversy",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-letter-reveals-ad-petri-sedem-procession-refusal-was-issued-weeks-before-pilgrimage/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Bishop Rob Mutsaerts responds to Cardinal Roche’s interview",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-rob-mutsaerts-responds-to-cardinal-roches-interview/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Notice from the Office of Liturgical Celebrations",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028c.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Vigil of Ss Simon and Jude",
       "publishedAt": "2026-10-27T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-ss-simon-and-jude.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Calendar of Liturgical Celebrations presided over by the Holy Father Leo XIV (November – December 2026)",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/27/261027a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-29T10:02:35Z",
-    "lastSucceeded": "2026-10-29T10:02:39Z",
+    "lastFetched": "2026-10-29T18:29:53Z",
+    "lastSucceeded": "2026-10-29T18:29:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:02:45Z",
+  "generatedAt": "2026-10-29T18:30:03Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le salut de Léon XIV aux militants engagés auprès des migrants à Chicago",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-migrants-detenus-chicago.html"
+      "title": "Le Pape a reçu la présidente de la République du Costa Rica",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-de-la-republique-du-costa-rica.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,17 +31,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cardinal Koovakad: la «méthode» d'Assise est nécessaire aujourd'hui",
+      "title": "Le cardinal Parolin déplore la tentation de vouloir être «comme Dieu»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-koovakad-assise-ensemble-pour-la-paix.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-systemes-totalitaires-colloque-scientifique.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Mercedes-Benz appelé à fournir des véhicules durables et accessibles",
+      "title": "Le salut de Léon XIV aux militants engagés auprès des migrants à Chicago",
       "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/leon-xiv-audience-mercedes-benz-papamobile-exposition-vatican.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-migrants-detenus-chicago.html"
     },
     {
       "source": "Riposte Catholique",
@@ -55,17 +55,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Collecte au Vatican pour l'Ukraine, «un beau témoignage de l'Église»",
+      "title": "À l'ONU, le Saint-Siège défend une exploration spatiale qui profite à tous",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-vatican-collecte-aumonier.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-a-l-onu-l-exploration-spatiale-doit-profiter-a-tous.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: la foi appelée à devenir culture, pour toucher chaque personne",
+      "title": "L'aumônier en Ukraine pour apporter le réconfort du Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-audience-generale-gaudium-et-spes-foi-et-culture.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-aumonier-en-ukraine-pour-apporter-le-reconfort-du-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Ukraine: l'aumônier apostolique apporte le soutien du Pape",
+      "title": "Reprise du procès en appel au Vatican: prochaines audiences en janvier 2027",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/elemosiniere-ukraine-aide-pape-leon-solidarite-voyage-mission.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/reprise-proces-en-appel-vatican-prochaines-audience-janvier-2027.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,15 +103,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«Nul n’est trop grand pécheur pour revenir vers Dieu», selon Mgr Nykiel",
+      "title": "Cent ans de papamobiles exposés aux Musées du Vatican",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/seminaire-sacrement-de-reconciliation-penitencerie-apostolique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cent-ans-de-papamobiles-exposes-aux-musees-du-vatican.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Prière du Pape pour les victimes de l’accident ferroviaire d'Urda, en Espagne",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/priere-pape-victimes-de-l-accident-ferroviaire-d-urda-espagne.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-29T10:02:39Z",
-    "lastSucceeded": "2026-10-29T10:02:45Z",
+    "lastFetched": "2026-10-29T18:29:56Z",
+    "lastSucceeded": "2026-10-29T18:30:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -136,7 +144,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 4,
       "tradition": 0
