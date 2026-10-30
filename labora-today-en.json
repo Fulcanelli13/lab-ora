@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:03:58Z",
+  "generatedAt": "2026-10-30T10:05:46Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "General Audience",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028a.html"
+      "title": "Holy See Press Office Press Release: Audience with the President of the Republic of Costa Rica",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -111,9 +111,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Notice from the Office of Liturgical Celebrations",
+      "title": "General Audience",
       "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-30T01:03:54Z",
-    "lastSucceeded": "2026-10-30T01:03:58Z",
+    "lastFetched": "2026-10-30T10:05:42Z",
+    "lastSucceeded": "2026-10-30T10:05:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
