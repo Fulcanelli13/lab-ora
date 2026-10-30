@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:31:39Z",
+  "generatedAt": "2026-10-30T22:24:25Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Another Word on St. Jude",
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/another-word-on-st-jude.html"
+      "title": "A Byzantine Church Consecration in Wyoming",
+      "publishedAt": "2026-10-30T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-byzantine-church-consecration-in.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Axios Men’s Ensemble Concert Tour of Benedict Sheehan’s Ukrainian War Requiem",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/axios-mens-ensemble-concert-tour-of.html"
+      "title": "Another Word on St. Jude",
+      "publishedAt": "2026-10-30T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/another-word-on-st-jude.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Axios Men’s Ensemble Concert Tour of Benedict Sheehan’s Ukrainian War Requiem",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/axios-mens-ensemble-concert-tour-of.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "The Legends of Saints Simon and Jude",
       "publishedAt": "2026-10-28T19:45:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
@@ -114,20 +122,12 @@
       "title": "Follow-up on Disposing of Candle Wax",
       "publishedAt": "2026-10-28T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Vigil of Ss Simon and Jude",
-      "publishedAt": "2026-10-27T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-ss-simon-and-jude.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-30T18:31:35Z",
-    "lastSucceeded": "2026-10-30T18:31:39Z",
+    "lastFetched": "2026-10-30T22:24:23Z",
+    "lastSucceeded": "2026-10-30T22:24:25Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:31:50Z",
+  "generatedAt": "2026-10-30T22:24:30Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -34,6 +34,14 @@
       "title": "En Ukraine, la charité du Pape auprès des enfants",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-charite-pape-enfants-deplaces-guerre-aumonier.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "UNE ÉDITION REMARQUABLE DU XVéme PÈLERINAGE SUMMORUM PONTIFICUM À ROME",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4534"
     },
     {
       "source": "Vatican News",
@@ -114,20 +122,12 @@
       "title": "Le cardinal Parolin déplore la tentation de vouloir être «comme Dieu»",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-systemes-totalitaires-colloque-scientifique.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "De nouvelles garanties pour les employés du Saint-Siège",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-rescrit-cardinal-secretaire-d-etat.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-30T18:31:40Z",
-    "lastSucceeded": "2026-10-30T18:31:50Z",
+    "lastFetched": "2026-10-30T22:24:25Z",
+    "lastSucceeded": "2026-10-30T22:24:30Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
