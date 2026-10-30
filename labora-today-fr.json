@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T18:30:03Z",
+  "generatedAt": "2026-10-30T01:04:05Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 30ème semaine du Temps Ordinaire",
-    "date": "2026-10-29",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-30eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation sont : dans les mains de Dieu ; Jésus vient nous sauver ; prions pour la paix en Terre Sainte."
+    "title": "Méditation : Vendredi de la 30ème semaine du Temps Ordinaire",
+    "date": "2026-10-30",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-30eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation sont : la loi de Dieu vise notre bien ; la liberté de faire son devoir ; un jour de commémoration."
   },
   "headlines": [
     {
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-29T18:29:56Z",
-    "lastSucceeded": "2026-10-29T18:30:03Z",
+    "lastFetched": "2026-10-30T01:03:59Z",
+    "lastSucceeded": "2026-10-30T01:04:05Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

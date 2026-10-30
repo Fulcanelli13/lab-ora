@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T18:29:56Z",
+  "generatedAt": "2026-10-30T01:03:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Thirtieth Week of Ordinary Time",
-    "date": "2026-10-29",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirtieth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: in God’s hands; Jesus comes to save us; praying for peace in the Holy Land."
+    "title": "Meditations: Friday of the Thirtieth Week of Ordinary Time",
+    "date": "2026-10-30",
+    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-thirtieth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: God's law is for our good; the freedom to fulfill a duty; a day for remembrance."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Notice from the Office of Liturgical Celebrations",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028c.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "The Vigil of Ss Simon and Jude",
       "publishedAt": "2026-10-27T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-ss-simon-and-jude.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Baroque Sacred Art: Hope that Transcends Suffering, #1",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/baroque-sacred-art-hope-that-transcends.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-29T18:29:53Z",
-    "lastSucceeded": "2026-10-29T18:29:56Z",
+    "lastFetched": "2026-10-30T01:03:54Z",
+    "lastSucceeded": "2026-10-30T01:03:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
