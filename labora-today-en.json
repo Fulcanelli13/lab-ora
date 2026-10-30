@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:05:46Z",
+  "generatedAt": "2026-10-30T18:31:39Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,6 +15,38 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Pope Leo XIV has made history by voting in US midterms: The candidates and papal precedents",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-could-make-history-by-voting-in-us-midterms-the-candidates-and-papal-precedents/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Becciu’s appeal trial postponed until January 2027",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-beccius-appeal-trial-postponed-until-january-2027-amid-dispute-over-withheld-evidence/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Another Word on St. Jude",
+      "publishedAt": "2026-10-30T11:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/another-word-on-st-jude.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "Cardinal Fernández criticises progressive and conservative bishops for losing sight of the heart of the Gospel",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/cardinal-fernandez-criticises-progressive-and-conservative-bishops-for-losing-sight-of-the-heart-of-the-gospel/"
@@ -23,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Tobin to undergo surgery following discovery of kidney mass",
+      "title": "Brazilian bishop hails Lula’s election victory as ‘best possible’ result",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-tobin-to-undergo-surgery-following-discovery-of-kidney-mass/"
+      "url": "https://advaticanum.com/article/brazilian-bishop-hails-lulas-election-victory-as-best-possible-result/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029a.html"
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Müller calls for German Synodal Path to be stopped: ‘No place for rainbow flags in the Church’",
+      "title": "Cardinal Tobin to undergo surgery following discovery of kidney mass",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-muller-calls-for-german-synodal-path-to-be-stopped-no-place-for-rainbow-flags-in-the-church/"
+      "url": "https://advaticanum.com/article/cardinal-tobin-to-undergo-surgery-following-discovery-of-kidney-mass/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Telegram of the Holy Father, signed by Cardinal Secretary of State Pietro Parolin, for the victims of the railway accident in Spain",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029b.html"
+      "title": "Message of the Dicastery for Interreligious Dialogue to Hindus on the occasion of the Feast of Deepavali 2026",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -76,44 +108,12 @@
       "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Inside the Ad Petri Sedem pilgrimage controversy",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-letter-reveals-ad-petri-sedem-procession-refusal-was-issued-weeks-before-pilgrimage/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Bishop Barron rebukes Cardinal Vesco over claims Church is not there to convert",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-barron-rebukes-cardinal-vesco-over-claims-church-is-not-there-to-convert/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Holy See Press Office Press Release: Audience with the President of the Republic of Costa Rica",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/29/261029c.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "Follow-up on Disposing of Candle Wax",
       "publishedAt": "2026-10-28T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/follow-up-on-disposing-of-candle-wax.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "General Audience",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/28/261028a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-30T10:05:42Z",
-    "lastSucceeded": "2026-10-30T10:05:46Z",
+    "lastFetched": "2026-10-30T18:31:35Z",
+    "lastSucceeded": "2026-10-30T18:31:39Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,

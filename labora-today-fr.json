@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:05:53Z",
+  "generatedAt": "2026-10-30T18:31:50Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape a reçu la présidente de la République du Costa Rica",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-de-la-republique-du-costa-rica.html"
+      "title": "Le Pape exhorte à ne jamais déléguer à l’IA la décision de mettre fin à une vie humaine",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-leon-xiv-intelligence-artificielle-sous-supervision.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,17 +31,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Parolin déplore la tentation de vouloir être «comme Dieu»",
+      "title": "En Ukraine, la charité du Pape auprès des enfants",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-systemes-totalitaires-colloque-scientifique.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-charite-pape-enfants-deplaces-guerre-aumonier.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le salut de Léon XIV aux militants engagés auprès des migrants à Chicago",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-message-migrants-detenus-chicago.html"
+      "title": "Le Pape a reçu la présidente de la République du Costa Rica",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-de-la-republique-du-costa-rica.html"
     },
     {
       "source": "Riposte Catholique",
@@ -55,17 +55,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À l'ONU, le Saint-Siège défend une exploration spatiale qui profite à tous",
+      "title": "Le dicastère pour la Communication fait ses adieux à Paolo Ruffini",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/saint-siege-a-l-onu-l-exploration-spatiale-doit-profiter-a-tous.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/dicastere-communication-curie-romaine-foi-engagement-nomination.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "L'aumônier en Ukraine pour apporter le réconfort du Pape",
+      "title": "Léon XIV a voté par correspondance aux élections de mi-mandat aux États-Unis",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/l-aumonier-en-ukraine-pour-apporter-le-reconfort-du-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-vote-par-correspondance-elections-de-mi-mandat-etats-unis.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Reprise du procès en appel au Vatican: prochaines audiences en janvier 2027",
+      "title": "Hindous et chrétiens unis pour tracer de nouvelles voies de paix",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/reprise-proces-en-appel-vatican-prochaines-audience-janvier-2027.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/hindous-et-chretiens-diwali-dialogue-interreligieux-vatican.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,23 +103,31 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cent ans de papamobiles exposés aux Musées du Vatican",
+      "title": "Secrétariat du Synode, Léon XIV nomme deux nouveaux sous-secrétaires",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cent-ans-de-papamobiles-exposes-aux-musees-du-vatican.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/secretariat-general-synode-nominations.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le cardinal Parolin déplore la tentation de vouloir être «comme Dieu»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-systemes-totalitaires-colloque-scientifique.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Prière du Pape pour les victimes de l’accident ferroviaire d'Urda, en Espagne",
+      "title": "De nouvelles garanties pour les employés du Saint-Siège",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/priere-pape-victimes-de-l-accident-ferroviaire-d-urda-espagne.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-rescrit-cardinal-secretaire-d-etat.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-30T10:05:46Z",
-    "lastSucceeded": "2026-10-30T10:05:53Z",
+    "lastFetched": "2026-10-30T18:31:40Z",
+    "lastSucceeded": "2026-10-30T18:31:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -138,15 +146,14 @@
         "count": 5
       },
       "paix_liturgique_fr": {
-        "ok": false,
-        "count": 0,
-        "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        "ok": true,
+        "count": 1
       }
     },
     "itemCounts": {
       "vatican": 4,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 0
     },
     "discardedMalformed": 0,
