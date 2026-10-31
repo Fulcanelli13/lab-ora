@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:38:22Z",
+  "generatedAt": "2026-10-31T19:22:44Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "En Ukraine, la charité du Pape auprès des enfants",
+      "title": "Ukraine: l’aumônier du Pape achève sa visite auprès d’un peuple meurtri",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-charite-pape-enfants-deplaces-guerre-aumonier.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-guerre-solidarite-eglise-paix-charite-enfants.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "UNE ÉDITION REMARQUABLE DU XVéme PÈLERINAGE SUMMORUM PONTIFICUM À ROME",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4534"
     },
     {
       "source": "Vatican News",
@@ -114,20 +122,12 @@
       "title": "Secrétariat du Synode, Léon XIV nomme deux nouveaux sous-secrétaires",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/secretariat-general-synode-nominations.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV a voté par correspondance aux élections de mi-mandat aux États-Unis",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-vote-par-correspondance-elections-de-mi-mandat-etats-unis.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-31T12:38:16Z",
-    "lastSucceeded": "2026-10-31T12:38:22Z",
+    "lastFetched": "2026-10-31T19:22:36Z",
+    "lastSucceeded": "2026-10-31T19:22:44Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
