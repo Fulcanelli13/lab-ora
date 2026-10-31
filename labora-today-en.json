@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:48:53Z",
+  "generatedAt": "2026-10-31T12:38:16Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -32,8 +32,8 @@
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030c.html"
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -64,8 +64,8 @@
       "lane": "official",
       "language": "en",
       "title": "Audiences",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030b.html"
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Message of the Dicastery for Interreligious Dialogue to Hindus on the occasion of the Feast of Deepavali 2026",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030a.html"
+      "title": "Notice of Briefing",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-31T05:48:50Z",
-    "lastSucceeded": "2026-10-31T05:48:53Z",
+    "lastFetched": "2026-10-31T12:38:14Z",
+    "lastSucceeded": "2026-10-31T12:38:16Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

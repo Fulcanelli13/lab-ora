@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:48:58Z",
+  "generatedAt": "2026-10-31T12:38:22Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -11,6 +11,54 @@
     "subtitle": "Les thèmes proposés pour la méditation sont : « C’est de la vie tout entière du Seigneur que je suis épris » ; le Christ élève nos désirs ; l’humilité nous permet de reconnaître notre propre grandeur."
   },
   "headlines": [
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "«Pour être durable, l’espérance a besoin de perspectives», estime Léon XIV",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/esperance-perspectives-seisme-centre-italie-saints-pape.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Un colloque du CIEL sur les langues liturgiques",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219373"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "En Ukraine, la charité du Pape auprès des enfants",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-charite-pape-enfants-deplaces-guerre-aumonier.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Pour Léon XIV, «personne ne naît champion, tout comme personne ne naît saint»",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sport-universite-saintete-toussaint-chretiens-amour.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Nomination d’un nouvel évêque à Soissons",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219375"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le Vatican organise un dialogue sur l’IA et la dignité humaine",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/vatican-dialogue-ia-dignite-humaine-magnifica-humanitas.html"
+    },
     {
       "source": "Vatican News",
       "lane": "vatican",
@@ -31,25 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "En Ukraine, la charité du Pape auprès des enfants",
+      "title": "Le dicastère pour la Communication fait ses adieux à Paolo Ruffini",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-charite-pape-enfants-deplaces-guerre-aumonier.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "UNE ÉDITION REMARQUABLE DU XVéme PÈLERINAGE SUMMORUM PONTIFICUM À ROME",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4534"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape a reçu la présidente de la République du Costa Rica",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/le-pape-a-recu-la-presidente-de-la-republique-du-costa-rica.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/dicastere-communication-curie-romaine-foi-engagement-nomination.html"
     },
     {
       "source": "Riposte Catholique",
@@ -58,22 +90,6 @@
       "title": "Homélie de Mgr Schneider à Sainte-Marie-Majeure",
       "publishedAt": "2026-10-27T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219334"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le dicastère pour la Communication fait ses adieux à Paolo Ruffini",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/dicastere-communication-curie-romaine-foi-engagement-nomination.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV a voté par correspondance aux élections de mi-mandat aux États-Unis",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-vote-par-correspondance-elections-de-mi-mandat-etats-unis.html"
     },
     {
       "source": "Riposte Catholique",
@@ -92,22 +108,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/hindous-et-chretiens-diwali-dialogue-interreligieux-vatican.html"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Pèlerinage de la Fraternité Saint-Pie X à Lourdes",
-      "publishedAt": "2026-10-25T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219318"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Pèlerinage Ad Petri Sedem: célébration à la Très-Sainte-Trinité-des-Pèlerins",
-      "publishedAt": "2026-10-25T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219310"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
@@ -117,17 +117,17 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Le cardinal Parolin déplore la tentation de vouloir être «comme Dieu»",
+      "title": "Léon XIV a voté par correspondance aux élections de mi-mandat aux États-Unis",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/cardinal-parolin-systemes-totalitaires-colloque-scientifique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-vote-par-correspondance-elections-de-mi-mandat-etats-unis.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-10-31T05:48:53Z",
-    "lastSucceeded": "2026-10-31T05:48:58Z",
+    "lastFetched": "2026-10-31T12:38:16Z",
+    "lastSucceeded": "2026-10-31T12:38:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
