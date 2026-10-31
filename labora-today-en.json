@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-30T22:24:25Z",
+  "generatedAt": "2026-10-31T05:48:53Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Friday of the Thirtieth Week of Ordinary Time",
-    "date": "2026-10-30",
-    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-thirtieth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: God's law is for our good; the freedom to fulfill a duty; a day for remembrance."
+    "title": "Meditations: Saturday of the Thirtieth Week of Ordinary Time",
+    "date": "2026-10-31",
+    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-thirtieth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirtieth week of Ordinary Time. The topics are: “Our Lord's whole life fills me with love for Him;” Christ elevates our desires; humility allows us to recognize our own greatness."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Becciu’s appeal trial postponed until January 2027",
+      "title": "Exclusive interview: Bishop Schneider calls for greater acceptance of traditional Catholics",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-beccius-appeal-trial-postponed-until-january-2027-amid-dispute-over-withheld-evidence/"
+      "url": "https://advaticanum.com/article/exclusive-interview-bishop-schneider-calls-for-greater-acceptance-of-traditional-catholics/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Brazilian bishop hails Lula’s election victory as ‘best possible’ result",
+      "title": "Cardinal Becciu’s appeal trial postponed until January 2027",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/brazilian-bishop-hails-lulas-election-victory-as-best-possible-result/"
+      "url": "https://advaticanum.com/article/cardinal-beccius-appeal-trial-postponed-until-january-2027-amid-dispute-over-withheld-evidence/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Tobin to undergo surgery following discovery of kidney mass",
+      "title": "Brazilian bishop hails Lula’s election victory as ‘best possible’ result",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-tobin-to-undergo-surgery-following-discovery-of-kidney-mass/"
+      "url": "https://advaticanum.com/article/brazilian-bishop-hails-lulas-election-victory-as-best-possible-result/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-10-30T22:24:23Z",
-    "lastSucceeded": "2026-10-30T22:24:25Z",
+    "lastFetched": "2026-10-31T05:48:50Z",
+    "lastSucceeded": "2026-10-31T05:48:53Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
