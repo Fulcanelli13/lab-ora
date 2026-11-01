@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:12:32Z",
+  "generatedAt": "2026-11-01T13:30:28Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Notice of Briefing",
+      "title": "Audience with delegations from the municipalities affected by earthquakes in Central Italy",
       "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031c.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031f.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-01T06:12:29Z",
-    "lastSucceeded": "2026-11-01T06:12:32Z",
+    "lastFetched": "2026-11-01T13:30:25Z",
+    "lastSucceeded": "2026-11-01T13:30:28Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
