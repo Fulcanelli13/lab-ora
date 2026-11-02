@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:47:13Z",
+  "generatedAt": "2026-11-02T11:15:30Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,9 +31,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031b.html"
+      "title": "The Pope’s words at the Angelus prayer",
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/01/261101a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
+      "title": "Resignations and Appointments",
       "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031a.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audience with delegations from the municipalities affected by earthquakes in Central Italy",
+      "title": "Audiences",
       "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031f.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-02T00:47:09Z",
-    "lastSucceeded": "2026-11-02T00:47:13Z",
+    "lastFetched": "2026-11-02T11:15:26Z",
+    "lastSucceeded": "2026-11-02T11:15:30Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

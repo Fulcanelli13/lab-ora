@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:47:20Z",
+  "generatedAt": "2026-11-02T11:15:35Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, «personne ne naît champion, tout comme personne ne naît saint»",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-sport-universite-saintete-toussaint-chretiens-amour.html"
+      "title": "Léon XIV salue les athlètes des Jeux Olympiques de la Jeunesse de Dakar",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV salue les athlètes des Jeux Olympiques de la Jeunesse de Dakar",
+      "title": "Après Olechky, le Pape appelle à d’autres initiatives en faveur de la paix en Ukraine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-appel-pape-paix-ukraine-evacuation-olechky-guerre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-02T00:47:13Z",
-    "lastSucceeded": "2026-11-02T00:47:20Z",
+    "lastFetched": "2026-11-02T11:15:30Z",
+    "lastSucceeded": "2026-11-02T11:15:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
