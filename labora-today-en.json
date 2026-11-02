@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:15:30Z",
+  "generatedAt": "2026-11-02T21:43:33Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Exclusive interview: Bishop Schneider calls for greater acceptance of traditional Catholics",
+      "title": "Exclusive interview: Cardinal Gracias on TLM: ‘I would not be for prohibiting’ it, provided Vatican II is respected",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-bishop-schneider-calls-for-greater-acceptance-of-traditional-catholics/"
+      "url": "https://advaticanum.com/article/exclusive-interview-cardinal-gracias-on-tlm-i-would-not-be-for-prohibiting-it-provided-vatican-ii-is-respected/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of All Saints 2026",
-      "publishedAt": "2026-11-01T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
+      "title": "The Feast of All Saints 2026: The Praise of God in His Creation",
+      "publishedAt": "2026-11-02T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-praise-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Becciu’s appeal trial postponed until January 2027",
+      "title": "Two Peruvian bishops die within 24 hours of each other days before Pope Leo XIV’s visit",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-beccius-appeal-trial-postponed-until-january-2027-amid-dispute-over-withheld-evidence/"
+      "url": "https://advaticanum.com/article/two-peruvian-bishops-die-within-24-hours-of-each-other-days-before-pope-leo-xivs-visit/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Vigil of All Saints 2026",
-      "publishedAt": "2026-10-31T12:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-all-saints-2026.html"
+      "title": "Durandus on Prayer for the Dead (Part 1)",
+      "publishedAt": "2026-11-02T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-1.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Brazilian bishop hails Lula’s election victory as ‘best possible’ result",
+      "title": "Archbishop of Vienna: ‘I would certainly wish for the ordination of women’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/brazilian-bishop-hails-lulas-election-victory-as-best-possible-result/"
+      "url": "https://advaticanum.com/article/archbishop-of-vienna-i-would-certainly-wish-for-the-ordination-of-women/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,31 +103,31 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Feast of All Saints 2026",
+      "publishedAt": "2026-11-01T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Vigil of All Saints 2026",
+      "publishedAt": "2026-10-31T12:45:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-all-saints-2026.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "A Byzantine Church Consecration in Wyoming",
       "publishedAt": "2026-10-30T19:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/a-byzantine-church-consecration-in.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Another Word on St. Jude",
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/another-word-on-st-jude.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Axios Men’s Ensemble Concert Tour of Benedict Sheehan’s Ukrainian War Requiem",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/axios-mens-ensemble-concert-tour-of.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-02T11:15:26Z",
-    "lastSucceeded": "2026-11-02T11:15:30Z",
+    "lastFetched": "2026-11-02T21:43:30Z",
+    "lastSucceeded": "2026-11-02T21:43:33Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:15:35Z",
+  "generatedAt": "2026-11-02T21:43:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "«Pour être durable, l’espérance a besoin de perspectives», estime Léon XIV",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/esperance-perspectives-seisme-centre-italie-saints-pape.html"
+      "title": "Léon XIV salue les athlètes des Jeux Olympiques de la Jeunesse de Dakar",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Un colloque du CIEL sur les langues liturgiques",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219373"
+      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
+      "publishedAt": "2026-11-02T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219393"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV salue les athlètes des Jeux Olympiques de la Jeunesse de Dakar",
+      "title": "Après Olechky, le Pape appelle à d’autres initiatives en faveur de la paix en Ukraine",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-appel-pape-paix-ukraine-evacuation-olechky-guerre.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Nomination d’un nouvel évêque à Soissons",
+      "title": "Un colloque du CIEL sur les langues liturgiques",
       "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219375"
+      "url": "https://riposte-catholique.fr/archives/219373"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Après Olechky, le Pape appelle à d’autres initiatives en faveur de la paix en Ukraine",
+      "title": "Léon XIV en Uruguay: le défi de renouer avec la foi dans une société sécularisée",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-appel-pape-paix-ukraine-evacuation-olechky-guerre.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-voyage-apostolique-uruguay-eglise-secularisation.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: le cardinal Tobin doit subir une intervention chirurgicale",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219340"
+      "title": "Nomination d’un nouvel évêque à Soissons",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219375"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Homélie de Mgr Schneider à Sainte-Marie-Majeure",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219334"
+      "title": "États-Unis: le cardinal Tobin doit subir une intervention chirurgicale",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219340"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Pèlerinage Ad Petri Sedem: le succès indéniable de l’édition 2026",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219325"
+      "title": "Homélie de Mgr Schneider à Sainte-Marie-Majeure",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219334"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-02T11:15:30Z",
-    "lastSucceeded": "2026-11-02T11:15:35Z",
+    "lastFetched": "2026-11-02T21:43:33Z",
+    "lastSucceeded": "2026-11-02T21:43:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
