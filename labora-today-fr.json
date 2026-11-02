@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T19:43:49Z",
+  "generatedAt": "2026-11-02T00:47:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 1er novembre, la Toussaint",
-    "date": "2026-11-01",
-    "url": "https://opusdei.org/fr/meditation/meditation-1er-novembre-tous-les-saints/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : vivre les Béatitudes que Jésus a prêchées ; la sainteté consiste à laisser Dieu agir ; nous nous soutenons mutuellement par la communion des saints."
+    "title": "Méditation : 2 novembre, Commémoration de tous les fidèles défunts",
+    "date": "2026-11-02",
+    "url": "https://opusdei.org/fr/meditation/meditation-2-novembre-commemoration-de-tous-les-fideles-defunts/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Jésus nous promet une demeure dans le ciel ; les âmes du purgatoire et notre intercession pour elles ; aide mutuelle entre nous et les âmes du purgatoire"
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "UNE ÉDITION REMARQUABLE DU XVéme PÈLERINAGE SUMMORUM PONTIFICUM À ROME",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4534"
+      "title": "LA MESSE TRADITIONNELLE ? UNE MESSE NORMALE ! PAROLES D’UN PRÉFET DU CULTE DIVIN",
+      "publishedAt": "2026-11-02T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4535"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-01T19:43:43Z",
-    "lastSucceeded": "2026-11-01T19:43:49Z",
+    "lastFetched": "2026-11-02T00:47:13Z",
+    "lastSucceeded": "2026-11-02T00:47:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

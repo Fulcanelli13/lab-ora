@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T19:43:43Z",
+  "generatedAt": "2026-11-02T00:47:13Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: November 1, All Saints Day",
-    "date": "2026-11-01",
-    "url": "https://opusdei.org/en/meditation/meditations-november-1-all-saints-day/",
-    "subtitle": "Some reflections that can assist our prayer on the Solemnity of All Saints."
+    "title": "Meditations: November 2, All Souls Day",
+    "date": "2026-11-02",
+    "url": "https://opusdei.org/en/meditation/meditations-november-2-all-souls-day/",
+    "subtitle": "Some reflections that can assist our prayer on the commemoration of all the faithful departed."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Vigil of All Saints 2026",
-      "publishedAt": "2026-10-31T12:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-all-saints-2026.html"
+      "title": "The Feast of All Saints 2026",
+      "publishedAt": "2026-11-01T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Byzantine Church Consecration in Wyoming",
-      "publishedAt": "2026-10-30T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-byzantine-church-consecration-in.html"
+      "title": "The Vigil of All Saints 2026",
+      "publishedAt": "2026-10-31T12:45:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-all-saints-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "A Byzantine Church Consecration in Wyoming",
+      "publishedAt": "2026-10-30T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/10/a-byzantine-church-consecration-in.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Another Word on St. Jude",
       "publishedAt": "2026-10-30T11:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/another-word-on-st-jude.html"
@@ -114,20 +122,12 @@
       "title": "Axios Men’s Ensemble Concert Tour of Benedict Sheehan’s Ukrainian War Requiem",
       "publishedAt": "2026-10-29T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/10/axios-mens-ensemble-concert-tour-of.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Legends of Saints Simon and Jude",
-      "publishedAt": "2026-10-28T19:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-legends-of-saints-simon-and-jude.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-01T19:43:39Z",
-    "lastSucceeded": "2026-11-01T19:43:43Z",
+    "lastFetched": "2026-11-02T00:47:09Z",
+    "lastSucceeded": "2026-11-02T00:47:13Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
