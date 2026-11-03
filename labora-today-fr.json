@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:52:48Z",
+  "generatedAt": "2026-11-03T17:05:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV salue les athlètes des Jeux Olympiques de la Jeunesse de Dakar",
+      "title": "Léon XIV en Amérique latine, un voyage placé sous le signe de l’écoute et de l’unité",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/amerique-latine-presentation-voyage-pape-uruguay-argentine-perou.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219393"
+      "title": "Léon XIV a voté pour les Midterms",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219414"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Après Olechky, le Pape appelle à d’autres initiatives en faveur de la paix en Ukraine",
+      "title": "Le Pape revient sur son voyage en France, «une expérience inoubliable»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-appel-pape-paix-ukraine-evacuation-olechky-guerre.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-lettre-eveques-france-assemblee-pleniere.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Un colloque du CIEL sur les langues liturgiques",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219373"
+      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
+      "publishedAt": "2026-11-02T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219393"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV en Uruguay: le défi de renouer avec la foi dans une société sécularisée",
+      "title": "Le Pape aux jeunes: «Vous ferez l’expérience de la beauté de l’Église lors des JMJ 2027»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-10/pape-voyage-apostolique-uruguay-eglise-secularisation.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/message-pape-41e-journee-mondiale-de-la-jeunesse.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Nomination d’un nouvel évêque à Soissons",
+      "title": "Un colloque du CIEL sur les langues liturgiques",
       "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219375"
+      "url": "https://riposte-catholique.fr/archives/219373"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: le cardinal Tobin doit subir une intervention chirurgicale",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219340"
+      "title": "Nomination d’un nouvel évêque à Soissons",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219375"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Homélie de Mgr Schneider à Sainte-Marie-Majeure",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219334"
+      "title": "États-Unis: le cardinal Tobin doit subir une intervention chirurgicale",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219340"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-03T06:52:44Z",
-    "lastSucceeded": "2026-11-03T06:52:48Z",
+    "lastFetched": "2026-11-03T17:05:51Z",
+    "lastSucceeded": "2026-11-03T17:05:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
