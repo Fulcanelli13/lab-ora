@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:05:51Z",
+  "generatedAt": "2026-11-03T23:25:58Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Baroque Sacred Art: Hope that Transcends Suffering (Part 2)",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-sacred-art-hope-that-transcends.html"
+      "title": "The Feast of All Saints 2026: The Virgin Mary",
+      "publishedAt": "2026-11-03T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-virgin-mary.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of All Saints 2026: The Praise of God in His Creation",
-      "publishedAt": "2026-11-02T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-praise-of.html"
+      "title": "Baroque Sacred Art: Hope that Transcends Suffering (Part 2)",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-sacred-art-hope-that-transcends.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Feast of All Saints 2026: The Praise of God in His Creation",
+      "publishedAt": "2026-11-02T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-praise-of.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Durandus on Prayer for the Dead (Part 1)",
       "publishedAt": "2026-11-02T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-1.html"
@@ -114,20 +122,12 @@
       "title": "The Feast of All Saints 2026",
       "publishedAt": "2026-11-01T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with delegations from the municipalities affected by earthquakes in Central Italy",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031f.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-03T17:05:46Z",
-    "lastSucceeded": "2026-11-03T17:05:51Z",
+    "lastFetched": "2026-11-03T23:25:55Z",
+    "lastSucceeded": "2026-11-03T23:25:58Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
