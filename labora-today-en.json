@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-02T21:43:33Z",
+  "generatedAt": "2026-11-03T06:52:44Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: November 2, All Souls Day",
-    "date": "2026-11-02",
-    "url": "https://opusdei.org/en/meditation/meditations-november-2-all-souls-day/",
-    "subtitle": "Some reflections that can assist our prayer on the commemoration of all the faithful departed."
+    "title": "Meditations: Tuesday of the Thirty-First Week of Ordinary Time",
+    "date": "2026-11-03",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-first-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-first week of Ordinary Time. The topics are: an unconditional invitation; happiness is not individualistic; God wants everyone to be saved."
   },
   "headlines": [
     {
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Holy See Press Office",
+      "lane": "official",
       "language": "en",
-      "title": "The Vigil of All Saints 2026",
-      "publishedAt": "2026-10-31T12:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/the-vigil-of-all-saints-2026.html"
+      "title": "Audience with delegations from the municipalities affected by earthquakes in Central Italy",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031f.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Holy See Press Office",
+      "lane": "official",
       "language": "en",
-      "title": "A Byzantine Church Consecration in Wyoming",
-      "publishedAt": "2026-10-30T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/10/a-byzantine-church-consecration-in.html"
+      "title": "Audience with participants in the pilgrimage of Villanova University and the University of Notre Dame",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031g.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-02T21:43:30Z",
-    "lastSucceeded": "2026-11-02T21:43:33Z",
+    "lastFetched": "2026-11-03T06:52:41Z",
+    "lastSucceeded": "2026-11-03T06:52:44Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 5,
+      "tradition": 3
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,
