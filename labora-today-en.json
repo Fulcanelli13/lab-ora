@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-03T23:25:58Z",
+  "generatedAt": "2026-11-04T06:30:04Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Thirty-First Week of Ordinary Time",
-    "date": "2026-11-03",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-first-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-first week of Ordinary Time. The topics are: an unconditional invitation; happiness is not individualistic; God wants everyone to be saved."
+    "title": "Meditations: Wednesday of the Thirty-First Week of Ordinary Time",
+    "date": "2026-11-04",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-thirty-first-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-first week of Ordinary Time. The topics are: leaving everything for Christ is a gift; consider first the gifts we have received; the fruit of carrying the Cross."
   },
   "headlines": [
     {
@@ -60,14 +60,6 @@
       "url": "https://advaticanum.com/article/us-bishops-urge-catholics-to-put-faith-before-politics-as-americans-go-to-the-polls/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031b.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -92,14 +84,6 @@
       "url": "https://advaticanum.com/article/filipino-bishop-urges-families-to-restore-daily-rosary-and-sunday-mass/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/31/261031a.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -122,12 +106,28 @@
       "title": "The Feast of All Saints 2026",
       "publishedAt": "2026-11-01T20:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Inside the Ad Petri Sedem pilgrimage controversy",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-letter-reveals-ad-petri-sedem-procession-refusal-was-issued-weeks-before-pilgrimage/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Vatican bars traditional Latin Mass pilgrims from entering St Peter’s Basilica in procession, organisers say",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/vatican-bars-traditional-latin-mass-pilgrims-from-entering-st-peters-basilica-in-procession-organisers-say/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-03T23:25:55Z",
-    "lastSucceeded": "2026-11-03T23:25:58Z",
+    "lastFetched": "2026-11-04T06:29:59Z",
+    "lastSucceeded": "2026-11-04T06:30:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -147,13 +147,13 @@
       },
       "holy_see_en": {
         "ok": true,
-        "count": 5
+        "count": 1
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 5,
       "outside_walls": 3,
-      "official": 3,
+      "official": 1,
       "tradition": 5
     },
     "discardedMalformed": 0,
