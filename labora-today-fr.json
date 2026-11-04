@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:36:21Z",
+  "generatedAt": "2026-11-04T23:42:47Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV exhorte à prier pour sa «mission en Amérique du Sud»",
+      "title": "Le Pape reçoit Bob Dylan au Vatican",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-mission-en-amerique-du-sud-priere.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219430"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
     },
     {
       "source": "Vatican News",
@@ -47,17 +39,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape Léon XIV attendu au sommet des Andes",
+      "title": "Léon XIV exhorte à prier pour sa «mission en Amérique du Sud»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/attente-pape-leon-andes-un-missionnaire-italien-cuzco-perou.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219423"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-mission-en-amerique-du-sud-priere.html"
     },
     {
       "source": "Vatican News",
@@ -68,36 +52,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-guerre-solidarite-eglise-paix-charite-enfants.html"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Léon XIV a voté pour les Midterms",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219414"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
       "title": "Le Vatican organise un dialogue sur l’IA et la dignité humaine",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/vatican-dialogue-ia-dignite-humaine-magnifica-humanitas.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219393"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Un colloque du CIEL sur les langues liturgiques",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219373"
     },
     {
       "source": "Vatican News",
@@ -118,8 +78,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-04T17:36:14Z",
-    "lastSucceeded": "2026-11-04T17:36:21Z",
+    "lastFetched": "2026-11-04T23:42:29Z",
+    "lastSucceeded": "2026-11-04T23:42:47Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -134,8 +94,9 @@
         "count": 5
       },
       "riposte_catholique_fr": {
-        "ok": true,
-        "count": 5
+        "ok": false,
+        "count": 0,
+        "error": "TimeoutError: The read operation timed out"
       },
       "paix_liturgique_fr": {
         "ok": true,
@@ -144,7 +105,7 @@
     },
     "itemCounts": {
       "vatican": 2,
-      "outside_walls": 5,
+      "outside_walls": 0,
       "official": 5,
       "tradition": 1
     },

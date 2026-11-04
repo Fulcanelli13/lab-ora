@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:36:14Z",
+  "generatedAt": "2026-11-04T23:42:29Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Discovering the Delightful, Trenchant, Spiritually Profound Writings of Leonardo Castellani",
-      "publishedAt": "2026-11-04T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/discovering-delightful-trenchant.html"
+      "title": "The Feast of All Saints 2026: The Angels",
+      "publishedAt": "2026-11-04T22:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-angels.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of All Saints 2026: The Virgin Mary",
-      "publishedAt": "2026-11-03T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-virgin-mary.html"
+      "title": "Discovering the Delightful, Trenchant, Spiritually Profound Writings of Leonardo Castellani",
+      "publishedAt": "2026-11-04T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/discovering-delightful-trenchant.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Baroque Sacred Art: Hope that Transcends Suffering (Part 2)",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-sacred-art-hope-that-transcends.html"
+      "title": "The Feast of All Saints 2026: The Virgin Mary",
+      "publishedAt": "2026-11-03T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-virgin-mary.html"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-04T17:36:12Z",
-    "lastSucceeded": "2026-11-04T17:36:14Z",
+    "lastFetched": "2026-11-04T23:42:27Z",
+    "lastSucceeded": "2026-11-04T23:42:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
