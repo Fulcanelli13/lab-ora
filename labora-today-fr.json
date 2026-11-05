@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:52:58Z",
+  "generatedAt": "2026-11-05T17:26:24Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape reçoit Bob Dylan au Vatican",
+      "title": "Léon XIV rentre chez lui, sur un continent plein de contradictions et d’espérance",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-editorial-voyage-en-amerique-latine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Aperçu de la situation de l'Église en Uruguay, en Argentine et au Pérou",
+      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/apercu-de-la-situation-de-l-eglise-en-uruguay-en-argentine-et-a.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV exhorte à prier pour sa «mission en Amérique du Sud»",
+      "title": "L'Église de Chine, un témoignage pour l'Eglise universelle",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-mission-en-amerique-du-sud-priere.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-eveques-eglise-chinois-missionnaire-temoignage.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Ukraine: l’aumônier du Pape achève sa visite auprès d’un peuple meurtri",
+      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/ukraine-guerre-solidarite-eglise-paix-charite-enfants.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape reçoit Bob Dylan au Vatican",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le Vatican organise un dialogue sur l’IA et la dignité humaine",
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/vatican-dialogue-ia-dignite-humaine-magnifica-humanitas.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,23 +111,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le dicastère pour la Communication fait ses adieux à Paolo Ruffini",
+      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/dicastere-communication-curie-romaine-foi-engagement-nomination.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Hindous et chrétiens unis pour tracer de nouvelles voies de paix",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-10/hindous-et-chretiens-diwali-dialogue-interreligieux-vatican.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-05T06:52:51Z",
-    "lastSucceeded": "2026-11-05T06:52:58Z",
+    "lastFetched": "2026-11-05T17:26:17Z",
+    "lastSucceeded": "2026-11-05T17:26:24Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,9 +143,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,

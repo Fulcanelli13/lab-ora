@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:52:51Z",
+  "generatedAt": "2026-11-05T17:26:17Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,6 +15,38 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Cardinal Parolin confirms Pope Leo’s approval of China bishop appointments despite ‘imperfect’ agreement",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-parolin-confirms-pope-leos-approval-of-china-bishop-appointments-despite-imperfect-agreement/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Undercover reporter goes inside Bishop Richard Williamson’s chapel",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/undercover-reporter-goes-inside-bishop-richard-williamsons-chapel/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Display of Relics at Trinità dei Pellegrini for All Saints’ Day",
+      "publishedAt": "2026-11-05T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/display-of-relics-at-trinita-dei.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "Pope Leo XIV has made history by voting in US midterms: The candidates and papal precedents",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/pope-leo-xiv-could-make-history-by-voting-in-us-midterms-the-candidates-and-papal-precedents/"
@@ -23,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Spanish archbishop says feminism cannot cure sexism and calls for return of illegal migrants",
+      "title": "Cardinal Reina: Unity with Pope essential to Church’s missionary mission",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/spanish-archbishop-says-feminism-cannot-cure-sexism-and-calls-for-return-of-illegal-migrants/"
+      "url": "https://advaticanum.com/article/cardinal-reina-unity-with-pope-essential-to-churchs-missionary-mission/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/04/261104b.html"
+      "title": "Audiences",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop of New York joins legal challenge against assisted suicide law",
+      "title": "SSPX Superior General condemns Vatican Co-Redemptrix stance as ‘disastrous’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-of-new-york-joins-legal-challenge-against-assisted-suicide-law/"
+      "url": "https://advaticanum.com/article/sspx-superior-general-condemns-vatican-co-redemptrix-stance-as-disastrous/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/04/261104a.html"
+      "title": "Holy Mass in memory of the Cardinals and Bishops departed during the course of the year",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -76,30 +108,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/discovering-delightful-trenchant.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Paolo Romeo, former Archbishop of Palermo and Vatican diplomat, dies aged 88",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-paolo-romeo-former-archbishop-of-palermo-and-vatican-diplomat-dies-aged-88/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Archdiocese of Montevideo suspends Sunday Masses for Pope Leo XIV’s visit",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/archdiocese-of-montevideo-suspends-sunday-masses-for-pope-leo-xivs-visit/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with a delegation of “L’Oeuvre d’Orient” and the “Institut Chrétiens d’Orient”",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/04/261104d.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
@@ -108,26 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-virgin-mary.html"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
       "language": "en",
-      "title": "General Audience",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/04/261104e.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV in Uruguay, Argentina and Peru (6 – 17 November 2026) - Statistics",
+      "title": "Baroque Sacred Art: Hope that Transcends Suffering (Part 2)",
       "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/03/261103f.html"
+      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-sacred-art-hope-that-transcends.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-05T06:52:49Z",
-    "lastSucceeded": "2026-11-05T06:52:51Z",
+    "lastFetched": "2026-11-05T17:26:15Z",
+    "lastSucceeded": "2026-11-05T17:26:17Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 5,
-      "tradition": 3
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 0,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
