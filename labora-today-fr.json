@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:52:34Z",
+  "generatedAt": "2026-11-06T16:48:22Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV en route pour l'Amérique latine: coup d'envoi du voyage apostolique",
+      "title": "Léon XIV attendu sur l’IA dans une société uruguayenne en pleine réflexion",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-amerique-latine-voyage-apostolique-uruguay-perou-argentine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-ia-societe-uruguay-universite-catholique-voyage-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -34,14 +34,6 @@
       "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "LES NOUVELLES DE ROME NE SONT PAS RÉJOUISSANTES LE FOND DU PROBLÈME RÉSIDE DANS LA PERTE DU SENS DE DIEU",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4528"
     },
     {
       "source": "Vatican News",
@@ -114,20 +106,12 @@
       "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape reçoit Bob Dylan au Vatican",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-06T06:52:25Z",
-    "lastSucceeded": "2026-11-06T06:52:34Z",
+    "lastFetched": "2026-11-06T16:48:14Z",
+    "lastSucceeded": "2026-11-06T16:48:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +135,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 4,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
