@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-05T23:39:57Z",
+  "generatedAt": "2026-11-06T06:52:34Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 31ème semaine du Temps Ordinaire",
-    "date": "2026-11-05",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-31eme-semaine-du-temps-ordinaire-2/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : le mystère d’un Dieu qui est miséricorde ; Dieu est heureux de nous pardonner ; le pardon que nous trouvons dans la confession."
+    "title": "Méditation : Vendredi de la 31ème semaine du Temps Ordinaire",
+    "date": "2026-11-06",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-31eme-semaine-du-temps-ordinaire-2/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : s’impliquer personnellement dans les affaires de Dieu ; la ruse du bon larron ; s’adresser à Dieu avec l'ambition d’un enfant."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV rentre chez lui, sur un continent plein de contradictions et d’espérance",
+      "title": "Léon XIV en route pour l'Amérique latine: coup d'envoi du voyage apostolique",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-editorial-voyage-en-amerique-latine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-amerique-latine-voyage-apostolique-uruguay-perou-argentine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "L'Église de Chine, un témoignage pour l'Eglise universelle",
+      "title": "Léon XIV rentre chez lui, sur un continent plein de contradictions et d’espérance",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-eveques-eglise-chinois-missionnaire-temoignage.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-editorial-voyage-en-amerique-latine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape reçoit Bob Dylan au Vatican",
+      "title": "L'Église de Chine, un témoignage pour l'Eglise universelle",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-eveques-eglise-chinois-missionnaire-temoignage.html"
     },
     {
       "source": "Riposte Catholique",
@@ -114,12 +114,20 @@
       "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape reçoit Bob Dylan au Vatican",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-recoit-bob-dylan-au-vatican-contre-nucleaire-paix.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-05T23:39:50Z",
-    "lastSucceeded": "2026-11-05T23:39:57Z",
+    "lastFetched": "2026-11-06T06:52:25Z",
+    "lastSucceeded": "2026-11-06T06:52:34Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,7 +151,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 4,
       "tradition": 1
