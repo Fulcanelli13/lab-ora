@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:48:14Z",
+  "generatedAt": "2026-11-06T23:12:23Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,6 +15,38 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Pope Leo XIV departs Rome for 12-day apostolic journey to South America",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-departs-rome-for-12-day-apostolic-journey-to-south-america/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Cardinal Ranjith warns German Church cannot change Catholic teaching on homosexuality and women’s ordination",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-ranjith-warns-german-church-cannot-change-catholic-teaching-on-homosexuality-and-womens-ordination/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Welcome Ceremony in Uruguay, Meeting with the Authorities, Civil Society and the Diplomatic Corps, and Visit to the President of the Republic of Uruguay",
+      "publishedAt": "2026-11-06T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/06/261106b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Feast of All Saints 2026: The Apostles",
+      "publishedAt": "2026-11-06T21:05:21.569000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-apostles.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "Cardinal Parolin confirms Pope Leo’s approval of China bishop appointments despite ‘imperfect’ agreement",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/cardinal-parolin-confirms-pope-leos-approval-of-china-bishop-appointments-despite-imperfect-agreement/"
@@ -23,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Chinese bishop defends Church’s submission to Communist government at Rome conference",
+      "title": "Cardinal Parolin urges Democrats to work with Trump following midterm victories",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/chinese-bishop-defends-churchs-submission-to-communist-government-at-rome-conference/"
+      "url": "https://advaticanum.com/article/cardinal-parolin-urges-democrats-to-work-with-trump-following-midterm-victories/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Departure from Rome, Telegram to the President of the Italian Republic",
-      "publishedAt": "2026-11-06T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/06/261106a.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105d.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,41 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "‘I know I’m going to get crucified for this homily’: Massachusetts priest responds to election results",
+      "title": "Chinese bishop defends Church’s submission to Communist government at Rome conference",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/i-know-im-going-to-get-crucified-for-this-homily-massachusetts-priest-responds-to-election-results/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-05T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105d.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Feast of All Saints 2026: The Patriarchs and Prophets",
-      "publishedAt": "2026-11-05T21:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-patriarchs.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Fernández criticises progressive and conservative bishops for losing sight of the heart of the Gospel",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-fernandez-criticises-progressive-and-conservative-bishops-for-losing-sight-of-the-heart-of-the-gospel/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Undercover reporter goes inside Bishop Richard Williamson’s chapel",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/undercover-reporter-goes-inside-bishop-richard-williamsons-chapel/"
+      "url": "https://advaticanum.com/article/chinese-bishop-defends-churchs-submission-to-communist-government-at-rome-conference/"
     },
     {
       "source": "Holy See Press Office",
@@ -98,6 +98,14 @@
       "title": "Audiences",
       "publishedAt": "2026-11-05T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/05/261105c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The Feast of All Saints 2026: The Patriarchs and Prophets",
+      "publishedAt": "2026-11-05T21:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-patriarchs.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "The Feast of All Saints 2026: The Angels",
       "publishedAt": "2026-11-04T22:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-angels.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Discovering the Delightful, Trenchant, Spiritually Profound Writings of Leonardo Castellani",
-      "publishedAt": "2026-11-04T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/discovering-delightful-trenchant.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-06T16:48:10Z",
-    "lastSucceeded": "2026-11-06T16:48:14Z",
+    "lastFetched": "2026-11-06T23:12:18Z",
+    "lastSucceeded": "2026-11-06T23:12:23Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -156,8 +156,8 @@
       "official": 3,
       "tradition": 5
     },
-    "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "discardedMalformed": 1,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

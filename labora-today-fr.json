@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:48:22Z",
+  "generatedAt": "2026-11-06T23:12:29Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV attendu sur l’IA dans une société uruguayenne en pleine réflexion",
+      "title": "Léon XIV n’a jamais douté du voyage en Amérique latine et se dit heureux de s’y rendre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-ia-societe-uruguay-universite-catholique-voyage-apostolique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-les-journalistes-en-vol-vers-l-uruguay.html"
     },
     {
       "source": "Riposte Catholique",
@@ -36,12 +36,20 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
     },
     {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "LES NOUVELLES DE ROME NE SONT PAS RÉJOUISSANTES LE FOND DU PROBLÈME RÉSIDE DANS LA PERTE DU SENS DE DIEU",
+      "publishedAt": "2026-11-04T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4528"
+    },
+    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV rentre chez lui, sur un continent plein de contradictions et d’espérance",
+      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-editorial-voyage-en-amerique-latine.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
     },
     {
       "source": "Riposte Catholique",
@@ -55,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
+      "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "L'Église de Chine, un témoignage pour l'Eglise universelle",
+      "title": "Saint Turibe de Mogrovejo, un archevêque missionnaire au cœur du Pérou",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-eveques-eglise-chinois-missionnaire-temoignage.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saint-turibe-de-mogrovejo-archeveque-missionnaire-au-c-ur-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
+      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,6 +111,14 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
       "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
@@ -110,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-06T16:48:14Z",
-    "lastSucceeded": "2026-11-06T16:48:22Z",
+    "lastFetched": "2026-11-06T23:12:23Z",
+    "lastSucceeded": "2026-11-06T23:12:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -137,8 +153,8 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
-      "tradition": 0
+      "official": 5,
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
