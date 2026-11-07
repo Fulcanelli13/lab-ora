@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:03:40Z",
+  "generatedAt": "2026-11-07T13:08:06Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
+      "title": "Les saints et bienheureux de l’Uruguay cités par le Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/eglise-amerique-sud-saints-et-bienheureux-patrimoine-spirituel.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219430"
+      "title": "Le blasphème s’invite dans les pancartes du collectif Anastasis",
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219442"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV n’a jamais douté du voyage en Amérique latine et se dit heureux de s’y rendre",
+      "title": "La première journée de Léon XIV en Uruguay résumée en une minute",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-les-journalistes-en-vol-vers-l-uruguay.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/uruguay-leon-xiv-premiere-journee-une-minute.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219423"
+      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
+      "publishedAt": "2026-11-04T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219430"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Saint Turibe de Mogrovejo, un archevêque missionnaire au cœur du Pérou",
+      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saint-turibe-de-mogrovejo-archeveque-missionnaire-au-c-ur-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Léon XIV a voté pour les Midterms",
+      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
       "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219414"
+      "url": "https://riposte-catholique.fr/archives/219423"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219393"
+      "title": "Léon XIV a voté pour les Midterms",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219414"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Un colloque du CIEL sur les langues liturgiques",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219373"
+      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
+      "publishedAt": "2026-11-02T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219393"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-07T06:03:34Z",
-    "lastSucceeded": "2026-11-07T06:03:40Z",
+    "lastFetched": "2026-11-07T13:07:58Z",
+    "lastSucceeded": "2026-11-07T13:08:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
