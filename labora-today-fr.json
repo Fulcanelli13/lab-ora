@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-06T23:12:29Z",
+  "generatedAt": "2026-11-07T06:03:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 31ème semaine du Temps Ordinaire",
-    "date": "2026-11-06",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-31eme-semaine-du-temps-ordinaire-2/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : s’impliquer personnellement dans les affaires de Dieu ; la ruse du bon larron ; s’adresser à Dieu avec l'ambition d’un enfant."
+    "title": "Méditation : Samedi de la 31ème semaine du Temps Ordinaire",
+    "date": "2026-11-07",
+    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-31eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : la liberté de ne pas s’attacher aux biens de ce monde ; le détachement nous rappelle que tout appartient à Dieu ; rendre grâce pour tout ce que nous possédons."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV n’a jamais douté du voyage en Amérique latine et se dit heureux de s’y rendre",
+      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-les-journalistes-en-vol-vers-l-uruguay.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
+      "title": "Léon XIV n’a jamais douté du voyage en Amérique latine et se dit heureux de s’y rendre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-les-journalistes-en-vol-vers-l-uruguay.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-06T23:12:23Z",
-    "lastSucceeded": "2026-11-06T23:12:29Z",
+    "lastFetched": "2026-11-07T06:03:34Z",
+    "lastSucceeded": "2026-11-07T06:03:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
