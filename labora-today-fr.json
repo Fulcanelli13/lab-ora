@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:08:06Z",
+  "generatedAt": "2026-11-07T19:27:04Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le blasphème s’invite dans les pancartes du collectif Anastasis",
+      "title": "La Fraternité Saint-Pierre compte 602 membres",
       "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219442"
+      "url": "https://riposte-catholique.fr/archives/219463"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219430"
+      "title": "Le blasphème s’invite dans les pancartes du collectif Anastasis",
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219442"
     },
     {
       "source": "Vatican News",
@@ -68,20 +68,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "En Uruguay, Léon XIV plaide pour une fin de vie naturelle de chaque personne",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-uruguay-discours-autorites.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219423"
+      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
+      "publishedAt": "2026-11-04T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219430"
     },
     {
       "source": "Vatican News",
@@ -95,17 +87,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Léon XIV a voté pour les Midterms",
+      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
       "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219414"
+      "url": "https://riposte-catholique.fr/archives/219423"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Célébration d’une messe maronite au Centre Saint-Paul et conférence sur les latinisations des rites orientaux",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219393"
+      "title": "Léon XIV a voté pour les Midterms",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219414"
     },
     {
       "source": "Vatican News",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-07T13:07:58Z",
-    "lastSucceeded": "2026-11-07T13:08:06Z",
+    "lastFetched": "2026-11-07T19:26:58Z",
+    "lastSucceeded": "2026-11-07T19:27:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
