@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-08T00:40:32Z",
+  "generatedAt": "2026-11-08T10:27:12Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Saturday of the Thirty-First Week of Ordinary Time",
+    "title": "Meditations: Sunday of the Thirty-Second Week of Ordinary Time (Year A)",
     "date": "2026-11-08",
-    "url": "https://opusdei.org/en/meditation/meditations-saturday-of-the-thirty-first-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-first week of Ordinary Time. The topics are: the freedom of not clinging to earthly goods; detachment reminds us that everything belongs to God; being grateful for what we have."
+    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-thirty-second-week-of-ordinary-time-year-a/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: the oil of good works; anticipating the encounter with the beloved; a vibrant, constant “yes.”"
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-08T00:40:27Z",
-    "lastSucceeded": "2026-11-08T00:40:32Z",
+    "lastFetched": "2026-11-08T10:27:08Z",
+    "lastSucceeded": "2026-11-08T10:27:12Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

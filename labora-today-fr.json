@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:40:40Z",
+  "generatedAt": "2026-11-08T10:27:18Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -68,14 +68,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Les saints et bienheureux de l’Uruguay cités par le Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/eglise-amerique-sud-saints-et-bienheureux-patrimoine-spirituel.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-08T00:40:32Z",
-    "lastSucceeded": "2026-11-08T00:40:40Z",
+    "lastFetched": "2026-11-08T10:27:12Z",
+    "lastSucceeded": "2026-11-08T10:27:18Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
