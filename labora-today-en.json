@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:27:12Z",
+  "generatedAt": "2026-11-08T17:56:50Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -31,17 +31,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107a.html"
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Holy Mass in the square in front of the Cathedral Basilica of Florida, National Shrine of Our Lady of the Thirty-Three",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of All Saints 2026: The Martyrs",
-      "publishedAt": "2026-11-07T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-martyrs.html"
+      "title": "The Octave of All Saints 2026: The Confessors",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-octave-of-all-saints-2026-confessors.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -63,17 +63,17 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Departure from Montevideo and arrival in Paysandú, Holy Mass in the “Parque París Londres”, Departure from Paysandú and arrival in Montevideo",
+      "title": "Resignations and Appointments",
       "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107b.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on Prayer for the Dead (Part 2)",
-      "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-2.html"
+      "title": "The Feast of All Saints 2026: The Martyrs",
+      "publishedAt": "2026-11-07T21:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-martyrs.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -95,17 +95,25 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Meeting with the social community of Casavalle at the Parish of Our Lady of Guadalupe",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Departure from Montevideo and arrival in Paysandú, Holy Mass in the “Parque París Londres”, Departure from Paysandú and arrival in Montevideo",
       "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107a0.html"
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of All Saints 2026: The Apostles",
-      "publishedAt": "2026-11-06T21:05:21.569000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-apostles.html"
+      "title": "Durandus on Prayer for the Dead (Part 2)",
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-2.html"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Meeting with the social community of Casavalle at the Parish of Our Lady of Guadalupe",
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107a0.html"
     },
     {
       "source": "Holy See Press Office",
@@ -114,20 +122,12 @@
       "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Meeting with the world of Education at the Catholic University of Uruguay",
       "publishedAt": "2026-11-07T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/07/261107e.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "A New Edition of an Early Dominican Breviary",
-      "publishedAt": "2026-11-06T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/a-new-edition-of-early-dominican.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-08T10:27:08Z",
-    "lastSucceeded": "2026-11-08T10:27:12Z",
+    "lastFetched": "2026-11-08T17:56:45Z",
+    "lastSucceeded": "2026-11-08T17:56:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 5,
+      "tradition": 3
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 0,
     "policy": {
       "target": 14,
       "hardMax": 15,

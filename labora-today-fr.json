@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:27:18Z",
+  "generatedAt": "2026-11-08T17:56:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Un monde sans Dieu diminue l’homme, alerte Léon XIV devant les jeunes uruguayens",
+      "title": "«Un enfant de ce pays, si riche, ne devrait pas aller se coucher le ventre vide»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-veillee-priere-jeunes-uruguay-voyage-apostolique.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-uruguay-eglise-saint-societe-civile-casavalle.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "«Un enfant de ce pays, si riche, ne devrait pas aller se coucher le ventre vide»",
+      "title": "Un monde sans Dieu diminue l’homme, alerte Léon XIV devant les jeunes uruguayens",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-uruguay-eglise-saint-societe-civile-casavalle.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-veillee-priere-jeunes-uruguay-voyage-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-08T10:27:12Z",
-    "lastSucceeded": "2026-11-08T10:27:18Z",
+    "lastFetched": "2026-11-08T17:56:50Z",
+    "lastSucceeded": "2026-11-08T17:56:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
