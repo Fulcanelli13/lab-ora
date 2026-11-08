@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-07T19:27:04Z",
+  "generatedAt": "2026-11-08T00:40:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 31ème semaine du Temps Ordinaire",
-    "date": "2026-11-07",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-31eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : la liberté de ne pas s’attacher aux biens de ce monde ; le détachement nous rappelle que tout appartient à Dieu ; rendre grâce pour tout ce que nous possédons."
+    "title": "Méditation : Dimanche de la 32ème semaine du Temps Ordinaire (cycle A)",
+    "date": "2026-11-08",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-32eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les sujets de la méditation du jour sont : l’huile des bonnes œuvres ; l’attente de la rencontre avec l’être aimé ; un “oui” toujours présent."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les saints et bienheureux de l’Uruguay cités par le Pape",
+      "title": "Un monde sans Dieu diminue l’homme, alerte Léon XIV devant les jeunes uruguayens",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/eglise-amerique-sud-saints-et-bienheureux-patrimoine-spirituel.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-veillee-priere-jeunes-uruguay-voyage-apostolique.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "La première journée de Léon XIV en Uruguay résumée en une minute",
+      "title": "«Un enfant de ce pays, si riche, ne devrait pas aller se coucher le ventre vide»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/uruguay-leon-xiv-premiere-journee-une-minute.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-uruguay-eglise-saint-societe-civile-casavalle.html"
     },
     {
       "source": "Riposte Catholique",
@@ -66,6 +66,14 @@
       "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Les saints et bienheureux de l’Uruguay cités par le Pape",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/eglise-amerique-sud-saints-et-bienheureux-patrimoine-spirituel.html"
     },
     {
       "source": "Riposte Catholique",
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-07T19:26:58Z",
-    "lastSucceeded": "2026-11-07T19:27:04Z",
+    "lastFetched": "2026-11-08T00:40:32Z",
+    "lastSucceeded": "2026-11-08T00:40:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,7 +151,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
