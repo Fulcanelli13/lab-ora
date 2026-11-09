@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:40:31Z",
+  "generatedAt": "2026-11-09T19:53:41Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle le peuple argentin à l’unité et à la responsabité",
+      "title": "Buenos Aires: «Que chaque famille devienne une semence pour le renouveau du pays»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-argentine-discours-autorites-societe-civile-peuple.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-leon-xiv-famille-catholique-temple-presence-de-dieu-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -66,14 +66,6 @@
       "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape dans la paroisse de Sainte-Thérèse: n’ayez jamais peur de dire «je suis chrétien»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-uruguay-pape-leon-sainte-therese-oser-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-09T06:40:22Z",
-    "lastSucceeded": "2026-11-09T06:40:31Z",
+    "lastFetched": "2026-11-09T19:53:27Z",
+    "lastSucceeded": "2026-11-09T19:53:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +143,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
