@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-09T19:53:41Z",
+  "generatedAt": "2026-11-10T03:36:21Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 9 novembre, Dédicace de la basilique du Latran",
-    "date": "2026-11-09",
-    "url": "https://opusdei.org/fr/meditation/meditation-9-novembre-dedicace-de-la-basilique-du-latran/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : la première chaire du pape ; adorer dans son cœur et dans le temple ; le soin des objets destinés au culte."
+    "title": "Méditation : Mardi de la 32ème semaine du Temps Ordinaire",
+    "date": "2026-11-10",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-32eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : la seule ambition ; saisir les occasions de servir ; le repos qui nous renouvelle."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Buenos Aires: «Que chaque famille devienne une semence pour le renouveau du pays»",
+      "title": "Léon XIV: «Merci, l’Argentine! Vivons dans la joie de savoir que le Christ nous aime»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-leon-xiv-famille-catholique-temple-presence-de-dieu-foi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-merci-l-argentine-vivons-dans-la-joie.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,9 +31,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
+      "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
       "source": "Paix Liturgique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les condoléances de Léon XIV aux victimes de l'attentat de Cracovie",
+      "title": "En Argentine, le Pape exhorte au travail pour la promotion des vocations sacerdotales",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/telegramme-pape-attentat-pologne.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/vepres-argentine-eveques-cathedrale-francois.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
+      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
     },
     {
       "source": "Riposte Catholique",
@@ -79,9 +79,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Riposte Catholique",
@@ -103,9 +103,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
+      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
     },
     {
       "source": "Vatican News",
@@ -118,8 +118,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-09T19:53:27Z",
-    "lastSucceeded": "2026-11-09T19:53:41Z",
+    "lastFetched": "2026-11-10T03:36:14Z",
+    "lastSucceeded": "2026-11-10T03:36:21Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
