@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:36:21Z",
+  "generatedAt": "2026-11-10T14:57:03Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Merci, l’Argentine! Vivons dans la joie de savoir que le Christ nous aime»",
+      "title": "À Córdoba, le Pape encourage à imiter l'exemple des saints et à annoncer l'Évangile",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-merci-l-argentine-vivons-dans-la-joie.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-messe-cordoba-evangelisation.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: des chanoines augustiniens qui disent la messe traditionnelle",
-      "publishedAt": "2026-11-08T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219458"
+      "title": "Rappel: 5èmes Assises de la Tradition le samedi 14 novembre prochain",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219476"
     },
     {
       "source": "Vatican News",
@@ -47,9 +47,33 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "En Argentine, le Pape exhorte au travail pour la promotion des vocations sacerdotales",
+      "title": "Les saints et bienheureux d’Argentine cités par le Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/vepres-argentine-eveques-cathedrale-francois.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-et-bienheureux-argentine-cites-par-leon-xiv.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "États-Unis: des chanoines augustiniens qui disent la messe traditionnelle",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219458"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape exhorte la CICM à prendre soin des enfants déplacés",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-commission-catholique-migration-enfants-deplaces.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Riposte Catholique",
@@ -76,28 +100,12 @@
       "url": "https://riposte-catholique.fr/archives/219442"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
       "publishedAt": "2026-11-04T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219430"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "République tchèque : Mgr Schneider a ordonné un prêtre selon le rite traditionnel",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219423"
     },
     {
       "source": "Vatican News",
@@ -118,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-10T03:36:14Z",
-    "lastSucceeded": "2026-11-10T03:36:21Z",
+    "lastFetched": "2026-11-10T14:56:46Z",
+    "lastSucceeded": "2026-11-10T14:57:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -143,7 +151,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
