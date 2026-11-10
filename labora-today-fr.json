@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:57:03Z",
+  "generatedAt": "2026-11-10T21:19:10Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Córdoba, le Pape encourage à imiter l'exemple des saints et à annoncer l'Évangile",
+      "title": "Léon XIV: «Osez regarder l’Argentine avec les yeux de Dieu!»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-messe-cordoba-evangelisation.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-osez-regarder-l-argentine-avec-les-yeux-de-dieu-cordoba.html"
     },
     {
       "source": "Riposte Catholique",
@@ -44,14 +44,6 @@
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4536"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Les saints et bienheureux d’Argentine cités par le Pape",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-et-bienheureux-argentine-cites-par-leon-xiv.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -66,14 +58,6 @@
       "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape exhorte la CICM à prendre soin des enfants déplacés",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-commission-catholique-migration-enfants-deplaces.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-10T14:56:46Z",
-    "lastSucceeded": "2026-11-10T14:57:03Z",
+    "lastFetched": "2026-11-10T21:19:01Z",
+    "lastSucceeded": "2026-11-10T21:19:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,7 +135,7 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 1,
       "outside_walls": 5,
       "official": 5,
       "tradition": 1
