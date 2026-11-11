@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:30:51Z",
+  "generatedAt": "2026-11-11T18:06:35Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,41 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV invite les jeunes à rester «debout face aux idoles de notre temps»",
+      "title": "Le Pape implore la Vierge de Luján d'aider l'Argentine à s'engager sur la voie de la réconciliation",
       "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/argentine-voyage-apostolique-veillee-jeunes-pape-esperance-foi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-argentine-fideles-reconciliation-communion-mission.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219482"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
+    },
+    {
+      "source": "Paix Liturgique",
+      "lane": "tradition",
+      "language": "fr",
+      "title": "LES PÈLERINS AD PETRI SEDEM , N’ÉTAIENT PAS LES BIENVENUS À SAINT-PIERRE DE ROME : ILS ONT « UNE ODEUR DE RENFERMÉ »",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4536"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "«La prison est également le théâtre de profonds changements et de conversions»",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-prison-buenos-aires-discours-reinsertion.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Un tribunal maltais accorde 24,1 millions d'euros de dédommagement à l'IOR",
+      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Osez regarder l’Argentine avec les yeux de Dieu!»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-osez-regarder-l-argentine-avec-les-yeux-de-dieu-cordoba.html"
+      "title": "Le résumé en images de la cinquième journée du Pape en Amérique latine",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-pape-leon-argentine-resume-video.html"
     },
     {
       "source": "Riposte Catholique",
@@ -55,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Riposte Catholique",
@@ -68,28 +100,12 @@
       "url": "https://riposte-catholique.fr/archives/219463"
     },
     {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Le blasphème s’invite dans les pancartes du collectif Anastasis",
       "publishedAt": "2026-11-07T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219442"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "5èmes Assises de la Tradition: trois questions à Jean-Pierre Maugendre",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219430"
     },
     {
       "source": "Vatican News",
@@ -110,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-11T06:30:45Z",
-    "lastSucceeded": "2026-11-11T06:30:51Z",
+    "lastFetched": "2026-11-11T18:06:29Z",
+    "lastSucceeded": "2026-11-11T18:06:35Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -135,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 2,
+      "vatican": 3,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 0
+      "tradition": 1
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

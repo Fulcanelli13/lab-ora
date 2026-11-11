@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:30:45Z",
+  "generatedAt": "2026-11-11T18:06:29Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "‘The Rosary kept me going’: US bishop recalls battle with clinical depression",
+      "title": "Vatican orders German diocese to suspend synodal reforms",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/the-rosary-kept-me-going-us-bishop-recalls-battle-with-clinical-depression/"
+      "url": "https://advaticanum.com/article/vatican-orders-german-diocese-to-suspend-synodal-reforms/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110b.html"
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Geghard Monastery in Armenia",
-      "publishedAt": "2026-11-10T21:45:05.254000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
+      "title": "The Feast of St Martin of Tours 2026",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-st-martin-of-tours-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,25 +55,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Inside America’s most progressive Catholic church",
+      "title": "Archbishop Broglio calls Traditionis Custodes ‘a solution looking for a problem’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/inside-americas-most-progressive-catholic-church/"
+      "url": "https://advaticanum.com/article/archbishop-broglio-calls-traditionis-custodes-a-solution-looking-for-a-problem/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Departure from Buenos Aires and arrival in Córdoba, Holy Mass in the grounds of the Military Aviation School",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110c.html"
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Visit to the Buenos Aires Federal Penitentiary Complex",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111b.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Baroque Portraits, Still Lifes, and Landscapes",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-portraits-still-lifes-and.html"
+      "title": "The Geghard Monastery in Armenia",
+      "publishedAt": "2026-11-10T21:45:05.254000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,17 +87,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "German bishops press ahead with Synodal Conference despite lack of Vatican approval",
+      "title": "Pope Leo urges one million young Argentinians not to surrender their freedom",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/german-bishops-press-ahead-with-synodal-conference-despite-lack-of-vatican-approval/"
+      "url": "https://advaticanum.com/article/pope-leo-urges-one-million-young-argentinians-not-to-surrender-their-freedom/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Visit to the Staff and Residents of the “Pequeño Cottolengo Don Orione de Claypole\"",
-      "publishedAt": "2026-11-09T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109c.html"
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Holy Mass at the Basilica of Our Lady of Luján",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111c.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Baroque Portraits, Still Lifes, and Landscapes",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-portraits-still-lifes-and.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "Music for First Vespers of the Dedication of a Church",
       "publishedAt": "2026-11-08T23:00:58.770000Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/music-for-first-vespers-of-dedication.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Octave of All Saints 2026: The Confessors",
-      "publishedAt": "2026-11-08T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-octave-of-all-saints-2026-confessors.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-11T06:30:41Z",
-    "lastSucceeded": "2026-11-11T06:30:45Z",
+    "lastFetched": "2026-11-11T18:06:26Z",
+    "lastSucceeded": "2026-11-11T18:06:29Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -156,8 +156,8 @@
       "official": 3,
       "tradition": 5
     },
-    "discardedMalformed": 1,
-    "duplicatesRemoved": 1,
+    "discardedMalformed": 0,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
