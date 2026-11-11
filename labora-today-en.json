@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-10T21:19:01Z",
+  "generatedAt": "2026-11-11T06:30:45Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Thirty-Second Week of Ordinary Time",
-    "date": "2026-11-10",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-second-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: a single ambition; embracing opportunities to serve; the rest that renews us."
+    "title": "Meditations: Wednesday of the Thirty-Second Week of Ordinary Time",
+    "date": "2026-11-11",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-thirty-second-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: making the lepers’ cry our own; healing comes from grateful faith; giving thanks in all circumstances."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Baroque Portraits, Still Lifes, and Landscapes",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-portraits-still-lifes-and.html"
+      "title": "The Geghard Monastery in Armenia",
+      "publishedAt": "2026-11-10T21:45:05.254000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "A Sequence for the Dedication of a Church, by Adam of St Victor",
-      "publishedAt": "2026-11-09T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/a-sequence-for-dedication-of-church-by.html"
+      "title": "Baroque Portraits, Still Lifes, and Landscapes",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/baroque-portraits-still-lifes-and.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "A Sequence for the Dedication of a Church, by Adam of St Victor",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/a-sequence-for-dedication-of-church-by.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Music for First Vespers of the Dedication of a Church",
       "publishedAt": "2026-11-08T23:00:58.770000Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/music-for-first-vespers-of-dedication.html"
@@ -114,20 +122,12 @@
       "title": "The Octave of All Saints 2026: The Confessors",
       "publishedAt": "2026-11-08T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/the-octave-of-all-saints-2026-confessors.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Feast of All Saints 2026: The Martyrs",
-      "publishedAt": "2026-11-07T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-all-saints-2026-martyrs.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-10T21:18:58Z",
-    "lastSucceeded": "2026-11-10T21:19:01Z",
+    "lastFetched": "2026-11-11T06:30:41Z",
+    "lastSucceeded": "2026-11-11T06:30:45Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

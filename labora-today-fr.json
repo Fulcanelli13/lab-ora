@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-10T21:19:10Z",
+  "generatedAt": "2026-11-11T06:30:51Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 32ème semaine du Temps Ordinaire",
-    "date": "2026-11-10",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-32eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : la seule ambition ; saisir les occasions de servir ; le repos qui nous renouvelle."
+    "title": "Méditation : Mercredi de la 32ème semaine du Temps Ordinaire",
+    "date": "2026-11-11",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-32eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés à la méditation du jour sont : faire nôtre le cri des lépreux ; la guérison la plus profonde vient d’une foi reconnaissante ; rendre grâce ﻿toujours et partout."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: «Osez regarder l’Argentine avec les yeux de Dieu!»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-osez-regarder-l-argentine-avec-les-yeux-de-dieu-cordoba.html"
+      "title": "Léon XIV invite les jeunes à rester «debout face aux idoles de notre temps»",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/argentine-voyage-apostolique-veillee-jeunes-pape-esperance-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -36,12 +36,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
+      "source": "Vatican News",
+      "lane": "vatican",
       "language": "fr",
-      "title": "LES PÈLERINS AD PETRI SEDEM , N’ÉTAIENT PAS LES BIENVENUS À SAINT-PIERRE DE ROME : ILS ONT « UNE ODEUR DE RENFERMÉ »",
-      "publishedAt": "2026-11-09T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4536"
+      "title": "Léon XIV: «Osez regarder l’Argentine avec les yeux de Dieu!»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-osez-regarder-l-argentine-avec-les-yeux-de-dieu-cordoba.html"
     },
     {
       "source": "Riposte Catholique",
@@ -110,8 +110,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-10T21:19:01Z",
-    "lastSucceeded": "2026-11-10T21:19:10Z",
+    "lastFetched": "2026-11-11T06:30:45Z",
+    "lastSucceeded": "2026-11-11T06:30:51Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -135,10 +135,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 1,
+      "vatican": 2,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,
