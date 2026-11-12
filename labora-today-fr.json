@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:46:51Z",
+  "generatedAt": "2026-11-12T11:20:21Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,7 +15,7 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape implore la Vierge de Luján d'aider l'Argentine à s'engager sur la voie de la réconciliation",
+      "title": "Le Pape implore la Vierge de Luján d'aider l'Argentine",
       "publishedAt": "2026-11-11T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-argentine-fideles-reconciliation-communion-mission.html"
     },
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219482"
+      "title": "Mgr Pascal Schreiber s’est vu remettre les insignes épiscopaux de Mgr Vitus Huonder",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219496"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "«La prison est également le théâtre de profonds changements et de conversions»",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-prison-buenos-aires-discours-reinsertion.html"
+      "title": "Le Pape à la nonciature au Pérou: «Ici, je suis chez moi»",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-nonciature-perou.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rappel: 5èmes Assises de la Tradition le samedi 14 novembre prochain",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219476"
+      "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219482"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en images de la cinquième journée du Pape en Amérique latine",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-pape-leon-argentine-resume-video.html"
+      "title": "Le résumé en image de la sixième journée du Pape en Amérique latine",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostilique-pape-leon-xiv-resume-video-perou.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: des chanoines augustiniens qui disent la messe traditionnelle",
-      "publishedAt": "2026-11-08T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219458"
+      "title": "Rappel: 5èmes Assises de la Tradition le samedi 14 novembre prochain",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219476"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "La Fraternité Saint-Pierre compte 602 membres",
-      "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219463"
+      "title": "États-Unis: des chanoines augustiniens qui disent la messe traditionnelle",
+      "publishedAt": "2026-11-08T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219458"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le blasphème s’invite dans les pancartes du collectif Anastasis",
+      "title": "La Fraternité Saint-Pierre compte 602 membres",
       "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219442"
+      "url": "https://riposte-catholique.fr/archives/219463"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-12T00:46:45Z",
-    "lastSucceeded": "2026-11-12T00:46:51Z",
+    "lastFetched": "2026-11-12T11:20:15Z",
+    "lastSucceeded": "2026-11-12T11:20:21Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

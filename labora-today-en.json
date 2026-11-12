@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:46:45Z",
+  "generatedAt": "2026-11-12T11:20:15Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Vatican orders German diocese to suspend synodal reforms",
+      "title": "Pope Leo declares ‘I am at home’ in Peru as security breaches disrupt arrival",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-orders-german-diocese-to-suspend-synodal-reforms/"
+      "url": "https://advaticanum.com/article/pope-leo-declares-i-am-at-home-in-peru-as-security-breaches-disrupt-arrival/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop Broglio calls Traditionis Custodes ‘a solution looking for a problem’",
+      "title": "Vatican orders German diocese to suspend synodal reforms",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-broglio-calls-traditionis-custodes-a-solution-looking-for-a-problem/"
+      "url": "https://advaticanum.com/article/vatican-orders-german-diocese-to-suspend-synodal-reforms/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Leo urges one million young Argentinians not to surrender their freedom",
+      "title": "Archbishop Broglio calls Traditionis Custodes ‘a solution looking for a problem’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-urges-one-million-young-argentinians-not-to-surrender-their-freedom/"
+      "url": "https://advaticanum.com/article/archbishop-broglio-calls-traditionis-custodes-a-solution-looking-for-a-problem/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-12T00:46:41Z",
-    "lastSucceeded": "2026-11-12T00:46:45Z",
+    "lastFetched": "2026-11-12T11:20:11Z",
+    "lastSucceeded": "2026-11-12T11:20:15Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -156,8 +156,8 @@
       "official": 3,
       "tradition": 5
     },
-    "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "discardedMalformed": 1,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,
