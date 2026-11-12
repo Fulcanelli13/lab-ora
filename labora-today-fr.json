@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:20:21Z",
+  "generatedAt": "2026-11-12T19:58:02Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape implore la Vierge de Luján d'aider l'Argentine",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-argentine-fideles-reconciliation-communion-mission.html"
+      "title": "Les saints et bienheureux du Pérou cités par le Pape",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-bienheureux-perou-pape-mission-evangelisation-charite.html"
     },
     {
       "source": "Riposte Catholique",
@@ -40,16 +40,16 @@
       "lane": "tradition",
       "language": "fr",
       "title": "À LA CIME DE L'AFRIQUE LA LITURGIE TRADITIONNELLE CÉLEBRÉE AU SOMMET DU KILIMANDJARO",
-      "publishedAt": null,
+      "publishedAt": "2026-11-12T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4537"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape à la nonciature au Pérou: «Ici, je suis chez moi»",
+      "title": "À Lima, Léon XIV invite les évêques à ouvrir leur cœur au «Pérou d’aujourd’hui»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-nonciature-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-lima-eveques-perou-voyage-apostolique-discours.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-12T11:20:15Z",
-    "lastSucceeded": "2026-11-12T11:20:21Z",
+    "lastFetched": "2026-11-12T19:57:53Z",
+    "lastSucceeded": "2026-11-12T19:58:02Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
