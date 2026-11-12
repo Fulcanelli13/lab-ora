@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T18:06:35Z",
+  "generatedAt": "2026-11-12T00:46:51Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 32ème semaine du Temps Ordinaire",
-    "date": "2026-11-11",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-32eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés à la méditation du jour sont : faire nôtre le cri des lépreux ; la guérison la plus profonde vient d’une foi reconnaissante ; rendre grâce ﻿toujours et partout."
+    "title": "Méditation : Jeudi de la 32ème semaine du Temps Ordinaire",
+    "date": "2026-11-12",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-32eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés à la méditation du jour sont : le Règne de Dieu est à l’intérieur de nous ; demeurer unis à la vigne pour porter du fruit ; Dieu règne aussi dans nos relations avec les autres"
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "LES PÈLERINS AD PETRI SEDEM , N’ÉTAIENT PAS LES BIENVENUS À SAINT-PIERRE DE ROME : ILS ONT « UNE ODEUR DE RENFERMÉ »",
-      "publishedAt": "2026-11-09T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4536"
+      "title": "À LA CIME DE L'AFRIQUE LA LITURGIE TRADITIONNELLE CÉLEBRÉE AU SOMMET DU KILIMANDJARO",
+      "publishedAt": null,
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4537"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-11T18:06:29Z",
-    "lastSucceeded": "2026-11-11T18:06:35Z",
+    "lastFetched": "2026-11-12T00:46:45Z",
+    "lastSucceeded": "2026-11-12T00:46:51Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

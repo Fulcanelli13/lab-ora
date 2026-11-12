@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T18:06:29Z",
+  "generatedAt": "2026-11-12T00:46:45Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Thirty-Second Week of Ordinary Time",
-    "date": "2026-11-11",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-thirty-second-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: making the lepers’ cry our own; healing comes from grateful faith; giving thanks in all circumstances."
+    "title": "Meditations: Thursday of the Thirty-Second Week of Ordinary Time",
+    "date": "2026-11-12",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirty-second-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: the Kingdom of God is within us; remaining united to the vine to bear fruit; God reigns in our relationships with others."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of St Martin of Tours 2026",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-st-martin-of-tours-2026.html"
+      "title": "Videos of Three Recent Lectures by Dr. Kwasniewski",
+      "publishedAt": "2026-11-11T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/videos-of-three-recent-lectures-by-dr.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Geghard Monastery in Armenia",
-      "publishedAt": "2026-11-10T21:45:05.254000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
+      "title": "The Feast of St Martin of Tours 2026",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-st-martin-of-tours-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Geghard Monastery in Armenia",
+      "publishedAt": "2026-11-10T21:45:05.254000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Baroque Portraits, Still Lifes, and Landscapes",
       "publishedAt": "2026-11-10T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/baroque-portraits-still-lifes-and.html"
@@ -114,20 +122,12 @@
       "title": "A Sequence for the Dedication of a Church, by Adam of St Victor",
       "publishedAt": "2026-11-09T12:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/a-sequence-for-dedication-of-church-by.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Music for First Vespers of the Dedication of a Church",
-      "publishedAt": "2026-11-08T23:00:58.770000Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/music-for-first-vespers-of-dedication.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-11T18:06:26Z",
-    "lastSucceeded": "2026-11-11T18:06:29Z",
+    "lastFetched": "2026-11-12T00:46:41Z",
+    "lastSucceeded": "2026-11-12T00:46:45Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
