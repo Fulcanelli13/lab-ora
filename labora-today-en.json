@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:51:10Z",
+  "generatedAt": "2026-11-13T11:04:01Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Müller condemns ‘neo-socialist wokism’ and warns against reducing Church to humanitarian organisation",
+      "title": "Pope Leo XIV meets survivors of clerical abuse in Peru",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-muller-condemns-neo-socialist-wokism-and-warns-against-reducing-church-to-humanitarian-organisation/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-meets-survivors-of-clerical-abuse-in-peru/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archbishop pictured alongside head of Freemasonry at Remembrance event",
+      "title": "Cardinal Müller condemns ‘neo-socialist wokism’ and warns against reducing Church to humanitarian organisation",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archbishop-pictured-alongside-head-of-freemasonry-at-remembrance-event/"
+      "url": "https://advaticanum.com/article/cardinal-muller-condemns-neo-socialist-wokism-and-warns-against-reducing-church-to-humanitarian-organisation/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Only 29 per cent of US Catholics believe in Real Presence despite three-year Eucharistic Revival",
+      "title": "Archbishop pictured alongside head of Freemasonry at Remembrance event",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/only-29-per-cent-of-us-catholics-believe-in-real-presence-despite-three-year-eucharistic-revival/"
+      "url": "https://advaticanum.com/article/archbishop-pictured-alongside-head-of-freemasonry-at-remembrance-event/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Meeting on the Challenges and Hopes for the Future of the Peruvian People in the square in front of the Cathedral",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/12/261112d.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -114,20 +122,12 @@
       "title": "The Geghard Monastery in Armenia",
       "publishedAt": "2026-11-10T21:45:05.254000Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/the-geghard-monastery-in-armenia.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Cardinal Fernández criticises progressive and conservative bishops for losing sight of the heart of the Gospel",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-fernandez-criticises-progressive-and-conservative-bishops-for-losing-sight-of-the-heart-of-the-gospel/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-13T01:51:08Z",
-    "lastSucceeded": "2026-11-13T01:51:10Z",
+    "lastFetched": "2026-11-13T11:03:59Z",
+    "lastSucceeded": "2026-11-13T11:04:01Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 3,
-      "official": 2,
+      "official": 3,
       "tradition": 5
     },
     "discardedMalformed": 1,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:51:15Z",
+  "generatedAt": "2026-11-13T11:04:08Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape rencontre des victimes d’abus à Lima",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-rencontre-des-victimes-d-abus-a-lima.html"
+      "title": "Le résumé en image de la septième journée du Pape en Amérique latine",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/video-septieme-journee-pape-leon-xiv-amerique-latine-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les saints et bienheureux du Pérou cités par le Pape",
+      "title": "Le Pape rencontre des victimes d’abus à Lima",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-bienheureux-perou-pape-mission-evangelisation-charite.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-rencontre-des-victimes-d-abus-a-lima.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Lima, Léon XIV invite les évêques à ouvrir leur cœur au «Pérou d’aujourd’hui»",
+      "title": "Léon XIV encourage les jeunes à faire «le pas qu’ils peuvent faire aujourd’hui»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-lima-eveques-perou-voyage-apostolique-discours.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-perou-veillee-de-priere-jeunes-etudiant-lima-stade.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-13T01:51:10Z",
-    "lastSucceeded": "2026-11-13T01:51:15Z",
+    "lastFetched": "2026-11-13T11:04:01Z",
+    "lastSucceeded": "2026-11-13T11:04:08Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
