@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:04:08Z",
+  "generatedAt": "2026-11-13T19:46:23Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en image de la septième journée du Pape en Amérique latine",
+      "title": "À Chiclayo, Léon XIV appelle les baptisés à être des «disciples missionnaires»",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/video-septieme-journee-pape-leon-xiv-amerique-latine-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/a-chiclayo-leon-xiv-appelle-baptises-etre-disciples-missionnaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape rencontre des victimes d’abus à Lima",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-rencontre-des-victimes-d-abus-a-lima.html"
+      "title": "Le résumé en images de la septième journée du Pape en Amérique latine",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/video-septieme-journee-pape-leon-xiv-amerique-latine-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-13T11:04:01Z",
-    "lastSucceeded": "2026-11-13T11:04:08Z",
+    "lastFetched": "2026-11-13T19:46:14Z",
+    "lastSucceeded": "2026-11-13T19:46:23Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
