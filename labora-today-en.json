@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-12T19:57:52Z",
+  "generatedAt": "2026-11-13T01:51:10Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Thirty-Second Week of Ordinary Time",
-    "date": "2026-11-12",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirty-second-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: the Kingdom of God is within us; remaining united to the vine to bear fruit; God reigns in our relationships with others."
+    "title": "Meditations: Friday of the Thirty-Second Week of Ordinary Time",
+    "date": "2026-11-13",
+    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-thirty-second-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-second week of Ordinary Time. The topics are: the reality of the Lord's coming; supernatural vision reveals life where death seems to be; service is our treasure for eternity."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-12T19:57:50Z",
-    "lastSucceeded": "2026-11-12T19:57:52Z",
+    "lastFetched": "2026-11-13T01:51:08Z",
+    "lastSucceeded": "2026-11-13T01:51:10Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

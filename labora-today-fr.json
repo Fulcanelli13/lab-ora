@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-12T19:58:02Z",
+  "generatedAt": "2026-11-13T01:51:15Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 32ème semaine du Temps Ordinaire",
-    "date": "2026-11-12",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-32eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés à la méditation du jour sont : le Règne de Dieu est à l’intérieur de nous ; demeurer unis à la vigne pour porter du fruit ; Dieu règne aussi dans nos relations avec les autres"
+    "title": "Méditation : Vendredi de la 32ème semaine du Temps Ordinaire",
+    "date": "2026-11-13",
+    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-32eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés à la méditation du jour sont : la venue du Seigneur est certaine ; la vision surnaturelle découvre la vie dans ce qui semblait mort ; l’esprit de service est notre trésor pour l’éternité."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Les saints et bienheureux du Pérou cités par le Pape",
+      "title": "Le Pape rencontre des victimes d’abus à Lima",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-bienheureux-perou-pape-mission-evangelisation-charite.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-pape-rencontre-des-victimes-d-abus-a-lima.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Lima, Léon XIV invite les évêques à ouvrir leur cœur au «Pérou d’aujourd’hui»",
+      "title": "Les saints et bienheureux du Pérou cités par le Pape",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-lima-eveques-perou-voyage-apostolique-discours.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/saints-bienheureux-perou-pape-mission-evangelisation-charite.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en image de la sixième journée du Pape en Amérique latine",
+      "title": "À Lima, Léon XIV invite les évêques à ouvrir leur cœur au «Pérou d’aujourd’hui»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostilique-pape-leon-xiv-resume-video-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-lima-eveques-perou-voyage-apostolique-discours.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-12T19:57:53Z",
-    "lastSucceeded": "2026-11-12T19:58:02Z",
+    "lastFetched": "2026-11-13T01:51:10Z",
+    "lastSucceeded": "2026-11-13T01:51:15Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
