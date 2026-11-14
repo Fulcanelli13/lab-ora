@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-13T19:46:23Z",
+  "generatedAt": "2026-11-14T01:27:42Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 32ème semaine du Temps Ordinaire",
-    "date": "2026-11-13",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-32eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés à la méditation du jour sont : la venue du Seigneur est certaine ; la vision surnaturelle découvre la vie dans ce qui semblait mort ; l’esprit de service est notre trésor pour l’éternité."
+    "title": "Méditation : Samedi de la 32ème semaine du Temps Ordinaire",
+    "date": "2026-11-14",
+    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-32eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Jésus nous exhorte à persévérer dans la prière de demande ; à intercéder pour ceux qui nous entourent ; la prière et la foi se renforcent l'une l'autre."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Chiclayo, Léon XIV appelle les baptisés à être des «disciples missionnaires»",
+      "title": "Léon XIV met en avant la fragilité humaine face aux promesses du transhumanisme",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/a-chiclayo-leon-xiv-appelle-baptises-etre-disciples-missionnaire.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voayage-apostolique-pape-perou-universite-technologie-education.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Mgr Pascal Schreiber s’est vu remettre les insignes épiscopaux de Mgr Vitus Huonder",
-      "publishedAt": "2026-11-12T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219496"
+      "title": "La Gaubretière (Vendée): Mgr de Dinechin demande qu’il n’y ait plus de célébration de la messe traditionnelle",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219502"
     },
     {
       "source": "Vatican News",
@@ -47,17 +47,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en images de la septième journée du Pape en Amérique latine",
+      "title": "À Chiclayo Léon XIV dessine le style d’une Église plus synodale",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/video-septieme-journee-pape-leon-xiv-amerique-latine-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/chiclayo-leon-xiv-rappelle-notre-identite-commune-fils-filles.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219482"
+      "title": "Mgr Pascal Schreiber s’est vu remettre les insignes épiscopaux de Mgr Vitus Huonder",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219496"
     },
     {
       "source": "Vatican News",
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV encourage les jeunes à faire «le pas qu’ils peuvent faire aujourd’hui»",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-perou-veillee-de-priere-jeunes-etudiant-lima-stade.html"
+      "title": "Le Pape Léon XIV se rend à la chapelle Saint-Oscar-Romero à Chiclayo, au Pérou",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-visite-chapelle-saint-oscar-a-romero-chiclayo.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Rappel: 5èmes Assises de la Tradition le samedi 14 novembre prochain",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219476"
+      "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
+      "publishedAt": "2026-11-11T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219482"
     },
     {
       "source": "Vatican News",
@@ -92,42 +92,42 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "À Chiclayo, Léon XIV appelle les baptisés à être des «disciples missionnaires»",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/a-chiclayo-leon-xiv-appelle-baptises-etre-disciples-missionnaire.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le résumé en images de la septième journée du Pape en Amérique latine",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/video-septieme-journee-pape-leon-xiv-amerique-latine-perou.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Rappel: 5èmes Assises de la Tradition le samedi 14 novembre prochain",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219476"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "États-Unis: des chanoines augustiniens qui disent la messe traditionnelle",
       "publishedAt": "2026-11-08T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219458"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "La Fraternité Saint-Pierre compte 602 membres",
-      "publishedAt": "2026-11-07T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219463"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-13T19:46:14Z",
-    "lastSucceeded": "2026-11-13T19:46:23Z",
+    "lastFetched": "2026-11-14T01:27:36Z",
+    "lastSucceeded": "2026-11-14T01:27:42Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 5,
       "outside_walls": 5,
-      "official": 5,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
