@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:09:14Z",
+  "generatedAt": "2026-11-14T22:28:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Hommage de gratitude et d’amour filial du Pape à Notre Dame de Chiclayo",
+      "title": "La ferveur des Cruceños pour leur évêque Léon",
       "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/hommage-gratitude-amour-filial-du-pape-notre-dame-de-chiclayo.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/ferveur-peru-santa-cruz-accueil-pape-leon-xiv-fideles-joie-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "À LA CIME DE L'AFRIQUE LA LITURGIE TRADITIONNELLE CÉLEBRÉE AU SOMMET DU KILIMANDJARO",
-      "publishedAt": "2026-11-12T12:00:00Z",
+      "publishedAt": null,
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4537"
     },
     {
@@ -100,14 +100,6 @@
       "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-synodalite-dimension-constitutive-eglise.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "À Chiclayo Léon XIV dessine le style d’une Église plus synodale",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/chiclayo-leon-xiv-rappelle-notre-identite-commune-fils-filles.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -122,12 +114,20 @@
       "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
       "publishedAt": "2026-11-11T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219482"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-14T18:08:59Z",
-    "lastSucceeded": "2026-11-14T18:09:14Z",
+    "lastFetched": "2026-11-14T22:28:26Z",
+    "lastSucceeded": "2026-11-14T22:28:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 3,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,
