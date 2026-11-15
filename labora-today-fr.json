@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-14T22:28:32Z",
+  "generatedAt": "2026-11-15T06:39:20Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Samedi de la 32ème semaine du Temps Ordinaire",
-    "date": "2026-11-14",
-    "url": "https://opusdei.org/fr/meditation/meditation-samedi-de-la-32eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Jésus nous exhorte à persévérer dans la prière de demande ; à intercéder pour ceux qui nous entourent ; la prière et la foi se renforcent l'une l'autre."
+    "title": "Méditation : Dimanche de la 33ème semaine du Temps Ordinaire (cycle A)",
+    "date": "2026-11-15",
+    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-33eme-semaine-du-temps-ordinaire-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : redécouvrir nos talents ; quand la peur paralyse ; sans peur de prendre des risques."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "La ferveur des Cruceños pour leur évêque Léon",
+      "title": "La confession de Léon XIV à Zaña pour son peuple de Chiclayo",
       "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/ferveur-peru-santa-cruz-accueil-pape-leon-xiv-fideles-joie-foi.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en images de la huitième journée du Pape en Amérique",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-huitieme-journee-perou.html"
+      "title": "La ferveur des Cruceños pour leur évêque Léon",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/ferveur-peru-santa-cruz-accueil-pape-leon-xiv-fideles-joie-foi.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "María, mère d’Agustín: la foi, une force pour affronter la maladie",
+      "title": "Le résumé en images de la huitième journée du Pape en Amérique",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/temoignage-perou-mere-maladie-enfant-pape.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-huitieme-journee-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -95,9 +95,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour Léon XIV, la synodalité est une «dimension constitutive» de l’Église",
+      "title": "María, mère d’Agustín: la foi, une force pour affronter la maladie",
       "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-synodalite-dimension-constitutive-eglise.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/temoignage-perou-mere-maladie-enfant-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-14T22:28:26Z",
-    "lastSucceeded": "2026-11-14T22:28:32Z",
+    "lastFetched": "2026-11-15T06:39:15Z",
+    "lastSucceeded": "2026-11-15T06:39:20Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
