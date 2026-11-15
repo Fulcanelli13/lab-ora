@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:39:20Z",
+  "generatedAt": "2026-11-15T16:23:50Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "À LA CIME DE L'AFRIQUE LA LITURGIE TRADITIONNELLE CÉLEBRÉE AU SOMMET DU KILIMANDJARO",
-      "publishedAt": null,
+      "publishedAt": "2026-11-12T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4537"
     },
     {
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le résumé en images de la huitième journée du Pape en Amérique",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-huitieme-journee-perou.html"
+      "title": "Cuzco, haut lieu des dévotions populaires",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/cuzco-haut-lieu-des-devotions-populaires.html"
     },
     {
       "source": "Riposte Catholique",
@@ -90,14 +90,6 @@
       "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "María, mère d’Agustín: la foi, une force pour affronter la maladie",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/temoignage-perou-mere-maladie-enfant-pape.html"
     },
     {
       "source": "Riposte Catholique",
@@ -122,12 +114,20 @@
       "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-15T06:39:15Z",
-    "lastSucceeded": "2026-11-15T06:39:20Z",
+    "lastFetched": "2026-11-15T16:23:44Z",
+    "lastSucceeded": "2026-11-15T16:23:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,
