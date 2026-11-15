@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:23:50Z",
+  "generatedAt": "2026-11-15T22:52:04Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "La confession de Léon XIV à Zaña pour son peuple de Chiclayo",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
+      "title": "Léon XIV: Le sang des protecteurs de l’Amazonie réclame justice devant les hommes",
+      "publishedAt": "2026-11-15T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-peuples-amazonie-pucallpa.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "La ferveur des Cruceños pour leur évêque Léon",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/ferveur-peru-santa-cruz-accueil-pape-leon-xiv-fideles-joie-foi.html"
+      "title": "«La violence contre le peuple est une violence contre la terre», dénonce le Pape en Amazonie",
+      "publishedAt": "2026-11-15T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-perou-amazonie-pucallpa.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Cuzco, haut lieu des dévotions populaires",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/cuzco-haut-lieu-des-devotions-populaires.html"
+      "title": "Angélus: «La maladie est un chemin pour grandir», affirme le Pape à Cuzco",
+      "publishedAt": "2026-11-15T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-voyage-pape-perou-maladie-force-cusco.html"
     },
     {
       "source": "Riposte Catholique",
@@ -92,6 +92,22 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "La confession de Léon XIV à Zaña pour son peuple de Chiclayo",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le cœur missionnaire de Léon XIV",
+      "publishedAt": "2026-11-14T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-c-ur-missionnaire-de-leon-xiv.html"
+    },
+    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -106,28 +122,12 @@
       "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
       "publishedAt": "2026-11-11T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219482"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-15T16:23:44Z",
-    "lastSucceeded": "2026-11-15T16:23:50Z",
+    "lastFetched": "2026-11-15T22:52:00Z",
+    "lastSucceeded": "2026-11-15T22:52:04Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 5,
       "outside_walls": 5,
-      "official": 5,
+      "official": 3,
       "tradition": 1
     },
     "discardedMalformed": 0,
