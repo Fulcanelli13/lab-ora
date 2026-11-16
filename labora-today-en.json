@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T22:52:00Z",
+  "generatedAt": "2026-11-16T06:36:00Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Sunday of the Thirty-Third Week of Ordinary Time (Year A)",
-    "date": "2026-11-15",
-    "url": "https://opusdei.org/en/meditation/meditations-sunday-of-the-thirty-third-week-of-ordinary-time-year-a/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: rediscovering our talents; when fear paralyzes us; unafraid of the cost."
+    "title": "Meditations: Monday of the Thirty-Third Week of Ordinary Time",
+    "date": "2026-11-16",
+    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-thirty-third-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: the cry of the blind man in Jericho; prayer is the manifestation of faith; growing in our desire for God."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-15T22:51:57Z",
-    "lastSucceeded": "2026-11-15T22:52:00Z",
+    "lastFetched": "2026-11-16T06:35:56Z",
+    "lastSucceeded": "2026-11-16T06:36:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

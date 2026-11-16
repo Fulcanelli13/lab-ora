@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-15T22:52:04Z",
+  "generatedAt": "2026-11-16T06:36:06Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Dimanche de la 33ème semaine du Temps Ordinaire (cycle A)",
-    "date": "2026-11-15",
-    "url": "https://opusdei.org/fr/meditation/meditation-dimanche-de-la-33eme-semaine-du-temps-ordinaire-cycle-a/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : redécouvrir nos talents ; quand la peur paralyse ; sans peur de prendre des risques."
+    "title": "Méditation : Lundi de la 33ème semaine du Temps Ordinaire",
+    "date": "2026-11-16",
+    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-33eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : le cri de l’aveugle de Jéricho ; la prière manifeste la foi ; faire grandir notre désir de Dieu."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: Le sang des protecteurs de l’Amazonie réclame justice devant les hommes",
+      "title": "«La violence contre le peuple est une violence contre la terre», dénonce le Pape en Amazonie",
       "publishedAt": "2026-11-15T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-peuples-amazonie-pucallpa.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-perou-amazonie-pucallpa.html"
     },
     {
       "source": "Riposte Catholique",
@@ -39,17 +39,17 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "À LA CIME DE L'AFRIQUE LA LITURGIE TRADITIONNELLE CÉLEBRÉE AU SOMMET DU KILIMANDJARO",
-      "publishedAt": "2026-11-12T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4537"
+      "title": "EN ARGENTINE AUSSI « NOUS LES JEUNES, NOUS VOULONS LA MESSE TRADITIONNELLE ! »",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4538"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "«La violence contre le peuple est une violence contre la terre», dénonce le Pape en Amazonie",
+      "title": "Léon XIV: Le sang des protecteurs de l’Amazonie réclame justice devant les hommes",
       "publishedAt": "2026-11-15T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-perou-amazonie-pucallpa.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-peuples-amazonie-pucallpa.html"
     },
     {
       "source": "Riposte Catholique",
@@ -100,14 +100,6 @@
       "url": "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le cœur missionnaire de Léon XIV",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/le-c-ur-missionnaire-de-leon-xiv.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -122,12 +114,20 @@
       "title": "Ad Vaticanum communique sur le départ de l’abbé Patrick Duverger",
       "publishedAt": "2026-11-11T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219482"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-15T22:52:00Z",
-    "lastSucceeded": "2026-11-15T22:52:04Z",
+    "lastFetched": "2026-11-16T06:36:00Z",
+    "lastSucceeded": "2026-11-16T06:36:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 5,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 3,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,
