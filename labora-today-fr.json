@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:56:07Z",
+  "generatedAt": "2026-11-17T16:05:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
+      "title": "Un voyage qui ne se mesure pas en kilomètres",
       "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-qui-ne-se-mesure-pas-en-kilometres-editorial.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Lima, Léon XIV salue la mémoire de saint Toribio, un pasteur proche des pauvres",
+      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
       "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-la-memoire-de-saint-toribio-un-pasteur-proche.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -90,14 +90,6 @@
       "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape à la nonciature de Lima: «Merci d’avoir accompagné votre serviteur»",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-nonciature-perou0.html"
     },
     {
       "source": "Riposte Catholique",
@@ -122,12 +114,20 @@
       "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-17T03:56:01Z",
-    "lastSucceeded": "2026-11-17T03:56:07Z",
+    "lastFetched": "2026-11-17T16:05:22Z",
+    "lastSucceeded": "2026-11-17T16:05:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,

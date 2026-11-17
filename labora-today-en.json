@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:56:01Z",
+  "generatedAt": "2026-11-17T16:05:22Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,41 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishops gather in Baltimore for key leadership elections and policy votes",
+      "title": "Cardinal Zuppi hints he may not seek second term as head of Italian Bishops’ Conference",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-gather-in-baltimore-for-key-leadership-elections-and-policy-votes/"
+      "url": "https://advaticanum.com/article/cardinal-zuppi-hints-he-may-not-seek-second-term-as-head-of-italian-bishops-conference/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Farewell ceremony from Peru, Departure from Lima, Telegram to the President of the Republic of Peru, Telegrams to Heads of State during the flight from Lima to Rome, and Arrival in Rome",
+      "publishedAt": "2026-11-17T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/17/261117a.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "More from the President of the CMAA",
+      "publishedAt": "2026-11-17T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Parolin confirms Pope Leo’s approval of China bishop appointments despite ‘imperfect’ agreement",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-parolin-confirms-pope-leos-approval-of-china-bishop-appointments-despite-imperfect-agreement/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "‘No animosity against anyone’: Denver priest announces departure after parish petition",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/no-animosity-against-anyone-denver-priest-announces-departure-after-parish-petition/"
     },
     {
       "source": "Holy See Press Office",
@@ -47,17 +79,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Parolin confirms Pope Leo’s approval of China bishop appointments despite ‘imperfect’ agreement",
+      "title": "Pope Leo XIV has made history by voting in US midterms: The candidates and papal precedents",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-confirms-pope-leos-approval-of-china-bishop-appointments-despite-imperfect-agreement/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-could-make-history-by-voting-in-us-midterms-the-candidates-and-papal-precedents/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Exclusive interview: “Poverty does not change with baptism” – Cardinal Poola on Dalit Christians and the rise of the Indian Church",
+      "title": "Pope Leo XIV rules out relaxing Traditional Latin Mass restrictions",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-interview-poverty-does-not-change-with-baptism-cardinal-poola-on-dalit-christians-and-the-rise-of-the-indian-church/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-rules-out-relaxing-traditional-latin-mass-restrictions/"
     },
     {
       "source": "Holy See Press Office",
@@ -76,22 +108,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/sacred-manuscripts-from-armenia.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV has made history by voting in US midterms: The candidates and papal precedents",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-could-make-history-by-voting-in-us-midterms-the-candidates-and-papal-precedents/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "‘I ask him to cease’: French bishop ends more than 40 years of the Traditional Latin Mass at private chapel",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/i-ask-him-to-cease-french-bishop-ends-more-than-40-years-of-the-traditional-latin-mass-at-private-chapel/"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
@@ -100,34 +116,18 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116c.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Durandus on Prayer for the Dead (Part 3): the Mass and Divine Office",
-      "publishedAt": "2026-11-14T21:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-3-mass.html"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Farewell ceremony from Peru, Departure from Lima, Telegram to the President of the Republic of Peru",
       "publishedAt": "2026-11-16T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116d.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114a.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-17T03:55:57Z",
-    "lastSucceeded": "2026-11-17T03:56:01Z",
+    "lastFetched": "2026-11-17T16:05:18Z",
+    "lastSucceeded": "2026-11-17T16:05:22Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
