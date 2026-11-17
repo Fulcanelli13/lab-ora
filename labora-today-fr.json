@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-16T19:38:33Z",
+  "generatedAt": "2026-11-17T03:56:07Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Lundi de la 33ème semaine du Temps Ordinaire",
-    "date": "2026-11-16",
-    "url": "https://opusdei.org/fr/meditation/meditation-lundi-de-la-33eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : le cri de l’aveugle de Jéricho ; la prière manifeste la foi ; faire grandir notre désir de Dieu."
+    "title": "Méditation : Mardi de la 33ème semaine du Temps Ordinaire",
+    "date": "2026-11-17",
+    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-33eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Dieu conquiert le cœur de Zachée ; prendre exemple sur sa « sainte effronterie », la conversion se traduit par la générosité."
   },
   "headlines": [
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape à la nonciature de Lima: «Merci d’avoir accompagné votre serviteur»",
+      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
       "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-nonciature-perou0.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
+      "title": "Le Pape fait ses adieux à l’Amérique latine, à l’issue de son sixième voyage apostolique",
       "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-fin-de-voyage-perou-amerique-latine.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,7 +71,7 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Lima, Léon XIV salue la mémoire de saint Toribio, un pasteur proche des plus pauvres",
+      "title": "À Lima, Léon XIV salue la mémoire de saint Toribio, un pasteur proche des pauvres",
       "publishedAt": "2026-11-16T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-salue-la-memoire-de-saint-toribio-un-pasteur-proche.html"
     },
@@ -95,9 +95,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Au Pérou, Léon XIV invite à développer les lieux de charité et de soin",
+      "title": "Le Pape à la nonciature de Lima: «Merci d’avoir accompagné votre serviteur»",
       "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-perou-accueil-fragiles-agees-callao.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-nonciature-perou0.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-16T19:38:26Z",
-    "lastSucceeded": "2026-11-16T19:38:33Z",
+    "lastFetched": "2026-11-17T03:56:01Z",
+    "lastSucceeded": "2026-11-17T03:56:07Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T19:38:26Z",
+  "generatedAt": "2026-11-17T03:56:01Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Monday of the Thirty-Third Week of Ordinary Time",
-    "date": "2026-11-16",
-    "url": "https://opusdei.org/en/meditation/meditations-monday-of-the-thirty-third-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: the cry of the blind man in Jericho; prayer is the manifestation of faith; growing in our desire for God."
+    "title": "Meditations: Tuesday of the Thirty-Third Week of Ordinary Time",
+    "date": "2026-11-17",
+    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-third-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: God enters the Zacchaeus’ heart; learning from his \"holy shamelessness;\" conversion is shown through generosity."
   },
   "headlines": [
     {
@@ -111,9 +111,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Greeting of the Holy Father at the exit of the Bishop’s residence in Chiclayo, Departure from Chiclayo and arrival in Cusco",
-      "publishedAt": "2026-11-15T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115a.html"
+      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Farewell ceremony from Peru, Departure from Lima, Telegram to the President of the Republic of Peru",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116d.html"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-16T19:38:23Z",
-    "lastSucceeded": "2026-11-16T19:38:26Z",
+    "lastFetched": "2026-11-17T03:55:57Z",
+    "lastSucceeded": "2026-11-17T03:56:01Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
