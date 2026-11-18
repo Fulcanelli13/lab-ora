@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:48:34Z",
+  "generatedAt": "2026-11-18T20:36:08Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -14,17 +14,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Stella donates private residence to foundation caring for the elderly",
+      "title": "Exclusive: Vatican upholds Bishop Martin’s ban on Communion at altar rails",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-stella-donates-private-residence-to-foundation-caring-for-the-elderly/"
+      "url": "https://advaticanum.com/article/exclusive-vatican-upholds-bishop-martins-ban-on-communion-at-altar-rails/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
+      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
+      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
     },
     {
       "source": "Holy See Press Office",
@@ -46,17 +46,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV departs Rome for 12-day apostolic journey to South America",
+      "title": "Cardinal Stella donates private residence to foundation caring for the elderly",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-departs-rome-for-12-day-apostolic-journey-to-south-america/"
+      "url": "https://advaticanum.com/article/cardinal-stella-donates-private-residence-to-foundation-caring-for-the-elderly/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Zuppi hints he may not seek second term as head of Italian Bishops’ Conference",
+      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-zuppi-hints-he-may-not-seek-second-term-as-head-of-italian-bishops-conference/"
+      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
     },
     {
       "source": "Holy See Press Office",
@@ -78,17 +78,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Parolin confirms Pope Leo’s approval of China bishop appointments despite ‘imperfect’ agreement",
+      "title": "Pope Leo XIV departs Rome for 12-day apostolic journey to South America",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-parolin-confirms-pope-leos-approval-of-china-bishop-appointments-despite-imperfect-agreement/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-departs-rome-for-12-day-apostolic-journey-to-south-america/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "‘No animosity against anyone’: Denver priest announces departure after parish petition",
+      "title": "Cardinal Zuppi hints he may not seek second term as head of Italian Bishops’ Conference",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/no-animosity-against-anyone-denver-priest-announces-departure-after-parish-petition/"
+      "url": "https://advaticanum.com/article/cardinal-zuppi-hints-he-may-not-seek-second-term-as-head-of-italian-bishops-conference/"
     },
     {
       "source": "Holy See Press Office",
@@ -125,8 +125,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-18T11:48:31Z",
-    "lastSucceeded": "2026-11-18T11:48:34Z",
+    "lastFetched": "2026-11-18T20:36:00Z",
+    "lastSucceeded": "2026-11-18T20:36:08Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
