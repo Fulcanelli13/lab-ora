@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T16:05:32Z",
+  "generatedAt": "2026-11-18T00:58:56Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 33ème semaine du Temps Ordinaire",
-    "date": "2026-11-17",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-33eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Dieu conquiert le cœur de Zachée ; prendre exemple sur sa « sainte effronterie », la conversion se traduit par la générosité."
+    "title": "Méditation : 18 novembre, Dédicace des Basiliques Saint-Pierre et Saint-Paul",
+    "date": "2026-11-18",
+    "url": "https://opusdei.org/fr/meditation/meditation-18-novembre-dedicace-des-basiliques-saint-pierre-et-saint-paul/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Pierre et Paul, colonnes de la foi ; l’Évangile les unissait, alors qu'ils sont différents ; nous sommes des pierres vivantes du temple qu’est l’Église."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Fréjus-Toulon: ordination deux diacres en vue du sacerdoce",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219519"
+      "title": "États-Unis: les évêques se réunissent en assemblée plénière et désignent certaines de leurs instances",
+      "publishedAt": "2026-11-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219533"
     },
     {
       "source": "Vatican News",
@@ -36,20 +36,36 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/tribunal-maltais-accorde-24-1-millions-euros-ior-investissement.html"
     },
     {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "EN ARGENTINE AUSSI « NOUS LES JEUNES, NOUS VOULONS LA MESSE TRADITIONNELLE ! »",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4538"
-    },
-    {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
       "title": "Le Pape fait ses adieux à l’Amérique latine, à l’issue de son sixième voyage apostolique",
       "publishedAt": "2026-11-16T12:00:00Z",
       "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-fin-de-voyage-perou-amerique-latine.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Fréjus-Toulon: ordination deux diacres en vue du sacerdoce",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219519"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "Le Saint-Siège exhorte la COP31 à placer la dignité humaine au cœur de l'action climatique",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cop-31-turquie-saint-siege-pietro-parolin-climat-onu-discours.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
     },
     {
       "source": "Riposte Catholique",
@@ -68,28 +84,12 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
       "title": "Le provincial de France de la Fraternité Saint-Pierre a rencontré le pape",
       "publishedAt": "2026-11-14T12:00:00Z",
       "url": "https://riposte-catholique.fr/archives/219501"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Riposte Catholique",
@@ -100,12 +100,12 @@
       "url": "https://riposte-catholique.fr/archives/219502"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
+      "source": "Vatican News",
+      "lane": "official",
       "language": "fr",
-      "title": "Mgr Pascal Schreiber s’est vu remettre les insignes épiscopaux de Mgr Vitus Huonder",
-      "publishedAt": "2026-11-12T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219496"
+      "title": "Nomination de sous-secrétaires du dicastère pour le Développement Humain intégral",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html"
     },
     {
       "source": "Vatican News",
@@ -117,17 +117,17 @@
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "Le cardinal Parolin espère que la coopération et la paix prévaudront aux États-Unis",
+      "title": "Le Pape place au centre de son ministère la guérison et l’unité des personnes",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-parolin-etats-unis-accord-vatican-chine-colloque-eveque.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-conference-presse-vol-retour-amerique-sud-voyage.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-17T16:05:22Z",
-    "lastSucceeded": "2026-11-17T16:05:32Z",
+    "lastFetched": "2026-11-18T00:58:46Z",
+    "lastSucceeded": "2026-11-18T00:58:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +151,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
       "official": 5,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-11-17T16:05:22Z",
+  "generatedAt": "2026-11-18T00:58:46Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Thirty-Third Week of Ordinary Time",
-    "date": "2026-11-17",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-third-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: God enters the Zacchaeus’ heart; learning from his \"holy shamelessness;\" conversion is shown through generosity."
+    "title": "Meditations: November 18, Dedication of the Basilicas of Saints Peter and Paul",
+    "date": "2026-11-18",
+    "url": "https://opusdei.org/en/meditation/meditations-november-18-dedication-of-the-basilicas-of-saints-peter-and-paul/"
   },
   "headlines": [
     {
@@ -126,8 +125,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-17T16:05:18Z",
-    "lastSucceeded": "2026-11-17T16:05:22Z",
+    "lastFetched": "2026-11-18T00:58:42Z",
+    "lastSucceeded": "2026-11-18T00:58:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
