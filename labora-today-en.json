@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:58:46Z",
+  "generatedAt": "2026-11-18T11:48:34Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -10,6 +10,38 @@
     "url": "https://opusdei.org/en/meditation/meditations-november-18-dedication-of-the-basilicas-of-saints-peter-and-paul/"
   },
   "headlines": [
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Cardinal Stella donates private residence to foundation caring for the elderly",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/cardinal-stella-donates-private-residence-to-foundation-caring-for-the-elderly/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/18/261118d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "More from the President of the CMAA",
+      "publishedAt": "2026-11-17T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
+    },
     {
       "source": "Ad Vaticanum",
       "lane": "vatican",
@@ -38,9 +70,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "More from the President of the CMAA",
-      "publishedAt": "2026-11-17T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
+      "title": "St Gertrude the Great on Praying for the Dead",
+      "publishedAt": "2026-11-16T15:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/st-gertrude-great-on-praying-for-dead.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -70,25 +102,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Gertrude the Great on Praying for the Dead",
-      "publishedAt": "2026-11-16T15:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/st-gertrude-great-on-praying-for-dead.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV has made history by voting in US midterms: The candidates and papal precedents",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-could-make-history-by-voting-in-us-midterms-the-candidates-and-papal-precedents/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Pope Leo XIV rules out relaxing Traditional Latin Mass restrictions",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-rules-out-relaxing-traditional-latin-mass-restrictions/"
+      "title": "Sacred Manuscripts from Armenia",
+      "publishedAt": "2026-11-15T19:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/sacred-manuscripts-from-armenia.html"
     },
     {
       "source": "Holy See Press Office",
@@ -99,34 +115,18 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116b.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Sacred Manuscripts from Armenia",
-      "publishedAt": "2026-11-15T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/sacred-manuscripts-from-armenia.html"
-    },
-    {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
       "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Holy Mass at the “Base Aérea Las Palmas”",
       "publishedAt": "2026-11-16T12:00:00Z",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116c.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Apostolic Journey of His Holiness Pope Leo XIV to Uruguay, Argentina and Peru (6 – 17 November 2026) – Farewell ceremony from Peru, Departure from Lima, Telegram to the President of the Republic of Peru",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116d.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-18T00:58:42Z",
-    "lastSucceeded": "2026-11-18T00:58:46Z",
+    "lastFetched": "2026-11-18T11:48:31Z",
+    "lastSucceeded": "2026-11-18T11:48:34Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

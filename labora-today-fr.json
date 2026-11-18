@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:58:56Z",
+  "generatedAt": "2026-11-18T11:48:43Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Un voyage qui ne se mesure pas en kilomètres",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-qui-ne-se-mesure-pas-en-kilometres-editorial.html"
+      "title": "Audience générale: le Pape revient sur les fruits de son voyage en Amérique latine",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/audience-generale-pape-leon-xiv-amerique-sud-voyage.html"
     },
     {
       "source": "Riposte Catholique",
@@ -39,9 +39,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape fait ses adieux à l’Amérique latine, à l’issue de son sixième voyage apostolique",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-fin-de-voyage-perou-amerique-latine.html"
+      "title": "Léon XIV: «Prévenir et lutter contre les abus est une forme de conversion évangélique»",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-journee-mondiale-de-la-peche-audience-generale.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV remercie le Pérou: «Je me suis senti comme chez moi»",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/merci-pape-salut-final-derniere-messe-lima-perou.html"
+      "title": "Léon XIV: défendre la création et la dignité humaine à l'exemple de saint Pierre",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-dignite-humaine-creation-catholic-philanthropy.html"
     },
     {
       "source": "Riposte Catholique",
@@ -82,6 +82,14 @@
       "title": "Plateforme «Laudato si'», des choix communs pour panser les blessures de la Terre",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/plateforme-laudato-si-smerilli-choix-panser-blessures-terre.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Un voyage qui ne se mesure pas en kilomètres",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/voyage-apostolique-qui-ne-se-mesure-pas-en-kilometres-editorial.html"
     },
     {
       "source": "Riposte Catholique",
@@ -114,20 +122,12 @@
       "title": "Cardinal Parolin: le Pape en Amérique latine, témoin d’unité et de réconciliation",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/parolin-pape-amerique-latine-temoin-unite-et-reconciliation.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape place au centre de son ministère la guérison et l’unité des personnes",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-conference-presse-vol-retour-amerique-sud-voyage.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-18T00:58:46Z",
-    "lastSucceeded": "2026-11-18T00:58:56Z",
+    "lastFetched": "2026-11-18T11:48:34Z",
+    "lastSucceeded": "2026-11-18T11:48:43Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
