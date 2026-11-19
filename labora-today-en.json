@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-11-18T20:36:08Z",
+  "generatedAt": "2026-11-19T02:36:03Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: November 18, Dedication of the Basilicas of Saints Peter and Paul",
-    "date": "2026-11-18",
-    "url": "https://opusdei.org/en/meditation/meditations-november-18-dedication-of-the-basilicas-of-saints-peter-and-paul/"
+    "title": "Meditations: Thursday of the Thirty-Third Week of Ordinary Time",
+    "date": "2026-11-19",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirty-third-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: Jesus weeps for Jerusalem; the deceit of sin; discovering God's gifts."
   },
   "headlines": [
     {
@@ -125,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-18T20:36:00Z",
-    "lastSucceeded": "2026-11-18T20:36:08Z",
+    "lastFetched": "2026-11-19T02:36:01Z",
+    "lastSucceeded": "2026-11-19T02:36:03Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

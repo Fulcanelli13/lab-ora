@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-18T20:36:18Z",
+  "generatedAt": "2026-11-19T02:36:13Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 18 novembre, Dédicace des Basiliques Saint-Pierre et Saint-Paul",
-    "date": "2026-11-18",
-    "url": "https://opusdei.org/fr/meditation/meditation-18-novembre-dedicace-des-basiliques-saint-pierre-et-saint-paul/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Pierre et Paul, colonnes de la foi ; l’Évangile les unissait, alors qu'ils sont différents ; nous sommes des pierres vivantes du temple qu’est l’Église."
+    "title": "Méditation : Jeudi de la 33ème semaine du Temps Ordinaire",
+    "date": "2026-11-19",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-33eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Jésus pleure sur Jérusalem ; l’escroquerie du péché ; découvrir les dons de Dieu."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: les évêques se réunissent en assemblée plénière et désignent certaines de leurs instances",
-      "publishedAt": "2026-11-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219533"
+      "title": "Syrie : Mgr Arbach a été agressé et ligoté",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219559"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Fréjus-Toulon: ordination deux diacres en vue du sacerdoce",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219519"
+      "title": "400 ans de la Dédicace de la basilique Saint-Pierre de Rome",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219547"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Pour revoir les 5èmes Assises de la Tradition",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219513"
+      "title": "États-Unis: les évêques se réunissent en assemblée plénière et désignent certaines de leurs instances",
+      "publishedAt": "2026-11-17T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219533"
     },
     {
       "source": "Vatican News",
@@ -103,17 +103,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le provincial de France de la Fraternité Saint-Pierre a rencontré le pape",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219501"
+      "title": "Fréjus-Toulon: ordination deux diacres en vue du sacerdoce",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219519"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "La Gaubretière (Vendée): Mgr de Dinechin demande qu’il n’y ait plus de célébration de la messe traditionnelle",
+      "title": "Pour revoir les 5èmes Assises de la Tradition",
       "publishedAt": "2026-11-14T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219502"
+      "url": "https://riposte-catholique.fr/archives/219513"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-18T20:36:08Z",
-    "lastSucceeded": "2026-11-18T20:36:18Z",
+    "lastFetched": "2026-11-19T02:36:03Z",
+    "lastSucceeded": "2026-11-19T02:36:13Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
