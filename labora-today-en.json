@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:45:06Z",
+  "generatedAt": "2026-11-19T20:41:14Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Exclusive: Vatican upholds Bishop Martin’s ban on Communion at altar rails",
+      "title": "Pope Leo XIV thanks researchers behind major study finding Traditional Latin Mass Catholics largely accept Vatican II",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/exclusive-vatican-upholds-bishop-martins-ban-on-communion-at-altar-rails/"
+      "url": "https://advaticanum.com/article/pope-leo-xiv-thanks-researchers-behind-major-study-finding-traditional-latin-mass-catholics-largely-accept-vatican-ii/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Second SSPX priest leaves Society following illicit episcopal consecrations",
+      "title": "Bishop says LGBT+ Catholic groups ‘can be prophetic signs for the whole Church’",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/second-sspx-priest-leaves-society-following-illicit-episcopal-consecrations/"
+      "url": "https://advaticanum.com/article/bishop-says-lgbt-catholic-groups-can-be-prophetic-signs-for-the-whole-church/"
     },
     {
       "source": "Holy See Press Office",
@@ -47,17 +47,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Cardinal Stella donates private residence to foundation caring for the elderly",
+      "title": "St Peter’s Basilica choirmaster dies on 400th anniversary of its dedication",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-stella-donates-private-residence-to-foundation-caring-for-the-elderly/"
+      "url": "https://advaticanum.com/article/st-peters-basilica-choirmaster-dies-on-400th-anniversary-of-its-dedication/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
+      "title": "Second SSPX priest leaves Society following illicit episcopal consecrations",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
+      "url": "https://advaticanum.com/article/second-sspx-priest-leaves-society-following-illicit-episcopal-consecrations/"
     },
     {
       "source": "Holy See Press Office",
@@ -79,17 +79,17 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Leo XIV departs Rome for 12-day apostolic journey to South America",
+      "title": "Exclusive: Vatican upholds Bishop Martin’s ban on Communion at altar rails",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-departs-rome-for-12-day-apostolic-journey-to-south-america/"
+      "url": "https://advaticanum.com/article/exclusive-vatican-upholds-bishop-martins-ban-on-communion-at-altar-rails/"
     },
     {
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
+      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
+      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-19T11:45:03Z",
-    "lastSucceeded": "2026-11-19T11:45:06Z",
+    "lastFetched": "2026-11-19T20:41:11Z",
+    "lastSucceeded": "2026-11-19T20:41:14Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
