@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:36:03Z",
+  "generatedAt": "2026-11-19T11:45:06Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
+      "title": "Second SSPX priest leaves Society following illicit episcopal consecrations",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
+      "url": "https://advaticanum.com/article/second-sspx-priest-leaves-society-following-illicit-episcopal-consecrations/"
     },
     {
       "source": "Holy See Press Office",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
+      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
+      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
     },
     {
       "source": "Holy See Press Office",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Zuppi hints he may not seek second term as head of Italian Bishops’ Conference",
+      "title": "US bishops elect new committee leaders in closely contested votes at Baltimore assembly",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-zuppi-hints-he-may-not-seek-second-term-as-head-of-italian-bishops-conference/"
+      "url": "https://advaticanum.com/article/us-bishops-elect-new-committee-leaders-in-closely-contested-votes-at-baltimore-assembly/"
     },
     {
       "source": "Holy See Press Office",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-19T02:36:01Z",
-    "lastSucceeded": "2026-11-19T02:36:03Z",
+    "lastFetched": "2026-11-19T11:45:03Z",
+    "lastSucceeded": "2026-11-19T11:45:06Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
