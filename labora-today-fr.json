@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:45:26Z",
+  "generatedAt": "2026-11-20T20:26:00Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "EN ARGENTINE AUSSI « NOUS LES JEUNES, NOUS VOULONS LA MESSE TRADITIONNELLE ! »",
-      "publishedAt": "2026-11-16T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4538"
+      "title": "LÉON XIV ET LA LITURGIE TRADITIONNELLE : L’EMBARRAS D’UN CHOIX",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4539"
     },
     {
       "source": "Vatican News",
@@ -63,9 +63,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
+      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme véritable Famille de Dieu",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
     },
     {
       "source": "Vatican News",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "À Bethléem, le cardinal Gugerotti invite à cultiver l’espérance",
+      "title": "Saint-Siège: «Aucun algorithme ne peut rendre la guerre moralement acceptable»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/terre-sainte-bethleem-cardinal-gugerotti-vatican-eglise.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/saint-siege-onu-ia-technologie-guerre-armes-autonomes.html"
     },
     {
       "source": "Vatican News",
@@ -119,15 +119,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Consécration de l’évêque de Xiamen en Chine",
+      "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/ordination-eveque-xiamen-chine-pape-vatican-eglise.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-20T11:45:21Z",
-    "lastSucceeded": "2026-11-20T11:45:26Z",
+    "lastFetched": "2026-11-20T20:25:50Z",
+    "lastSucceeded": "2026-11-20T20:26:00Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

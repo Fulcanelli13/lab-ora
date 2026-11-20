@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:45:21Z",
+  "generatedAt": "2026-11-20T20:25:50Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Bishop says LGBT+ Catholic groups ‘can be prophetic signs for the whole Church’",
+      "title": "‘A great woman, a great believer, a great queen’: Vatican archbishop praises Isabella of Castile",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-says-lgbt-catholic-groups-can-be-prophetic-signs-for-the-whole-church/"
+      "url": "https://advaticanum.com/article/a-great-woman-a-great-believer-a-great-queen-vatican-archbishop-praises-isabella-of-castile/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "More from the President of the CMAA",
-      "publishedAt": "2026-11-17T11:30:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
+      "title": "The Feast of the Presentation of the Blessed Virgin Mary",
+      "publishedAt": "2026-11-20T15:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-presentation-of-blessed.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Second SSPX priest leaves Society following illicit episcopal consecrations",
+      "title": "Cardinal Simoni recites exorcism prayer as unexplained screams are heard during broadcast",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/second-sspx-priest-leaves-society-following-illicit-episcopal-consecrations/"
+      "url": "https://advaticanum.com/article/cardinal-simoni-recites-exorcism-prayer-as-unexplained-screams-are-heard-during-broadcast/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "St Gertrude the Great on Praying for the Dead",
-      "publishedAt": "2026-11-16T15:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/st-gertrude-great-on-praying-for-dead.html"
+      "title": "Update: Help Build the New Sanctuary at St Mary’s Cathedral in Aberdeen, Scotland, a Model for Today’s Church",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/update-help-build-new-sanctuary-at-st.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Pope Francis’s former secretary warns against political Islam and calls for theological clarity in interreligious dialogue",
+      "title": "Former Vatican official preaches on synodality at Church of England Synod",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-franciss-former-secretary-warns-against-political-islam-and-calls-for-theological-clarity-in-interreligious-dialogue/"
+      "url": "https://advaticanum.com/article/former-vatican-official-preaches-on-synodality-at-church-of-england-synod/"
     },
     {
       "source": "Holy See Press Office",
@@ -103,31 +103,31 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "More from the President of the CMAA",
+      "publishedAt": "2026-11-17T11:30:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "St Gertrude the Great on Praying for the Dead",
+      "publishedAt": "2026-11-16T15:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/st-gertrude-great-on-praying-for-dead.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Sacred Manuscripts from Armenia",
       "publishedAt": "2026-11-15T19:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/sacred-manuscripts-from-armenia.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Durandus on Prayer for the Dead (Part 3): the Mass and Divine Office",
-      "publishedAt": "2026-11-14T21:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-3-mass.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Summer 2027 Classes at the Catholic Institute of Sacred Music",
-      "publishedAt": "2026-11-14T15:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/summer-2027-classes-at-catholic.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-20T11:45:18Z",
-    "lastSucceeded": "2026-11-20T11:45:21Z",
+    "lastFetched": "2026-11-20T20:25:47Z",
+    "lastSucceeded": "2026-11-20T20:25:50Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
