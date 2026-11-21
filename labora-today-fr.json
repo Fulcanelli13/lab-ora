@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:10:48Z",
+  "generatedAt": "2026-11-21T19:20:26Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,17 +15,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle à soutenir les chrétiens d’Orient, menacés par la guerre et la pauvreté",
-      "publishedAt": "2026-11-20T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-catholic-east-welfare-association-orient.html"
+      "title": "Pour le Pape, la musique transcende les frontières pour le bien de l’humanité",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-patrimoine-musical-bien-commun-orchestre-vienne-art-sacre.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: un disciple du philosophe John Senior à la tête d’un comité épiscopal",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219584"
+      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219603"
     },
     {
       "source": "Vatican News",
@@ -47,23 +47,23 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape ouvre ses bras au monde du cyclisme",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-audience-monde-du-cyclisme.html"
+      "title": "Le Pape plaide pour l’encadrement éthique des technologies et leurs applications",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/international-space-forum-ethique-technologie-discours-pape-paix.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le Parquet national antiterroriste (PNAT) classe sans suite l’enquête déclenchée contre SOS Chrétiens d’Orient",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219576"
+      "title": "Saint-Étienne: nomination d’un nouvel évêque",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219599"
     },
     {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme véritable Famille de Dieu",
+      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme une véritable Famille de Dieu",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
     },
@@ -71,17 +71,17 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape encourage la communauté Shalom à accompagner les jeunes",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-communaute-shalom-respect-liberte-conscience.html"
+      "title": "Léon XIV aux jeunes: la culture du pouvoir et de la guerre empoisonne toute rencontre",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/rencontre-pape-jeunes-latium-jmj-vocation-foi-courage-dialogue.html"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Syrie : Mgr Arbach a été agressé et ligoté",
+      "title": "États-Unis: un disciple du philosophe John Senior à la tête d’un comité épiscopal",
       "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219559"
+      "url": "https://riposte-catholique.fr/archives/219584"
     },
     {
       "source": "Vatican News",
@@ -95,25 +95,25 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape invite les organisations caritatives à être des «instruments» de la paix de Dieu",
+      "title": "Léon XIV appelle à soutenir les chrétiens d’Orient, menacés par la guerre et la pauvreté",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-catholic-east-welfare-association-orient.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Le Parquet national antiterroriste (PNAT) classe sans suite l’enquête déclenchée contre SOS Chrétiens d’Orient",
       "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-discours-caritas-coatnet-organisations-chretien.html"
+      "url": "https://riposte-catholique.fr/archives/219576"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "400 ans de la Dédicace de la basilique Saint-Pierre de Rome",
-      "publishedAt": "2026-11-18T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219547"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "États-Unis: les évêques se réunissent en assemblée plénière et désignent certaines de leurs instances",
-      "publishedAt": "2026-11-17T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219533"
+      "title": "Syrie : Mgr Arbach a été agressé et ligoté",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219559"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-21T11:10:42Z",
-    "lastSucceeded": "2026-11-21T11:10:48Z",
+    "lastFetched": "2026-11-21T19:20:21Z",
+    "lastSucceeded": "2026-11-21T19:20:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
