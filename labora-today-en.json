@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20T20:25:50Z",
+  "generatedAt": "2026-11-21T02:20:41Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Friday of the Thirty-Third Week of Ordinary Time",
-    "date": "2026-11-20",
-    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-thirty-third-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-third week of Ordinary Time. The topics are: purifying the temple for prayer; the Church is the temple for the world; with Christ, we are living stones of the Church."
+    "title": "Meditations: November 21, Presentation of Mary",
+    "date": "2026-11-21",
+    "url": "https://opusdei.org/en/meditation/meditations-november-21-presentation-of-mary/",
+    "subtitle": "Some reflections that can assist our prayer on the feast of our Lady's Presentation in the Temple."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of the Presentation of the Blessed Virgin Mary",
-      "publishedAt": "2026-11-20T15:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-presentation-of-blessed.html"
+      "title": "Durandus on Prayer for the Dead (Part 4): Funeral Customs",
+      "publishedAt": "2026-11-20T23:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-4.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Update: Help Build the New Sanctuary at St Mary’s Cathedral in Aberdeen, Scotland, a Model for Today’s Church",
-      "publishedAt": "2026-11-20T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/update-help-build-new-sanctuary-at-st.html"
+      "title": "The Feast of the Presentation of the Blessed Virgin Mary",
+      "publishedAt": "2026-11-20T15:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-presentation-of-blessed.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "Update: Help Build the New Sanctuary at St Mary’s Cathedral in Aberdeen, Scotland, a Model for Today’s Church",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/update-help-build-new-sanctuary-at-st.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "More from the President of the CMAA",
       "publishedAt": "2026-11-17T11:30:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/more-from-president-of-cmaa.html"
@@ -114,20 +122,12 @@
       "title": "St Gertrude the Great on Praying for the Dead",
       "publishedAt": "2026-11-16T15:15:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/st-gertrude-great-on-praying-for-dead.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Sacred Manuscripts from Armenia",
-      "publishedAt": "2026-11-15T19:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/sacred-manuscripts-from-armenia.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-20T20:25:47Z",
-    "lastSucceeded": "2026-11-20T20:25:50Z",
+    "lastFetched": "2026-11-21T02:20:38Z",
+    "lastSucceeded": "2026-11-21T02:20:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

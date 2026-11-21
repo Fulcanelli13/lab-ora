@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20T20:26:00Z",
+  "generatedAt": "2026-11-21T02:20:54Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Vendredi de la 33ème semaine du Temps Ordinaire",
-    "date": "2026-11-20",
-    "url": "https://opusdei.org/fr/meditation/meditation-vendredi-de-la-33eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les sujets proposés pour la méditation du jour sont : purifier le temple pour la prière ; l’Église est le temple de tous ; dans le Christ nous sommes des pierres vivantes de l’Église."
+    "title": "Méditation : 21 novembre : Présentation de la Vierge Marie",
+    "date": "2026-11-21",
+    "url": "https://opusdei.org/fr/meditation/meditation-21-novembre-presentation-de-la-vierge-marie/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Marie appartient totalement à Dieu ; pour faire partie d’une famille divine ; fidélité dans ce qui est grand et dans ce qui est petit."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-20T20:25:50Z",
-    "lastSucceeded": "2026-11-20T20:26:00Z",
+    "lastFetched": "2026-11-21T02:20:42Z",
+    "lastSucceeded": "2026-11-21T02:20:54Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
