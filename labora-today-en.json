@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:30:16Z",
+  "generatedAt": "2026-11-22T19:44:11Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Presentation of the Virgin Mary 2026",
-      "publishedAt": "2026-11-21T17:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-presentation-of-virgin-mary-2026.html"
+      "title": "Ambrosian Vespers of the First Sunday of Advent",
+      "publishedAt": "2026-11-22T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/ambrosian-vespers-of-first-sunday-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "“Minor Orders” and “The Divine Office”: Sulpician Spirituality at its Best",
-      "publishedAt": "2026-11-21T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/minor-orders-and-divine-office.html"
+      "title": "The Presentation of the Virgin Mary 2026",
+      "publishedAt": "2026-11-21T17:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-presentation-of-virgin-mary-2026.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,9 +103,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Durandus on Prayer for the Dead (Part 4): Funeral Customs",
-      "publishedAt": "2026-11-20T23:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-4.html"
+      "title": "“Minor Orders” and “The Divine Office”: Sulpician Spirituality at its Best",
+      "publishedAt": "2026-11-21T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/minor-orders-and-divine-office.html"
     },
     {
       "source": "Holy See Press Office",
@@ -119,15 +119,15 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Feast of the Presentation of the Blessed Virgin Mary",
-      "publishedAt": "2026-11-20T15:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-feast-of-presentation-of-blessed.html"
+      "title": "Durandus on Prayer for the Dead (Part 4): Funeral Customs",
+      "publishedAt": "2026-11-20T23:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/durandus-on-prayer-for-dead-part-4.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-22T11:30:13Z",
-    "lastSucceeded": "2026-11-22T11:30:16Z",
+    "lastFetched": "2026-11-22T19:44:06Z",
+    "lastSucceeded": "2026-11-22T19:44:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:30:21Z",
+  "generatedAt": "2026-11-22T19:44:19Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Pour le Pape, la musique transcende les frontières pour le bien de l’humanité",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-patrimoine-musical-bien-commun-orchestre-vienne-art-sacre.html"
+      "title": "Angélus: «Nous sommes tous égaux devant la loi de Dieu»",
+      "publishedAt": "2026-11-22T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/angelus-nous-sommes-tous-egaux-devant-la-loi-de-dieu.html"
     },
     {
       "source": "Riposte Catholique",
@@ -92,14 +92,6 @@
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/saint-siege-onu-ia-technologie-guerre-armes-autonomes.html"
     },
     {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Léon XIV appelle à soutenir les chrétiens d’Orient, menacés par la guerre et la pauvreté",
-      "publishedAt": "2026-11-20T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-catholic-east-welfare-association-orient.html"
-    },
-    {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
@@ -122,12 +114,20 @@
       "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "À Bethléem, le cardinal Gugerotti invite à cultiver l’espérance",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/terre-sainte-bethleem-cardinal-gugerotti-vatican-eglise.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-22T11:30:16Z",
-    "lastSucceeded": "2026-11-22T11:30:21Z",
+    "lastFetched": "2026-11-22T19:44:11Z",
+    "lastSucceeded": "2026-11-22T19:44:19Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
+      "vatican": 3,
       "outside_walls": 5,
-      "official": 4,
+      "official": 5,
       "tradition": 1
     },
     "discardedMalformed": 0,
