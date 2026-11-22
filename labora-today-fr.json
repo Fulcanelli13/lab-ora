@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:22:14Z",
+  "generatedAt": "2026-11-22T11:30:21Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LÉON XIV ET LA LITURGIE TRADITIONNELLE : L’EMBARRAS D’UN CHOIX",
-      "publishedAt": "2026-11-17T12:00:00Z",
+      "publishedAt": "2026-11-20T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4539"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-22T01:22:08Z",
-    "lastSucceeded": "2026-11-22T01:22:14Z",
+    "lastFetched": "2026-11-22T11:30:16Z",
+    "lastSucceeded": "2026-11-22T11:30:21Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
