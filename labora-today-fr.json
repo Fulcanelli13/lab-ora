@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-21T19:20:26Z",
+  "generatedAt": "2026-11-22T01:22:14Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : 21 novembre : Présentation de la Vierge Marie",
-    "date": "2026-11-21",
-    "url": "https://opusdei.org/fr/meditation/meditation-21-novembre-presentation-de-la-vierge-marie/",
-    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Marie appartient totalement à Dieu ; pour faire partie d’une famille divine ; fidélité dans ce qui est grand et dans ce qui est petit."
+    "title": "Méditation : Solennité du Christ Roi de l’Univers (cycle A)",
+    "date": "2026-11-22",
+    "url": "https://opusdei.org/fr/meditation/meditation-solennite-du-christ-roi-de-lunivers-cycle-a/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : Jésus est le roi de l’univers et de chacun d’entre nous ; sans craindre le jugement ; le Christ s’identifie aux brebis."
   },
   "headlines": [
     {
@@ -40,7 +40,7 @@
       "lane": "tradition",
       "language": "fr",
       "title": "LÉON XIV ET LA LITURGIE TRADITIONNELLE : L’EMBARRAS D’UN CHOIX",
-      "publishedAt": "2026-11-20T12:00:00Z",
+      "publishedAt": "2026-11-17T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4539"
     },
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-21T19:20:21Z",
-    "lastSucceeded": "2026-11-21T19:20:26Z",
+    "lastFetched": "2026-11-22T01:22:08Z",
+    "lastSucceeded": "2026-11-22T01:22:14Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
