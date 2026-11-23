@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:46:10Z",
+  "generatedAt": "2026-11-23T12:53:53Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -22,9 +22,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Franciscan priest establishes SSPX-affiliated mission in Diocese of Knoxville",
+      "title": "Italian bishop orders two Benedictine priests to leave SSPX-affiliated monastery in France",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/franciscan-priest-establishes-sspx-affiliated-mission-in-diocese-of-knoxville/"
+      "url": "https://advaticanum.com/article/italian-bishop-orders-two-benedictine-priests-to-leave-sspx-affiliated-monastery-in-france/"
     },
     {
       "source": "Holy See Press Office",
@@ -54,9 +54,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "‘A great woman, a great believer, a great queen’: Vatican archbishop praises Isabella of Castile",
+      "title": "Miami archbishop: Young Catholics seeking ‘reenchantment’ through Latin Mass and kneeling for Communion",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/a-great-woman-a-great-believer-a-great-queen-vatican-archbishop-praises-isabella-of-castile/"
+      "url": "https://advaticanum.com/article/miami-archbishop-young-catholics-seeking-reenchantment-through-latin-mass-and-kneeling-for-communion/"
     },
     {
       "source": "Holy See Press Office",
@@ -86,9 +86,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Simoni recites exorcism prayer as unexplained screams are heard during broadcast",
+      "title": "Franciscan priest establishes SSPX-affiliated mission in Diocese of Knoxville",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-simoni-recites-exorcism-prayer-as-unexplained-screams-are-heard-during-broadcast/"
+      "url": "https://advaticanum.com/article/franciscan-priest-establishes-sspx-affiliated-mission-in-diocese-of-knoxville/"
     },
     {
       "source": "Holy See Press Office",
@@ -125,8 +125,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-23T01:46:07Z",
-    "lastSucceeded": "2026-11-23T01:46:10Z",
+    "lastFetched": "2026-11-23T12:53:51Z",
+    "lastSucceeded": "2026-11-23T12:53:53Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
