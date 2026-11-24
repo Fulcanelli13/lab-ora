@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:48:22Z",
+  "generatedAt": "2026-11-24T23:54:52Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "UN PEUPLE CHRÉTIEN À L’ABANDON... LAISSERA-T-ON PASSER LA CHANCE D’UN POSSIBLE RÉVEIL ?",
-      "publishedAt": "2026-11-23T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4542"
+      "title": "OUI À L'UNITÉ... MAIS AUTOUR DE QUOI ?",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4543"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-24T13:48:16Z",
-    "lastSucceeded": "2026-11-24T13:48:22Z",
+    "lastFetched": "2026-11-24T23:54:47Z",
+    "lastSucceeded": "2026-11-24T23:54:52Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
