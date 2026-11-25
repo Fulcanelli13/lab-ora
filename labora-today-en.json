@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:40:31Z",
+  "generatedAt": "2026-11-25T19:20:11Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,6 +15,38 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Pope Francis’s private diary reveals encounters with the devil and a profound spiritual crisis",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-franciss-private-diary-reveals-encounters-with-the-devil-and-a-profound-spiritual-crisis/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Argentine diocese rebukes priest over same-sex wedding-style blessing",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/argentine-diocese-rebukes-priest-over-same-sex-wedding-style-blessing/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "Pope Paul VI’s October 1965 Papal Mass in New York City, Now Online",
+      "publishedAt": "2026-11-25T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "‘No one is excluded’: Papal Almoner on traditional Catholics and Pope Leo’s charitable priorities",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/no-one-is-excluded-papal-almoner-on-traditional-catholics-and-pope-leos-charitable-priorities/"
@@ -23,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Italian ‘influencer priest’ competes on Dancing with the Stars",
+      "title": "Cardinal Eijk warns against watering down Catholic doctrine to attract young people",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/italian-influencer-priest-competes-on-dancing-with-the-stars/"
+      "url": "https://advaticanum.com/article/cardinal-eijk-warns-against-watering-down-catholic-doctrine-to-attract-young-people/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/24/261124a.html"
+      "title": "Audiences",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Zenari collapses during Mass but continues celebrating",
+      "title": "Bishop Erik Varden recalls being spat in the face and reflects on the Church’s abuse crisis",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-zenari-collapses-during-mass-but-continues-celebrating/"
+      "url": "https://advaticanum.com/article/bishop-erik-varden-recalls-being-spat-in-the-face-and-reflects-on-the-churchs-abuse-crisis/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Calendar of Celebrations presided over by the Holy Father Leo XIV (December 2026 – January 2027)",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/24/261124b.html"
+      "title": "Audience with members of the International Theological Commission",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -76,44 +108,12 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/natural-science-quantum-mechanics.html"
     },
     {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "St Peter’s Basilica choirmaster dies on 400th anniversary of its dedication",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/st-peters-basilica-choirmaster-dies-on-400th-anniversary-of-its-dedication/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "US bishops introduce AI restrictions in new investment guidelines",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/us-bishops-introduce-ai-restrictions-in-new-investment-guidelines/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-11-23T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/23/261123c.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "Patronal Feasts of the Schola Sainte-Cécile 2026",
       "publishedAt": "2026-11-23T21:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/patronal-feasts-of-schola-sainte-cecile.html"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with members of the Foundation for the renovation of the Barracks of the Swiss Guard",
-      "publishedAt": "2026-11-23T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/23/261123a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-25T08:40:25Z",
-    "lastSucceeded": "2026-11-25T08:40:31Z",
+    "lastFetched": "2026-11-25T19:20:04Z",
+    "lastSucceeded": "2026-11-25T19:20:11Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 4,
-      "tradition": 4
+      "official": 3,
+      "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 1,
+    "duplicatesRemoved": 2,
     "policy": {
       "target": 14,
       "hardMax": 15,
