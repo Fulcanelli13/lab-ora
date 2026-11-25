@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-24T23:54:47Z",
+  "generatedAt": "2026-11-25T08:40:31Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Tuesday of the Thirty-Fourth Week of Ordinary Time",
-    "date": "2026-11-24",
-    "url": "https://opusdei.org/en/meditation/meditations-tuesday-of-the-thirty-fourth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: placing our trust in God; Christ in the Eucharist; God also dwells in every Christian."
+    "title": "Meditations: Wednesday of the Thirty-Fourth Week of Ordinary Time",
+    "date": "2026-11-25",
+    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-thirty-fourth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: the testimony of martyrdom; martyrs in ordinary life; the fruitfulness of an apostolic life in the world."
   },
   "headlines": [
     {
@@ -63,9 +63,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments (continued)",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/21/261121d.html"
+      "title": "Calendar of Celebrations presided over by the Holy Father Leo XIV (December 2026 – January 2027)",
+      "publishedAt": "2026-11-24T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/24/261124b.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -95,9 +95,9 @@
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Promulgation of Decrees of the Dicastery for the Causes of Saints",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/21/261121c.html"
+      "title": "Audiences",
+      "publishedAt": "2026-11-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/23/261123c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,26 +108,26 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/patronal-feasts-of-schola-sainte-cecile.html"
     },
     {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audience with members of the Foundation for the renovation of the Barracks of the Swiss Guard",
+      "publishedAt": "2026-11-23T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/23/261123a.html"
+    },
+    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "New Project: Translating French Traditionalist Literature",
       "publishedAt": "2026-11-23T13:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/new-project-translating-french.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Ambrosian Vespers of the First Sunday of Advent",
-      "publishedAt": "2026-11-22T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/ambrosian-vespers-of-first-sunday-of.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-24T23:54:44Z",
-    "lastSucceeded": "2026-11-24T23:54:47Z",
+    "lastFetched": "2026-11-25T08:40:25Z",
+    "lastSucceeded": "2026-11-25T08:40:31Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -153,11 +153,11 @@
     "itemCounts": {
       "vatican": 3,
       "outside_walls": 3,
-      "official": 3,
-      "tradition": 5
+      "official": 4,
+      "tradition": 4
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 1,
     "policy": {
       "target": 14,
       "hardMax": 15,

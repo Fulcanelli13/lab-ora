@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-24T23:54:52Z",
+  "generatedAt": "2026-11-25T08:40:40Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mardi de la 34ème semaine du Temps Ordinaire",
-    "date": "2026-11-24",
-    "url": "https://opusdei.org/fr/meditation/meditation-mardi-de-la-34eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : Déposer notre confiance en Dieu ; le Christ dans l’Eucharistie ; Dieu habite chez chaque chrétien"
+    "title": "Méditation : Mercredi de la 34ème semaine du Temps Ordinaire",
+    "date": "2026-11-25",
+    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-34eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : le témoignage du martyre ; martyrs dans la vie ordinaire; la fécondité de la vie d’un apôtre au milieu du monde."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Publication du journal spirituel du pape François",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219616"
+      "title": "Espagne: Mgr Santiago Gómez Sierra a assisté à la célébration d’une messe traditionnelle",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219623"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219603"
+      "title": "Publication du journal spirituel du pape François",
+      "publishedAt": "2026-11-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219616"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Saint-Étienne: nomination d’un nouvel évêque",
+      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
       "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219599"
+      "url": "https://riposte-catholique.fr/archives/219603"
     },
     {
       "source": "Vatican News",
@@ -95,17 +95,17 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "États-Unis: un disciple du philosophe John Senior à la tête d’un comité épiscopal",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219584"
+      "title": "Saint-Étienne: nomination d’un nouvel évêque",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219599"
     },
     {
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le Parquet national antiterroriste (PNAT) classe sans suite l’enquête déclenchée contre SOS Chrétiens d’Orient",
+      "title": "États-Unis: un disciple du philosophe John Senior à la tête d’un comité épiscopal",
       "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219576"
+      "url": "https://riposte-catholique.fr/archives/219584"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-24T23:54:47Z",
-    "lastSucceeded": "2026-11-24T23:54:52Z",
+    "lastFetched": "2026-11-25T08:40:31Z",
+    "lastSucceeded": "2026-11-25T08:40:40Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
