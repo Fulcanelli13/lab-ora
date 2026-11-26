@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-25T19:20:23Z",
+  "generatedAt": "2026-11-26T03:36:07Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Mercredi de la 34ème semaine du Temps Ordinaire",
-    "date": "2026-11-25",
-    "url": "https://opusdei.org/fr/meditation/meditation-mercredi-de-la-34eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation de ce jour sont : le témoignage du martyre ; martyrs dans la vie ordinaire; la fécondité de la vie d’un apôtre au milieu du monde."
+    "title": "Méditation : Jeudi de la 34ème semaine du Temps Ordinaire",
+    "date": "2026-11-26",
+    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-34eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : notre vie est courte ; Dieu sera près de nous au terme du chemin ; l’urgence de rendre les autres heureux."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "OUI À L'UNITÉ... MAIS AUTOUR DE QUOI ?",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4543"
+      "title": "DONNEZ-NOUS LES MOYENS DE CONTINUER À OEUVRER POUR LA PAIX LITURGIQUE",
+      "publishedAt": null,
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4545"
     },
     {
       "source": "Vatican News",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-25T19:20:11Z",
-    "lastSucceeded": "2026-11-25T19:20:23Z",
+    "lastFetched": "2026-11-26T03:35:56Z",
+    "lastSucceeded": "2026-11-26T03:36:07Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

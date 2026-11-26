@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-25T19:20:11Z",
+  "generatedAt": "2026-11-26T03:35:56Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Wednesday of the Thirty-Fourth Week of Ordinary Time",
-    "date": "2026-11-25",
-    "url": "https://opusdei.org/en/meditation/meditations-wednesday-of-the-thirty-fourth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: the testimony of martyrdom; martyrs in ordinary life; the fruitfulness of an apostolic life in the world."
+    "title": "Meditations: Thursday of the Thirty-Fourth Week of Ordinary Time",
+    "date": "2026-11-26",
+    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirty-fourth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: the brevity of our lives;God will be with us at the end of the journey; the urgency of making others happy."
   },
   "headlines": [
     {
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "Pope Paul VI’s October 1965 Papal Mass in New York City, Now Online",
-      "publishedAt": "2026-11-25T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
+      "title": "A Proper Hymn of St Catherine of Alexandria",
+      "publishedAt": "2026-11-25T21:10:16.321000Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/a-proper-hymn-of-st-catherine-of.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Bamberg Apocalypse (Part 1)",
-      "publishedAt": "2026-11-24T21:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-1.html"
+      "title": "Pope Paul VI’s October 1965 Papal Mass in New York City, Now Online",
+      "publishedAt": "2026-11-25T13:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -103,6 +103,14 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
+      "title": "The Bamberg Apocalypse (Part 1)",
+      "publishedAt": "2026-11-24T21:45:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-1.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
       "title": "Natural Science, Quantum Mechanics, Beauty, and the Mind of God",
       "publishedAt": "2026-11-24T13:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/09/natural-science-quantum-mechanics.html"
@@ -114,20 +122,12 @@
       "title": "Patronal Feasts of the Schola Sainte-Cécile 2026",
       "publishedAt": "2026-11-23T21:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/patronal-feasts-of-schola-sainte-cecile.html"
-    },
-    {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "New Project: Translating French Traditionalist Literature",
-      "publishedAt": "2026-11-23T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/new-project-translating-french.html"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-25T19:20:04Z",
-    "lastSucceeded": "2026-11-25T19:20:11Z",
+    "lastFetched": "2026-11-26T03:35:53Z",
+    "lastSucceeded": "2026-11-26T03:35:56Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
