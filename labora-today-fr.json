@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:36:07Z",
+  "generatedAt": "2026-11-26T16:57:46Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV appelle lors de l’audience générale les chrétiens à construire la paix",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/audience-generale-leon-xiv-chretiens-construire-la-paix.html"
+      "title": "Le Pape exhorte les supérieurs religieux à «servir avec charité» pour favoriser l'unité",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-invite-religieux-monde-entier-servir-paix-desarmee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -40,16 +40,16 @@
       "lane": "tradition",
       "language": "fr",
       "title": "DONNEZ-NOUS LES MOYENS DE CONTINUER À OEUVRER POUR LA PAIX LITURGIQUE",
-      "publishedAt": null,
+      "publishedAt": "2026-11-26T12:00:00Z",
       "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4545"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV plaide pour une nouvelle phase d'inculturation de la foi",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-commission-theologique-internationale.html"
+      "title": "Le développement humain intégral, indissociable de l’évangélisation selon le Pape",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-dicastere-developpement-humain-integral-assemblee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape déplore l’absence d’engagements concrets à l’issue de la COP31",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-cop-31-climat-turquie-appel-audience-generale.html"
+      "title": "Le dialogue interreligieux est source d’espérance dans un monde en crise",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-dicastere-dialogue-interreligieux-vatican.html"
     },
     {
       "source": "Riposte Catholique",
@@ -100,14 +100,6 @@
       "url": "https://riposte-catholique.fr/archives/219599"
     },
     {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "États-Unis: un disciple du philosophe John Senior à la tête d’un comité épiscopal",
-      "publishedAt": "2026-11-19T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219584"
-    },
-    {
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
@@ -122,12 +114,20 @@
       "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Le Pape réforme la pastorale des prisons, créant un nouveau réseau mondial",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/motu-proprio-pape-leon-pastorale-carcerale.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-26T03:35:56Z",
-    "lastSucceeded": "2026-11-26T03:36:07Z",
+    "lastFetched": "2026-11-26T16:57:41Z",
+    "lastSucceeded": "2026-11-26T16:57:46Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
-      "outside_walls": 5,
+      "vatican": 4,
+      "outside_walls": 4,
       "official": 5,
       "tradition": 1
     },

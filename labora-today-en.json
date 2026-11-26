@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:35:56Z",
+  "generatedAt": "2026-11-26T16:57:41Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -15,6 +15,38 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
+      "title": "Pope Leo XIV makes two Vatican appointments and reforms Church’s prison ministry",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-makes-two-vatican-appointments-and-reforms-churchs-prison-ministry/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Archdiocese of New York mortgages parish properties to secure $160 million in loans",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/archdiocese-of-new-york-mortgages-parish-properties-to-secure-160-million-in-loans/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/26/261126d.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "An Excellent New Resource for the Dominican Rite",
+      "publishedAt": "2026-11-26T14:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/an-excellent-new-resource-for-dominican.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
       "title": "Pope Francis’s private diary reveals encounters with the devil and a profound spiritual crisis",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/pope-franciss-private-diary-reveals-encounters-with-the-devil-and-a-profound-spiritual-crisis/"
@@ -23,17 +55,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Argentine diocese rebukes priest over same-sex wedding-style blessing",
+      "title": "England’s most senior archbishop hospitalised before Ann Widdecombe memorial service",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/argentine-diocese-rebukes-priest-over-same-sex-wedding-style-blessing/"
+      "url": "https://advaticanum.com/article/englands-most-senior-catholic-archbishop-hospitalised-before-ann-widdecombe-memorial-service/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125d.html"
+      "title": "Audiences",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/26/261126c.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -55,17 +87,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Cardinal Eijk warns against watering down Catholic doctrine to attract young people",
+      "title": "Cardinal Tobin thanks faithful for prayers during recovery in Thanksgiving message",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-eijk-warns-against-watering-down-catholic-doctrine-to-attract-young-people/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125c.html"
+      "url": "https://advaticanum.com/article/cardinal-tobin-thanks-faithful-for-prayers-during-recovery-in-thanksgiving-message/"
     },
     {
       "source": "New Liturgical Movement",
@@ -74,30 +98,6 @@
       "title": "Pope Paul VI’s October 1965 Papal Mass in New York City, Now Online",
       "publishedAt": "2026-11-25T13:00:00Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "Pope Leo XIV thanks researchers behind major study finding Traditional Latin Mass Catholics largely accept Vatican II",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-leo-xiv-thanks-researchers-behind-major-study-finding-traditional-latin-mass-catholics-largely-accept-vatican-ii/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Bishop Erik Varden recalls being spat in the face and reflects on the Church’s abuse crisis",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/bishop-erik-varden-recalls-being-spat-in-the-face-and-reflects-on-the-churchs-abuse-crisis/"
-    },
-    {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audience with members of the International Theological Commission",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/25/261125a.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -116,18 +116,18 @@
       "url": "https://www.newliturgicalmovement.org/2026/09/natural-science-quantum-mechanics.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
       "language": "en",
-      "title": "Patronal Feasts of the Schola Sainte-Cécile 2026",
-      "publishedAt": "2026-11-23T21:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/patronal-feasts-of-schola-sainte-cecile.html"
+      "title": "Pope Leo XIV thanks researchers behind major study finding Traditional Latin Mass Catholics largely accept Vatican II",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-leo-xiv-thanks-researchers-behind-major-study-finding-traditional-latin-mass-catholics-largely-accept-vatican-ii/"
     }
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-26T03:35:53Z",
-    "lastSucceeded": "2026-11-26T03:35:56Z",
+    "lastFetched": "2026-11-26T16:57:39Z",
+    "lastSucceeded": "2026-11-26T16:57:41Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,13 +151,13 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 3,
-      "official": 3,
+      "official": 2,
       "tradition": 5
     },
     "discardedMalformed": 0,
-    "duplicatesRemoved": 2,
+    "duplicatesRemoved": 3,
     "policy": {
       "target": 14,
       "hardMax": 15,
