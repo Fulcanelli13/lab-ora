@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:29:59Z",
+  "generatedAt": "2026-11-27T23:29:13Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: Le sport, une voie de formation humaine et chrétienne",
+      "title": "À Sant’Andrea delle Fratte, le Pape, évêque de Rome et pasteur de l'Église universelle",
       "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-le-sport-une-voie-de-formation-humaine-et-chretienne.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-paroisse-rome-homelie-conversion-vierge.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape exhorte les supérieurs religieux à «servir avec charité» pour favoriser l'unité",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-invite-religieux-monde-entier-servir-paix-desarmee.html"
+      "title": "Léon XIV: Le sport, une voie de formation humaine et chrétienne",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-le-sport-une-voie-de-formation-humaine-et-chretienne.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,17 +63,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Sortie de la nouvelle bande-annonce du documentaire «Green Lava»",
+      "title": "L'archevêque de Buenos Aires: «La présence de l’Église dans les prisons est prophétique»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/bande-annonce-documentaire-green-lava-musique-de.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/presence-eglise-prisons-prophetique-coordinateur-pastorale.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le développement humain intégral, indissociable de l’évangélisation selon le Pape",
+      "title": "Le Pape exhorte les supérieurs religieux à «servir avec charité» pour favoriser l'unité",
       "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-dicastere-developpement-humain-integral-assemblee.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-invite-religieux-monde-entier-servir-paix-desarmee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -87,9 +87,9 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme une véritable Famille de Dieu",
+      "title": "Sortie de la nouvelle bande-annonce du documentaire «Green Lava»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/bande-annonce-documentaire-green-lava-musique-de.html"
     },
     {
       "source": "Riposte Catholique",
@@ -111,23 +111,23 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Saint-Siège: «Aucun algorithme ne peut rendre la guerre moralement acceptable»",
+      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme une véritable Famille de Dieu",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/saint-siege-onu-ia-technologie-guerre-armes-autonomes.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
     },
     {
       "source": "Vatican News",
-      "lane": "official",
+      "lane": "vatican",
       "language": "fr",
-      "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
+      "title": "Le Pape prie pour les victimes d'un drame de la route au Caire",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-telegramme-accident-egypte.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-27T12:29:55Z",
-    "lastSucceeded": "2026-11-27T12:29:59Z",
+    "lastFetched": "2026-11-27T23:29:08Z",
+    "lastSucceeded": "2026-11-27T23:29:13Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,9 +151,9 @@
       }
     },
     "itemCounts": {
-      "vatican": 3,
+      "vatican": 4,
       "outside_walls": 5,
-      "official": 5,
+      "official": 4,
       "tradition": 1
     },
     "discardedMalformed": 0,

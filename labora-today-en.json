@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:29:55Z",
+  "generatedAt": "2026-11-27T23:29:08Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,9 +23,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Italian Church releases long-awaited abuse report but 28 dioceses fail to participate",
+      "title": "Vatican appoints three commissioners to oversee Heralds of the Gospel",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/italian-church-releases-long-awaited-abuse-report-but-28-dioceses-fail-to-participate/"
+      "url": "https://advaticanum.com/article/vatican-appoints-three-commissioners-to-oversee-heralds-of-the-gospel/"
     },
     {
       "source": "Holy See Press Office",
@@ -39,9 +39,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The End and the Beginning of the Church Year: Interlocking Clasps in the Hidden Season",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-end-and-beginning-of-church-year.html"
+      "title": "The Bamberg Apocalypse (Part 2)",
+      "publishedAt": "2026-11-27T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-2.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,9 +55,9 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archdiocese of New York mortgages parish properties to secure $160 million in loans",
+      "title": "Italian Church releases long-awaited abuse report but 28 dioceses fail to participate",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archdiocese-of-new-york-mortgages-parish-properties-to-secure-160-million-in-loans/"
+      "url": "https://advaticanum.com/article/italian-church-releases-long-awaited-abuse-report-but-28-dioceses-fail-to-participate/"
     },
     {
       "source": "Holy See Press Office",
@@ -71,9 +71,9 @@
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "An Excellent New Resource for the Dominican Rite",
-      "publishedAt": "2026-11-26T14:15:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/an-excellent-new-resource-for-dominican.html"
+      "title": "The End and the Beginning of the Church Year: Interlocking Clasps in the Hidden Season",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-end-and-beginning-of-church-year.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "England’s most senior archbishop hospitalised before Ann Widdecombe memorial service",
+      "title": "Archdiocese of New York mortgages parish properties to secure $160 million in loans",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/englands-most-senior-catholic-archbishop-hospitalised-before-ann-widdecombe-memorial-service/"
+      "url": "https://advaticanum.com/article/archdiocese-of-new-york-mortgages-parish-properties-to-secure-160-million-in-loans/"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "An Excellent New Resource for the Dominican Rite",
+      "publishedAt": "2026-11-26T14:15:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/an-excellent-new-resource-for-dominican.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "The Bamberg Apocalypse (Part 1)",
-      "publishedAt": "2026-11-24T21:45:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-1.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-27T12:29:53Z",
-    "lastSucceeded": "2026-11-27T12:29:55Z",
+    "lastFetched": "2026-11-27T23:29:05Z",
+    "lastSucceeded": "2026-11-27T23:29:08Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
