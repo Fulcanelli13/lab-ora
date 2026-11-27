@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:45:37Z",
+  "generatedAt": "2026-11-27T12:29:55Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -18,6 +18,38 @@
       "title": "Pope Leo XIV makes two Vatican appointments and reforms Church’s prison ministry",
       "publishedAt": null,
       "url": "https://advaticanum.com/article/pope-leo-xiv-makes-two-vatican-appointments-and-reforms-churchs-prison-ministry/"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "outside_walls",
+      "language": "en",
+      "title": "Italian Church releases long-awaited abuse report but 28 dioceses fail to participate",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/italian-church-releases-long-awaited-abuse-report-but-28-dioceses-fail-to-participate/"
+    },
+    {
+      "source": "Holy See Press Office",
+      "lane": "official",
+      "language": "en",
+      "title": "Audiences",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/27/261127b.html"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The End and the Beginning of the Church Year: Interlocking Clasps in the Hidden Season",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-end-and-beginning-of-church-year.html"
+    },
+    {
+      "source": "Ad Vaticanum",
+      "lane": "vatican",
+      "language": "en",
+      "title": "Pope Francis’s private diary reveals encounters with the devil and a profound spiritual crisis",
+      "publishedAt": null,
+      "url": "https://advaticanum.com/article/pope-franciss-private-diary-reveals-encounters-with-the-devil-and-a-profound-spiritual-crisis/"
     },
     {
       "source": "Ad Vaticanum",
@@ -47,9 +79,9 @@
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
-      "title": "Pope Francis’s private diary reveals encounters with the devil and a profound spiritual crisis",
+      "title": "‘No one is excluded’: Papal Almoner on traditional Catholics and Pope Leo’s charitable priorities",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/pope-franciss-private-diary-reveals-encounters-with-the-devil-and-a-profound-spiritual-crisis/"
+      "url": "https://advaticanum.com/article/no-one-is-excluded-papal-almoner-on-traditional-catholics-and-pope-leos-charitable-priorities/"
     },
     {
       "source": "Ad Vaticanum",
@@ -60,36 +92,12 @@
       "url": "https://advaticanum.com/article/englands-most-senior-catholic-archbishop-hospitalised-before-ann-widdecombe-memorial-service/"
     },
     {
-      "source": "Holy See Press Office",
-      "lane": "official",
-      "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/26/261126c.html"
-    },
-    {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
       "title": "A Proper Hymn of St Catherine of Alexandria",
       "publishedAt": "2026-11-25T21:10:16.321000Z",
       "url": "https://www.newliturgicalmovement.org/2026/11/a-proper-hymn-of-st-catherine-of.html"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "vatican",
-      "language": "en",
-      "title": "‘No one is excluded’: Papal Almoner on traditional Catholics and Pope Leo’s charitable priorities",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/no-one-is-excluded-papal-almoner-on-traditional-catholics-and-pope-leos-charitable-priorities/"
-    },
-    {
-      "source": "Ad Vaticanum",
-      "lane": "outside_walls",
-      "language": "en",
-      "title": "Cardinal Tobin thanks faithful for prayers during recovery in Thanksgiving message",
-      "publishedAt": null,
-      "url": "https://advaticanum.com/article/cardinal-tobin-thanks-faithful-for-prayers-during-recovery-in-thanksgiving-message/"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-1.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Natural Science, Quantum Mechanics, Beauty, and the Mind of God",
-      "publishedAt": "2026-11-24T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/09/natural-science-quantum-mechanics.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-27T01:45:34Z",
-    "lastSucceeded": "2026-11-27T01:45:37Z",
+    "lastFetched": "2026-11-27T12:29:53Z",
+    "lastSucceeded": "2026-11-27T12:29:55Z",
     "adapters": {
       "opus_dei": {
         "ok": true,

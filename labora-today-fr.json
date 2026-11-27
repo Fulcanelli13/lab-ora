@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:45:48Z",
+  "generatedAt": "2026-11-27T12:29:59Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le Pape exhorte les supérieurs religieux à «servir avec charité» pour favoriser l'unité",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-invite-religieux-monde-entier-servir-paix-desarmee.html"
+      "title": "Léon XIV: Le sport, une voie de formation humaine et chrétienne",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-le-sport-une-voie-de-formation-humaine-et-chretienne.html"
     },
     {
       "source": "Riposte Catholique",
@@ -47,9 +47,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le développement humain intégral, indissociable de l’évangélisation selon le Pape",
+      "title": "Le Pape exhorte les supérieurs religieux à «servir avec charité» pour favoriser l'unité",
       "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-dicastere-developpement-humain-integral-assemblee.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-invite-religieux-monde-entier-servir-paix-desarmee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -71,9 +71,9 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Le dialogue interreligieux est source d’espérance dans un monde en crise",
+      "title": "Le développement humain intégral, indissociable de l’évangélisation selon le Pape",
       "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-dicastere-dialogue-interreligieux-vatican.html"
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-dicastere-developpement-humain-integral-assemblee.html"
     },
     {
       "source": "Riposte Catholique",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-27T01:45:38Z",
-    "lastSucceeded": "2026-11-27T01:45:48Z",
+    "lastFetched": "2026-11-27T12:29:55Z",
+    "lastSucceeded": "2026-11-27T12:29:59Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
