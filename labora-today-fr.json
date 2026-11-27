@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T16:57:46Z",
+  "generatedAt": "2026-11-27T01:45:48Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditation : Jeudi de la 34ème semaine du Temps Ordinaire",
-    "date": "2026-11-26",
-    "url": "https://opusdei.org/fr/meditation/meditation-jeudi-de-la-34eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes proposés pour la méditation du jour sont : notre vie est courte ; Dieu sera près de nous au terme du chemin ; l’urgence de rendre les autres heureux."
+    "title": "Méditations : Vendredi de la 34ème semaine du Temps Ordinaire",
+    "date": "2026-11-27",
+    "url": "https://opusdei.org/fr/meditation/meditations-vendredi-de-la-34eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes prévus pour la méditation du jour sont : les paroles de Jésus nous transforment ; la Sainte Écriture : proximité de Dieu qui nous rapproche des autres ; l’Évangile est toujours nouveau."
   },
   "headlines": [
     {
@@ -23,9 +23,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Espagne: Mgr Santiago Gómez Sierra a assisté à la célébration d’une messe traditionnelle",
-      "publishedAt": "2026-11-25T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219623"
+      "title": "Rome: le cardinal Müller célèbre la messe traditionnelle",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219634"
     },
     {
       "source": "Vatican News",
@@ -39,9 +39,9 @@
       "source": "Paix Liturgique",
       "lane": "tradition",
       "language": "fr",
-      "title": "DONNEZ-NOUS LES MOYENS DE CONTINUER À OEUVRER POUR LA PAIX LITURGIQUE",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4545"
+      "title": "LA RÉFORME LITURGIQUE COMME SABOTAGE DU CULTE DIVIN. EXTRAITS REMARQUABLES DE L'OUVRAGE DE L'ARCHIMANDRITE BONIFACE LUYKS",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4541"
     },
     {
       "source": "Vatican News",
@@ -55,9 +55,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Publication du journal spirituel du pape François",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219616"
+      "title": "Espagne: Mgr Santiago Gómez Sierra a assisté à la célébration d’une messe traditionnelle",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219623"
     },
     {
       "source": "Vatican News",
@@ -79,9 +79,9 @@
       "source": "Riposte Catholique",
       "lane": "outside_walls",
       "language": "fr",
-      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219603"
+      "title": "Publication du journal spirituel du pape François",
+      "publishedAt": "2026-11-24T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219616"
     },
     {
       "source": "Vatican News",
@@ -90,6 +90,14 @@
       "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme une véritable Famille de Dieu",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219603"
     },
     {
       "source": "Riposte Catholique",
@@ -114,20 +122,12 @@
       "title": "«En Terre Sainte, l'Église apporte l'espérance là où la politique ne parvient pas»",
       "publishedAt": null,
       "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-pizzaballa-terre-sainte-eglise-palestine-entretien.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape réforme la pastorale des prisons, créant un nouveau réseau mondial",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/motu-proprio-pape-leon-pastorale-carcerale.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-26T16:57:41Z",
-    "lastSucceeded": "2026-11-26T16:57:46Z",
+    "lastFetched": "2026-11-27T01:45:38Z",
+    "lastSucceeded": "2026-11-27T01:45:48Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,8 +151,8 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
-      "outside_walls": 4,
+      "vatican": 3,
+      "outside_walls": 5,
       "official": 5,
       "tradition": 1
     },

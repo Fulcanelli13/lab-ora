@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T16:57:41Z",
+  "generatedAt": "2026-11-27T01:45:37Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "en",
-    "title": "Meditations: Thursday of the Thirty-Fourth Week of Ordinary Time",
-    "date": "2026-11-26",
-    "url": "https://opusdei.org/en/meditation/meditations-thursday-of-the-thirty-fourth-week-of-ordinary-time/",
-    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: the brevity of our lives;God will be with us at the end of the journey; the urgency of making others happy."
+    "title": "Meditations: Friday of the Thirty-Fourth Week of Ordinary Time",
+    "date": "2026-11-27",
+    "url": "https://opusdei.org/en/meditation/meditations-friday-of-the-thirty-fourth-week-of-ordinary-time/",
+    "subtitle": "Some reflections that can assist our prayer during the thirty-fourth week of Ordinary Time. The topics are: Jesus' words change us; Sacred Scripture; the Gospel is always new."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-26T16:57:39Z",
-    "lastSucceeded": "2026-11-26T16:57:41Z",
+    "lastFetched": "2026-11-27T01:45:34Z",
+    "lastSucceeded": "2026-11-27T01:45:37Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
