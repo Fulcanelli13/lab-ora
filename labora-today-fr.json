@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-27T23:29:13Z",
+  "generatedAt": "2026-11-28T07:54:45Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
     "lane": "meditation",
     "language": "fr",
-    "title": "Méditations : Vendredi de la 34ème semaine du Temps Ordinaire",
-    "date": "2026-11-27",
-    "url": "https://opusdei.org/fr/meditation/meditations-vendredi-de-la-34eme-semaine-du-temps-ordinaire/",
-    "subtitle": "Les thèmes prévus pour la méditation du jour sont : les paroles de Jésus nous transforment ; la Sainte Écriture : proximité de Dieu qui nous rapproche des autres ; l’Évangile est toujours nouveau."
+    "title": "Méditation : Samedi de la 34ème semaine du Temps Ordinaire",
+    "date": "2026-11-28",
+    "url": "https://opusdei.org/fr/meditation/samedi-de-la-34eme-semaine-du-temps-ordinaire/",
+    "subtitle": "Les thèmes proposés pour la méditation du jour sont : une saine vigilance ; la liberté qui découle des vertus ; les vertus nous unissent aux autres."
   },
   "headlines": [
     {
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-27T23:29:08Z",
-    "lastSucceeded": "2026-11-27T23:29:13Z",
+    "lastFetched": "2026-11-28T07:54:39Z",
+    "lastSucceeded": "2026-11-28T07:54:45Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
