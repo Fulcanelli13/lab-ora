@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:54:45Z",
+  "generatedAt": "2026-11-28T17:35:32Z",
   "language": "fr",
   "meditation": {
     "source": "Opus Dei",
@@ -15,9 +15,33 @@
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "À Sant’Andrea delle Fratte, le Pape, évêque de Rome et pasteur de l'Église universelle",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-paroisse-rome-homelie-conversion-vierge.html"
+      "title": "Des responsables pentecôtistes reçus au Vatican par Léon XIV",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/vatican-responsables-pentecotistes-pape-leon-xiv-audience.html"
+    },
+    {
+      "source": "Riposte Catholique",
+      "lane": "outside_walls",
+      "language": "fr",
+      "title": "Il parle du diable avec le pape François pour être ensuite créé cardinal",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://riposte-catholique.fr/archives/219641"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "official",
+      "language": "fr",
+      "title": "En Terre Sainte, le cardinal Gugerotti s'entretient avec le curé de Gaza",
+      "publishedAt": null,
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-gugerotti-eglise-de-gaza-tragedie-humanitaire.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "Léon XIV à la marine italienne : construisez la paix en œuvrant pour le bien commun",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-xiv-audience-discours-corps-commissariat-militaire.html"
     },
     {
       "source": "Riposte Catholique",
@@ -31,25 +55,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "En Terre Sainte, le cardinal Gugerotti s'entretient avec le curé de Gaza",
+      "title": "Onze martyrs béatifiés à Madrid par le cardinal Semeraro",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/cardinal-gugerotti-eglise-de-gaza-tragedie-humanitaire.html"
-    },
-    {
-      "source": "Paix Liturgique",
-      "lane": "tradition",
-      "language": "fr",
-      "title": "LA RÉFORME LITURGIQUE COMME SABOTAGE DU CULTE DIVIN. EXTRAITS REMARQUABLES DE L'OUVRAGE DE L'ARCHIMANDRITE BONIFACE LUYKS",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "http://www.paixliturgique.fr/aff_lettre.asp?LET_N_ID=4541"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/beatification-martyrs-espagne-saints-semeraro.html"
     },
     {
       "source": "Vatican News",
       "lane": "vatican",
       "language": "fr",
-      "title": "Léon XIV: Le sport, une voie de formation humaine et chrétienne",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/leon-xiv-le-sport-une-voie-de-formation-humaine-et-chretienne.html"
+      "title": "Le Pape encourage à la quête de la Vérité qui unit les traditions religieuses",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-unite-dialogue-interreligieux-saint-augustin-verite.html"
     },
     {
       "source": "Riposte Catholique",
@@ -63,9 +79,17 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "L'archevêque de Buenos Aires: «La présence de l’Église dans les prisons est prophétique»",
+      "title": "Le Saint-Siège enjoint à fonder les télécommunications sur l'équité et le bien commun",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/presence-eglise-prisons-prophetique-coordinateur-pastorale.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/saint-siege-ia-conference-telecommunications-doha.html"
+    },
+    {
+      "source": "Vatican News",
+      "lane": "vatican",
+      "language": "fr",
+      "title": "À Sant’Andrea delle Fratte, le Pape, évêque de Rome et pasteur de l'Église universelle",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/messe-pape-paroisse-rome-homelie-conversion-vierge.html"
     },
     {
       "source": "Vatican News",
@@ -87,47 +111,15 @@
       "source": "Vatican News",
       "lane": "official",
       "language": "fr",
-      "title": "Sortie de la nouvelle bande-annonce du documentaire «Green Lava»",
+      "title": "L'archevêque de Buenos Aires: «La présence de l’Église dans les prisons est prophétique»",
       "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/bande-annonce-documentaire-green-lava-musique-de.html"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Le père Serge-Thomas Bonino nommé théologien de la Maison pontificale",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219603"
-    },
-    {
-      "source": "Riposte Catholique",
-      "lane": "outside_walls",
-      "language": "fr",
-      "title": "Saint-Étienne: nomination d’un nouvel évêque",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://riposte-catholique.fr/archives/219599"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "official",
-      "language": "fr",
-      "title": "Le cardinal Turkson exhorte les catholiques africains à vivre comme une véritable Famille de Dieu",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/le-cardinal-turkson-exhorte-les-catholiques-africains-a-vivre-co.html"
-    },
-    {
-      "source": "Vatican News",
-      "lane": "vatican",
-      "language": "fr",
-      "title": "Le Pape prie pour les victimes d'un drame de la route au Caire",
-      "publishedAt": null,
-      "url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-leon-telegramme-accident-egypte.html"
+      "url": "https://www.vaticannews.va/fr/vatican/news/2026-11/presence-eglise-prisons-prophetique-coordinateur-pastorale.html"
     }
   ],
   "_diagnostics": {
     "language": "fr",
-    "lastFetched": "2026-11-28T07:54:39Z",
-    "lastSucceeded": "2026-11-28T07:54:45Z",
+    "lastFetched": "2026-11-28T17:35:26Z",
+    "lastSucceeded": "2026-11-28T17:35:32Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
@@ -151,10 +143,10 @@
       }
     },
     "itemCounts": {
-      "vatican": 4,
-      "outside_walls": 5,
+      "vatican": 5,
+      "outside_walls": 4,
       "official": 4,
-      "tradition": 1
+      "tradition": 0
     },
     "discardedMalformed": 0,
     "duplicatesRemoved": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:54:39Z",
+  "generatedAt": "2026-11-28T17:35:26Z",
   "language": "en",
   "meditation": {
     "source": "Opus Dei",
@@ -23,25 +23,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Vatican appoints three commissioners to oversee Heralds of the Gospel",
+      "title": "Papal nuncio to Germany reminds Catholic leaders that synodality means listening to God",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/vatican-appoints-three-commissioners-to-oversee-heralds-of-the-gospel/"
+      "url": "https://advaticanum.com/article/papal-nuncio-to-germany-reminds-catholic-leaders-that-synodality-means-listening-to-god/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Audiences",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/27/261127b.html"
+      "title": "Resignations and Appointments",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/28/261128c.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The Bamberg Apocalypse (Part 2)",
-      "publishedAt": "2026-11-27T20:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-2.html"
+      "title": "The Byzantine Golden Legend",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-byzantine-golden-legend.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -55,25 +55,25 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Italian Church releases long-awaited abuse report but 28 dioceses fail to participate",
+      "title": "Vatican appoints three commissioners to oversee Heralds of the Gospel",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/italian-church-releases-long-awaited-abuse-report-but-28-dioceses-fail-to-participate/"
+      "url": "https://advaticanum.com/article/vatican-appoints-three-commissioners-to-oversee-heralds-of-the-gospel/"
     },
     {
       "source": "Holy See Press Office",
       "lane": "official",
       "language": "en",
-      "title": "Resignations and Appointments",
-      "publishedAt": "2026-11-26T12:00:00Z",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/26/261126d.html"
+      "title": "Audiences",
+      "publishedAt": "2026-11-28T12:00:00Z",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/28/261128a.html"
     },
     {
       "source": "New Liturgical Movement",
       "lane": "tradition",
       "language": "en",
-      "title": "The End and the Beginning of the Church Year: Interlocking Clasps in the Hidden Season",
-      "publishedAt": "2026-11-27T12:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/the-end-and-beginning-of-church-year.html"
+      "title": "The Bamberg Apocalypse (Part 2)",
+      "publishedAt": "2026-11-27T20:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-bamberg-apocalypse-part-2.html"
     },
     {
       "source": "Ad Vaticanum",
@@ -87,9 +87,17 @@
       "source": "Ad Vaticanum",
       "lane": "outside_walls",
       "language": "en",
-      "title": "Archdiocese of New York mortgages parish properties to secure $160 million in loans",
+      "title": "Italian Church releases long-awaited abuse report but 28 dioceses fail to participate",
       "publishedAt": null,
-      "url": "https://advaticanum.com/article/archdiocese-of-new-york-mortgages-parish-properties-to-secure-160-million-in-loans/"
+      "url": "https://advaticanum.com/article/italian-church-releases-long-awaited-abuse-report-but-28-dioceses-fail-to-participate/"
+    },
+    {
+      "source": "New Liturgical Movement",
+      "lane": "tradition",
+      "language": "en",
+      "title": "The End and the Beginning of the Church Year: Interlocking Clasps in the Hidden Season",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "url": "https://www.newliturgicalmovement.org/2026/11/the-end-and-beginning-of-church-year.html"
     },
     {
       "source": "New Liturgical Movement",
@@ -108,14 +116,6 @@
       "url": "https://www.newliturgicalmovement.org/2026/11/a-proper-hymn-of-st-catherine-of.html"
     },
     {
-      "source": "New Liturgical Movement",
-      "lane": "tradition",
-      "language": "en",
-      "title": "Pope Paul VI’s October 1965 Papal Mass in New York City, Now Online",
-      "publishedAt": "2026-11-25T13:00:00Z",
-      "url": "https://www.newliturgicalmovement.org/2026/11/pope-paul-vis-october-1965-papal-mass.html"
-    },
-    {
       "source": "Ad Vaticanum",
       "lane": "vatican",
       "language": "en",
@@ -126,8 +126,8 @@
   ],
   "_diagnostics": {
     "language": "en",
-    "lastFetched": "2026-11-28T07:54:36Z",
-    "lastSucceeded": "2026-11-28T07:54:39Z",
+    "lastFetched": "2026-11-28T17:35:23Z",
+    "lastSucceeded": "2026-11-28T17:35:26Z",
     "adapters": {
       "opus_dei": {
         "ok": true,
